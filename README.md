@@ -1,16 +1,16 @@
 main.py README
 
 How to run:
-1) training set structure should look like:
-   
-external-detection-corpus-training/
-├── source-document/
-│   ├── part1/
-│       ├── source-documentXXXXXX.txt (many more)
-├── suspicious-document/
-│   ├── part1/
-│       ├── suspicious-documentXXXXXX.txt (many more)
-
+1) training set structure should look like: <br />
+   <br />
+external-detection-corpus-training/ <br />
+├── source-document/ <br />
+│   ├── part1/ <br />
+│       ├── source-documentXXXXXX.txt (many more) <br />
+├── suspicious-document/ <br />
+│   ├── part1/ <br />
+│       ├── suspicious-documentXXXXXX.txt (many more) <br />
+<br />
 2) change params 
 MODEL = 'trigram'  # Choose 'unigram', 'bigram', or 'trigram'
 MEASURE = 'cosine'  # Choose 'cosine' or 'jaccard'
