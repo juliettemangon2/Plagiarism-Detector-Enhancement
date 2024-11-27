@@ -11,13 +11,13 @@ external-detection-corpus-training/ <br />
 │   ├── part1/ <br />
 │       ├── suspicious-documentXXXXXX.txt (many more) <br />
 <br />
-2) change params 
-MODEL = 'trigram'  # Choose 'unigram', 'bigram', or 'trigram'
-MEASURE = 'cosine'  # Choose 'cosine' or 'jaccard'
-DATASET = '/Users/walkertupman/Downloads/external-detection-corpus-training'
-SOURCE_FOLDER = os.path.join(DATASET, 'source-document/part1')
-SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document/part1')
-
-^ example
-
-3) run main.py
+2) change params <br />
+MODEL = 'trigram'  # Choose 'unigram', 'bigram', or 'trigram' <br />
+MEASURE = 'cosine'  # Choose 'cosine' or 'jaccard' <br />
+DATASET = '/Users/walkertupman/Downloads/external-detection-corpus-training' <br />
+SOURCE_FOLDER = os.path.join(DATASET, 'source-document/part1') <br />
+SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document/part1') <br />
+<br />
+^ example <br />
+<br />
+3) run main.py <br />
