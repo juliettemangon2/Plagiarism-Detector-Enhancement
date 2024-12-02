@@ -139,7 +139,8 @@ if __name__ == "__main__":
                     similarity = cosine_similarity(s_vec, src_vec)
                 elif MEASURE == 'jaccard':
                     similarity = jaccard_similarity(s_vec, src_vec)
-                out.write(f"Suspicious doc {i}, Source doc {j}, Similarity: {similarity:.4f}\n")
+                if similarity > 0.0:
+                    out.write(f"Suspicious doc {i}, Source doc {j}, Similarity: {similarity:.4f}\n")
                 if (i * len(source_vectors) + j) % 10 == 0:
                     print(f"Processed comparison {i * len(source_vectors) + j}")
     print(f"Processing complete. Results written to {output_file}.")
