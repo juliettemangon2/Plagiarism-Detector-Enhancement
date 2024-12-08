@@ -1,25 +1,23 @@
+from __future__ import division
 import multiprocessing
 import re
 import nltk
-
-from __future__ import division
 import os
 import numpy as np
 from math import log10, sqrt
 from nltk.util import ngrams
 from nltk.corpus import stopwords
 from string import punctuation
-import nltk
 
 # Download stopwords if not already available
 nltk.download('stopwords')
 
-# Absolute paths
+# Paths relative to the current script directory
 MODEL = 'trigram'  # Choose 'unigram', 'bigram', or 'trigram'
 MEASURE = 'cosine'  # Choose 'cosine' or 'jaccard'
-DATASET = '/Users/walkertupman/Downloads/external-detection-corpus-training'
-SOURCE_FOLDER = os.path.join(DATASET, 'source-document/part1')
-SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document/part1')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SOURCE_FOLDER = os.path.join(BASE_DIR, 'external-detection-corpus-training', 'source-document')
+SUSPICIOUS_FOLDER = os.path.join(BASE_DIR, 'external-detection-corpus-training', 'suspicious-document')
 
 # Debugging paths
 print("Source folder:", SOURCE_FOLDER)
@@ -30,7 +28,7 @@ def get_text_files(folder):
     if not os.path.exists(folder):
         print(f"Folder not found: {folder}")
         return []
-    return [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith('.txt')]
+    return [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith('.txt') and os.path.isfile(os.path.join(folder, f))]
 
 # Remove punctuations from text
 def remove_punctuation(text):
@@ -44,27 +42,24 @@ def extract_ngrams(text, n=1):
     return [' '.join(gram) for gram in ngrams_list]
 
 # Preprocess documents into sets of words or n-grams
-def preprocess_documents(files, model='unigram'):
-    preprocessed_documents = []
-    for i, file in enumerate(files):
-        with open(file, 'r', encoding='utf-8') as f:
-            text = remove_punctuation(f.read().lower())
-            if model == 'bigram':
-                doc_ngrams = set(extract_ngrams(text, 2))
-            elif model == 'trigram':
-                doc_ngrams = set(extract_ngrams(text, 3))
-            else:
-                doc_ngrams = set(text.split())
-            preprocessed_documents.append(doc_ngrams)
-        if i % 10 == 0:
-            print(f"Preprocessed {i}/{len(files)} documents.")
-    return preprocessed_documents
+def preprocess_documents(file, model='unigram'):
+    with open(file, 'r', encoding='utf-8') as f:
+        text = remove_punctuation(f.read().lower())
+        if model == 'bigram':
+            doc_ngrams = set(extract_ngrams(text, 2))
+        elif model == 'trigram':
+            doc_ngrams = set(extract_ngrams(text, 3))
+        else:
+            doc_ngrams = set(text.split())
+    return doc_ngrams
 
-#multiprocess documents
+# Multiprocess documents
 def preprocess_documents_multi(files, model='unigram'):
+    print("Files to be processed:", files)  # Debugging
     with multiprocessing.Pool() as pool:
-        preprocessed_docs=pool.map(preprocess_documents, files)
+        preprocessed_docs = pool.starmap(preprocess_documents, [(file, model) for file in files])
     return preprocessed_docs
+
 # Compute Document Frequencies (DF)
 def compute_dfs_optimized(unique_words, preprocessed_documents):
     dfs = []
@@ -75,37 +70,13 @@ def compute_dfs_optimized(unique_words, preprocessed_documents):
         dfs.append(count)
     return dfs
 
-#Compute Document Frequencies using multiprocessing
-def compute_dfs_multi(unique_words, preprocessed_docs):
-    num_cores=multiprocessing.cpu_count()
-    with multiprocessing.Pool(processes=num_cores) as pool:
-        args=[(word,preprocessed_documents) for word in unique_words]
-        results=pool.map(compute_dfs_optimized,args)
-    return results
-
 # Compute Inverse Document Frequencies (IDF)
 def compute_idfs(num_docs, dfs):
     return [1 + log10(num_docs / df) if df > 0 else 1 for df in dfs]
 
-#Computer IDF with multiprocessing
-def compute_idfs_multi(num_docs,dfs):
-    with multiprocessing.Pool() as pool:
-        args=[(num_docs,df) for df in dfs]
-        results=pool.map(compute_idfs, args)
-    return results
-# Compute Term Frequency (TF)
-def compute_tf(text, term):
-    words = text.split()
-    return words.count(term) / len(words) if words else 0
-
 # Compute TF-IDF Weight Vector
 def compute_tfidf_vector(preprocessed_doc, unique_words, idfs):
     return [1 if word in preprocessed_doc else 0 for word in unique_words]
-
-
-
-
-
 
 # Cosine Similarity
 def cosine_similarity(vec1, vec2):
@@ -123,8 +94,10 @@ def jaccard_similarity(vec1, vec2):
 def eliminate_stopwords(words):
     stop_words = set(stopwords.words('english'))
     return [word for word in words if not any(w in stop_words for w in word.split())]
-#make function out of inner loop in main
-def checker(i,s_vec,j,src_vec):
+
+# Function to compare vectors and write output
+def checker(args):
+    (i, s_vec), (j, src_vec) = args
     if MEASURE == 'cosine':
         similarity = cosine_similarity(s_vec, src_vec)
     elif MEASURE == 'jaccard':
@@ -156,9 +129,9 @@ if __name__ == "__main__":
     # Compute DF and IDF
     NUM_DOCS = len(preprocessed_documents)
     print("Computing document frequencies (DF)...")
-    dfs = compute_dfs_multi(unique_terms, preprocessed_documents)
+    dfs = compute_dfs_optimized(unique_terms, preprocessed_documents)
     print("Computing inverse document frequencies (IDF)...")
-    idfs = compute_idfs_multi(NUM_DOCS, dfs)
+    idfs = compute_idfs(NUM_DOCS, dfs)
 
     # Compute TF-IDF vectors
     print("Computing TF-IDF vectors...")
@@ -172,6 +145,7 @@ if __name__ == "__main__":
         source_vectors = tfidf_vectors[:len(source_files)]
 
         with multiprocessing.Pool() as pool:
-                args=[((i,s_vec),(j,src_vec)) for (i,s_vec) in enumerate(suspicious_vectors) for (j,src_vec) in enumerate(source_vectors)]
-                pool.map(checker,args)
+            args = [((i, s_vec), (j, src_vec)) for i, s_vec in enumerate(suspicious_vectors) for j, src_vec in enumerate(source_vectors)]
+            pool.map(checker, args)
+
     print(f"Processing complete. Results written to {output_file}.")
