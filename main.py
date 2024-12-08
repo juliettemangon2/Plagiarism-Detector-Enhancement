@@ -9,13 +9,14 @@ import nltk
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from functools import partial
 
-# Download stopwords if not already available
+# Download necessary nltk data if not already available
 nltk.download('stopwords')
+nltk.download('punkt')
 
 # Absolute paths
 MODEL = 'trigram'  # Choose 'unigram', 'bigram', or 'trigram'
 MEASURE = 'cosine'  # Choose 'cosine' or 'jaccard'
-DATASET = 'external-detection-corpus-training'
+DATASET = 'plagarism-training-set'
 SOURCE_FOLDER = os.path.join(DATASET, 'source-document')
 SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 
@@ -23,12 +24,15 @@ SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 print("Source folder:", SOURCE_FOLDER)
 print("Suspicious folder:", SUSPICIOUS_FOLDER)
 
-# Get text files
+# Get text files from subdirectories
 def get_text_files(folder):
     if not os.path.exists(folder):
         print(f"Folder not found: {folder}")
         return []
-    return [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith('.txt')]
+    txt_files = []
+    for root, _, files in os.walk(folder):
+        txt_files.extend(os.path.join(root, f) for f in files if f.endswith('.txt'))
+    return txt_files
 
 # Remove punctuations from text
 def remove_punctuation(text):
@@ -81,7 +85,6 @@ def compute_df_single_term(term, preprocessed_documents):
 def compute_dfs_optimized(unique_words, preprocessed_documents, num_workers=None):
     dfs = []
     with ProcessPoolExecutor(max_workers=num_workers) as executor:
-        # Partial function with preprocessed_documents fixed
         func = partial(compute_df_single_term, preprocessed_documents=preprocessed_documents)
         futures = {executor.submit(func, term): term for term in unique_words}
         for i, future in enumerate(as_completed(futures)):
@@ -95,10 +98,6 @@ def compute_dfs_optimized(unique_words, preprocessed_documents, num_workers=None
 def compute_idfs(num_docs, dfs):
     return [1 + log10(num_docs / df) if df > 0 else 1 for df in dfs]
 
-# Compute TF-IDF Weight Vector (binary)
-def compute_tfidf_vector(preprocessed_doc, unique_words_set):
-    return {word for word in preprocessed_doc if word in unique_words_set}
-
 # Cosine Similarity using sets
 def cosine_similarity_set(set1, set2, len1, len2):
     intersection = len(set1 & set2)
@@ -110,16 +109,6 @@ def jaccard_similarity_set(set1, set2):
     intersection = len(set1 & set2)
     union = len(set1 | set2)
     return intersection / union if union else 0
-
-# Compare a single pair of documents
-def compare_documents(s_index, src_vector, s_vector, measure):
-    if measure == 'cosine':
-        similarity = cosine_similarity_set(src_vector, s_vector, len(src_vector), len(s_vector))
-    elif measure == 'jaccard':
-        similarity = jaccard_similarity_set(src_vector, s_vector)
-    else:
-        similarity = 0
-    return (s_index, similarity)
 
 # Compare a single suspicious document against all source documents
 def compare_single_suspicious(s_index, s_vector, source_vectors, measure):
@@ -152,8 +141,9 @@ if __name__ == "__main__":
     all_files = source_files + suspicious_files
 
     # Preprocess documents into sets of n-grams or words using multiprocessing
+    NUM_WORKERS = os.cpu_count() or 4
     print("Preprocessing documents...")
-    preprocessed_documents = preprocess_documents(all_files, MODEL)
+    preprocessed_documents = preprocess_documents(all_files, MODEL, num_workers=NUM_WORKERS)
 
     # Extract unique terms or n-grams and eliminate stopwords
     print("Extracting unique terms and eliminating stopwords...")
@@ -167,22 +157,14 @@ if __name__ == "__main__":
     # Compute DF and IDF using multiprocessing
     NUM_DOCS = len(preprocessed_documents)
     print("Computing document frequencies (DF)...")
-    dfs = compute_dfs_optimized(unique_terms, preprocessed_documents)
+    dfs = compute_dfs_optimized(unique_terms, preprocessed_documents, num_workers=NUM_WORKERS)
 
     print("Computing inverse document frequencies (IDF)...")
     idfs = compute_idfs(NUM_DOCS, dfs)
 
-    # Create a mapping from term to index for vectorization
-    term_to_index = {term: idx for idx, term in enumerate(unique_terms)}
-
     # Compute TF-IDF vectors as sets (binary vectors)
     print("Computing TF-IDF vectors...")
-    tfidf_vectors = []
-    for i, doc_words in enumerate(preprocessed_documents):
-        tfidf_vector = {word for word in doc_words if word in unique_terms_set}
-        tfidf_vectors.append(tfidf_vector)
-        if (i + 1) % 100 == 0 or (i + 1) == len(preprocessed_documents):
-            print(f"Computed TF-IDF for {i + 1}/{len(preprocessed_documents)} documents.")
+    tfidf_vectors = [doc_words & unique_terms_set for doc_words in preprocessed_documents]
 
     # Split TF-IDF vectors into source and suspicious
     source_vectors = tfidf_vectors[:len(source_files)]
@@ -193,23 +175,15 @@ if __name__ == "__main__":
     output_file = "similarity_results.txt"
 
     def process_suspicious(s_idx, s_vec):
-        similarities = compare_single_suspicious(s_idx, s_vec, source_vectors, MEASURE)
-        return similarities
+        return compare_single_suspicious(s_idx, s_vec, source_vectors, MEASURE)
 
-    with ProcessPoolExecutor() as executor, open(output_file, 'w', encoding='utf-8') as out:
+    with ProcessPoolExecutor(max_workers=NUM_WORKERS) as executor, open(output_file, 'w', encoding='utf-8') as out:
         futures = {executor.submit(process_suspicious, i, s_vec): i for i, s_vec in enumerate(suspicious_vectors)}
-        total_comparisons = 0
-        for future in as_completed(futures):
+        for i, future in enumerate(as_completed(futures)):
             similarities = future.result()
             for s_idx, src_idx, sim in similarities:
                 out.write(f"Suspicious doc {s_idx}, Source doc {src_idx}, Similarity: {sim:.4f}\n")
-                total_comparisons += 1
-            current = list(futures).index(future) + 1
-            if current % 10 == 0 or current == len(suspicious_vectors):
-                print(f"Processed {current}/{len(suspicious_vectors)} suspicious documents.")
+            print(f"Processed {i + 1}/{len(suspicious_vectors)} suspicious documents.")
 
-    print(f"Processing complete. Total similarities found: {total_comparisons}")
     print(f"Results written to {output_file}.")
-    end_time = time.time()
-    print(f"Total execution time: {end_time - start_time:.2f} seconds.")
-
+    print(f"Total execution time: {time.time() - start_time:.2f} seconds.")
