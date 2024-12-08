@@ -181,8 +181,12 @@ if __name__ == "__main__":
         futures = {executor.submit(process_suspicious, i, s_vec): i for i, s_vec in enumerate(suspicious_vectors)}
         for i, future in enumerate(as_completed(futures)):
             similarities = future.result()
+            max = 0
             for s_idx, src_idx, sim in similarities:
-                out.write(f"Suspicious doc {s_idx}, Source doc {src_idx}, Similarity: {sim:.4f}\n")
+                if sim > max:
+                    max = sim
+                #out.write(f"Suspicious doc {s_idx}, Source doc {src_idx}, Similarity: {sim:.4f}\n")
+             out.write(f"{max:.4f}\n")
             print(f"Processed {i + 1}/{len(suspicious_vectors)} suspicious documents.")
 
     print(f"Results written to {output_file}.")
