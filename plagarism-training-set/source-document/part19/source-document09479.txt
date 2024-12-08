@@ -1,0 +1,299 @@
+﻿THE EAST RIVER TUNNELS.[A]
+
+BY JAMES H. BRACE, FRANCIS MASON, AND S. H. WOODARD, MEMBERS, AM. SOC. C. E.
+
+This paper will be limited to a consideration of the construction of the tunnels, the broader
+questions of design, etc., having already been considered in papers by Brig.-Gen. Charles W.
+Raymond, M. Am. Soc. C. E., and Alfred Noble, Past-President, Am. Soc. C. E.
+
+The location of the section of the work to be considered here is shown on Plate XIII of Mr.
+Noble's paper. There are two permanent shafts on each side of the East River and four single
+cast-iron tube tunnels, each about 6,000 ft. long, and consisting of 3,900 ft. between shafts
+under the river, and 2,000 ft. in Long Island City, mostly under the depot and passenger yard
+of the Long Island Railroad. This tube-tunnel work was naturally a single job. The contract
+for its construction was let to S. Pearson and Son, Incorporated, ground being broken on May
+17th, 1904. Five years later, to a day, the work was finished and received its final inspection
+for acceptance by the Railroad Company.
+
+The contract was of the profit-sharing type, and required an audit, by the Railroad Company,
+of the contractor's books, and a careful system of cost-keeping by the Company's engineers,
+so that it is possible to include in the following some of the unit costs of the work. These
+are given in two parts: The first is called the unit labor cost, and is the cost of the labor
+in the tunnel directly chargeable to the thing considered. It does not include the labor of
+operating the plant, nor watchmen, yardmen, pipemen, and electricians. The second is called
+"top charges," a common term, but meaning different things to different contractors and engineers.
+Here, it is made to include the cost of the contractor's staff and roving laborers, such as
+pipemen, electricians, and yardmen, the cost of the plant and its operation, and all miscellaneous
+expenses, but does not include any contractor's profit, nor cost of materials entering permanent
+work.
+
+The contractor's plant is to be described in a paper by Henry Japp,[B] M. Am. Soc. C. E., and
+will not be dealt with here.
+
+The contractors carried on their work from three different sites. From permanent shafts, located
+near the river in Manhattan, four shields were driven eastward to about the middle of the river;
+and, from two similar shafts at the river front in Long Island City, four shields were driven
+westward to meet those from Manhattan. From a temporary shaft, near East Avenue, Long Island
+City, the land section of about 2,000 ft. was driven to the river shafts.
+
+[Footnote A: Presented at the meeting of December 15th, 1909.]
+
+[Footnote B: Transactions, Am. Soc. C. E., Vol. LXIX. p. 1.]
+
+TUNNELS FROM EAST AVENUE TO THE RIVER SHAFTS.
+
+The sinking of the temporary shaft at East Avenue was a fairly simple matter. Rough 6 by 12-in.
+sheet-piling, forming a rectangle, 127 by 34 ft., braced across by heavy timbering, was driven
+about 28 ft. to rock as the excavation progressed. Below this, the shaft was sunk into rock,
+about 27 ft., without timbering. As soon as the shaft was down, on September 30th, 1904, bottom
+headings were started westward in Tunnels A, B, and D. When these had been driven about half
+the distance to the river shafts, soft ground was encountered. (See Station 59, Plate XIII.)
+As the ground carried considerable water, it was decided to use compressed air. Bulkheads were
+built in the heading, and, with an air pressure of about 15 lb. per sq. in., the heading was
+driven through the soft ground and into rock by ordinary mining methods. The use of compressed
+air was then discontinued. West of this soft ground, a top heading, followed by a bench, was
+driven to the soft ground at about Station 66. Tunnel C, being higher, was more in soft ground,
+and at first it was the intention to delay its excavation until it had been well drained by
+the bottom headings in the tunnels on each side. A little later it was decided to use a shield
+without compressed air. This shield had been used in excavating the stations of the Great Northern
+and City Tunnel in London. It was rebuilt, its diameter being changed from 24 ft. 8-1/2 in.
+to 23 ft. 5-1/4 in. It proved too weak, and after it had flattened about 4 in. and had been
+jacked up three times, the scheme was abandoned, the shield was removed, and work was continued
+by the methods which were being used in the other tunnels. The shield was rather light, but
+probably it would have been strong enough had it been used with compressed air, or had the
+material passed through been all earth. Here, there was a narrow concrete cradle in the bottom,
+with rock up to about the middle of the tunnel, which was excavated to clear the shield, and
+gave no support on its sides. The shield was a cylinder crushed between forces applied along
+the top and bottom.
+
+With the exception of this trial of a shield in Tunnel C, and a novel method in Tunnel B, where
+compressed air, but no shield, was used, the description of the work in one tunnel will do for all.
+
+From the bottom headings break-ups were started at several places in each tunnel where there
+was ample cover of rock above. Where the roof was in soft ground, top headings were driven
+from the points of break-up and timbered. As soon as the full-sized excavation was completed,
+the iron lining was built, usually in short lengths.
+
+It will be noticed on Plate XIII that there is a depression in the rock between Station 65
+and the river shafts, leaving all the tunnels in soft ground. As this was directly under the
+Long Island Railroad passenger station, it was thought best to use a shield and compressed
+air. This was done in Tunnels A, C, and D, one shield being used successively for all three.
+It was first erected in Tunnel D at Station 64 + 47. From there it was driven westward to the
+river shaft. It was then taken apart and re-erected in Tunnel C at Station 63 + 63 and driven
+westward to the shaft. It was then found that there would not be time for one shield to do
+all four lines. The experience in Tunnels C and D had proven the ground to be much better than
+had been expected. There was considerable clay in the sand, and, with the water blown out by
+compressed air, it was very stable. A special timbering method was devised, and Tunnel B was
+driven from Station 66 + 10 to the shaft with compressed air, but without a shield. In the
+meantime the shield was re-erected in Tunnel A and was shoved through the soft ground from
+Station 65 + 48 nearly to the river shaft, where it was dismantled.
+
+There was nothing unusual about the shield work; it was about the same as that under the river,
+which is fully described elsewhere. In spite of great care in excavating in front of the shield,
+and prompt grouting behind it, there was a small settlement of the building above, amounting
+to about 1-1/2 in. in the walls and about 5 in. in the ground floors which were of concrete
+laid like a sidewalk directly upon the ground. Whether this settlement was due to ground lost
+in the shield work or to a compacting of the ground on account of its being dried out by compressed
+air, it is impossible to say.
+
+The interesting features of this work from East Avenue to the river shafts are the mining methods
+and the building of the iron tube without a shield.
+
+EXCAVATION IN ALL ROCK.
+
+Where the tunnel was all in good rock two distinct methods were used. The first was the bottom-heading-and-break-up,
+and the second, the top-heading-and-bench method. The first is illustrated by Figs. 1 and 2,
+Plate LXIII. The bottom heading, 13 ft. wide and 9 ft. high, having first been driven, a break-up
+was started by blasting down the rock, forming a chamber the full height of the tunnel. The
+timber platform, shown in the drawing, was erected in the bottom heading, and extended through
+the break-up chamber. The plan was then to drill the entire face above the bottom heading and
+blast it down upon the timber staging, thus maintaining a passage below for the traffic from
+the heading and break-ups farther down the line. Starting with the condition indicated by Plate
+XIII, the face was drilled, the columns were then taken down and the muck pile was shoveled
+through holes in the staging into muck cars below. The face was then blasted down upon the
+staging, the drill columns were set up on the muck pile, and the operation was repeated. This
+method has the advantage that the bottom heading can be pushed through rapidly, and from it
+the tunnel may be attacked at a number of points at one time. It was found to be more expensive
+than the top-heading-and-bench method, and as soon as the depression in the rock at about Station
+59 was passed, a top heading about 7 ft. high, and roughly the segment of a 23-ft. circle,
+was driven to the next soft ground in each of the four tunnels. The remainder of the section
+was taken out in two benches, the first, about 4 ft. high, was kept about 15 ft. ahead of the
+lower bench, which was about the remaining 11 ft. high.
+
+EXCAVATION IN EARTH AND ROCK.
+
+About 2,500 ft. of tunnel, the roof of which was in soft ground, was excavated in normal air
+by the mining-and-timbering method. In the greater part of this the rock surface was well above
+the middle of the tunnel. The method of timbering and mining, while well enough known, has
+not been generally used in the United States.
+
+Starting from the break-up in all rock, as described above, and illustrated on Plate XIII,
+when soft ground was approached, a top heading was driven from the rock into and through the
+earth. This heading was about 7 ft. high and about 6 ft. wide. This was done by the usual post,
+cap, and poling-board method. The ground was a running sand with little or no clay, and, at
+first, considerable water, in places. All headings required side polings. The roof poling boards
+were about 2-1/2 or 3 ft. above the outside limit of the tunnel lining, as illustrated by Figs.
+3, 4, and 5, Plate LXIII. The next step was to place two crown-bars, AA, usually about 20 ft.
+long, under the caps. Posts were then placed under the bars, and poling boards at right angles
+to the axis of the tunnel were then driven out over the bars. As these polings were being driven,
+the side polings of the original heading were removed, and the earth was mined out to the end
+of these new transverse polings. Breast boards were set on end under the ends of the transverse
+polings when they had been driven out to their limit. Side bars, BB, were then placed as far
+out as possible and supported on raking posts. These posts were carried down to rock, if it
+was near, if not, a sill was placed.
+
+A new set of transverse polings was driven over these side bars and the process was repeated
+until the sides had been carried down to rock or down to the elevation of the sills supporting
+the posts, which were usually about 4 ft. above the axis of the tunnel.
+
+The plan then was to excavate the remainder of the section and build the iron lining in short
+lengths, gradually transferring the weight of the roof bars of the iron lining as the posts
+were taken out. This meant that not more than four rings, and often only one ring, could be
+built before excavation and a short length of cradle became necessary. Before the posts under
+the roof bars could be built and the weight transferred to the iron lining, a grout dam was
+placed at the leading end of the iron lining, and grout was brought up to at least 45° from
+the top. Such workings were in progress at as many as eight places in one tunnel at the same
+time. Where there was only the ordinary ground-water to contend with, the driving of the top
+heading drained the ground very thoroughly, and the enlarging was done easily and without a
+serious loss of ground. Under these conditions the surface settlement was from 6 in. to 2 ft.
+
+Under Borden Avenue, there was more water, which probably came from a leaky sewer; it was not
+enough to form a stream, but just kept the ground thoroughly saturated. There was a continued
+though hardly perceptible flow of earth through every crevice in the timbering during the six
+or eight weeks between the driving of the top heading and the placing of the iron lining; and
+here there was a settlement of from 4 to 8 ft. at the surface.
+
+TUNNELING IN COMPRESSED AIR WITHOUT A SHIELD.
+
+When it became evident that there would not be time for one shield to do the soft ground portions
+of all four tunnels under the Long Island Railroad station, a plan was adopted and used in
+Tunnel B which, while not as rapid, turned out to be as cheap as the work done by the shields.
+Figs. 6 and 7, Plate LXIII, and Fig. 1, Plate LXIV, illustrate this work fairly well. The operation
+of this scheme was about as follows: Having the iron built up to the face of the full-sized
+excavation, a hole or top heading, about 3 ft. wide and 4 or 5 ft. high, was excavated to about
+10 ft. in advance. This was done in a few hours without timbering of any kind; but, as soon
+as the hole or heading was 10 ft. out, 6 by 12-in. laggings or polings were put up in the roof,
+with the rear ends resting on the iron lining and the leading ends resting on vertical breast
+boards. The heading was then widened out rapidly and the lagging was placed, down to about
+45° from the crown. The forward ends of the laggings were then supported by a timber rib and
+sill. Protected by this roof, the full section was excavated, and three rings of the iron lining
+were built and grouted, and then the whole process was repeated.
+
+CONCRETE CRADLES, HAND-PACKED STONE AND GROUTING.
+
+Had the East Avenue Tunnel been built by shields, as was contemplated at the time of its design,
+the space between the limits of excavation and the iron lining would have been somewhat less
+than by the method actually used, especially in the earth portions. This space would have been
+filled with grout ejected through the iron lining. The change in the method of doing the work
+permitted the use of cheaper material, in place of part of the grout, and, at the same time,
+facilitated the work.
+
+The tube of cast-iron rings is adapted to be built in the tail of the shield. Where no shield
+was used, after the excavation was completed and all loose rock was removed, timbers were fixed
+across the tunnel from which semicircular ribs were hung, below which lagging was placed. The
+space between this and the rough rock surface was filled with concrete. This formed a cradle
+in which the iron tube could be erected, and, at the same time, occupied space which would
+have been filled by grout, at greater cost, had a shield been used.
+
+As soon as each ring of iron was erected, the space between it and the roof of the excavation
+was filled with hand-packed stone. At about every sixth ring a wall of stone laid in mortar
+was built between the lining and the rock to serve as a dam to retain grout. The interstices
+between the hand-packed stones were then filled with 1 to 1 grout of cement and sand, ejected
+through the iron lining. The concrete cradles averaged 1.05 cu. yd. per ft. of tunnel, and
+cost, exclusive of materials, $6.70 per cu. yd., of which $2.25 was for labor and $4.45 was
+for top charges. The hand-packed stone averaged 1-1/2 cu. yd. per ft. of tunnel, and cost $2.42
+per cu. yd., of which $0.98 was for labor and $1.44 was for top charges.
+
+ERECTION OF IRON LINING.
+
+The contractors planned to erect the iron lining with erectors of the same pattern as that
+used on the shield under the river, mounted on a traveling stage. These will be described in
+detail in Mr. Japp's paper. Two of these stages and erectors worked in each tunnel at different
+points. The tunnel was attacked from so many points that these erectors could not be moved
+from working to working. The result was that about 58% of the lining was built by hand. At
+first thought, this seems to be a crude and extravagant method, as the plates weighed about
+1 ton each and about 20,000 were erected by hand. As it turned out, the cost was not greater
+than for those erected by machinery, taking into account the cost of erectors and power. This,
+however, was largely because the hand erection reduced the amount of work to be done by the
+machines so much that the machines had an undue plant charge.
+
+The hand erection was very simple. A portable hand-winch, with a 3/8-in. wire rope, was set
+in any convenient place. The wire rope was carried to a snatch-block fastened to the top of
+the iron previously built; or, where the roof was in soft ground, the timbering furnished points
+of attachment. The end of the wire rope was then hooked to a bolt hole in a new plate, two
+men at the winch lifted the plate, and three or four others swung it into approximate place,
+and, with the aid of bars and drift-pins, coaxed it into position and bolted it. Where there
+was no timbering above the iron, sometimes the key and adjoining plates were set on blocking
+on a timber staging and then jacked up to place.
+
+LONG ISLAND SHAFTS.
+
+The river shafts were designed to serve both as working shafts and as permanent openings to
+the tunnels, and were larger and more substantial than would have been required for construction
+purposes. Plate X of Mr. Noble's paper shows their design. They consist of two steel caissons,
+each 40 by 74 ft. in plan, with walls 5 ft. thick filled with concrete. A wall 6 ft. thick
+separated each shaft into two wells 29 by 30 ft., each directly over a tunnel. Circular openings
+for the tunnel, 25 ft. in diameter, were provided in the sides of the caissons. During the
+sinking these were closed by bulkheads of steel plates backed by horizontal steel girders.
+The shafts were sunk as pneumatic caissons to a depth of 78 ft. below mean high water. There
+have been a few caissons which were larger and were sunk deeper than these, but most large
+caissons have been for foundations, such as bridge piers, and have been stopped at or a little
+below the surface of the rock. The unusual feature of the caissons for the Long Island shaft
+is that they were sunk 54 ft. through rock.
+
+It had been hoped that the rock would prove sound enough to permit stopping the caissons at
+or a little below the surface and continuing the excavation without sinking them further; for
+this reason only the steel for the lower 40 ft. of the caissons was ordered at first.
+
+The roof of the working chamber was placed 7 ft. above the cutting edge. It was a steel floor,
+designed by the contractors, and consisted of five steel girders, 6 ft. deep, 29 ft. long,
+and spaced at 5-ft. centers. Between were plates curved upward to a radius of 4 ft. Each working
+chamber had two shafts, 3 ft. by 5 ft. in cross-section, with a diaphragm dividing it into
+two passages, the smaller for men and the larger for muck buckets. On top of these shafts were
+Moran locks. Mounted on top of the caisson was a 5-ton Wilson crane, which would reach each
+shaft and also the muck cars standing on tracks on the ground level beside the caissons. Circular
+steel buckets, 2 ft. 6 in. in diameter and 3 ft. high, were used for handling all muck. These
+were taken from the bottom of the working chamber, dumped in cars, and returned to the bottom
+without unhooking. Work was carried on by three 8-hour shifts per day. The earth excavation
+was done at the rate of about 67 cu. yd. per day from one caisson. The rock excavation, amounting
+to about 6,200 cu. yd. in each caisson, was done at the rate of about 44.5 cu. yd. per day.
+The average rate of lowering, when the cutting edge of the south caisson was passing through
+earth, was 0.7 ft. per day. In rock, the rate was 0.48 ft. per day in the south caisson, and
+0.39 ft. per day in the north caisson.
+
+At the beginning all lowering was done with sixteen hydraulic jacks. Temporary brackets were
+fastened to the outside of the caisson. A 100-ton hydraulic jack was placed under each alternate
+bracket and under each of the others there was blocking. The jacks were connected to a high-pressure
+pump in the power-house. As the jacks lifted the caisson, the blocking was set for a lower
+position, to which the caisson settled as the jacks were exhausted. After the caisson had penetrated
+the earth about 10 ft., the outside brackets were removed and the lowering was regulated by
+blocking placed under brackets in the working chamber. The caisson usually rested on three
+sets of blockings on each side and two on each end. The blocking was about 4 ft. inside the
+cutting edge. In the rock, as the cutting edge was cleared for a lowering of about 2 ft., 6
+by 8-in. oak posts were placed under the cutting-edge angle. When a sufficient number of posts
+had been placed, the blocking on which the caisson had rested was knocked or blasted out, and
+the rock underneath was excavated. The blocking was then re-set at a lower elevation. The posts
+under the cutting edge were then chopped part way through and the air pressure was lowered
+about 10 lb., which increased the net weight to more than 4,000,000 lb. The posts then gradually
+crushed and the caissons settled to the new blocking. The tilt or level of the caisson was
+controlled by chopping the posts more on the side which was desired to move first.
+
+The caisson nearly always carried a very large net weight, usually about 870 tons. The concrete
+in the walls, which was added as the caisson was being sunk, was kept at about the elevation
+of the ground. There was generally a depth of from 5 to 20 ft. of water ballast on top of the
+roof of the working chamber. The air pressure in the working chamber was usually much less
+than the hydrostatic head outside the caisson. For example, the average air pressure in the
+south caisson during January, 1906, was 16-1/2 lb., while the average head was 62.5 ft., equivalent
+to 27 lb. per sq. in. Under these conditions, there was a continued but small leakage into
+the caisson of from 15,000 to 20,000 gal. per day.
+
+In the rock the excavation was always carried from 2 to 5 in. outside the cutting edge. As
+soon as the cutting edge was cleared, bags of clay were placed under it in a well-tiered, solid
+pile, so that when the caisson was lowered the bags were cut through and most of the clay,
+bags and all, was squeezed back of the cutting edge between the rock and the caisson.
+
+Table 1 shows the relation of the final position of the caissons to that designed.
+
+The cost of rock excavation in the caisson was $4.48 per cu. yd. for labor and $10.54 for top
+charges.
+

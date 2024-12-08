@@ -1,0 +1,241 @@
+﻿THE
+                     DETECTION OF FORGERY.
+
+                     A PRACTICAL HANDBOOK
+                        FOR THE USE OF
+           BANKERS, SOLICITORS, MAGISTRATES' CLERKS,
+             AND ALL HANDLING SUSPECTED DOCUMENTS.
+
+                              BY
+                       DOUGLAS BLACKBURN
+ (Late Expert to the Natal Criminal Investigation Department,
+                 and the Transvaal Republic)
+
+                              AND
+                   CAPTAIN WAITHMAN CADDELL.
+
+                            LONDON:
+                    CHARLES & EDWIN LAYTON,
+                    FARRINGDON STREET, E.C.
+                             1909.
+
+ERRATUM. (Page 15.)
+
+Owing to the averages given in the table on page 15 being printed from some incomplete manuscript
+they are incorrect. It is obvious that the proper averages are--
+
+ | 7-1/4 | 6-1/2 | 5-3/4 | 7-1/2 || 16-1/4 | 21 | 20-3/4 | 20-3/4
+
+    The corrections in the above erratum have been applied. The
+    handwritten pages entitled 'Terminology' and 'Alphabet Variants'
+    have been moved to the beginning of their relevant chapters.
+    Hyphenation and punctuation have been standardised.
+
+CONTENTS.
+
+ CHAPTER                                           PAGE
+
+         INTRODUCTION                                 5
+
+     I.--THE PRINCIPLES OF HANDWRITING ANALYSIS       7
+
+    II.--MEASUREMENT AND ITS APPLIANCES              13
+
+   III.--TERMINOLOGY                                 17
+
+    IV.--CLASSES OF HANDWRITING                      19
+
+     V.--HOW TO EXAMINE A WRITING                    21
+
+    VI.--THE ALPHABET IN DETAIL                      24
+
+   VII.--THE CAPITALS                                29
+
+  VIII.--PUNCTUATION                                 31
+
+    IX.--PAPER AND WATERMARKS                        34
+
+     X.--INKS                                        38
+
+    XI.--ERASURES                                    42
+
+   XII.--PENCILS AND STYLOGRAPHS                     45
+
+  XIII.--ANONYMOUS LETTERS AND DISGUISED HANDS       47
+
+   XIV.--FORGED LITERARY AUTOGRAPHS                  52
+
+    XV.--FORGED SIGNATURES                           60
+
+   XVI.--THE EXPERT IN THE WITNESS-BOX               68
+
+  XVII.--HANDWRITING AND EXPRESSION                  72
+
+ XVIII.--BIBLIOGRAPHY OF HANDWRITING                 78
+
+INTRODUCTION.
+
+The object of this little work is to assist those who may occasionally be called upon to form
+an opinion as to the genuineness of signatures, alterations in cheques, and the varied doubtful
+documents that demand the serious consideration of business men by way of a preliminary to
+"taking further steps."
+
+It is the first attempt published in England to explain the principles upon which the comparison
+and examination of handwriting are conducted by experts. It is, and can only be, an outline
+of suggestions how to begin, for no two experts follow precisely the same methods, any more
+than two painters work on the same lines. Both agree in recognising certain rules and general
+principles, but each strives for his objective point by the employment of those means which
+experience, temperament, taste and opportunity suggest. The study of the elementary rules of
+their art puts them upon the road for perfecting it, after which success can only be attained
+by rightly reading the signs that lead to the ultimate goal.
+
+In reading these chapters the student should begin by practising that self-help which is essential
+to success. He must read with pen and notebook. It is with the object of compelling this valuable
+habit that no illustrative examples are given in the text. It would have been easy to fill
+many pages with script illustrations, but experience shows that a much greater impression is
+made upon the memory by the hand forming the outlines described than if they were provided
+in pictorial form. In other words, the student should supply this purposeful omission by himself
+constructing the illustrations from the description. The trifling extra time and trouble thus
+demanded will be amply repaid by the ease and rapidity with which the various points will be
+fixed in the memory. Nor is this the only advantage to be gained. The act of reproducing the
+illustration cited will emphasise and render clear technical and mechanical features that would
+require many words to explain, with the attendant risk of confusing the mind by mere verbiage.
+
+The material and opportunity for practising and studying the comparison of handwritings are
+abundant. Every letter written or read affords a subject, and in a surprisingly short space
+of time the student will find himself instinctively noting and analysing peculiarities in handwriting
+that probably never arrested his attention before. The principles of the art are exceedingly
+simple and free from complexity, and many a person who takes up the study will find that he
+possesses powers of analysis and observation unguessed before. The most successful expert is
+he who observes most closely and accurately, and the faculty needs only the spur of an objective
+point for it to be developed.
+
+After a little practice, experience will suggest many methods of examination and test not dealt
+with here. For example, photographic enlargements can be and are utilised with great advantage
+by bringing out minute details, especially in signatures, erasures and alterations. Interesting
+experiments can be made with a view to discovering the effect of different kinds of ink--important
+in settling the question whether the whole of a particular writing was done with one fluid,
+and at the same time, or at intervals.
+
+The study of erasures and alterations of figures or characters also comes within the scope
+of developments of the art which it is not deemed necessary to deal with at length in these
+pages, for after experience will suggest their use and the best methods of procedure. For the
+beginner the instructions given in the chapters that follow will be found amply sufficient
+to direct him how to take up a fascinating and practical accomplishment, and this, with no
+further aid than his own judgment, perseverance and powers of observation and deduction.
+
+CHAPTER I.
+
+THE PRINCIPLES OF HANDWRITING ANALYSIS.
+
+The principle on which experts claim to be able to detect variations and to differentiate between
+handwritings is based on the well-established axiom that there is no such thing as a perfect
+pair in nature; that, however close the apparent similarity between two things, a careful examination
+and comparison will reveal marked differences to those trained to detect them.
+
+This is especially true of everything that is produced by human agency. Everyone knows how
+difficult it is to keep check upon and eradicate certain physical habits, such as gestures,
+style of walking, moving the hands, arms, &c., tricks of speech, or tone of voice. These mannerisms,
+being mechanical and automatic, or the result of long habit, are performed unconsciously, and
+there is probably no person who is entirely free from some marked peculiarity of manner, which
+he is ignorant of possessing. It is a well-known fact that the subject of caricature or mimicry
+rarely admits the accuracy or justness of the imitation, although the peculiarities so emphasised
+are plainly apparent to others. Even actors, who are supposed to make a careful study of their
+every tone and gesture, are constantly criticised for faults or mannerisms plain to the observer,
+but undetected by themselves.
+
+It is easy, therefore, to understand how a trick or a gesture may become a fixed and unconscious
+habit through long custom, especially when, as in the case of a peculiarity of style in handwriting,
+there has been neither criticism on it, nor special reason for abandoning it.
+
+Every person whose handwriting is developed and permanently formed has adopted certain more
+or less distinctive peculiarities in the formation of letters of which he is generally unaware.
+
+The act of writing is much less a matter of control than may be supposed. The pen follows the
+thoughts mechanically, and few ready and habitual writers could, if suddenly called upon to
+do so, say what peculiarities their writing possessed. For example, how many could say off-hand
+how they dotted an i--whether with a round dot, a tick or a dash--whether the tick was vertical,
+horizontal or sloping; what was the proportional distance of the dot from the top of the i.
+Again, ask a practised writer how he crosses the letter t--whether with a horizontal, up or
+down stroke? It is safe to assume that not one in a thousand could give an accurate answer,
+for the reason that the dotting of an i and crossing of a t have become mechanical acts, done
+without thought or premeditation, but as the result of a long-formed habit.
+
+It is these unconscious hand-gestures and mechanical tricks of style that the handwriting expert
+learns to distinguish and recognise,--the unconsidered trifles that the writer has probably
+never devoted a minute's thought to, and which come upon him as a surprise when they are pointed
+out to him. Their detection is rendered the more easy when one knows what to look for from
+the fact that they are, unlike gestures and tricks of voice, permanent. A mannerism may not
+strike two observers in the same way, nor is it easy to compare, for it is fleeting, and the
+memory has to be relied upon to recall a former gesture in order to compare it with the last.
+It is not so with a hand-gesture in writing. The sign remains side by side with its repetition,
+for careful and deliberate comparison; and if the writing be a long one, the expert has the
+advantage of being in possession of ample material on which to base his judgment.
+
+A Popular Fallacy.--One of the most frequent objections offered by the casual critic when the
+subject of expert testimony is discussed is to the effect that people write different hands
+with different pens, and he probably believes this to be true. A very slight acquaintance with
+the principles on which the expert works would satisfy this spontaneous critic of the fallacy
+of his objection. A person who habitually writes a fine, small hand, sloping from right to
+left, may believe that he has altered the character of his hand by using a thick, soft quill,
+reversing the slope to what is called a backhand, and doubling the size of the letters. All
+he has done is to put on a different suit of clothes; the same man is in them. The use of a
+thick pen does not make him put a dot over the i where before he made an horizontal dash; it
+does not turn a straight, barred t into a curved loop, neither does it alter the proportionate
+distance between the letters and lines. It does not make him form loops where before he habitually
+made bars, or vice versâ, and if he formerly made a u with an angle like a v he will not write
+the u with a rounded hook. Neither will it cause him to drop his habit of adding a spur to
+his initial letters or curtail the ends and tails that he was wont to make long. In short,
+the points to which the expert devotes his investigation are those least affected by any variation
+in the character of the pen used and the hand-gestures which have, by constant usage, become
+as much part of the writer's style as his walk and the tone of his voice.
+
+It follows, therefore, that the work of the handwriting experts consists in learning how to
+detect and recognize those unconscious or mechanical signs, characteristics or hand-gestures
+that are a feature in the handwriting of every person, no matter how closely any two hands
+may approximate in general appearance. However similar two hands may seem to the casual and
+untrained observer, very distinct and unmistakable differences become apparent when the student
+has been taught what to look for. There is no more certain thing than the fact that there has
+not yet been discovered two handwritings by separate persons so closely allied that a difference
+cannot be detected by the trained observer. Every schoolmaster knows that in a class of pupils
+taught writing from the same model, and kept strictly to it, no two hands are alike, although
+in the early and rudimentary stage, before the hand has attained freedom and approached a settled
+character, the differences are less marked. So soon as the child has been freed from the restraint
+of the set copy and the criticism of the teacher, he begins to manifest distinct characteristics,
+which become more marked and fixed with practice and usage.
+
+There is no writing so uniform as the regulation hand used, and wisely insisted upon, in the
+Civil Service, and familiar to the general public in telegrams and official letters. Yet it
+is safe to say that there is not a telegraph or post office clerk in England who would not
+be able to pick out the writing of any colleague with which he was at all acquainted.
+
+Duplicates non-existent.--But the best and most decisive answer to the objection that writings
+may be exactly similar lies in the notorious fact that during half a century experts have failed
+to discover two complete writings by different hands, so much alike that a difference could
+not be detected. Had such existed, they would long ere this have been produced for the confuting
+of the expert in the witness-box; particularly when we bear in mind that the liberty, and even
+the life of a person, have depended upon the identification of handwriting. That there are
+many cases of extraordinary similarity between different handwritings is a fact; if there were
+not, there would be very little occasion for the services of the expert, but it is equally
+a fact that the fancied resemblance becomes less apparent as soon as the writing is examined
+by a capable and painstaking expert. It should not be forgotten that it is not every person
+who undertakes the comparison of handwritings who is qualified for the task, any more than
+every doctor who diagnoses a case can be depended upon to arrive at an accurate conclusion.
+But if the tried and accepted principles of the art be acted upon, there should be no possibility
+of error, always assuming that the person undertaking the examination has a sufficiency of
+material for comparison. An expert who valued his reputation would, for example, be very cautious
+about giving an emphatic opinion if the only material at his disposal were two or three words
+or letters. It is quite possible that a clever mimic might reproduce the voice of another person
+so accurately as to deceive those who knew the subject of the imitation; but let him carry
+on a conversation in the assumed voice for a few minutes, and detection is certain. In like
+manner, while a few characters and tricks of style in writing may be fairly well imitated,
+it is impossible to carry the deception over a number of words. Sooner or later the forger
+lapses into some trick of his own, and it is here the trained observer catches him. The expert,
+like the caricaturist, lays himself out to note the peculiarities of his subject, knowing that
+these are practically beyond the control of the writer, and that the probabilities are that
+he is not even aware of them. Peculiarities in handwriting, like unchecked habits in children,
+become, in time, crystallised into a mannerism so fixed as to be part of the nature, and consequently
+are difficult of eradication. As a matter of fact a peculiarity in handwriting is more often
+cultivated than controlled, many writers regarding a departure from orthodox copybook form
+as an evidence of an "educated hand."
+

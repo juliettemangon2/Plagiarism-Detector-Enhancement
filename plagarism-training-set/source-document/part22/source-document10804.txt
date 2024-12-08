@@ -1,0 +1,1567 @@
+﻿Transcriber's Note: Phonetic characters are represented by the
+          following symbols:
+  [^1] = raised "1", etc.
+  [e] = inverted "e" or schwa
+  [oe] = oe ligature character
+  ['x] = any letter "x" with acute accent
+  [=x] = any letter "x" with macron
+  [)x] = any letter "x" with breve
+  [=xy] = any pair of letters "xy" with joining macron, except
+  [=OE], [=ae] = OE, ae ligature characters with macron
+  ['oe], ['ae] = oe, ae ligature characters with acute accent and
+  [)xy] = any pair of letters "xy" with joining breve, except
+  [)AE], [)ae], [)OE], [)oe] = AE, ae, OE, oe ligature characters
+          with breve
+
+S.P.E. TRACT NO. IV
+
+THE PRONUNCIATION OF ENGLISH WORDS DERIVED FROM THE LATIN
+
+BY JOHN SARGEAUNT
+
+WITH PREFACE AND NOTES BY H. BRADLEY
+
+CORRESPONDENCE & MISCELLANEOUS NOTES BY H.B., R.B., W.H.F., AND EDITORIAL
+
+AT THE CLARENDON PRESS MDCCCCXX
+
+ON THE PRONUNCIATION OF ENGLISH WORDS DERIVED FROM LATIN
+
+[This paper may perhaps need a few words of introduction concerning the history of the pronunciation
+of Latin in England.
+
+The Latin taught by Pope Gregory's missionaries to their English converts at the beginning
+of the seventh century was a living language. Its pronunciation, in the mouths of educated
+people when they spoke carefully, was still practically what it had been in the first century,
+with the following important exceptions. 1. The consonantal u was sounded like the v of modern
+English, 2. The c before front vowels (e, i, o, æ, oe), and the combinations t[)i], c[)i] before
+vowels, were pronounced ts. 3. The g before front vowels had a sound closely resembling that
+of the Latin consonantal i. 4. The s between vowels was pronounced like our s. 5. The combinations
+æ, oe were no longer pronounced as diphthongs, but like the simple e. 6. The ancient vowel-quantities
+were preserved only in the penultima of polysyllables (where they determined the stress); in
+all other positions the original system of quantities had given place to a new system based
+mainly on rhythm. Of this system in detail we have little certain knowledge; but one of its
+features was that the vowel which ended the first syllable of a disyllabic was always long:
+p[=a]ter, p[=a]trem, D[=e]us, p[=i]us, [=i]ter, [=o]vis, h[=u]mus.
+
+Even so early as the beginning of the fifth century, St. Augustine tells us that the vowel-quantities,
+which it was necessary to learn in order to write verse correctly, were not observed in speech.
+The Latin-speaking schoolboy had to learn them in much the same fashion as did the English
+schoolboy of the nineteenth century.
+
+It is interesting to observe that, while the English scholars of the tenth century pronounced
+their Latin in the manner which their ancestors had learned from the continental missionaries,
+the tradition of the ancient vowel-quantities still survived (to some extent at least) among
+their British neighbours, whose knowledge of Latin was an inheritance from the days of Roman
+rule. On this point the following passage from the preface to Ælfric's Latin Grammar (written
+for English schoolboys about A.D. 1000) is instructive:--
+
+    Miror ualde quare multi corripiunt sillabas in prosa quae in
+    metro breues sunt, cum prosa absoluta sit a lege metri; sicut
+    pronuntiant pater brittonice et malus et similia, quae in
+    metro habentur breues. Mihi tamen uidetur melius inuocare Deum
+    Patrem honorifice producta sillaba quam brittonice corripere,
+    quia nec Deus arti grammaticae subiciendus est.
+
+The British contagion of which Ælfric here complains had no permanent effect. For after the
+Norman Conquest English boys learned their Latin from teachers whose ordinary language was
+French. For a time, they were not usually taught to write or read English, but only French
+and Latin; so that the Englishmen who attempted to write their native language did so in a
+phonetic orthography on a French basis. The higher classes in England, all through the thirteenth
+century, had two native languages, English and French.
+
+In the grammar schools, the Latin lessons were given in French; it was not till the middle
+of the fourteenth century that a bold educational reformer, John Cornwall, could venture to
+make English the vehicle of instruction. In reading Latin, the rhythmically-determined vowel-quantities
+of post-classical times were used; and the Roman letters were pronounced, first as they were
+in French, and afterwards as in English, but in the fourteenth century this made little difference.
+
+In Chaucer's time, the other nations of Europe, no less than England, pronounced Latin after
+the fashion of their own vernaculars. When, subsequently, the phonetic values of the letters
+in the vernacular gradually changed, the Latin pronunciation altered likewise. Hence, in the
+end, the pronunciation of Latin has become different in different countries. A scholar born
+in Italy has great difficulty in following a Frenchman speaking Latin. He has greater difficulty
+in understanding an Englishman's Latin, because in English the changes in the sounds of the
+letters have been greater than in any other language. Every vowel-letter has several sounds,
+and the normal long sound of every vowel-letter has no resemblance whatever to its normal short
+sound. As in England the pronunciation of Latin developed insensibly along with that of the
+native tongue, it eventually became so peculiar that by comparison the 'continental pronunciation'
+may be regarded as uniform.
+
+It is sometimes imagined that the modern English way of pronouncing Latin was a deliberate
+invention of the Protestant reformers. For this view there is no foundation in fact. It may
+be conceded that English ecclesiastics and scholars who had frequent occasion to converse in
+Latin with Italians would learn to pronounce it in the Italian way; and no doubt the Reformation
+must have operated to arrest the growing tendency to the Italianization of English Latin. But
+there is no evidence that before the Reformation the un-English pronunciation was taught in
+the schools. The grammar-school pronunciation of the early nineteenth century was the lineal
+descendant of the grammar-school pronunciation of the fourteenth century.
+
+This traditional system of pronunciation is now rapidly becoming obsolete, and for very good
+reasons. But it is the basis of the pronunciation of the many classical derivatives in English;
+and therefore it is highly important that we should understand precisely what it was before
+it began to be sophisticated (as in our own early days) by sporadic and inconsistent attempts
+to restore the classical quantities. In the following paper Mr. Sargeaunt describes, with a
+minuteness not before attempted, the genuine English tradition of Latin pronunciation, and
+points out its significance as a factor in the development of modern English.
+
+H.B.]
+
+       *       *       *       *       *
+
+It seems not to be generally known that there is a real principle in the English pronunciation
+of words borrowed from Latin and Greek, whether directly or through French. In this matter
+the very knowledge of classical Latin, of its stresses and its quantities, still more perhaps
+an acquaintance with Greek, is apt to mislead. Some speakers seem to think that their scholarship
+will be doubted unless they say 'doctrínal' and 'scriptúral' and 'cinéma'. The object of this
+paper is to show by setting forth the principles consciously or unconsciously followed by our
+ancestors that such pronunciations are as erroneous as in the case of the ordinary man they
+are unnatural and pedantic. An exception for which there is a reason must of course be accepted,
+but an exception for which reason is unsound is on every ground to be deprecated. Among other
+motives for preserving the traditional pronunciation must be reckoned the claim of poetry.
+Mark Pattison notes how a passage of Pope which deals with the Barrier Treaty loses much of
+its effect because we no longer stress the second syllable of 'barrier'. Pope's word is gone
+beyond recovery, but others which are threatened by false theories may yet be preserved.
+
+The New English Dictionary, whose business it is to record facts, shows that in not a few common
+words there is at present much confusion and uncertainty concerning the right pronunciation.
+This applies mostly to the position of the stress or, as some prefer to call it, the accent,
+but in many cases it is true also of the quantity of the vowels. It is desirable to show that
+there is a principle in this matter, rules which have been naturally and unconsciously obeyed,
+because they harmonize with the genius of the English tongue.
+
+For nearly three centuries from the Reformation to the Victorian era there was in this country
+a uniform pronunciation of Latin. It had its own definite principles, involving in some cases
+a disregard of the classical quantities though not of the classical stress or accent. It survives
+in borrowed words such as [=a]li[)a]s and st[)a]mina, in naturalized legal phrases, such as
+N[=i]s[=i] Prius and [=o]nus probandi, and with some few changes in the Westminster Play. This
+pronunciation is now out of fashion, but, since its supersession does not justify a change
+in the pronunciation of words which have become part of our language, it will be well to begin
+with a formulation of its rules.
+
+The rule of Latin stress was observed as it obtained in the time of Quintilian. In the earliest
+Latin the usage had been other, the stress coming as early in the word as was possible. Down
+to the days of Terence and probably somewhat later the old rule still held good of quadrisyllables
+with the scansion of m[)u]l[)i][)e]r[)i]s or m[)u]l[)i][)e]r[=e]s, but in other words had given
+way to the later Quintilian rule, that all words with a long unit as penultimate had the stress
+on the vowel in that unit, while words of more than two syllables with a short penultimate
+had the stress on the antepenultimate. I say 'unit' because here, as in scansion, what counts
+is not the syllable, but the vowel plus all the consonants that come between it and the next
+vowel. Thus inférnus, where the penultimate vowel is short, no less than suprémus, where it
+is long, has the stress on the penultima. In volucris, where the penultimate unit was short,
+as it was in prose and could be in verse, the stress was on the o, but when ucr made a long
+unit the stress comes on the u, though of course the vowel remains short. In polysyllables
+there was a secondary stress on the alternate vowels. Ignorance of this usage has made a present-day
+critic falsely accuse Shakespeare of a false quantity in the line
+
+  Coríolánus in Coríoli.
+
+It may be safely said that from the Reformation to the nineteenth century no Englishman pronounced
+the last word otherwise than I have written it. The author of the Pronouncing Dictionary attached
+to the 'Dictionary of Gardening' unfortunately instructs us to say gládiolus on the ground
+that the i is short. The ground alleged, though true, is irrelevant, and, although Terence
+would have pronounced it gládiolus, Quintilian, like Cicero, would have said gladíolus. Mr.
+Myles quotes Pliny for the word, but Pliny would no more have thought of saying gládiolus than
+we should now think of saying 'laboúr' except when we are reading Chaucer.
+
+We need not here discuss the dubious exceptions to this rule, such as words with an enclitic
+attached, e.g. prim[)a]que in which some authorities put the stress on the vowel which precedes
+the enclitic, or such clipt words as 'illuc', where the stress may at one time have fallen
+on the last vowel. In any case no English word is concerned.
+
+In very long words the due alternation of stressed and unstressed vowels was not easy to maintain.
+There was no difficulty in such a combination as hónoríficábilí or as tudínitátibús, but with
+the halves put together there would be a tendency to say hónoríficabilitúdinitátibus. Thus
+there ought not to be much difficulty in saying Cónstantínopólitáni, whether you keep the long
+antepenultima or shorten it after the English way; but he who forced the reluctant word to
+end an hexameter must have had 'Constantinóple' in his mind, and therefore said Constántinópolitáni
+with two false stresses. The result was an illicit lengthening of the second o. His other false
+quantity, the shortening of the second i, was due to the English pronunciation, the influence
+of such words as 'metropol[)i]tan', and, as old schoolmasters used to put it, a neglect of
+the Gradus. Even when the stress falls on this antepenultimate i, it is short in English speech.
+Doubtless Milton shortened it in 'Areopagitica', just as English usage made him lengthen the
+initial vowel of the word.
+
+Probably very few of the Englishmen who used the traditional pronunciation of Latin knew that
+they gave many different sounds to each of the symbols or letters. Words which have been transported
+bodily into English will provide examples under each head. It will be understood that in the
+traditional pronunciation of Latin these words were spoken exactly as they are spoken in the
+English of the present day. For the sake of simplicity it may be allowed us to ignore some
+distinctions rightly made by phoneticians. Thus the long initial vowel of alias is not really
+the same as the long initial vowel of area, but the two will be treated as identical. It will
+thus be possible to write of only three kinds of vowels, long, short, and obscure.
+
+The letter or symbol a stood for two long sounds, heard in the first syllables of alias and
+of larva, for the short sound heard in the first syllable of stamina, and for the obscure sound
+heard in the last syllable of each of these last two words in English.
+
+The letter e stood for the long sounds heard in genus and in verbum, for the short sound heard
+in item, and for the obscure sound heard in cancer. When it ended a word it had, if short,
+the sound of a short i, as in pro lege, rege, grege, as also in unstressed syllables in such
+words as precentor and regalia.
+
+The letter i stood for the two long sounds heard in minor and in circus and for the short sound
+heard in premium and incubus.
+
+The letter o stood for the two long sounds heard in odium and in corpus, for the short sound
+in scrofula, and for the obscure in extempore.
+
+The two long sounds of u are heard in rumor, if that spelling may be allowed, and in the middle
+syllable of laburnum, the two short sounds in the first u of incubus and in the first u of
+lustrum, the obscure sound in the final syllables of these two words. Further the long sound
+was preceded except after l and r by a parasitic y as in albumen and incubus. This parasitic
+y is perhaps not of very long standing. In some old families the tradition still compels such
+pronunciations as moosic.
+
+The diphthongs æ and oe were merely e, while au and eu were sounded as in our August and Euxine.
+The two latter diphthongs stood alone in never being shortened even when they were unstressed
+and followed by two consonants. Thus men said [=Eu]stolia and [=Au]gustus, while they said
+[)Æ]schylus and [)OE]dipus. Dryden and many others usually wrote the Æ as E. Thus Garrick in
+a letter commends an adaptation of 'Eschylus', and although Boswell reports him as asking Harris
+'Pray, Sir, have you read Potter's Æschylus?' both the speaker and the reporter called the
+name Eschylus.
+
+The letter y was treated as i.
+
+The consonants were pronounced as in English words derived from Latin. Thus c before e, i,
+y, æ, and oe was s, as in census, circus, Cyrus, Cæsar, and coelestial, a spelling not classical
+and now out of use. Elsewhere c was k. Before the same vowels g was j (d[ezh]), as in genus,
+gibbus, gyrus. The sibilant was voiced or voiceless as in English words, the one in rosaceus,
+the other in saliva.
+
+It will be seen that the Latin sounds were throughout frankly Anglicized. According to Burney
+a like principle was followed by Burke when he read French poetry aloud. He read it as though
+it were English. Thus on his lips the French word comment was pronounced as the English word
+comment.
+
+The rule that overrode all others, though it has the exceptions given below, was that vowels
+and any other diphthongs than au and eu, if they were followed by two consonants, were pronounced
+short. Thus a in magnus, though long in classical Latin, was pronounced as in our 'magnitude',
+and e in census, in Greek transcription represented by [Greek: eta], was pronounced short,
+as it is when borrowed into English. So were the penultimate vowels in villa, nullus, cæspes.
+
+This rule of shortening the vowel before two consonants held good even when in fact only one
+was pronounced, as in nullus and other words where a double consonant was written and in Italian
+pronounced.
+
+Moreover, the parasitic y was treated as a consonant, hence our 'v[)a]cuum'.
+
+In the penultima qu was treated as a single consonant, so that the vowel was pronounced long
+in [=a]quam, [=e]quam, in[=i]quam, l[=o]quor. So it was after o, hence our 'coll[=o]quial';
+but in earlier syllables than the penultima qu was treated as a double consonant, hence our
+'sub[)a]queous', 'equity', 'iniquity'.
+
+EXCEPTIONS.
+
+1. When the former of the two consonants was r and the latter another consonant than r, as
+in the series represented by larva, verbum, circus, corpus, laburnum, the vowels are a separate
+class of long vowels, though not really recognized as such. Of course our ancestors and the
+Gradus marked them long because in verse the vowel with the two consonants makes a long unit.
+
+2. A fully stressed vowel before a mute and r, or before d or pl, was pronounced long in the
+penultima. Latin examples are labrum, Hebrum, librum, probrum, rubrum, acrem, cedrum, vafrum,
+agrum, pigrum, aprum, veprem, patrem, citrum, utrum, triplus, duplex, Cyclops. Moreover, in
+other syllables than the penultima the vowel in the same combinations was pronounced long if
+the two following vowels had no consonant between them, as patria, Hadria, acrius. (Our 'triple'
+comes from triplum and is a duplicate of 'treble'. Perhaps the short vowel is due to its passage
+through French. Our 'citron' comes from citronem, in which i was short.)
+
+3. The preposition and adverb post was pronounced with a long vowel both by itself and in composition
+with verbs, but its adjectives did not follow suit. Hence we say in English 'p[=o]stpone',
+but 'p[)o]sterior' and 'p[)o]sthumous'.
+
+Monosyllables ending in a vowel were pronounced long, those ending in a consonant short. Enclitics
+like que were no real exception as they formed part of the preceding word. There were, however,
+some real exceptions.
+
+1. Pronouns ending in -os, as hos, quos. These followed eos and illos.
+
+2. Words ending in -es, as pes, res.
+
+3. Words ending in r, as par, fer, vir, cor, fur. These had that form of long vowel which we
+use in 'part', 'fertile', 'virtue', 'cordate', 'furtive'.
+
+In, disyllables the former vowel or diphthong, if followed by a single consonant, or by a mute
+and r, or by cl or pl, was pronounced long, a usage which according to Mr. Henry Bradley dates
+in spoken Latin from the fourth century. Examples are apex, tenet, item, focus, pupa, Psyche,
+Cæsar, foetus. I believe that at first the only exceptions were tibi, sibi, ibi, quibus, tribus.
+In later days the imperfect and future of sum became exceptions. Here perhaps the short vowel
+arose from the hideous and wholly erroneous habit, happily never universal though still in
+some vogue, of reciting erám, erás, erát. There are actually schoolbooks which treat the verse
+ictus, the beat of the chanter's foot, as a word stress and prescribe terra tribús scopulís.
+I can say of these books only Pereant ipsi, mutescant scriptores, and do not mind using a post-classical
+word in order to say it.
+
+In disyllables the former vowel or diphthong, if followed immediately by another vowel or diphthong,
+had the quality, and if emphatic also the quality, of a long vowel. The distinction was not
+recognized, and seems not to be generally acknowledged even now. We seem not to have borrowed
+many words which will illustrate this. We have however fiat, and pius was pronounced exactly
+as we pronounce 'pious', while for a diphthong we may quote Shelley,
+
+  Mid the mountains Euganean
+  I stood listening to the paean.
+
+English derivatives will show the long quality of the vowels in aer, deus, coit, duo. To these
+add Graius.
+
+The rule of apex applies also to words of more than two syllables with long penultima, as gravamen,
+arena, saliva, abdomen, acumen. The rule of aer also holds good though it hardly has other
+instances than Greek names, as Macháon, Ænéas, Thalía, Achelóus, Ach['æ]i.
+
+In words of more than two syllables with short penultima the vowel in the stressed antepenultima
+was pronounced short when there was a consonant between the two last vowels, and i and y were
+short even when no consonant stood in that place. Examples are stamina, Sexagesima, minimum,
+modicum, tibia, Polybius. But u, au, eu were, as usual, exceptions, as tumulus, Aufidus, Eutychus.
+I believe that originally men said C[)æ]sarem, as they certainly said c[)æ]spitem and C[)æ]tulum,
+as also C[)æ]sarea, but here in familiar words the cases came to follow the nominative.
+
+Exceptions to the rule were verb forms which had [=a]v, [=e]v, [=i]v, or [=o]v in the antepenultima,
+as am[=a]veram, defieverat, audivero, moveras, and like forms from aorists with the penultima
+long, as suaseram, egero, miserat, roseras, and their compounds.
+
+This rule was among the first to break down, and about the middle of the nineteenth century
+the Westminster Play began to observe the true quantities in the antepenultimate syllables.
+Thus in spite of 'cons[)i]deration' boys said s[=i]dera, and in spite of 'n[)o]minal' they
+said nômina, while they still said s[)o]litus and r[)a]pidus.
+
+On the other hand the following rule, of which borrowed words provide many examples, still
+obtains in the Play. In words of more than two syllables any vowel in the antepenultima other
+than i or y was pronounced long if no consonant divided the two following vowels. Possibly
+the reason was that there was a synæresis of the two vowels, but I doubt this, for a parasitic
+y was treated as a consonant. Examples are alias, genius, odium, junior, anæmia, and on the
+other hand f[)i]lius, L[)y]dia. Compound verbs with a short prefix were exceptions, as [)o]beo,
+r[)e]creo, whence our 'recreant'. A long prefix remained long as in d[=e]sino. The only other
+exception that I can remember was Ph[)o]loe.
+
+In polysyllables the general rule was that all vowels and diphthongs before the penultima other
+than u, when it bore a primary or secondary stress, and au and eu were pronounced short except
+where the 'alias' rule or the 'larva' rule applied. Thus we said h[)e]r[)e]ditaritis, [)æ]qu[)a]bilitas,
+imb[)e]cillus, susp[)i]cionem, but fid[=u]ciarius, m[=e]diocritas, p[=a]rticipare. I do not
+know why the popular voice now gives [)A]riadne, for our forefathers said [=A]riadne as they
+said [=a]rea.
+
+In very long words the alternation of stress and no-stress was insisted on. I remember a schoolmaster
+who took his degree at Oxford in the year 1827 reproving a boy for saying Álphesib['oe]us instead
+of Alphesib['oe]us, and I suspect that Wordsworth meant no inverted stress in
+
+  Laódamía, that at Jove's command--
+
+nor Landor in
+
+  Artémidóra, gods invisible--
+
+though I hope that they did.
+
+       *       *       *       *       *
+
+It is not to be thought that these rules were in any way arbitrary. So little was this so that,
+I believe, they were never even formulated. If examples with the quantities marked were ever
+given, they must have been for the use of foreigners settling in England. English boys did
+not want rules, and their teachers could not really have given them. The teachers did not understand
+that each vowel represented not two sounds only, a long and a short, but many more. This fact
+was no more understood by John Walker, the actor and lexicographer, who in 1798 published a
+Key to the Classical Pronunciation of Greek and Latin proper names. His general rule was wrong
+as a general rule, and so far as it agreed with facts it was useless. He says that when a vowel
+ends a syllable it is long, and when it does not it is short. Apart from the confusion of cause
+and effect there is the error of identifying for instance the e in beatus and the e in habebat.
+Moreover, Walker confounds the u in 'curfew', really long, with the short and otherwise different
+u in 'but'. The rule was useless as a guide, for it did not say whether moneo for instance
+was to be read as ino-neo or as mon-eo, and therefore whether the o was to be long or short.
+Even Walker's list is no exact guide. He gives for instance M[=o]-na, which is right, and M[=o]-næses,
+which is not. Now without going into the difference between long vowels and ordinary vowels,
+of which latter some are long in scansion and some short, it is clear that there is no identity.
+In fact Mona, has the long o of 'moan' and Monæses the ordinary o of 'monaster'. A boy at school
+was not troubled by these matters. He had only two things to learn, first the quantity of the
+penultimate unit, second the fact that a final vowel was pronounced. When he knew these two
+things he gave the Latin word the sounds which it would have if it were an English word imported
+from the Latin. Thus he finds the word civilitate. I am not sure that he could find it, but
+that does not matter. He would know 'civility', and he learns that the penultima of the Latin
+word is long. Therefore he says c[)i]v[)i]l[)i]t[=a]t[)e]. Again he knows '[)i]nf[)i]n[)i]t'
+(I must be allowed to spell the word as it is pronounced except in corrupt quires). He finds
+that the penultima of infinitivus is long, and he therefore says [)i]nf[)i]n[)i]t[=i]v[)u]s.
+Again he knows 'irradiate', and finding that the penultima of irradiabitur is short he says
+[)i]rr[=a]d[)i][)a]b[)i]t[)u]r. It is true that some of these verb forms under the influence
+of their congeners came to have an exceptional pronunciation. Thus irradi[=a]bit led at last
+to irradi[=a]bitur, but I doubt whether this occurred before the nineteenth century. The word
+dabitur, almost naturalized by Luther's adage of date et dabitur, kept its short a down to
+the time when it regained it, in a slightly different form, by its Roman right; and am[)a]mini
+and mon[)e]mini were unwavering in their use. Old people said v[=a]ri[)a]bilis long after the
+true quantities had asserted themselves, and the word as the specific name of a plant may be
+heard even now. Its first syllable of course follows what I shall call the 'alias' rule. We
+may still see this rule in other instances. All men say 'hippopót[)a]mus', and even those who
+know that this a is short in Greek can say nothing but 'Mesopot[=a]mia', unless indeed the
+word lose its blessed and comforting powers in a disyllabic abbreviation. When a country was
+named after Cecil Rhodes, where the e in the surname is mute, we all called it 'Rhod[=e]sia'.
+Had it been named after a Newman, where the a is short or rather obscure, we should all have
+called it 'Newm[=a]nia ', while, named after a Davis, it would certainly have been 'Dav[)i]sia'.
+The process of thought would in each case have been unconscious. A new example is 'aviation',
+whose first vowel has been instinctively lengthened.
+
+Again, when the word 'telegram' was coined, some scholars objected to its formation and insisted
+upon 'telegrapheme', but the most obdurate Grecian did not propose to keep the long Greek vowel
+in the first syllable. When only the other day 'cinematograph' made its not wholly desirable
+appearance, it made no claim to a long vowel in either of its two first syllables. Not till
+it was reasonably shortened into 'c[)i]n[)e]ma' did a Judge from the Bench make a lawless decree
+for a long second vowel, and even he left the i short though it is long in Greek.
+
+Of course with the manner of speech the quantities had to be learnt separately. The task was
+not as difficult as some may think. To boys with a taste for making verses the thumbing of
+a Gradus (I hope that no one calls it a Gr[)a]dus) was always a delightful occupation, and
+a quantity once learnt was seldom forgotten. It must be admitted that, as boys were forced
+to do verses, whether they could or not, there were always some who could read and yet forget.
+
+Although these usages did not precede but followed the pronunciation of words already borrowed
+from Latin, we may use them to classify the changes of quantity. We shall see that although
+there are some exceptions for which it is difficult to give a reason, yet most of the exceptions
+fall under two classes. When words came to us through French, the pronunciation was often affected
+by the French form of the word. Thus the adjective 'present' would, if it had come direct from
+Latin, have had a long vowel in the first syllable. To an English ear 'pr[)e]sent' seemed nearer
+than 'pr[=e]sent' to the French 'présent'. The N.E.D. says that 'gladiator' comes straight
+from the Latin 'gladiatorem'. Surely in that case it would have had its first vowel long, as
+in 'radiator' and 'mediator'. In any case its pronunciation must have been affected by 'gladiateur'.
+The other class of exceptions consists of words deliberately introduced by writers at a late
+period. Thus 'adorable' began as a penman's word. Following 'inéxorable' and the like it should
+have been 'ádorable'. Actually it was formed by adding -able to 'adóre', like 'laughable'.
+It is now too stiff in the joints to think of a change, and must continue to figure with the
+other sins of the Restoration.
+
+Before dealing with the words as classified by their formation, we may make short lists of
+typical words to show that for the pronunciation of English derivatives it is idle to refer
+to the classical quantities.
+
+From [=æ]: [)e]difice, [)e]mulate, c[)e]rulean, qu[)e]stion.
+
+From [=oe]: [)e]conomy, [)e]cumenical, conf[)e]derate.
+
+From [=a],: don[)a]tive, n[)a]tural, cl[)a]mour, [)a]verse.
+
+From [)a]: [=a]lien, st[=a]tion, st[=a]ble, [=a]miable.
+
+From [=e]: [)e]vident, Quadrag[)e]sima, pl[)e]nitude, s[)e]gregate.
+
+From [)e]: s[=e]ries, s[=e]nile, g[=e]nus, g[=e]nius.
+
+From [=i]: lasc[)i]vious, erad[)i]cate, d[)i]vidend, f[)i]lial, susp[)i]cion.
+
+From [)i]: l[=i]bel, m[=i]tre, s[=i]lex.
+
+From [=o]: [)o]rator, pr[)o]minent, pr[)o]montory, s[)o]litude.
+
+From [)o]: b[=o]vine, l[=o]cal, f[=o]rum, coll[=o]quial.
+
+From [=u]: fig[)u]rative, script[)u]ral, sol[)u]ble.
+
+From [)u]: n[=u]merous, C[=u]pid, all[=u]vial, cer[=u]lean.
+
+The N.E.D. prefers the spelling 'oecumenical'; but Newman wrote naturally 'ecumenical', and
+so does Dr. J.B. Bury. Dublin scholarship has in this matter been markedly correct.
+
+CLASSIFICATION OF WORDS ACCORDING TO THEIR LATIN STEMS.
+
+In classification it seems simplest to take the words according to their Latin stems. We must,
+however, first deal with a class of adjectives borrowed bodily from the Latin nominative masculine
+with the insertion of a meaningless o before the final -us.[1] These of course follow the rules
+given above. In words of more than two syllables the antepenultimate and stressed vowel is
+shortened, as '[)e]mulous' from æmulus and in 'fr[)i]volous' from fr[=i]volus, except where
+by the 'alias' rule it is long, as in 'egr[=e]gious' from egr[)e]gius. Words coined on this
+analogy also follow the rules. Thus 'glabrous' and 'fibrous' have the vowels long, as in the
+traditional pronunciation of glabrum and fibrum, where the vowels in classical Latin were short.
+The stressed u being always long we have 'lug[=u]brious' and 'sal[=u]brious', the length being
+independent of the 'alias' rule. Some words ending in -ous are not of this class. Thus 'odorous'
+and 'clamorous' appear in Italian as odoroso and clamoroso. Milton has
+
+  Sonórous mettal blowing Martial sounds.
+
+The Italian is sonoro, and our word was simply the Latin sonorus borrowed bodily at a somewhat
+late period. Hence the stress remains on the penultima. Skeat thought that the word would at
+last become 'sónorous'. It maybe hoped that Milton's line will save it from the effect of a
+false analogy.
+
+[Footnote 1: I regard this statement as inaccurate. The -ous in these words does not come from
+the nominative ending -us, but is the ordinary -ous from L. -osus (through Fr.). It was added
+to many Latin adjective stems, because the need of a distinctly adjectival ending was felt.
+Similarly in early French -eux was appended to adjectives when they were felt to require a
+termination, as in pieux from pi-us. Compare the English capacious, veracious, hilarious, where
+-ous is added to other stems than those in o. Other suffixes of Latin origin are used in the
+same way: e.g. -al in aerial, ethereal.--H.B.]
+
+In classifying by stems it will be well to add, where possible, words of Greek origin. Except
+in some late introductions Greek words, except when introduced bodily, have been treated as
+if they came through Latin, and some of the bodily introductions are in the same case. Thus
+'anæsthetic' is spelt with the Latin diphthong and the Latin c. Even 'skeleton' had a c to
+start with, while the modern and wholly abominable 'kaleidoscope' is unprincipled on the face
+of it.
+
+STEMS ENDING IN -ANT AND -ENT. These are participles or words formed as such. Our words have
+shed a syllable, thus regentem has become 'regent'. Disyllables follow the 'apex' rule and
+lengthen the first vowel, as 'agent', 'decent', 'potent'. Exceptions are 'clement' and 'present',
+perhaps under French influence. Words of more than two syllables with a single consonant before
+the termination throw the stress back and shorten a long penultima, as 'ignorant', 'president',
+'confident', 'adjutant'. Where there are two heavy consonants, the stress remains on the penultima,
+as 'consultant', 'triumphant', even when one of the consonants is not pronounced, as 'reminiscent'.
+In some cases the Latinists seem to have deliberately altered the natural pronunciation. Thus
+Gower has 'ápparaúnt', but the word became 'appárent' before Shakespeare's time, and later
+introductions such as 'adherent' followed it. What right 'adjacent' has to its long vowel and
+penultimate stress I do not know, but it cannot be altered now.
+
+STEMS ENDING IN -ATO AND -UTO. These are mostly past participles, but many of them are used
+in English as verbs. It must be admitted that the disyllabic words are not wholly constant
+to a principle. Those verbs that come from -latum consistently stress the last vowel, as 'dilate',
+'relate', 'collate'. So does 'create', because of one vowel following another. Of the rest
+all the words of any rank have the stress on the penultima, as 'vibrate', 'frustrate', 'mígrate',
+'cástrate', 'púlsate', 'vácate'. Thus Pope has
+
+  The whisper, that to greatness still too near,
+  Perhaps, yet vibrates on his Sov'reign's ear,
+
+and Shelley
+
+  Music, when soft voices die,
+  Vibrates in the memory.
+
+There are, however, verbs of no literary account which in usage either vary in the stress or
+take it on the latter syllable. Such are 'locate', 'orate', 'negate', 'placate', and perhaps
+'rotate'. With most of these we could well dispense. 'Equate' is mainly a technical word. Dictionaries
+seem to prefer the stress on the ultima, but some at least of the early Victorian mathematicians
+said 'équate', and the pronunciation is to be supported. Trisyllabic verbs throw the stress
+back and shorten the penultima, as 'dés[)o]late', 'súff[)o]cate', 'scínt[)i]llate'. Even words
+with heavy double consonants have adopted this habit. Thus where Browning has (like Milton
+and Cowper)
+
+  I the Trinity illústrate
+    Drinking water'd orange pulp,
+  In three sips the Arian frustrate.
+    While he drains his at one gulp,
+
+it is now usual to say 'íllustrate'.
+
+Adjectives of this class take as early a stress as they can, as 'órnate', 'pínnate', 'délicate',
+'fórtunate'. Nouns from all these words throw the accent back and shorten or obscure all but
+the penultimate vowel, as 'ignorance', 'evaporation'.
+
+STEMS IN -IA. Here even disyllables shorten the penultima, as 'copy', 'province', while longer
+words throw the stress back as well as shorten the penultima, as 'injury', 'colony', while
+'ignominy' almost lost its penultimate vowel, and therefore threw back the stress to the first
+syllable. Shakespeare frankly writes the word as a trisyllable,
+
+  Thy ignomy sleep with thee in the grave.
+
+Milton restored the lost syllable, often eliding the final vowel, as in
+
+  Exile, or ignominy, or bonds, or pain.
+
+Even with heavy consonants we have the early stress, as in 'industry'. Greek words follow the
+same rules, as 'agony', 'melody'. Some words of this class have under French influence been
+further abbreviated, as 'concord'.
+
+Corresponding STEMS IN -IO keep the same rules. Perhaps the only disyllable is 'study'; the
+shortening of a stressed u shows its immediate derivation from the old French estudie. Trisyllabic
+examples are 'colloquy', 'ministry', 'perjury'. Many words of this class have been further
+abbreviated in their passage through French. Such are 'benefice', 'divorce', 'office', 'presage',
+'suffrage', 'vestige', 'adverb', 'homicide', 'proverb'. The stress in 'divórce' is due to the
+long vowel and the two consonants. A few of these words have been borrowed bodily from Latin,
+as 'odium', 'tedium', 'opprobrium'.
+
+STEMS IN -DO AND -TO (-SO). These words lose the final Latin syllable and keep the stress on
+the vowel which bore it in Latin. The stressed vowel, except in au, eu, is short, even when,
+as in 'vivid', 'florid', it was long in classical Latin. This, of course, is in accord with
+the English pronunciation of Latin. Examples are 'acid', 'tepid', 'rigid', 'horrid', 'humid',
+'lurid ', 'absurd', 'tacit', 'digit', 'deposit', 'compact', 'complex', 'revise', 'response',
+'acute'. Those which have the suffix -es prefixed throw the stress back, as 'honest', 'modest'.
+Those which have the suffix -men prefixed also throw the stress back, as 'moment', 'pigment',
+'torment', and to the antepenultima, if there be one, as 'argument', 'armament', 'emolument',
+the penultimate vowel becoming short or obscure. In 'temperament' the tendency of the second
+syllable to disappear has carried the stress still further back. We may compare 'Séptuagint',
+where u becomes consonantal. An exception for which I cannot account is 'cemént', but Shakespeare
+has 'cément'.
+
+STEMS IN -T[=A]T. These are nouns and have the stress on the antepenultima, which in Latin
+bore the secondary stress. They of course show the usual shortening of the vowels with the
+usual exceptions. Examples are 'charity', 'equity', 'liberty', 'ferocity', 'authority', and
+with long antepenultima 'immunity', 'security', 'university'. With no vowel before the penultima
+the long quality is, as usual, preserved, as in 'satiety'.
+
+STEMS IN -OSO. These are adjectives and throw the stress back to the antepenultima, if there
+be one. In disyllables the penultimate vowel is long, as in 'famous', 'vinous'; in longer words
+the antepenultimate vowel is short, as 'criminous', 'generous'. Many, however, fall under the
+'alias' rule, as 'ingenious', 'odious', while those which have i in the penultimate run the
+two last syllables into one, as 'pernicious', 'religious', 'vicious'. A few late introductions,
+coming straight from the Latin, retained the Latin stress, as 'morose', 'verbose'.
+
+STEMS IN -T[=O]RIO AND -S[=O]RIO. In these words the stress goes back to the fourth syllable
+from the end, this in Latin having the secondary stress, or, as in 'circulatory', 'ambulatory',
+even further. In fact the o, which of course is shortened, tends to disappear. Examples are
+'declamatory', 'desultory', 'oratory', 'predatory', 'territory'. Three consonants running,
+as in 'perfunctory', keep the stress where it has to be in a trisyllable, such as 'victory'.
+So does a long vowel before r and another consonant, as in 'precursory'. Otherwise two consonants
+have not this effect, as in 'prómontory', 'cónsistory'. In spite of Milton's
+
+  A gloomy Consistory, and them amidst
+  With looks agast and sad he thus bespake,
+
+the word is sometimes mispronounced.
+
+STEMS IN -[=A]RIO. These follow the same rules, except that, as in 'ádversary', combinations
+like ers are shortened and the stress goes back; and that words ending in -entary, such as
+'elementary' and 'testamentary', stress the antepenultima. Examples are 'antiquary', 'honorary',
+'voluntary', 'emissary'. It is difficult to see a reason for an irregular quantity in the antepenultima
+of some trisyllables. The general rule makes it short, as in 'granary', 'salary', but in 'library'
+and 'notary' it has been lengthened. The N.E.D. gives 'pl[=e]nary', but our grandfathers said
+'pl[)e]nary'. Of course 'diary' gives a long quality to the i.
+
+STEMS IN -[)I]LI. These seem originally to have retained the short i. Thus Milton's spelling
+is 'facil' and 'fertil' while other seventeenth-century writers give 'steril'. This pronunciation
+still obtains in America, but in England the words seem to have been usually assimilated to
+'fragile', as Milton spells it, which perhaps always lengthened the vowel. The penultimate
+vowel is short.
+
+STEMS IN -[=I]LI. Here the long i is retained, and in disyllables the penultima is lengthened,
+as in 'anile', 'senile', 'virile'. There is no excuse for following the classical quantity
+in the former syllables of any of these words. As an English word 'sedilia' shortens the antepenultimate,
+like 'tibia' and the rest, the 'alias' rule not applying when the vowel is i.
+
+STEMS IN -B[)I]LI. These mostly come through French and change the suffix into -ble. Disyllables
+lengthen the penultima, as 'able', 'stable', 'noble', while 'mobile', as in French, lengthens
+its latter vowel. Trisyllables shorten and stress the antepenultima, as 'placable', 'equable',
+but of course u remains long, as in 'mutable'. Longer words throw the stress further back,
+except mere negatives, like 'implácable', and words with heavy consonants such as 'delectable'.
+Examples are 'miserable', 'admirable', 'intolerable', 'despicable'. The Poet Laureate holds
+that in these words Milton kept the long Italian a of the penultimate or secondary stress.
+
+  Fall'n Cherube, to be weak is miserable.
+
+In English we have naturalized -able as a suffix and added it to almost any verb, as 'laughable',
+'indescribable', 'desirable'. The last word may have been taken from French. The form 'des[)i]derable'
+occurs from the fourteenth to the seventeenth century. Originally 'acceptable' threw the stress
+back, as in Milton's
+
+  So fit, so acceptable, so Divine,
+
+but the double mute has brought it into line with 'delectable'. Nowadays one sometimes hears
+'dispútable', 'despícable', but these are intolerable vulgarisms.
+
+SUFFIXES IN T[)I]LI AND S[)I]LI. These words mostly lengthen the i and make the usual shortenings,
+as 'missile', 'sessile', 'textile', 'volatile', but of course 'futile'. Exceptions which I
+cannot explain are 'foss[)i]l' and 'fus[)i]le'.
+
+SUFFIX IN [=A]LI. These adjectives shorten the -a and, with the usual exceptions, the preceding
+vowels, as 'dóctrinal', 'fílial', 'líberal', 'márital', 'medícinal', but of course by the 'alias'
+rule 'arb[=o]real' (not a classical word in Latin) and 'g[=e]nial'. Words like 'national' and
+'rational' were treated like trisyllables, which they now are. The stress is on the antepenultima
+except when heavy consonants bring it on to the penultima, as in 'sepulcral', 'parental', 'triumphal'.
+
+Those who say 'doctrínal' on the ground that the second vowel is long in Latin commit themselves
+to 'medicínal', 'natúral', 'nutríment', 'instrúment', and, if their own principle be applied,
+they make false quantities by the dozen every day of their lives.
+
+Three words mostly mispronounced are, from their rarity, perhaps not past rescue. They are
+'décanal', 'ruridécanal', and 'prébendal'. There is no more reason for saying 'decánal' than
+for saying 'matrónal' or for saying 'prebéndal' than for saying 'caléndar'. Of course words
+like 'tremendous', being imported whole, keep the original stress. In our case the Latin words
+came into existence as décanális, prébendális, parallel with náturális, which gives us 'nátural'.
+That mostly wrong-headed man, Burgon of Chichester, was correct in speaking of his rights or
+at any rate his claims as 'décanal'.
+
+STEMS IN -LO. Of these 'stimulus' and 'villa' have been borrowed whole, while umbella is corrupted
+into 'umbrella'. Disyllables lengthen the penultima, as 'stable', 'title', 'pupil'. Under French
+influence 'disciple' follows their example. In longer words the usual shortenings are made,
+as in 'frivolous', 'ridiculous'. The older words in -ulo change the suffix into -le, as 'uncle',
+'maniple', 'tabernacle', 'conventicle', 'receptacle', 'panicle'. Later words retain the u,
+as 'vestibule', 'reticule', 'molecule'.
+
+STEMS IN -NO. The many words of this class are a grief to the classifier, who seeks in vain
+for reasons. Thus 'german' and 'germane' have the same source and travelled, it seems, by the
+same road through France. The Latin hyacinth[)i]nus and adamant[)i]nus are parallel words,
+yet Milton has 'hyacinthin' for the one and 'adamantine' for the other. One classification
+goes a little way. Thus 'human' and 'urban' must have come through French, 'humane' and 'urbane'
+direct from Latin. On the other hand while 'meridian' and 'quartan' are French, 'publican',
+'veteran', and 'oppidan' are Latin. Words with a long i, if they came early through France,
+shorten the vowel, as 'doctrine', 'discipline', 'medicine', and 'masculine', while 'genuine',
+though a later word, followed them, but 'anserine' and 'leonine' did not. Disyllables seem
+to prefer the stress on the ultima, as 'divine', 'supine', but even these are not consistent.
+Some critics would scan Cassio's words
+
+  The dívine Desdemona,
+
+though Shakespeare nowhere else has this stress, while Shelley has. Shelley, too, has
+
+  She cannot know how well the súpine slaves
+  Of blind authority read the truth of things.
+
+The grammatical term, too, is 'súpine'. Later introductions also have this stress, as 'bóvine',
+'cánine', 'équine'. The last word is not always understood. At any rate Halliwell-Phillips,
+referring to a well-known story of Shakespeare's youth, says that the poet probably attended
+the theatre 'in some equine capacity'. As it is agreed that 'bovine' and 'equine' lengthen
+the former vowel, we ought by analogy to say 'c[=a]nine', as probably most people do. Words
+of more than two syllables have the stress on the antepenultima and the vowel is short, as
+in 'libertine', 'adulterine', but of course '[=u]terine'. When heavy consonants bring the stress
+on to the penultima, the i is shortened, as in 'clandest[)i]n(e)', 'intest[)i]n(e)', and so
+in like disyllables, as 'doctr[)i]n(e)'. The modern words 'morphin(e)' and 'strychnin(e)',
+coined, the one from Morpheus and the other from the Greek name of the plant known to botanists
+as Withania somnifera, correctly follow 'doctrine' in shortening the i, though another pronunciation
+is sometimes heard.
+
+STEMS IN -TUDIN. These shorten the antepenultima, as 'plenitude', 'solitude', with the usual
+exceptions, such as 'fortitude'.
+
+STEMS IN -TION. These words retain the suffix, which in early days was disyllabic, as it sometimes
+is in Shakespeare, for instance in Portia's
+
+  Before a friend of this descriptión
+  Shall lose a hair through Bassanio's fault.
+
+Thus they came under the 'alias' rule, and what is now the penultimate vowel is long unless
+it be i. Examples are 'nation', 'accretion', 'emotion', 'solution', while i is shortened in
+'petition', 'munition', and the like, and left short in 'admonition' and others. In military
+use an exception is made by 'ration', but the pronunciation is confined to one sense of the
+word, and is new at that. I remember old soldiers of George III who spoke of 'r[=a]tions'.
+Perhaps the ugly change is due to French influence.
+
+Originally the adjectives from these words must have lengthened the fourth vowel from the end
+long, as n[=a]t[)i][)o]nal, but when ti became sh they came to follow the rule of Latin trisyllables
+in our pronunciation.
+
+STEMS IN -IC. Of these words we have a good many, both Latin and Greek. Those that came direct
+keep the stress on the vowel which was antepenultimate and is in English penultimate, and this
+vowel is short whatever its original quantity. Examples are 'aquatic', 'italic', 'Germanic'.
+Words that came through French threw the stress back, as 'lúnatic'. Skeat says that 'fanatic'
+came through French, but he can hardly be right, for the pronunciation 'fánatic' is barely
+three score years old. There is no inverted stress in Milton's
+
+  Fanátic Egypt and her priests.
+
+As for 'unique' it is a modern borrowing from French, and of late 'ántique' or 'ántic', as
+Shakespeare has it, has followed in one of its senses the French use. It is a pity in face
+of Milton's
+
+  With mask and ántique Pageantry,
+
+and it obscures the etymological identity of 'antique' and 'antic', but the old pronunciation
+is irredeemable. At least the new avoids the homophonic inconvenience.
+
+Greek words of this class used as adjectives mostly follow the same rule, as 'sporadic', 'dynamic',
+'pneumatic', 'esoteric', 'philanthropic', 'emetic', 'panegyric'. As nouns the earlier introductions
+threw the stress back, as 'heretic', 'arithmetic', but later words follow the adjectives, as
+'emetic', 'enclitic', 'panegyric'. As for 'politic', which is stressed as we stress both by
+Shakespeare and by Milton, it must be under French influence, though Skeat seems to think that
+it came straight from Latin.
+
+STEMS IN -OS. These words agree in being disyllabic, but otherwise they are a tiresome and
+quarrelsome people. For their diversity in spelling some can make a defence, since 'horror',
+'pallor', 'stupor' came straight from Latin, but 'tenor', coming through French, should have
+joined hands with 'colour', 'honour', 'odour'. The short vowel is inevitable in 'horror' and
+'pallor', the long in 'ardour', 'stupor', 'tumour'. The rest are at war, 'clamour', 'colour',
+'honour', 'dolour', 'rigour', 'squalor', 'tenor', 'vigour' in the short legion, 'favour', 'labour',
+'odour', 'vapour' in the long. Their camp-followers ending in -ous are under their discipline,
+so that, while 'cl[)a]morous', 'r[)i]gorous', 'v[)i]gorous' agree with the general rule, '[=o]dorous'
+makes an exception to it. All the derivatives of favor are exceptions to the general rule,
+for 'favourite' and 'favorable' keep its long a. Of course 'l[)a]b[=o]rious' is quite in order,
+and so is 'v[)a]pid'.
+
+STEMS IN -TOR AND -SOR. These words, when they came through French, threw the stress back and
+shortened the penultimate, [=o]r[=a]torem becoming orateur, and then '[)o]r[)a]tor', with the
+stress on the antepenultimate. Others of the same type are 'auditor', 'competitor', 'senator',
+and Shelley has
+
+  The sister-pest, congrégator of slaves,
+
+while 'amateur' is borrowed whole from French and stresses its ultima. Trisyllables of course
+shorten the first vowel, as 'cr[)e]ditor', 'j[)a]nitor'. Polysyllables follow the stress of
+the verbs; thus 'ágitate' gives 'ágitator' and 'compóse' gives 'compósitor'. To the first class
+belongs 'circulator', 'educator', 'imitator', 'moderator', 'negotiator', 'prevaricator', with
+which 'gladiator' associates itself; to the second belongs 'competitor'. Words which came straight
+from Latin keep the stress of the Latin nominative, as 'creator', 'spectator', 'testator',
+'coadjutor', 'assessor', to which in Walton's honour must be added 'Piscator' and 'Venator'.
+On 'curator' he who decides does so at his peril. On one occasion Eldon from the Bench corrected
+Erskine for saying 'cúr[)a]tor'. 'Cur[=a]tor, Mr. Erskine, cur[=a]tor.' 'I am glad', was the
+reply, 'to be set right by so eminent a sen[=a]tor and so eloquent an or[=a]tor as your Lordship.'
+Neither eminent lawyer knew much about it, but each was so far right that he stuck to the custom
+of his country. On other grounds Erskine might be thought to have committed himself to 'tést[)a]tor',
+if not quite to the 'testy tricks' of Sally in Mrs. Gaskell's 'Ruth'.
+
+STEMS IN -ERO AND -URO. Adjectives of this type keep the Latin stress, which thus falls on
+the ultima, and shorten or obscure the penultimate vowel, as 'mature', 'obscure', 'severe',
+'sincere', but of course '[=a]ustere'. Of like form though of other origin is 'secure'. Nouns
+take an early stress, as 'áperture', 'sépulture', 'líterature', 'témperature', unless two mutes
+obstruct, as in 'conjécture'. Of the disyllables 'nature' keeps a long penultima, while 'figure'
+has it short, not because of the Latin quantity, but because of the French.
+
+The lonely word 'mediocre' lengthens its first vowel by the 'alias' rule and also stresses
+it. Whether the penultima has more than a secondary stress is a matter of dispute.
+
+STEMS IN -ARI. These words have the stress on the antepenultima, which they shorten, as in
+'secular' or keep short as in 'jocular', 'familiar', but of course 'pec[=u]liar'.
+
+ON CERTAIN GREEK WORDS.
+
+It will have been seen that Greek words are usually treated as Latin. Thus 'crisis' lengthens
+the penultima under the 'apex' rule, while 'critical' has it short under the general rule of
+polysyllables. Other examples of lengthening are 'bathos', 'pathos', while the long quantity
+is of course kept in 'colon' and 'crasis'. For the 'alias' rule we may quote '[=a]theist',
+'cryptog[=a]mia', 'h[=o]meopathy', 'heterog[=e]neous', 'pandem[=o]nium', while the normal shortenings
+are found in 'an[)o]nymous', 'eph[)e]meral', 'pand[)e]monium', '[)e]r[)e]mite'. Ignorance of
+English usage has made some editors flounder on a line of Pope's:
+
+  Yes, or we must renounce the Stagirite.
+
+The birthplace of Aristotle was of course Stag[=i]ra or, as it is now fashionable to transcribe
+it, Stageira, as Pope doubtless knew, but the editors who accuse him of a false quantity in
+Greek are on the contrary themselves guilty of one in English. The penultima in English is
+short whether it was long or, as in 'dynamite' and 'malachite', short in Greek.
+
+There is, however, one distinct class of Greek words in which the Latin rule is not followed.
+In the sixteenth and seventeenth centuries there were scholars who rightly or wrongly treated
+the Greek accent as a mark of stress. It is clear that this habit led to an inability to maintain
+a long quantity in an unstressed syllable. Shakespeare must have learnt his little Greek from
+a scholar who had this habit, for he writes 'Andrón[)i]cus' and also
+
+  I am misánthr[)o]pos and hate mankind.
+
+Of course all scholars shortened the first vowel of the word, and doubtless Shakespeare shortened
+also the third. Busby also thus spoke Greek with the result that Dryden in later life sometimes
+wrote epsilon instead of eta and also spoke of 'Cleoménes' and 'Iphig[=e]n[)i]a'. As a boy
+at Westminster he wrote
+
+  Learn'd, Vertuous, Pious, Great, and have by this
+  An universal Metempsuchosis.
+
+Macaulay with an ignorance very unusual in him rebuked his nephew for saying 'metamórph[)o]sis',
+and Dr. Johnson, had he been living, would have rebuked Macaulay. For the sake of our poets
+we ought to save 'apothé[)o]sis', which is in some danger. Garth may perhaps be forgotten,
+
+  Allots the prince of his celestial line
+  An Apotheosis and rights divine,
+
+but 'Rejected Addresses' should still carry weight. In the burlesque couplet, ascribed in the
+first edition to the younger Colman and afterwards transferred to Theodore Hook, we have
+
+  That John and Mrs. Bull from ale and tea-houses
+  May shout huzza for Punch's apotheosis.
+
+It need hardly be said that 'tea-houses' like 'grandfathers' has the stress on the antepenultimate.
+
+There are other words of Greek origin which now break the rules, though I believe the infringement
+to be quite modern. First we have the class beginning with proto. It can hardly be doubted
+that our ancestors followed rule and said 'pr[)o]tocol', and 'pr[)o]totype', and I suspect
+also 'pr[)o]tomartyr'. There seems, however, to be a general agreement nowadays to keep the
+Greek omega. As for 'protagonist' the word is so technical and is often so ludicrously misunderstood
+that writers on the Greek drama would do well to retain the Greek termination and say 'protagonistes';
+for 'protagonist' is very commonly mistaken and used for the opposite of 'antagonist'.
+
+Next come words beginning with hypo or hyph. In a disyllable the vowel is long by the 'apex'
+rule, as in 'hyphen'. In longer words it should be short. So once it was, and we still say
+'hypocaust', 'hypocrit', 'hypochondria' (whence 'hypped'), 'hypothesis', and others, but a
+large group of technical and scientific words seems determined to have a long y. It looks as
+though there were a belief that y is naturally long, though the French influence which gives
+us 't[=y]rant' does not extend to 'tyranny'. I do not know what Mr. Hardy calls his poem, but
+I hope he follows the old use and calls it 'The D[)y]nasts'. It might be thought that 'd[)y]nasty'
+was safe, but it is not. Some modern words like 'dynamite' have been misused from their birth.
+
+Another class begins with hydro- from the Greek word for water. None of them seem to be very
+old, but probably 'hydraulic' began life with a short y. Surely Mrs. Malaprop, when she meant
+'hysterics' and said 'hydrostatics', must have used the short y. Of course 'hydra' which comes
+from the same root follows the 'apex' rule.
+
+Words beginning with hyper- seem nowadays always to have a long y except that one sometimes
+hears 'h[)y]perbole' and 'h[)y]perbolical'. Of course both in hypo- and in hyper- the vowel
+is short in Greek, so that here at least the strange lengthening cannot be ascribed to the
+Grecians. The false theory of a long y has not affected 'cynic' or 'cynical', while 'Cyril'
+has been saved by being a Christian name. We may yet hope to retain y short in 'cylinder',
+'cynosure', 'lycanthropy', 'mythology', 'pyramid', 'pyrotechnic', 'sycamore', 'synonym', 'typical'.
+As for 'h[=y]brid' it seems as much a caprice as '[=a]crid', a pronunciation often heard. Though
+'acrid' is a false formation it ought to follow 'vivid' and 'florid'. The 'alias' rule enforces
+a long y in 'hygiene' and 'hygienic'.
+
+On the matter of Greek names the lettern and the pulpit are grievous offenders. Once it was
+not so. The clergymen of the old type and the scholars of the Oxford Retrogression said T[)i]m[=o]th[)e][)u]s,
+because they had a sense of English and followed, consciously or unconsciously, the 'alias'
+rule. If there was ever an error, it was on the lips of some illiterate literate who made three
+syllables of the word. Now it seems fashionable to say T[=i]m[)o]th[)e][)u]s. The literate
+was better than this, for he at least had no theory, and frank ignorance is to be forgiven.
+It is no shame to a man not to know that the second i in 'Villiers' is as mute as that in 'Parliament'
+or that Bolingbroke's name began with Bull and ended with brook, but when ignorance constructs
+a theory it is quite another matter. The etymological theory of pronunciation is intolerable.
+Etymology was a charming nymph even when men had but a distant acquaintance with her, and a
+nearer view adds to her graces; but when she is dragged reluctant from her element she flops
+like a stranded mermaid. The curate says 'Deuteronómy', and on his theory ought to say 'económy'
+and 'etymológy'. When Robert Gomery--why not give the reverend poetaster his real if less elegant
+name--published his once popular work, every one called it 'The Omnípresence of the Deïty',
+and Shelley had already written
+
+  And, as I look'd, the bright omnípresence
+  Of morning through the orient cavern flowed.
+
+It is true that Ken a century earlier had committed himself to
+
+  Thou while below wert yet on high
+  By Omniprésent Deity,
+
+and later Coleridge, perhaps characteristically, had sinned with
+
+  There is one Mind, one omniprésent Mind,
+
+but neither the bishop nor the poet would have said 'omniscíence', or 'omnipótence'.
+
+Another word to show signs of etymological corruption is '[)e]volution'. It seems to have been
+introduced as a technical term of the art of war, and of course, like 'd[)e]volution', shortened
+the e. The biologists first borrowed it and later seem desirous of corrupting it. Perhaps they
+think of such words as '[=e]gress', but the long vowel is right in the stressed penultimate.
+
+One natural tendency in English runs strongly against etymology. This is the tendency to throw
+the stress back, which about a century ago turned 'contémplate' into 'cóntemplate' and somewhat
+later 'illústrate' into 'íllustrate'. Shakespeare and Milton pronounced 'instinct' as we pronounce
+'distinct' and 'aspect' as we pronounce 'respect'. Thus Belarius is made to say
+
+            'Tis wonder
+  That an invisible instínct should frame them
+  To royalty unlearn'd,
+
+and Milton has
+
+  By this new felt attraction and instinct,
+
+and also
+
+  In battailous aspéct and neerer view.
+
+The retrogression of the stress is in these instances well established, and we cannot quarrel
+with it; but against some very recent instances a protest may be made. One seems to be a corruption
+of the War. In 1884 the N.E.D. recognized no pronunciation of it save 'allý', as in Romeo's
+
+  This gentleman, the prince's neer Alie.
+
+The late Mr. B.B. Rogers in his translations of Aristophanes has of course no other pronunciation.
+His verses are too good to be spoiled by what began as a vulgarism. Another equally recent
+vulgarism, not recognized by the N.E.D. and bad enough to make George Russell turn in his grave,
+is 'mágazine' for 'magazíne'. It is not yet common, but such vulgarisms are apt to climb.
+
+In times not quite so recent the word 'prophecy' has changed, not indeed its stress, but the
+quantity of its final vowel. When Alford wrote 'The Queen's English', every one lengthened
+the last vowel, as in the verb, nor do I remember any other pronunciation in my boyhood. Now
+the N.E.D. gives the short vowel only. Alford to his own satisfaction accounted for the long
+vowel by the diphthong ei of the Greek. It is to be feared that his explanation would involve
+'dynast[=y]' and 'polic[=y]', even if it did not oblige us to turn 'Pompey' into 'Pomp[=y]'.
+In this case it may be suspected that the noun was assimilated to the verb, which follows the
+analogy of 'magnify' and 'multiply'. The voice of the people which now gives us 'prophec[)y]'
+seems here to have felt the power of analogy and assuredly will prevail.
+
+ON PROPER NAMES.
+
+It is to be hoped that except in reading Latin and Greek texts we shall keep to the traditional
+pronunciation of proper names as it is enshrined in our poetry and other literature. We must
+continue to lengthen the stressed penultimate vowel in Athos, Cato, Draco, Eros, Hebrus, Lichas,
+Nero, Otho, Plato, Pylos, Remus, Samos, Titus, Venus, and the many other disyllables wherein
+it was short in the ancient tongues. On the other hand we shall shorten the originally long
+stressed antepenultimate vowel in Brasidas, Euripides, Icarus, Lavinia, Lucilius, Lydia, Nicias,
+Onesimus, Pegasus, Pyramus, Regulus, Romulus, Scipio, Sisyphus, Socrates, Thucydides, and many
+more.
+
+Quin, and the actors of his day, used to give to the first vowel in 'Cato' the sound of the
+a in 'father'. They probably thought that they were Italianizing such names. In fact their
+use was neither Latin nor English. They were like the men of to-day who speak of the town opposite
+Dover as 'Cally', a name neither French nor English. A town which once sent members to the
+English Parliament has a right to an English name. Prior rhymed it with 'Alice' and Browning has
+
+  When Fortune's malice
+  Lost her Calais.
+
+Shakespeare, of course, spelt it 'Callis', and this form, which was first evicted by Pope,
+whom other editors servilely followed, ought to be restored to Shakespeare's text. In the pronunciation
+of Cato the stage regained the English diphthong in the mouth of Garrick, whose good sense
+was often in evidence. It is recorded that his example was not at once followed in Scotland
+or Ireland. If there was any Highlander on the stage it may be hoped that he gave to the vowel
+the true Latin sound as it appears in 'Mactavish'.
+
+A once well-known schoolmaster, a correspondent of Conington's, had a daughter born to him
+whom in his unregenerate days he christened Rosa. At a later time he became a purist in quantities,
+and then he shortened the o and took the voice out of the s and spoke of her and to her as
+Rossa. The mother and the sisters refused to acknowledge what they regarded as a touch of shamrock
+and clung persistently to the English flower. The good gentleman did not call his son Sol[=o]mon,[2]
+though this is the form which ought to be used by those who turn the traditional English 'Elk[)a]nah'
+into 'Elk[=a]nah', 'Ab[)a]na' into 'Ab[=a]na', and 'Zeb[)u]lun' into 'Zeb[=u]lun'. If they
+do not know
+
+  Poor Elk[)a]nah, all other troubles past,
+  For bread in Smithfield dragons hiss'd at last,
+
+yet at least they ought to know
+
+  Of Abb[)a]na and Pharphar, lucid streams.
+
+The malison of Milton on their heads! If the translators of the Bible had foreseen 'Zeb[=u]lun',
+they would have chosen some other word than 'princes' to avoid the cacophony of 'the princes
+of Zeb[=u]lun'.
+
+[Footnote 2: But pedantry would not suggest this. The New Testament has [Greek: Solomôn], and
+the Latin Christian poets have the o short. True, the Vatican Septuagint has [Greek: Salômôn],
+but there the vowel of the first syllable is a.--H.B.]
+
+That these usages were familiar is evident from the pronunciation of proper, especially Biblical,
+names. Thus 'B[=a]bel' and 'B[)a]bylon', 'N[=i]nus' and 'N[)i]neveh', were spoken as unconsciously
+as M[=i]chael' and 'M[)i]chaelmas'. Nobody thought of asking the quantity of the Hebrew vowels
+before he spoke of 'C[=a]leb' and 'B[=a]rak', of 'G[)i]deon' and 'G[)i]lead', of 'D[)e]borah'
+and 'Ab[)i]melech', of '[=E]phraim' and 'B[=e]lial'. The seeming exceptions can be explained.
+Thus the priest said 'H[)e]rod' because in the Vulgate he read 'H[)e]rodes', but there was
+no Greek or Latin form to make him say anything else than 'M[=e]roz', 'P[=e]rez', 'S[=e]rah',
+'T[=e]resh'. He said '[)A]dam' because, although the Septuagint and other books retained the
+bare form of the name, there were other writings in which the name was extended by a Latin
+termination. There was no like extension to tempt him to say anything but 'C[=a]desh', '[=E]dom',
+'J[=a]don', 'N[=a]dab'. I must admit my inability to explain 'Th[)o]mas', but doubtless there
+is a reason. The abbreviated form was of course first 'Th[)o]m' and then 'T[)o]m'. Possibly
+the pet name has claimed dominion over the classical form. As in the herba impia of the early
+botanists, these young shoots sometimes refuse to be 'trash'd for overtopping'.
+
+A story is told of an eccentric Essex rector. He was reading in church the fourth chapter of
+Judges, and after 'Now D[)e]borah, a prophetess', suddenly stopped, not much to the astonishment
+of the rustics, for they knew his ways. Then he went on 'Deb[)o]rah? Deb[)o]rah? Deb[=o]rah!
+Now Deb[=o]rah, a prophetess', and so on. Probably a freak of memory had reminded him that
+the letter was omega in the Septuagint. It will be remembered that Miss Jenkyns in Cranford
+liked her sister to call her Deb[=o]rah, 'her father having once said that the Hebrew name
+ought to be so pronounced', and it will not be forgotten that the good rector was too sound
+a scholar to read 'Deb[=o]rah' at the lettern.
+
+An anecdote of Burgon's is to the point. He had preached in St. Mary's what he regarded as
+an epoch-making sermon, and afterwards he walked home to Oriel with Hawkins, the famous Provost.
+He looked for comment and hoped for praise, but the Provost's only remark was, 'Why do you
+say Emm[=a]us?' 'I don't know; isn't it Emm[=a]us?' 'No, no; Emm[)a]us, Emm[)a]us.' When Hawkins
+was young, in the days of George III, every one said Emmaus, and in such matters he would say,
+'I will have no innovations in my time.' On the King's lips the phrase, as referring to politics,
+was foolish, but Hawkins used it with sense.
+
+PS.--I had meant to cite an anecdote of Johnson.
+
+J.S.
+
+MISCELLANEOUS NOTES AND CORRESPONDENCE
+
+       *       *       *       *       *
+
+ADDENDA TO HOMOPHONES IN TRACT II
+
+Several correspondents complain of the incompleteness of the list of Homophones in Tract II.
+The object of that list was to convince readers of the magnitude of the mischief, and the consequent
+necessity for preserving niceties of pronunciation: evidence of its incompleteness must strengthen
+its plea. The following words may be added; they are set here in the order of the literary
+alphabet.
+
+Add to Table I (p. 7)
+
+  band, [^1] a tie, [^2] a company.
+
+  bend, [^1] verb, [^2] heraldic sub.
+
+  bay, [^1] tree, [^2] arm of sea, [^3] window,
+    [^4] barking of dog, and 'at bay',
+    [^5] a dam, [^6] of antler, [^7] a colour.
+
+  blaze, [^1] of flame, [^2] to sound forth.
+
+  bluff, [^1] adj. & sub. = broad = fronted,
+    [^2] blinker, [^3] sub. and v. confusing [^1] and [^2].
+
+  boom, [^1] to hum, [^2] = beam.
+
+  cant, [^1] whine, [^2] to tilt.
+
+  chaff, [^1] of wheat, [^2] = chafe (slang).
+
+  cove, [^1] a recess, [^2] = chap (slang).
+
+  file, [^1] string, [^2] rasp, [^3] = to defile.
+
+  grave, [^1] sub., [^2] adj.
+
+  hind, [^1] fem. of stag, [^2] a peasant, [^3] adj. of behind.
+
+  limb, [^1] member, [^2] edge, [^3] limn.
+
+  limber, [^1] shaft of cart (verb in artillery),
+    [^2] naut. subs., [^3] adj. pliant.
+
+  loom, [^1] subs., [^2] v.
+
+  nice, gneiss.
+
+  ounce, [^1] animal, [^2] a weight.
+
+  plash, [^1] = pleach, [^2] a puddle.
+
+  port, [^1] demeanour, & military v.,
+    [^2] haven, [^3] gate & naut.= port-hole,
+    [^4] = larboard, [^5] a wine.
+
+  shingle, [^1] a wooden tile, [^2] gravel,
+    [^3] (in pl.) a disease.
+
+  shrub, [^1] a bush, [^2] a drink.
+
+  smack, [^1] a sounding blow, [^2] a fishing boat, [^3] taste.
+
+  throw, throe.
+
+Also note that so should be added to sew, sow, and that the words leech, leach, are not sufficiently
+credited with etymological variety: [see below p. 33].
+
+To Table II add
+
+  when, wen.
+
+To Table VIII
+
+The following words, the absence of which has been noted, are not true homophones:--
+
+  crack
+  fool
+  fume
+  gentle
+  interest
+  palm
+  stem
+  trip
+
+To Table IX add
+
+  must [^1] obs? new wine, [^2] verb.
+
+To Shakespearean obsoletes p. 27 add
+
+  limn, lost in limb.
+
+       *       *       *       *       *
+
+THE SKILFUL LEECH
+
+The Poet Laureate has pointed out that several useful words have been lost to the English language
+because their identity in sound with other words renders it impossible to use them without
+the risk either of being misunderstood or of calling up undesirable associations. It is owing
+to this cause that English--or, at least, the English of Great Britain--has no word that can
+correctly be used as a general designation for a member of the healing profession. In America,
+I believe, the word is 'physician'; but in England that appellation belongs to one branch of
+the profession exclusively. The most usual term here is 'doctor'; but the M.D. rightly objects
+to the application of this title to his professional brother who has no degree; and in a university
+town to say that John Smith is a doctor would be inconveniently ambiguous. 'Medical man' is
+cumbrous, and has the further disadvantage (in these days) of not being of common gender. Now
+the lack of any proper word for a meaning so constantly needing to be expressed is certainly
+a serious defect in modern (insular) English. The Americans have some right to crow over us
+here; but their 'physician' is a long word; and though it has been good English in the sense
+of medicus for six hundred years, it ought by etymology to mean what physicien does in French,
+and physicist in modern English. Our ancestors were better off in this respect than either
+we or the Americans. The only native word to denote a practiser of the healing art is leech,
+which is better than the foreign 'physician' because it is shorter. It was once a term of high
+dignity: Chaucer could apply it figuratively to God, as the healer of souls; and even in the
+sixteenth century a poet could address his lady as 'My sorowes leech'. Why can we not so use
+it now? Why do we not speak of 'The Royal College of Leeches'? Obviously, because a word of
+the same form happens to be the name of an ugly little animal of disgusting habits. If I were
+to introduce my medical attendant to a friend with the words 'This is my leech', the gentleman
+(or lady) so presented would think I was indulging in the same sort of pleasantry as is used
+when a coachman is called a 'whip'; and he (or she) would probably not consider the joke to
+be in the best of taste. Of course all educated people know that it was once not unusual to
+speak of a man of medicine as a 'leech'; but probably there are many who imagine that this
+designation was a disparaging allusion to the man's tool of trade, and that it could be applied
+only to inferior members of the profession. The ancient appellation of the healer is so far
+obsolete that if I were to answer a question as to a man's profession with the words 'Oh, he
+is a leech', there would be some risk of being misunderstood to mean that he was a money-lender.
+
+Etymologists generally have regarded the name of the bloodsucking animal as the same word with
+leech a physician, the assumption being that the animal received its name from its use as a
+remedial agent. But the early forms, both in English and Low German, show that the words are
+originally unconnected. The English for medicus was in the tenth century l['æ]ce or léce, and
+in the thirteenth century leche; the word for sanguisuga was in the tenth century lyce, and
+in the thirteenth century liche. According to phonetic law the latter word should have become
+litch in modern English; but it very early underwent a punning alteration which made it homophonous
+with the ancient word for physician. The unfortunate consequence is that the English language
+has hopelessly lost a valuable word, for which it has never been able to find a satisfactory
+substitute.
+
+H.B.
+
+DIFFERENTIATION OF HOMOPHONES
+
+On this very difficult question the attitude of a careful English speaker is shown in the following
+extract from a letter addressed to us:
+
+METAL, METTLE: AND PRINCIPAL, PRINCIPLE
+
+'I find that I do not naturally distinguish metal and mettle in pronunciation, tho' when there
+is any danger of ambiguity I say metal for the former and met'l for the latter; and I should
+probably do so (without thinking about it) in a public speech. In my young days the people
+about me usually pronounced met'l for both. Theoretically I think the distinction is a desirable
+one to make; the fact that the words are etymologically identical seems to me irrelevant. The
+words are distinctly two in modern use: when we talk of mettle (meaning spiritedness) there
+is in our mind no thought whatever of the etymological sense of the word, and the recollection
+of it, if it occurred, would only be disturbing. So I intend in future to pronounce metal as
+met[e]l (when I don't forget). And I am not sure that met[e]l is, strictly speaking, a "spelling-pronunciation":
+It is possible that the difference in spelling originated in a difference of pronunciation,
+not the other way about. For metal in its literal sense was originally a scientific word, and
+in that sense may have been pronounced carefully by people who would pronounce it carelessly
+when they used it in a colloquial transferred sense approaching to slang.
+
+'The question of principal and principle is different. When I was young, educated people in
+my circle always, I believe, distinguished them; so to this day when I hear principal pronounced
+as principle it gives me a squirm, tho' I am afraid nearly everybody does it now. That the
+words are etymologically distinct does not greatly matter; it is of more importance that I
+have sometimes been puzzled to know which word a speaker meant; if I remember right, I once
+had to ask.
+
+'It would be worth while to distinguish flower and flour (which originally, like metal and
+mettle, were the same word); yet in practice it is not easy to make the difference audible.
+The homophony is sometimes inconvenient.'
+
+CORRECTION TO TRACT II
+
+On p. 37 of TRACT II the words 'the Anglo-prussian society which Mr. Jones represents' have
+given offence and appear to be inaccurate. The German title of the series in which Jones's
+Dictionary is one has the following arrangement of words facing the English title:
+
+HERAUSGEGEBEN
+
+UND
+
+DER "ASSOCIATION PHONÉTIQUE INTERNATIONALE" GEWIDMET
+
+VON
+
+H. MICHAELIS,
+
+and this misled me. I am assured that, though the dictionary may be rightly described as Anglo-Prussian,
+the Phonetic Association is Gallo-Scandinavian. In behalf of the S.P.E. I apologize to the
+A. Ph. I. for my mistake which has led one of its eminent associates to accuse me of bearing
+illwill towards the Germans. The logic of that reproach baffles me utterly.
+
+[R.B.]
+
+       *       *       *       *       *
+
+SOME LEXICAL MATTERS
+
+FAST = QUICK OR FIRM
+
+'An Old Cricketer' writes:
+
+'After reading your remarks on the ambiguity of the word fast (Tract III, p. 12) I read in
+the report of a Lancashire cricket match that Makepeace was the only batsman who was fast-footed.
+But for the context and my knowledge of the game I should have concluded that Makepeace kept
+his feet immovably on the crease; but the very opposite was intended. At school we used to
+translate [Greek: podas ôkus Achilleus] "swift-footed Achilles", and I took that to mean that
+Achilles was a sprinter. I suppose quick-footed would be the epithet for Makepeace.'
+
+SPRINTER is a good word, though Sprinting Achilles could not be recommended.
+
+BRATTLE
+
+A correspondent from Newcastle writes advocating the recognition of the word brattle as descriptive
+of thunder. It is a good old echo-word used by Dunbar and Douglas and Burns and by modern English
+writers. It is familiar through the first stanza of Burns's poem 'To a Mouse'. The N.E.D. explains
+this as 'to run with brattling feet, to scamper'.
+
+It is possible that brattle has fallen into disuse through too indiscriminate application.
+After Burns's famous poem the word can establish itself only in the sense of a scurrying dry
+noise: it is too small for thunder.
+
+We would call attention to the principle involved in this judgement, for it is one of the main
+objects of our society to assist and guide Englishmen in the use of their language by fully
+exposing the facts that should determine their practice. Every word has its history, and no
+word can prosper in the speech or writing of those who do not respect its inherited and unalterable
+associations; these cannot be got rid of by ignoring them. Littré in the preface to his dictionary
+claims for it this pre-eminent quality of usefulness, that it will enable his countrymen to
+speak and write good French by acquainting them with historic tradition, and he says that it
+was enthusiasm for this one purpose that sustained him in his great work. Its object was to
+harmonize the present use of the language with the past usage, in order that the present usage
+may possess all the fullness, richness, and certitude which it can have, and which naturally
+belong to it. His words are: 'Avant tout, et pour ramener à une idée mère ce qui va être expliqué
+dans la Préface, je dirai, définissant ce dictionnaire, qu'il embrasse et combine l'usage présent
+de la langue et son usage passé, afin de donner à l'usage présent toute la plénitude et la
+sûreté qu'il comporte.'
+
+It is the intention of our society to offer only expert and well-considered opinion on these
+literary matters, which are often popularly handled in the newspapers and journals as fit subjects
+for private taste and uninformed prejudice: and since the Oxford Dictionary has done more fully
+for English what Littré did for French, our task is comparatively easy. But experts cannot
+be expected, all of them, to have the self-denying zeal of Émile Littré, and the worth of our
+tracts will probably improve with the increase of our subscribers.
+
+BICKER
+
+As Burns happens to use bickering as his epithet for the mouse's brattle, we may take this
+word as another illustration of Littré's principle. The N.E.D. gives the original meaning as
+skirmish, and quotes Shakespeare,
+
+  If I longer stay
+  We shall begin our ancient bickerings,
+
+which a man transposing the third and fourth words might say to-day without rising above colloquial
+speech; but there is another allied signification which Milton has in
+
+  Smoak and bickering flame;
+
+and this is followed by many later writers. It would seem therefore, if the word is to have
+a special sense, that it must be focused in the idea of something that both wavers and skirmishes,
+and this suggests another word which caught our eye in the dictionary, that is
+
+BRANGLE
+
+It is defined in the N.E.D. as 'a brawl, wrangle, squabble' and marked obsolete. It seems to
+differ from its numerous synonyms by the suggestion of what we call a muddle: that is an active
+wrangling which has become inextricably confused.
+
+SURVIVALS IN LANCASHIRE SPEECH
+
+Mr. Ernest Stenhouse sends us notes on Tract II, from which we extract the following:
+
+'Poll (= to cut the hair) is still familiar in Lancashire. Tickle (unstable) is obsolescent
+but not yet obsolete. As a child I often heard meterly (= moderately): e.g. meterly fausse
+(? false) = moderately cunning. It may still be in use. Bout (= without = A.S. butan) is commonly
+heard.
+
+'The words tabulated in Tract II, p. 34, and the following pairs are not homophones in Lancashire:
+stork, stalk; pattern, patten; because although the r in stork and pattern is not trilled as
+in Scotland, it is distinctly indicated by a modification of the preceding vowel, somewhat
+similar to that heard in the [(or]e words (p. 35).
+
+'Homophony may arise from a failure to make distinctions that are recognized in P.S.P. Thus
+in Lancashire the diphthong sound in flow, snow, bone, coal, those, &c., is very often pronounced
+as a pure vowel (cf. French eau, mot): hence confusion arises between flow and flaw, sow and
+saw, coal and call: both these vowel sounds tending to become indistinguishable from the French
+eau.'
+
+FEASIBLE
+
+Feasible is a good example of a word which appears in danger of being lost through incorrect
+and ignorant use. It can very well happen that a word which is not quite comfortable may feel
+its way to a useful place in defiance of etymology; and in such cases it is pedantry to object
+to its instinctive vagaries. But feasible is a well-set comfortable word which is being ignorantly
+deprived of its useful definite signification. In the following note Mr. Fowler puts its case
+clearly, and his quotations, being typically illustrative of the manner in which this sort
+of mischief comes about, are worthy of attention.
+
+'With those who feel that the use of an ordinary word for an ordinary notion does not do justice
+to their vocabulary or sufficiently exhibit their cultivation, who in fact prefer the stylish
+to the working word, feasible is now a prime favourite. Its proper sense is "capable of being
+done, accomplished, or carried out". That is, it means the same as possible in one of the latter's
+senses, and its true function is to be used instead of possible where that might be ambiguous.
+A thunderstorm is possible (but not feasible). Irrigation is possible (or, indifferently, feasible).
+A counter-revolution is possible; i.e., (a) one may for all we know happen, or (b) we can if
+we choose bring one about; but, if b is the meaning, feasible is better than possible because
+it cannot properly bear sense a, and therefore obviates ambiguity.
+
+'The wrong use of feasible is that in which, by a slipshod extension, it is allowed to have
+also the other sense of possible, and that of probable. This is described by the highest authority
+as "hardly a justifiable sense etymologically, and ... recognized by no dictionary". It is
+however becoming very common; in all the following quotations, it will be seen that the natural
+word would be either possible or probable, one of which should have been chosen:--Continuing,
+Mr. Wood said: "I think it is very feasible that the strike may be brought to an end this week,
+and it is a significant coincidence that ...". / Witness said it was quite feasible that if
+he had had night binoculars he would have seen the iceberg earlier. / We ourselves believe
+that this is the most feasible explanation of the tradition. / This would appear to offer a
+feasible explanation of the scaffold puzzle.'
+
+PROTAGONIST
+
+Mr. Sargeaunt (on p. 26) suggests that we might do well to keep the full Greek form of this
+word, and speak and write protagonistes. Familiarity with Agonistes in the title of Milton's
+drama, where it is correctly used as equivalent to 'mighty champion', would be misleading,
+and the rejection of the English form 'protagonist' seems otherwise undesirable. The following
+remarks by Mr. Fowler show that popular diction is destroying the word; and if ignorance be
+allowed its way we shall have a good word destroyed.
+
+'The word that has so suddenly become a prime favourite with journalists, who more often than
+not make it mean champion or advocate or defender, has no right whatever to any of those meanings,
+and almost certainly owes them to the mistaking of the first syllable (representing Greek [Greek:
+prôtos] "first") for [Greek: pro] "on behalf of"--a mistake made easy by the accidental resemblance
+to antagonist. "Accidental", since the Greek [Greek: agônistês] has different meanings in the
+two words, in one "combatant", but in the other "play-actor". The Greek [Greek: prôtagônistês]
+means the actor who takes the chief part in a play--a sense readily admitting of figurative
+application to the most conspicuous personage in any affair. The deuteragonist and tritagonist
+take parts of second and third importance, and to talk of several protagonists, or of a chief
+protagonist or the like, is an absurdity. In the newspapers it is a rarity to meet protagonist
+in a legitimate sense; but two examples of it are put first in the following collection. All
+the others are outrages on this learned-sounding word, because some of them distinguish between
+chief protagonists and others who are not chief, some state or imply that there are more protagonists
+than one in an affair, and the rest use protagonist as a mere synonym for advocate.
+
+'Legitimate uses: The "cher Halévy" who is the protagonist of the amazing dialogue. / Marco
+Landi, the protagonist and narrator of a story which is skilfully contrived and excellently
+told, is a fairly familiar type of soldier of fortune.
+
+'Absurd uses with chief, &c.: The chief protagonist is a young Nonconformist minister. / Unlike
+a number of the leading protagonists in the Home Rule fight, Sir Edward Carson was not in Parliament
+when.... / It presents a spiritual conflict, centred about its two chief protagonists, but
+shared in by all its characters.
+
+'Absurd plural uses: One of the protagonists of that glorious fight for Parliamentary Reform
+in 1866 is still actively among us. / One of these immense protagonists must fall, and, as
+we have already foreshadowed, it is the Duke. / By a tragic but rapid process of elimination
+most of the protagonists have now been removed. / As on a stage where all the protagonists
+of a drama assemble at the end of the last act. / That letter is essential to a true understanding
+of the relations of the three great protagonists at this period. / The protagonists in the
+drama, which has the motion and structure of a Greek tragedy (Fy! fy!--a Greek tragedy and
+protagonists?).
+
+'Confusions with advocate, &c.: The new Warden is a strenuous protagonist of that party in
+Convocation. / Mr ----, an enthusiastic protagonist of militant Protestantism. / The chief
+protagonist on the company's side in the latest railway strike, Mr ----. / It was a happy thought
+that placed in the hands of the son of one of the great protagonists of Evolution the materials
+for the biography of another. / But most of the protagonists of this demand have shifted their
+ground. / As for what the medium himself or his protagonists may think of them--for etymological
+purposes that is neither here nor there.
+
+'Perhaps we need not consider the Greek scholar's feelings; he has many advantages over the
+rest of us, and cannot expect that in addition he shall be allowed to forbid us a word that
+we find useful. Is it useful? or is it merely a pretentious blundering substitute for words
+that are useful? Pro- in protagonist is not the opposite of anti-; -agonist is not the same
+as in antagonist; advocate and champion and defender and combatant are better words for the
+wrong senses given to protagonist; and protagonist in its right sense of the (not a) chief
+actor in an affair has still work to do if it could only be allowed to mind its own business.'
+
+       *       *       *       *       *
+
+AMERICAN APPRECIATION
+
+We are glad to reprint the following short extracts from the New York Times Book Review and
+Magazine, September 26, 1920.
+
+'THE CAMPAIGN FOR PURE ENGLISH
+
+    'Among those who joined it (the S.P.E.) immediately were
+    Arthur J. Balfour, A.C. Bradley, Austin Dobson, Thomas Hardy,
+    J.W. Mackail, Gilbert Murray, Mrs. Humphry Ward, and Mrs.
+    Wharton.... The rallying of these men and women of letters
+    was not more significant than the prompt adhesion of the
+    Professors of English in the various British Universities:
+    W.M. Dixon, Oliver Elton, E.S. Gordon, C.H. Herford, W.P.
+    Ker, G.C. Moore-Smith, F.W. Moorman, A. Quiller-Couch, George
+    Saintsbury, and H.C.K. Wyld....
+
+    'There is a peril to the proper development of the language in
+    offensive affectations, in persistent pedantry, and in other
+    results of that comprehensive ignorance of the history of
+    English, which we find plentifully revealed in many of our
+    grammars. It is high time that men who love the language, who
+    can use it deftly and forcibly, and who are acquainted with
+    the principles and the processes of its growth, should raise
+    the standard of independence....
+
+    'It is encouraging to realize that the atrophy of the
+    word-making habit is less obvious in the United States than
+    it is in Great Britain.... We cannot but regret that it is
+    not now possible to credit to their several inventors American
+    compounds of a delightful expressiveness--windjammer,
+    loan-shark, scare-head, and that more delectable
+    pussy-footed--all of them verbal creations with an
+    imaginative quality almost Elizabethan in its felicity, and
+    all of them examples of the purest English.... We Americans
+    made the compound farm-hand, and employ it in preference to
+    the British [English?] agricultural labourer.
+
+    'The attention of the officers of the society may be called
+    to the late Professor Lounsbury's lively and enlightening
+    History of the English Language, and to Professor George
+    Philip Krapp's illuminating study of Modern English.
+
+BRANDER MATTHEWS.'
+
+       *       *       *       *       *
+
+REPORT
+
+Of the proceedings of the Society for the first year ending Xmas, 1920.
+
+The Society still remains governed by the small committee of its original founders: the support
+of the public and the press has been altogether satisfactory: the suggestions and programme
+which the committee originally put forward have met with nothing but favourable criticism;
+no opposition has been aroused, and we are therefore encouraged to meet the numerous invitations
+that we have received from all parts of the English-speaking world to make our activities more
+widely known. The sale of the Tracts has been sufficient to pay their expenses; and we are
+in this respect very much indebted to the Oxford University Press for its generous co-operation;
+for it has enabled us to offer our subscribers good workmanship at a reasonable price. The
+publication of this Tract IV closes our first 'year': we regret that the prevalent national
+disturbances have extended it beyond the solar period, but the conditions render explanation
+and apology needless.
+
+Our list shows 188 members, and their names include many well-known men of letters, Professors
+of Literature, Editors, Journalists, and others interested in the history and present condition
+of the language. Nineteen members sent donations (above 10s. 6d.) which together amounted to
+about £40; and thirty-two sent subscriptions of ten shillings for the supply of one year's
+publications.
+
+To these subscribers (whose names are printed in the list below) all the four Tracts for this
+year have been sent: and it will appear that since they might have bought the four Tracts for
+7s. 6d., they have made a donation of 2s. 6d. apiece to the funds of the Society. This margin
+is very useful and we hope that they will renew their 10s. subscription in advance for the
+ensuing year. That will ensure their receiving the Society's papers as they are issued, and
+it will much assist the machinery of publication. Also Members who have not hitherto subscribed
+are now specially invited to do so. They can judge of the Society's work, and can best support
+it in this way. The publications of 1921 will be sent as soon as issued to all such subscribers.
+
+Subscriptions may be sent to the Secretary, L. Pearsall Smith, 11 St. Leonard's Terrace, Chelsea,
+London, S.W., to whom all communications should be addressed, or they may be paid direct to
+'Treasurer of S.P.E.', Barclay's Bank, High Street, Oxford.
+
+       *       *       *       *       *
+
+LIST OF SUBSCRIBERS
+
+  *+ Aikin, Dr. W.A., 66 Bedford Gardens.
+  *  Bennett, Arnold, 80 Piccadilly.
+     Bottomley, Gordon, The Sheiling, Silverdale, Carnforth.
+     Brindley, H.H., 25 Madingly Road, Cambridge.
+  *  Brown, Miss E.O., Bournstream, Wotton-under-Edge.
+     Carleton, Brig.-Gen. L.R., Holmdale, Grasmere.
+  *  Case, Thomas, Corpus Christi College, Oxford.
+     Curtis, James, 179 Marylebone Road, N.W. 1.
+     Dixon, Prof. J. Main, Univ. S. California, Los Angeles.
+     Elliott, Rear-Adml. H.V., 13 South Road, Weston-super-Mare.
+     Fry, Miss Agnes, Failand House, nr. Bristol.
+  *  Gainsford, W.D., Skendleby Hall, Spilsbury.
+  *  Harman, Capt. H.A., D.S.O., King's College, Lagos, S. Nigeria.
+     Headlam, Rev. Stewart, Wavertree, St. Margaret-on-Thames.
+  *  Henderson, T., Upumulo Napumulo, Natal.
+     Horniman, Miss A.E.F., 1h.* Montague Mansions, W. 1.
+     Hunt, Howard L., Univ. S. California, Los Angeles.
+  *  Lacy, Miss H., Highbury Crescent, N. 5.
+   + Lawrence, A., 13 Norfolk Crescent, W. 2.
+     Lindsay, Prof. W.M., 5 Howard Place, St. Andrews.
+     Melland, E. Alport, Bakewell.
+     Morton, G.H., 13 Kimberley Terrace, Tredegar.
+  *  Muirhead, L., Haseley Court, Wallingford.
+  *  Nickerson, Rev. D., Newton-on-Ouse, York.
+  *  O'May, J., c/o Messrs. Barker & Co., Singapore.
+     Partington, S., Sunny Brow, Eden Mount, Grange on Sands, Lancs.
+  *  Pickering-Jones, J., West Africa House, Water Street, Liverpool.
+     Portal, Miss E., 82 Carlisle Mansions, Victoria Street, S.W.
+  *  Pryor, Mrs., Lannock Manor, Stevenage, Herts.
+     Ramsden, William, Marshfield, Huddersfield.
+     Reade, H.V., 181 Queen's Gate, S.W.
+     Rieder, Madame A., Lyceum Club, 128 Piccadilly.
+     Robinson, Frances G., The Towers, Sneyd Park, nr. Bristol.
+     Samuel, Rt. Hon. Sir Herbert, 31 Porchester Terrace, Hyde Park.
+     Sampson, John, University Library, Liverpool.
+     Scrivener, Miss J., The Ladies' College, Cheltenham.
+  *  Sheldon, E.W., 46 Park Avenue, New York.
+     Shepherd, Arthur, 46 Edwardes Square, W. 8.
+  *  Strachey, Lady, 51 Gordon Square, W.C.
+     Teixeira de Mattos, A., 9 Cheltenham Terrace, S.W. 3.
+     Thompson, Rev. E.J., Wesleyan College, Bankura, Bengal.
+  *  Tilley A., 2 Selwyn Gardens, Cambridge.
+     Warrington, T.C., High School, Leek, Staffs.
+  *  Waterhouse, Mrs. T.C., Lomberdale Hall, Bakewell.
+     Wheeler, Horace L., Public Library, Back Bay, Boston, Mass.
+     Wigram, Col. Clive, 37 Chester Square, S.W. 1.
+     Wollaston, G.H., Flaxley Cottage, Flax Bourton.
+
+  ++ The Ladies' College, Cheltenham.
+  ++ Queen's University, Belfast.
+  ++ Minnesota University.
+  ++ Princeton University.
+
+* Donors of above 10s. 6d.
+
++ Subscribers for 1921.
+
+++ Universities, Colleges, or Libraries to which the issues of 1921 will be sent without prepayment.
+
+The secretary should be informed of any error in the above addresses, and of any permanent
+change of address.
+
+FINIS
+

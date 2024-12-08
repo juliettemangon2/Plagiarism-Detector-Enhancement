@@ -1,0 +1,350 @@
+﻿Galvanometer, Differential. A galvanometer in which the needle is acted on by two coils wound
+in opposition, each of equal deflecting action and of equal resistance. If a current is divided
+between two branches or parallel conductors, each including one of the coils, when the needle
+points to zero the resistances of the two branches will bc equal. In the cut, C C' represent
+the coils, and A and B the two leads into which the circuit, P Q, is divided.
+
+269  STANDARD ELECTRICAL DICTIONARY.
+
+Fig. 180. THEORY OF DIFFERENTIAL GALVANOMETER.
+
+Fig. 181. DIFFERENTIAL GALVANOMETER.
+
+Galvanometer, Direct Reading. A calibrated galvanometer, whose scale is graduated by volts
+or amperes, instead of degrees.
+
+Galvanometer, Marine. (Sir William Thomson's.) A galvanometer of the reflecting type, for use
+on shipboard. A fibre suspension is adopted for the needle. The fibre is attached to a fixed
+support at one end and to a spring at the other, and the needle is suspended by its centre
+of gravity. This secures it to a considerable extent from disturbance due to the rolling of
+the ship. A thick iron box encloses the needle, etc., to cut off any magnetic action from the
+ship. (See Galvanometer, Reflecting.)
+
+Galvanometer, Potential. A galvanometer wound with fine German silver wire to secure high resistance
+used for determination of potential difference.
+
+Galvanometer, Proportional. A galvanometer so constructed that the deflections of its index
+are proportional to the current passing. It is made by causing the deflecting force to increase
+as the needle is deflected, more and more, or by causing the restitutive force to diminish
+under like conditions, or by both. The condition is obtained in some cases by the shape and
+position of the deflecting coils.
+
+Galvanometer, Quantity. A galvanometer for determining quantities of electricity, by the deflections
+produced by discharging the quantities through their coils. It is a ballistic galvanometer
+with very little or no damping.
+
+270   STANDARD ELECTRICAL DICTIONARY.
+
+Fig. 182. PRINCIPLE OF REFLECTING GALVANOMETER.
+
+Fig. 183. REFLECTING GALVANOMETER.
+
+Galvanometer, Reflecting. A galvanometer the deflections of whose needle are read by an image
+projected by light reflected from a mirror attached to the needle or to a vertical wire carrying
+the needle. A lamp is placed in front of the instrument facing the mirror. The light of the
+lamp is reflected by the mirror upon a horizontal scale above the lamp. An image of a slit
+or of a wire may be caused thus to fall upon the scale, the mirror being slightly convex, or
+a lens being used to produce the projection.
+
+271  STANDARD ELECTRICAL DICTIONARY.
+
+If the mirror swings through a horizontal arc, the reflected image will move, in virtue of
+a simple geometrical principle, through an arc of twice as many degrees. The scale can be placed
+far from the mirror, so that the ray of light will represent a weightless index of very great
+length, and minute deflections of the needle will be shown distinctly upon the scale.
+
+In the cut, Fig. 182, the ray of light from the lamp passes through the aperture, m m, and
+is made parallel by the lens, L. At s is the mirror attached to the needle and moving with
+it. A scale placed at t receives the reflection from the mirror. The cut, Fig. 183, shows one
+form of the instrument set up for use.
+
+Synonym--Mirror Galvanometer.
+
+Galvanometer Shunt. To prevent too much current passing through a galvanometer (for fear of
+injury to its insulation) a shunt is sometimes placed in parallel with it. The total current
+will be distributed between galvanometer and shunt in the inverse ratio of their respective
+resistances. (See Multiplying Power of a Shunt.)
+
+272   STANDARD ELECTRICAL DICTIONARY.
+
+Fig. 184. SINE GALVANOMETER.
+
+Galvanometer, Sine. A galvanometer whose measurements depend upon the sine of the angle of
+deflection produced when the coil and needle lie in the same vertical plane.
+
+The needle, which may be a long one, is surrounded by a coil, which can be rotated about a
+vertical axis passing through the point of suspension of the needle. Starting with the needle
+at rest in the plane of the coil, a current is passed through the coil deflecting the needle,
+the coil is swung around deflecting the needle still more, until the needle lies in the plane
+of the coil; the intensity of the current will then be in proportion to the sine of the angle
+through which the coil and needle move.
+
+In the galvanometer M is a circle carrying the coil, N is a scale over which the needles, m
+and n, move, the former being a magnetic needle, the latter an index at right angles and attached
+thereto; a and b are wires carrying the current to be measured. The circles, M and N, are carried
+by a base, O, around which they rotate. H is a fixed horizontal graduated circle. In use the
+circle, M, is placed in the magnetic meridian, the current is passed through the coil, M; the
+needle is deflected; M is turned until its plane coincides with the direction of the needle,
+m. The current strength is proportional to the sine of the angle of deflection. This angle
+is measured by the vernier, C, on the circle, H. The knob, A, is used to turn the circle, M.
+
+273  STANDARD ELECTRICAL DICTIONARY.
+
+Fig. 185. TANGENT GALVANOMETER.
+
+Galvanometer, Tangent. A galvanometer in which the tangents of the angles of deflection are
+proportional to the currents producing such deflections.
+
+For this law to apply the instrument in general must fulfill the following conditions:
+
+(1) The needle must be controlled by a uniform magnetic field such as that of the earth;
+
+(2) the diameter of the coil must be large compared to the length of the needle;
+
+(3) the centre of suspension of the needle must be at the centre of the coil;
+
+(4) the magnetic axis of the needle must lie in the plane of the coil when no current is passing.
+
+If a single current strength is to be measured the best results will be attained when the deflection
+is 45°; in comparing two currents the best results will be attained when the deflections as
+nearly as possible are at equal distances on both sides of 45°.
+
+The needle should not exceed in length one-tenth the diameter of the coil.
+
+For very small deflections any galvanometer follows the law of tangential deflection.
+
+As for very small deflections the tangents are practically equal to the arcs subtended, for
+such deflections the currents are proportional to the deflections they produce.
+
+The sensibility is directly proportional to the number of convolutions of wire and inversely
+proportional to their diameter.
+
+The tangent law is most accurately fulfilled when the depth of the coil in the radial direction
+is to the breadth in the axial direction as squareRoot(3):squareRoot(2), or about as 11:9.
+
+Galvanometer, Torsion. A galvanometer whose needle is suspended by a long filament or by a
+thread and spiral spring against whose force of torsion the movements of the needle are produced.
+The current strength is determined by bringing the needle back to its position of rest by turning
+a hand-button or other arrangement. The angle through which this is turned gives the angle
+of torsion. From this the current strength is calculated on the general basis that it is proportional
+to the angle of torsion.
+
+Fig. 186. TORSION GALVANOMETER.
+
+274   STANDARD ELECTRICAL DICTIONARY.
+
+Galvanometer, Vertical. A galvanometer whose needle is mounted on a horizontal axis and is
+deflected in a vertical plane. One of the poles is weighted to keep it normally vertical, representing
+the control. It is not used for accurate work.
+
+Synonym--Upright Galvanometer.
+
+Fig. 187. VERTICAL GALVANOMETER.
+
+Galvanometer, Volt- and Ampere-meter. A galvanometer of Sir William Thomson's invention embodying
+the tangent principle, and having its sensibility adjustable by moving the magnetic needle
+horizontally along a scale (the "meter") towards or away from the coil. A curved magnet is
+used to adjust the control. The leads are twisted to prevent induction.
+
+The instrument is made with a high resistance coil for voltage determinations, and with a low
+resistance coil for amperage determinations.
+
+At one end of a long base board a vertical coil with its plane at right angles to the axis
+of the board is mounted. A scale (the "meter" of the name) runs down the centre of the board.
+A groove also runs down the centre. The magnetic needle is contained in a quadrant-shaped glass-covered
+box which slides up and down the groove. A number of short parallel needles mounted together,
+with an aluminum pointer are used.
+
+Fig. 188. SIR WILLIAM THOMSON'S AMPERE-METER GALVANOMETER.
+
+275   STANDARD ELECTRICAL DICTIONARY.
+
+In the cut P is the base board, M is a glass covered case containing the magnetic needle, and
+sliding along the base board, being guided by the central groove, C, is the coil. Between the
+coil and the needle is the arched or bent controlling magnet. The long twisted connecting wires
+are seen on the right hand.
+
+Galvano-plastics. The deposition of metals by electrolysis, a disused term replaced by electro-deposition,
+electroplating, and electro-metallurgy.
+
+Galvano-puncture. An operation in medical electricity. (See Electro-puncture.)
+
+Galvanoscope. An instrument, generally of the galvanometer type, used for ascertaining whether
+a current is flowing or not. Any galvanoscope, when calibrated, if susceptible thereof, becomes
+a galvanometer.
+
+Gas, Electrolytic. Gas produced by the decomposition, generally of water, by electrolysis.
+It may be hydrogen or oxygen, or a mixture of the two, according to how it is collected. (See
+Gases, Mixed.)
+
+Gases, Mixed. The mixture of approximately one volume of oxygen and two volumes of hydrogen
+collected in the eudiometer of a gas voltameter or other electrolytic apparatus.
+
+Gassing. The evolution of gas from the plates of a storage battery in the charging process,
+due to too high voltage in the circuit of the charging dynamo.
+
+Gastroscope. An apparatus for illuminating by an incandescent lamp the interior of the stomach,
+and with prisms to refract the rays of light so that the part can be seen. The stomach is inflated
+with air, if desirable, to give a better view. An incandescent platinum spiral in a water jacket
+has been employed for the illumination.
+
+Gassiot's Cascade. A goblet lined for half its interior surface with tinfoil. It is placed
+in the receiver of an air pump from the top of whose bell a conductor descends into it, not
+touching the foil. On producing a good rarefaction, and discharging high tension electricity
+from between the conductor just mentioned and the metal of the machine, a luminous effect is
+produced, as if the electricity, pale blue in color, was overflowing the goblet.
+
+Gauss. A name suggested for unit intensity of magnetic field. Sylvanus P. Thomson proposed
+for its value the intensity of a field of 1E8 C. G. S. electro-magnetic units. J. A. Fleming
+proposed the strength of field which would develop one volt potential difference in a wire
+1E6 centimeters long, moving through such field with a velocity of one centimeter per second.
+This is one hundred times greater than Thomson's standard. Sir William Thomson suggested the
+intensity of field produced by a current of one ampere at a distance of one centimeter
+
+The gauss is not used to any extent; practical calculations are based on electro-magnetic lines
+of force.
+
+276   STANDARD ELECTRICAL DICTIONARY.
+
+Gauss' Principle. An electric circuit acts upon a magnetic pole in such a way as to make the
+number of lines of force that pass through the circuit a maximum.
+
+Fig. 189. GAUSS' TANGENT POSITION.
+
+Gauss, Tangent Positions of. The "end on" and "broadside" methods of determining magnetization
+involve positions which have been thus termed. (See Broadside Method and End on Method.)
+
+Gear, Magnetic Friction. Friction gear in which the component wheels are pressed against each
+other by electromagnetic action. In the cut, repeated from Adherence, Electro-magnetic, the
+magnetizing coil makes the wheels, which are of iron, press strongly together.
+
+Fig. 190. MAGNETIC FRICTION GEAR.
+
+277   STANDARD ELECTRICAL DICTIONARY.
+
+Geissler Tubes. Sealed tubes of glass containing highly rarefied gases, and provided with platinum
+electrodes extending through the glass tightly sealed as they pass through it, and often extending
+a short distance beyond its interior surface.
+
+On passing through them the static discharge luminous effects are produced varying with the
+degree of exhaustion, the contents (gas), the glass itself, or solutions surrounding it. The
+two latter conditions involve fluorescence phenomena often of a very beautiful description.
+
+The pressure of the gas is less than one-half of a millimeter of mercury. If a complete vacuum
+is produced the discharge will not pass. If too high rarefaction is produced radiant matter
+phenomena (see Radiant State) occur.
+
+Geissler tubes have been used for lighting purposes as in mines, or for illuminating the interior
+cavities of the body in surgical or medical operations.
+
+Generating Plate. The positive plate in a voltaic couple, or the plate which is dissolved;
+generally a plate of zinc.
+
+Synonyms--Positive Plate--Positive Element.
+
+Generator, Current. Any apparatus for maintaining an electric current. It may be as regards
+the form of energy it converts into electrical energy, mechanical, as a magneto or dynamo electric
+machine or generator; thermal, as a thermo-electric battery; or chemical, as a voltaic battery;
+all of which may be consulted.
+
+Generator, Secondary. A secondary or storage battery. (See Battery, Secondary.)
+
+German Silver. Owing to
+its high resistance and moderate cost and small variation in resistance
+with change of temperature, it is much used for resistances.
+  1 meter long, weighing 1 gram,          1.830    "
+  1 meter long, 1 millimeter thick,       0.2666   "
+  Resistance of a 1 inch cube at 0°C. (32° F.),   8.240 microhms.
+
+Approximate percentage increase of resistance per 1° C. (1.8° F.) at about 20° C. (68° F.),
+0.044 per cent.
+
+Gilding, Electro-. The deposition of gold by an electric current, or electrolytically in the
+electroplating bath.
+
+Gilding Metal. A special kind of brass, with a high percentage of copper, used to make objects
+which are to be gilded by electrolysis.
+
+278   STANDARD ELECTRICAL DICTIONARY.
+
+Gimbals. A suspension used for ships' compasses and sometimes for other apparatus. It consists
+of a ring held by two journals, so as to bc free to swing in one plane. The compass is swung
+upon this ring, being placed concentrically therewith. Its journals are at right angles to
+those of the ring. This gives a universal joint by which the compass, weighted below its line
+of support, is always kept horizontal.
+
+Fig. 191. COMPASS SUSPENDED IN GIMBALS.
+
+Glass. A fused mixture of silicates of various oxides. It is of extremely varied composition
+and its electric constants vary greatly. Many determinations of its specific resistance have
+been made. For flint glass at 100° C. (212° F.) about (2.06E14) ohms --at 60° C (140° F.) (1.020E15)
+(Thomas Gray) is given, while another observer (Beetz) gives for glass at ordinary temperatures
+an immeasurably high resistance. It is therefore a non-conductor of very high order if dry.
+As a dielectric the specific inductive capacity of different samples of flint glass is given
+as 6.57--6.85--7.4--10.1 (Hopkinson), thus exceeding all other ordinary dielectrics. The densest
+glass, other things being equal, has the highest specific inductive capacity.
+
+Gold. A metal, one of the elements; symbol Au. c .; atomic weight, 196.8; equivalent, 65.6;
+valency, 3; specific gravity 19.5. It is a conductor of electricity.
+
+                                            Annealed.   Hard drawn.
+(c) 1 meter long, weighing 1 gram,            .4035     .4104  "
+(d) 1 meter long, 1 millimeter thick,         .02620    .02668 "
+Resistance of a 1 inch cube at 0° C.(32° F.)  .8102     .8247
+
+Approximate increase in resistance per 0° C., (1.8° F) at about 20° C. (68° F.), 0.365 per cent.
+
+Electro-chemical equivalent (Hydrogen = .0105), .6888
+
+279   STANDARD ELECTRICAL DICTIONARY.
+
+Gold Bath. A solution of gold used for depositing the metal in the electroplating process.
+
+A great number of formulae have been devised, of which a few
+representative ones are given here.
+                            COLD BATHS.              HOT BATHS.
+Water,               10,000   10,000   10,000   10,000   5,000   3,000
+Potassium Cyanide,      200       --      200       10      --      50
+Gold,                   100       15      100       10      10      10
+Potassium Ferrocyanide,  --      200       --       --     150      --
+Potassium Carbonate,     --      150       --       --      50      --
+Ammonium Chloride,       --       30       --       --      20      --
+Aqua Ammoniae,           --       --      500       --      --      --
+Sodium Phosphate,        --       --       --      600      --      --
+Sodium Bisulphite,       --       --       --      100      --      --
+
+(Roseleur.)
+
+In the baths the gold is added in the form of neutral chloride, Auric chloride (Au Cl6).
+
+Gold Stripping Bath. A bath for removing gold from plated articles without dissolving the base
+in order to save the precious metal. A bath of 10 parts of potassium cyanide and 100 parts
+of water may be used, the articles to be stripped being immersed therein as the anode of an
+active circuit. If the gilding is on a silver or copper basis, or on an alloy of these metals
+the same solution attacks the base and dissolves it, which is objectionable. For silver articles
+it is enough to heat to cherry red and throw into dilute sulphuric acid. The gold scales off
+in metallic spangles. For copper articles, a mixture of 10 volumes concentrated sulphuric acid,
+1 volume nitric acid, and 2 volumes hydrochloric acid may be used by immersion only, or with
+a battery. The sulphuric acid in such large excess is supposed to protect the copper. For copper
+articles concentrated sulphuric acid alone with the battery may be used. This does not sensibly
+attack the copper if it is not allowed to become diluted. Even the dampness of the air may
+act to dilute it.
+
+Graduator. Apparatus for enabling the same line to be used for telegraph signals and telephoning.
+
+One type consists in coils with iron cores or simply electromagnets. These act to retard the
+current in reaching its full power and also prolong it. This gives a graduated effect to the
+signals, so that the telephone diaphragm is not audibly affected by the impulses.
+
+The telephoning current is so slight and so rapid in its characteristic changes that it is
+without effect upon the ordinary telegraph.
+
+280   STANDARD ELECTRICAL DICTIONARY.
+
+Gram. The unit of weight in the metric system; accepted as the unit of mass in the absolute
+of C. G. S. system of units. It is the one-thousandth part of mass of a standard weight preserved
+under proper conditions in Paris, and supposed to be the mass of a cubic decimeter of distilled
+water at the temperature of the maximum density of water. The standard is the kilogram; the
+temperature is 3.9º C. (39º F.). The standard kilogram is found to be not exactly the weight
+of a cubic decimeter of water, the latter weighing 1.000013 kilogram.
+

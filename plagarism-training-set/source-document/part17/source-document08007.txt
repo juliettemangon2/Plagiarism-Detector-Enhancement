@@ -1,0 +1,50 @@
+﻿Thus as the thickness of the film is altered different colors preponderate, causing the appearance
+of rings or bands, according to the nature of the experiment. The dark appearance on the screen
+corresponding to the thinnest part of the film is probably due to refraction of the ray of
+light reflected from the second surface, consequent in its passing from a rare into a denser
+medium, and again from the denser medium into the rare, which refraction Lord Rayleigh considers
+to effect a retardation equivalent to half a wave length. Lord Rayleigh supported this theory
+of the formation of Newton's rings by several interesting experiments. A beam of light was
+intercepted by two of Nicol's prisms, one of which acted as a polarizer and the other as an
+analyzer of the light, so that no light was able to pass through both on to the screen. Between
+the two prisms a double refractive lens was now placed, in this case a double concave lens
+of selenite, when the same series of concentric rings observed with the film of air was obtained
+on the screen, only much more intense, while a wedge of selenite gave the bands of color in
+the same order as with the soap bubble.
+
+But perhaps the most striking proof of the dependence of the colors upon the thickness of the
+film was shown by the reflection of a beam of light from a piece of mica composed of twenty-four
+very attenuated plates overlapping each other. With each layer a marked gradation in color
+was visible.
+
+The remainder of the lecture was devoted to an explanation of the determination of the chromatic
+relations of the colors of the spectrum. Lord Rayleigh at this point made a rather startling
+statement that any color can be produced by two other colors. As an example of such a formation,
+a ray of white light was passed separately through a solution of yellow chromate of potash
+and an alkaline litmus solution, throwing respectively a yellow and violet-blue color upon
+the screen. When the ray was made to pass through the two solutions successively, an orange-yellow
+color was obtained upon the screen, which color Lord Rayleigh asserted to be made up of red
+and green rays. To prove this, the ray of white light was decomposed by means of a prism, and
+the decomposed rays passed through the two solutions. The one solution was found to exclude
+all the yellow and orange rays from the spectrum, while the other excluded all the blue and
+violet rays, so that when the ray had passed through both solutions, only the red and green
+rays were left. If, instead of allowing the decomposed ray of light to pass through a slit,
+and thus obtain definite bands in the spectrum, the ray was passed through a circular hole,
+the red and green colors overlapped each other on the screen, forming by their combination
+the identical orange-yellow color obtained with the primary white light. It was then stated
+that if three definite positions be taken in a spectrum in the red, green, and violet bands
+respectively, and these positions be represented by the corners of an equilateral triangle
+(Clerk Maxwell's triangle), it has been mathematically determined in what position within this
+triangle the colors of Newton's rings would fall. Lord Rayleigh, by means of a diagram and
+the selenite wedge, showed that the relations to the three standard colors in practice were
+identical with the position assigned them by theory.
+
+In conclusion, the lecturer showed a piece of glass, the surface of which had been decomposed,
+a ray of light transmitted through which showed upon the screen patches of very pure color.
+These he considered to be due to the glass consisting of a number of thin plates, some of which
+had been removed by the decomposition.
+
+       *       *       *       *       *
+
+BELT JOINTS.
+

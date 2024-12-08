@@ -1,0 +1,38 @@
+﻿Mit Rücksicht auf den von uns klar erkannten Charakter des Originales des Papyrus als eines
+sehr ungenauen Collegienheftes, dessen Rechnungen ebensosehr wie die vorkommenden Zeichnungen
+von der Mittelmässigkeit seines Zusammenstellers beredtes Zeugniss ablegen, zweifeln wir keinen
+Augenblick, dass die fragliche Figur ein rechtwinkliges Dreieck vorzustellen hatte. Die mangelhafte
+Schülerzeichnung ist durch den Copisten *Aahmes* nur noch schlechter geworden. Dass ein rechtwinkliges
+Dreieck gemeint sein soll, erkennt man übrigens auch aus dem Umstande, dass in der Figur die
+Maasszahlen der multiplicirten Seiten bei den Schenkeln des, vom rechten Winkel nur wenig differirenden
+Winkels angesetzt sind, wo doch, wenn es sich hätte um ein gleichschenkliges Dreieck handeln
+sollen die Maasszahl der Schenkel in der Figur gewiss bei beiden Schenkeln zu finden wäre.
+Dieselben Gründe bestimmen uns zu der Annahme, dass die im Papyrus befindliche Flächenberechnung
+eines Trapezes eine vollkommen richtige ist, indem es sich auch hier nur um ein Trapez handeln
+kann, dessen zwei parallelen Seiten auf einer der nicht parallelen Seiten senkrecht stehen.
+Und warum sollten denn die alten Aegypter nicht die richtige Art der Flächenberechnung auch
+beliebiger Dreiecke gekannt haben?
+
+Konnte man einmal die Fläche eines Rechteckes genau bestimmen, so musste sich durch einfache
+Anschauung eines, durch eine Diagonale zerlegten Rechteckes, von selbst die Regel zur Flächenbestimmung
+des rechtwinkligen Dreieckes ergeben; und wurde nun ein beliebiges schiefwinkliges Dreieck
+durch ein Höhenperpendikel in zwei rechtwinklige zerlegt, so war nichts leichter als die allgemeine
+Regel zur Bestimmung der Dreieckfläche aus Basis und Höhe (tepro und merit) zu entwickeln.
+Dass die Gewinnung des Höhenperpendikels sowohl bei Constructionen als auch auf dem Felde den
+alten Aegyptern nicht unmöglich war, folgt zunächst aus der grossen Bedeutung der Winkelmaasses
+(hapt) für alle Operationen der praktischen Geometer Aegyptens. Nicht nur, dass wir in vielen
+aegyptischen Documenten das Winkelmaass erwähnt finden, sieht man auch Könige abgebildet, das
+Winkelmaass in der Hand, welches von ihnen vielleicht in derselben Weise durch symbolische
+Benützung geehrt wurde, wie der Kaiser von China alljährlich einmal den Pflug zu führen pflegt.
+Ein solches Winkelmaass sieht man übrigens auch auf einem Wandgemälde abgebildet, das eine
+Schreinerwerkstätte darstellt,(37) und es unterliegt keinem Zweifel, dass dasselbe ebensowohl
+zur Anlegung rechter Winkel als zum Fällen von Senkrechten benützt worden ist. Aber auch auf
+freiem Felde musste den Aegyptern die Construction rechter Winkel geläufig sein; sowohl die
+Pyramiden als auch die aegyptischen Tempel sind vollkommen orientirt, und wurde, wie uns alte
+Inschriften(38) belehren, die Orientirung in festlicher Weise vom Könige unter Beihilfe der
+Bibliotheksgöttin *Safech* vollzogen, mit den Worten: »Ich habe gefasst den Holzpflock und
+den Stiel des Schlägels, ich halte den Strick gemeinschaftlich mit der Göttin *Safech*. Mein
+Blick folgt dem Gange der Gestirne. Wenn mein Auge an dem Sternbilde des grossen Bären angekommen
+ist, und erfüllt ist der mir bestimmte Zeitabschnitt der Zahl der Uhr, so stelle ich auf die
+Eckpunkte Deines Gotteshauses.«
+

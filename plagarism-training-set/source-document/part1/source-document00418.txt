@@ -1,0 +1,554 @@
+﻿Transformer, Core. A transformer wound upon an enclosed core, such as the hedgehog transformer
+(see Transformer, Hedgehog), or common induction coil.
+
+548   STANDARD ELECTRICAL DICTIONARY.
+
+Transformer, Hedgehog. An induction coil transformer whose iron core is composed of a bundle
+of iron wires, which after the wire windings are in place have their ends spread out to reduce
+to some extent the reluctance of the circuit, which at the best is high, as the air acts as
+the return circuit.
+
+This transformer has a low degree of hysteresis; and its efficiency for very small loads or
+for no load is superior to that of the closed magnetic circuit transformer.
+
+Fig. 340. SWINBURNE'S HEDGEHOG TRANSFORMER.
+
+Transformer, Multiple. A transformer connected in parallel with others between the two leads
+of the primary circuit. The term refers to the connection only and not to any peculiarity of
+the transformer itself.
+
+Transformer, Oil. A transformer with oil insulation. The advantage of this insulation is that
+if pierced it at once closes, so that no permanent injury ensues. It is a self-healing form
+of insulation.
+
+Transformer, Series. Transformers connected in series upon the primary circuits. The term,
+like "multiple transformers," only applies to the connection, not to the transformer. Series
+transformers are but little used.
+
+Transformer, Shell. A transformer with its iron core entirely outside of and enclosing the
+primary and secondary winding. It may be made by the use of outer iron wire windings as core.
+
+Transformer, Welding. The transformer used for electric welding. (See Welding, Electric.) It
+is a transformer with very long primary and exceedingly short and thick secondary. It is used
+with the alternating current in the primary, and produces in the secondary circuit which includes
+the bars to be welded a very low potential difference.
+
+Owing to the very low resistance of the secondary circuit this low electro-motive force produces
+a very strong current, which develops the requisite heat. The same type of transformer is used
+for brazing and similar purposes.
+
+549   STANDARD ELECTRICAL DICTIONARY.
+
+Transmitter. In general electric phraseology, any instrument which produces signals to be transmitted
+through a line or circuit is a transmitter. Thus the Morse key in telegraphy or the Blake transmitter
+in telephony are examples of such.
+
+Transmitter, Carbon. A form of microphone used as a telephone transmitter. (See Carbon Telephone.)
+
+Transposing. A method of laying metallic circuits for telephoning. The wires at short intervals
+are crossed so that alternate sections lie on opposite sides of each other. It is done to avoid
+induction.
+
+Transverse Electro-motive Force. Electro-motive force in a substance in which electric displacement
+is taking place, produced by a magnetic field. It is sometimes assigned as the cause of the
+Hall effect, q. v.
+
+Trimmer, Brush. A shears for cutting off evenly and squarely the ends of copper dynamo brushes.
+The brushes when uneven from wear are removed from the brush holders, and their ends are sheared
+off in the trimmer.
+
+Trolley. A grooved metallic pulley or set of pulleys which runs along an active wire of a circuit,
+a lead from which trolley goes to earth or connects with another wire, so that the trolley
+takes current generally for operating a street car motor placed upon the circuit leading from
+it; a rolling contact with an electric lead.
+
+Trolleys are principally used on electric railroads, and are now universally of the sub-wire
+system, being at the end of a pole which is inclined backward and forced upward by springs,
+so as to press the trolley against the bottom of the wire. Thus the trolley does not increase
+the sagging of the wire, but tends to push it up a little in its passage.
+
+Trolley, Double. A trolley with two rollers or grooved wheels, placed side by side, and running
+on two parallel leads of wire. It is adapted to systems employing through metallic trolley
+lines with the motors in multiple arc, connecting or across the two leads.
+
+Trolley Section. An unbroken or continuous section of trolley wire.
+
+Trouvé's Solution. An acid exciting and depolarizing solution for a zinc-carbon battery. Its
+formula is as follows: Water, 80 parts; pulverized potassium bichromate, 12 parts; concentrated
+sulphuric acid, 36 parts; all parts by weight. The pulverized potassium bichromate is added
+to the water, and the acid is added slowly with constant stirring. As much as 25 parts potassium
+bichromate may be added to 100 parts of water. The heating produced by the acid and water dissolves
+nearly all the potassium salt. Use cold.
+
+550   STANDARD ELECTRICAL DICTIONARY.
+
+True Contact Force. A species of electro-motive force whose existence is supposed to be proved
+by the Peltier effect. The lowering in temperature of a contact of dissimilar metals is attributed
+to a force that helps the current on its way if in the direction of thermo-current proper to
+the junction and opposing it if in the reverse. The true contact force is taken to explain
+this phenomenon; thermo-electric force cannot, as there is no heat or cold applied to the junction.
+
+Trumpet, Electric. An apparatus consisting of a vibrating tongue, kept in motion by electricity
+as in the buzzer, q. v., placed in the small end of a trumpet-shaped tube.
+
+Trunking Switchboard. A telephone switchboard arranged in sections, which sections are connected
+by trunk lines, through which trunk lines the desired connections are made.
+
+Trunk Lines. In telephone distribution systems, the lines connecting different stations, or
+different sections of a switch-board and used by anyone requiring such connections; one trunk
+line answers for a number of subscribers.
+
+Tube, Electric. A tube of glass around which is pasted a series of tinfoil circles, diamonds,
+or little squares, or other form of interrupted conductor. The pieces generally are placed
+in the line of a spiral. When a static discharge of electricity takes place along the conductor
+a row of bright sparks is produced at the breaks in the conductor. These by reflection are
+multiplied apparently, and a beautiful effect of intersecting or crossing spirals of sparks
+is presented.
+
+The experiment is in line with the luminous pane and lightning jar, and is used merely as a
+demonstration, or lecture experiment.
+
+Synonym--Luminous Tube.
+
+Tubular Braid. A braid woven of tissue or worsted, and tubular or hollow. Its object is to
+provide a covering which can be drawn over joints in covered wires. In making the joint the
+ends of the wires are necessarily bared, and a short piece of tubular braid is used for covering
+them. It is drawn by hand over the joint.
+
+Turns. An expression applied to the convolutions of wire in a solenoid, electro-magnet, or
+other apparatus or construction of that kind. A turn indicates a complete encircling of the
+core or axis of the object. Thus a wire wound five times around a bar gives five turns.
+
+While this is its primary meaning the term if compounded may refer to virtual turns. Thus an
+ampere-turn means one ampere passing through one turn. But ten ampere-turns may mean ten amperes
+passing through ten turns, five amperes passing through two turns, and so on. This use is analogous
+to a dimension of length in a compound word, as foot-pound.
+
+There may be a number of kinds of turns qualified by descriptive adjectives, as series-turns,
+the turns of wire in a series circuit of a compound dynamo. In the same way there are shunt-turns.
+If series ampere-turns or shunt ampere-turns are meant the word ampere should be included.
+
+551   STANDARD ELECTRICAL DICTIONARY.
+
+Turns, Dead, of a Dynamo. The rotations of a dynamo armature while it is building itself up
+or exciting itself. The expression is a bad one, as it is likely to be confounded with the
+dead turns of armature wire.
+
+Turns, Primary Ampere-. The ampere-turns in a primary circuit of an induction coil or transformer.
+In an electric welding transformer, or in the transformer used in the alternating current system,
+where efficiency is an important element, the ampere-turns in primary and secondary for an
+efficiency of 100 per cent. should be equal. In the case of an experimental induction coil
+other considerations outweigh that of mere efficiency. Insulation, including security from
+piercing, and the production of as long a spark as possible, are, in these cases, the controlling
+consideration.
+
+Turns, Secondary Ampere-. The ampere-turns on the secondary circuit of an induction coil or
+transformer. These depend on the path provided for the current. If of negligible inductance,
+such as a number of incandescent lamps would provide, the ampere-turns should be equal to those
+of the primary coil. (See Turns, Primary Ampere.)
+
+Typewriter, Electric. A typewriter in which the work of printing or of pressing the type faces
+against the paper, or printing ribbon, is done by electro-magnetic attraction. The keys close
+electric circuits, throwing the electro-magnetic action into play. This involves the use of
+electricity for what is ordinarily only a mechanical process. The strength of the impression,
+however, is independent of the touch of the operator. It has not come into very extensive use.
+
+Ultra-gaseous Matter. Gas so rarefied that its molecules do not collide or very rarely do so.
+
+Experiments of very striking nature have been devised by Crookes and others to illustrate the
+peculiar phenomena that this matter presents. The general lines of this work are similar to
+the methods used in Geissler tube experiments, except that the vacua used are very much higher.
+
+When the vacuum is increased so that but one-millionth of the original gas is left the radiant
+state is reached. The molecules in their kinetic movements beat back and forth in straight
+lines without colliding, or with very rare collisions. Their motions can be guided and rendered
+visible by electrification. A tube or small glass bulb with platinum electrodes sealed in it,
+is exhausted to the requisite degree and is hermetically sealed by melting the glass. The electrodes
+are connected to the terminals of an induction coil or other source of high tension electrification.
+The molecules which come in contact with a negatively electrified pole are repelled from it
+in directions normal to its surface. They produce different phosphorescent or luminous effects
+in their mutual collisions.
+
+Thus if they are made to impinge upon glass, diamond or ruby, intense phosphorescence is produced.
+A piece of platinum subjected to molecular bombardment is brought to white heat. A movable
+body can be made to move under their effects. Two streams proceeding from one negative pole
+repel each other. The stream of molecules can be drawn out of their course by a magnet.
+
+The experiments are all done on a small scale in tubes and bulbs, resembling to a certain extent
+Geissler tubes.
+
+552   STANDARD ELECTRICAL DICTIONARY.
+
+Unbuilding. The loss of its charge or excitation by a self-exciting dynamo. It is the reverse
+of building-up. The latter indicates the exciting of the field by the action of the machine
+itself; the former the spontaneous loss of charge on open circuit or from other cause.
+
+Underground Conductor. An electric conductor insulated and placed under the surface of the
+earth, as distinguished from aerial conductors.
+
+Underground Electric Subway. A subway for the enclosing of electric telegraph and other conductors
+under the surface, generally in the line of streets, to do away with telegraph poles and aerial
+lines of wire. Many systems have been devised. The general type includes tubes called ducts
+in sets, called conduits, bedded in concrete or otherwise protected. Every two or three hundred
+feet the sets lead into a cistern-like cavity called a manhole. The insulated wires or cables,
+generally sheathed with a lead alloy are introduced into the tubes through the man-holes. A
+rope is first fed through the tube. To do this short rods which screw together are generally
+employed. One by one they are introduced, and each end one is screwed to the series of rods
+already in the duct. When the end of the duct is reached the rope is fastened to the last rod,
+and the rods are then drawn through, unscrewed one by one and removed, the rope following them.
+By means of the rope a windlass or capstan may be applied to draw the cable into the duct.
+At least at every second man-hole the cables have to be spliced.
+
+Each cable may contain a large number of conductors of small size for telephoning, or a smaller
+number for electric light and power. The tendency is now to separate the different classes
+of wires in important lines, placing the heavier wires on one side of the street and the telephone
+and telegraph wires on the other. This of course necessitates two separate conduits.
+
+The advantage of underground distribution affects not only the appearance of streets in doing
+away with unsightly telegraph poles, but it also removes an element of danger at fires. Aerial
+wires interfere greatly with the handling of ladders at fires, and expose the firemen who attempt
+to cut them to danger to their lives from shock.
+
+533   STANDARD ELECTRICAL DICTIONARY.
+
+Unidirectional. adj. Having one direction as a "unidirectional current" or "unidirectional
+leak." The term is descriptive, and applicable to many cases.
+
+Uniform. adj. Unvarying; as a uniform potential difference, uniform current or conductor of
+uniform resistance per unit of length. The term is descriptive, and its application and meaning
+are obvious.
+
+Uniform Field of Force. A field of evenly distributed force; one in which the number of lines
+of force per unit of area of any equipotential surface is the same.
+
+Unipolar. adj. Strictly speaking this term means having only one pole, and is applied to magnets,
+armatures and the like. In its use a solecism is involved, for there is no such condition possible
+as unipolar magnetism or distribution of magnetism. An example of its use is shown in unipolar
+magnets. (See Magnet, Unipolar.)
+
+Unipolar Armature. An armature of a unipolar dynamo; an armature whose windings continuously
+cut the lines of force about the one pole, and hence whose polarity is unchanged in its rotation.
+
+Unipolar Current Induction. Current induction produced by moving a conductor through a magnetic
+field of force so that it always cuts the lines in similar relation to itself. Thus it produces
+a constant current through its own circuit, if a closed one, and no commutator is required.
+As this case always in practice amounts to the cutting of lines of force in the neighborhood
+of a single pole the term unipolar is employed to designate the action.
+
+The simplest representation of unipolar induction is the rotating of a conductor around the
+end of a bar magnet, its axis of rotation corresponding with the axis of the magnet.
+
+Unipolar Dynamo. A dynamo in which one part of the conductor slides on or around the magnet,
+so as always to cut lines of force near the same pole of the magnet.
+
+Unit. A directly or indirectly conventional and arbitrary quantity, in terms of which measurements
+of things with dimensions expressible in the chosen units are executed.
+
+Thus for length the c. g. s. unit is the centimeter; the B. E. unit is the foot.
+
+554   STANDARD ELECTRICAL DICTIONARY.
+
+Unit, Absolute. A unit based on the three fundamental units of length, mass and time. These
+units are the centimeter, gram and second. Each one in itself may be termed a fundamental absolute
+unit. The system of such units is termed the centimeter-gram-second system.
+
+Unit, Angle. A factor or datum in angular velocity, q. v. It is the angle subtended by a portion
+of the circumference equal in length to the radius of the circle. It is equal very nearly to
+57.29578° or 57° 17' 44.8".
+
+Unit, B. A. This term, while logically applicable to any of the British Association units,
+is often restricted to the ohm as formerly defined by the British Association, the B. A. Unit
+of Resistance, q. v.
+
+Unit, Fundamental. The three units of length, mass and time, the centimeter, gram and second,
+are termed fundamental units. On them is based the absolute system of units, and on multiples
+of them the practical system of units.
+
+Unit Jar. A Leyden jar which is used as a unit of measure of charge.
+
+It consists of a Leyden jar about 4 inches long and 3/4 inch diameter, with about 6 square
+inches of its outer and the same of its inner surface coated with tinfoil. It is placed between
+a source of electricity and a larger jar or battery of jars which is to be charged. The inner
+coating connects with the machine; the outer coating with the jars to be charged. Short conductors
+terminating in knobs connect with inner and outer coatings, and the knobs are adjusted at any
+desired distance apart.
+
+By the charging operation the large jar or battery of jars receives a charge by induction,
+and the charge of the small jar is at first equal to this quantity. After a while a spark passes
+from knob to knob, discharging the small jar. This indicates the reception by the large jars
+of the quantity of electricity represented by the charge of the small jar. The charging goes
+on, and for every spark approximately the same quantity of electricity is received by the larger
+jars.
+
+The sparking distance m is directly proportional to the quantity of electricity, and inversely
+proportional to the area of coated surface, or is proportional to the potential difference
+of the two coats. This is only true for short sparking distance, hence for accuracy the knobs
+should be adjusted not too far from each other.
+
+555   STANDARD ELECTRICAL DICTIONARY.
+
+Unit of Supply. A commercial unit for the sale of electric energy, as defined provisionally
+by the English Board of Trade; 1,000 amperes flowing for one hour under an E. M. F. of 1 volt;
+3,600,000 volt-coulombs, or 1,000 watt-hours, are its equivalent. It is equal to 1000/746 =
+1.34 electric horse power.
+
+Synonym--Board of Trade Unit.
+
+Units, Circular. A system of units of cross-sectional area, designed especially for use in
+describing wire conductors. The cross-sectional area of such is universally a circle, and the
+areas of two wires of different sizes vary with the square of their radii or diameters. Hence
+if the area of a circle of known diameter is determined it may be used as a unit for the dimensions
+of other circles. Any other circle will have an area proportioned to the area of the unit circle,
+as the squares of the diameters are to each other.
+
+In practise the commonest circular unit is the circular mil. This is the area of a circle one
+mil, 1/1000 inch, in diameter and is equal to .0000007854 square inch. A wire two mils in diameter
+has an area of four circular mils; one ten mils in diameter has an area of one hundred circular
+mils.
+
+Thus if the resistance of a given length of wire 1 mil in diameter is stated, the corresponding
+resistance of the same length of wire of the same material, but of other diameter, is given
+by dividing the first wire's resistance by the square of the diameter in mils of the wire in
+question.
+
+As it is a basic unit, most conveniently applied by multiplication, the smaller units are used;
+these are the circular mil, and circular millimeter.
+
+Units, Derived. Units derived by compounding or other processes, from the three fundamental
+units. Such are the units of area, volume, energy and work, momentum and electric units generally.
+In some cases the dimensions of the derived unit may reduce to those of a simple unit as inductance
+reduces to length, but the unit, as deduced from the fundamental ones, is still a derived unit.
+
+Units, Practical. A system of units employed in practical computation. The absolute units,
+especially in electricity, have been found too large or too small, and the attempt to make
+them more convenient has resulted in this system. It is based on exactly the same considerations
+as the absolute system of units, except that multiples of the original fundamental units of
+length, mass, and time have been taken as the base of the new system. These basic units are
+multiples of the fundamental units. They are the following: The unit of length is 1E9 centimeters;
+the unit of mass is 1E-11 gram; the unit of time remains 1 second.
+
+While this has conduced to convenience in giving better sized units, micro- and mega-units
+and other multiples or fractions have to be used. The following are the principal practical
+electric units:
+
+                             Electrostatic     Electromagnetic
+                             C. G. S Units.    C. G. S. Units.
+Intensity-Ampere   equal to     3E9               1E-1
+Quantity-Coulomb     "          3E9               1E-1
+Potential-Volt       "         (1/3)* E-2         1E8
+Resistance-Ohm       "         (1/9)* E-11        1E9
+Capacity-Farad       "         9E11               1E-9
+
+556   STANDARD ELECTRICAL DICTIONARY.
+
+Universal Battery System. A term in telegraphy. If several equal and high resistance telegraphic
+circuits are connected in parallel with each other from terminal to terminal of a battery of
+comparatively low resistance each circuit will receive the same current, and of practically
+the same strength as if only one circuit was connected. This is termed the universal battery
+system. It is a practical corollary of Ohm's law. The battery being of very low resistance
+compared to the lines the joining of several lines in parallel practically diminishes the total
+resistance of the circuit in proportion to their own number. Thus suppose a battery of ten
+ohms resistance and ten volts E. M. F. is working a single line of one hundred ohms resistance.
+The total resistance of the circuit is then one hundred and ten ohms. The total current of
+the circuit, all of which is received by the one line is 10/110 = .09 ampere, or 90 milliamperes.
+Now suppose that a second line of identical resistance is connected to the battery in parallel
+with the first. This reduces the external resistance to fifty ohms, giving a total resistance
+of the circuit of sixty ohms. The total current of the circuit, all of which is received by
+the two lines in equal parts, is 10/60 = .166 amperes. But this is equally divided between
+two lines, so that each one receives .083 ampere or 83 milliamperes; practically the same current
+as that given by the same battery to the single line. It will be seen that high line resistance
+and low battery resistance, relatively speaking, are required for the system. For this reason
+the storage battery is particularly available. The rule is that the resistance of the battery
+shall be less than the combined resistance of all the circuits worked by it.
+
+Unmarked End. The south-seeking pole of a magnet, so called because the other end, called the
+marked end, is usually marked with a scratch or notch by the maker, while the south pole is
+unmarked.
+
+V. (a) Symbol for velocity.
+
+(b) Symbol or abbreviation for volume.
+
+(c) Symbol or abbreviation for volt.
+
+557   STANDARD ELECTRICAL DICTIONARY.
+
+V. A. Symbol or abbreviation for voltaic alternatives, q. v.
+
+Vacuum. A space destitute of any substance. The great pervading substance is in general sense
+the atmosphere. It is the gaseous mixture which surrounds and envelopes the earth and its inhabitants.
+It consists of a simple mixture of oxygen, 1 part, nitrogen, 4 parts, with 4 to 6 volumes of
+carbonic acid gas in 10,000 volumes of air, or about one cubic inch to one cubic foot. It presses
+with a force of about 14.7 lbs. per square inch under the influence of the force of gravity.
+The term vacuum in practise refers to any space from which air has been removed. It may be
+produced chemically. Air may be displaced by carbonic acid gas and the latter may be absorbed
+by caustic alkali or other chemical. The air may be expelled and the space may be filled with
+steam which is condensed to produce the vacuum. Of course in all cases the space must be included
+in an hermetically sealed vessel, such as the bulb of an incandescent lamp. But the universal
+method of producing a vacuum is by air pumps. An absolute vacuum means the entire absence of
+gas or air, something almost impossible to produce. A high vacuum is sometimes understood to
+mean one in which the path of the molecules is equal in length to the diameter of the containing
+vessels, as in Crookes' Radiometer and other apparatus for illustrating the radiant condition
+of matter. The air left after exhaustion is termed residual air or residual atmosphere.
+
+Vacuum, Absolute. A space free of all material substance. It is doubtful whether an absolute
+vacuum has ever been produced.
+
+Vacuum, High. An approximate vacuum, so nearly perfect that the molecules of the residual gas
+in their kinetic motions rarely collide, and beat back and forth between the walls of the containing
+vessel, or between any solid object contained in the vessel and the walls of the vessel. The
+gas in such a vacuum is in the radiant or ultra-gaseous state. (See Ultra-gaseous Matter.)
+
+Vacuum, Low. A vacuum inferior to a high vacuum; a vacuum in which the molecules collide with
+each other and do not move directly from side to side of the containing vessel.
+
+Vacuum, Partial. A space partially exhausted of air so as to contain less than an equal volume
+of the surrounding atmosphere. It really should come below a low vacuum, but is often treated
+as synonymous therewith.
+
+Vacuum, Torricellian. The vacuum existing above the mercurial column in a barometer tube. The
+principle of this vacuum is applied in the Geissler and other air pumps. (See Pump, Geissler--Pump,
+Sprengel--Pump, Swinburne.)
+
+558   STANDARD ELECTRICAL DICTIONARY.
+
+Valency. The relative power of replacing hydrogen or combining therewith possessed by different
+elements; the number of atomic bonds belonging to any element. Thus oxygen has a twofold valency,
+is bivalent or is a dyad, and combines with two atoms of hydrogen because the latter has a
+unitary atomicity, is monovalent or is a monad.
+
+Valve, Electrically Controlled. A valve which is moved by or whose movements are regulated
+by electricity.
+
+In the block system of railroad signaling the semaphores are worked by weights and pneumatic
+cylinders and pistons. The valves for admitting or releasing the compressed air are operated
+by coil and plunger mechanism. There are many other instances of the control of valves by the
+electric current.
+
+Vapor Globe. A protecting glass globe surrounding an incandescent lamp, when the lamp is to
+be used in an atmosphere of explosive vapor, as in mines or similar places; or when in a place
+where it is exposed to dripping water which would break the hot lamp bulb if it fell upon it.
+
+Variable Period. The period of adjustment when a current is started through a conductor of
+some capacity. It is the period of duration of the variable state, q. v., in a conductor. As
+indicated in the next definition in a cable of high electrostatic capacity a variable period
+of nearly two minutes may exist. This indicates the retardation in signaling to be anticipated
+in cables and other lines of high capacity.
+
+Variable State. When an electric circuit is closed the current starts through the conductor
+with its full strength from the point of closure, and advances with a species of wave front
+so that some time elapses before it attains its full strength in the most distant parts of
+the conductor, owing to its having to charge the conductor to its full capacity at the given
+potential. The state of the line while the current thus varies is called the variable state.
+
+A long telegraph line when a message is being transmitted may be always in the variable state.
+The current at the receiving end may never attain its full strength.
+
+In the case of such a conductor as the Atlantic cable, 108 seconds would be required for a
+current to attain 9/10 of its full strength at the distant end, and but 1/5 second to attain
+1/100 of its final value. During the period of increase of current the variable state exists.
+
+Variation of the Compass. The declination of the magnetic needle. (See Elements, Magnetic.)
+As the declination is subject to daily, annual and secular variations, it is unfortunate that
+this term is synonymous with declination. Thus the variation of the compass means its declination,
+while there is also the variation of the declination and of other elements. The term variation
+of the compass is more colloquial than the more definite expression "declination," or "magnetic
+declination."
+
+559   STANDARD ELECTRICAL DICTIONARY.
+
+Variometer. An apparatus used in determining the relative values of the horizontal component
+of the earth's magnetic field in different places.
+
+Varley's Condenser. A static condenser whose conducting surfaces are platinum electrodes immersed
+in dilute sulphuric acid. When the potential difference is 1/50th that of a Daniell's cell,
+two square inches of platinum have a capacity equal to that of an air condenser whose plates
+have an area of 80,000,000 square inches, and separated 1/8th of an inch from each other. As
+the E. M. F. increases the capacity also increases.
+
+Varley's Resistances. Variable resistances formed of discs of carbonized cloth, q. v., piled
+up, and pressed together more or less firmly to vary the resistance as desired.
+
+Varnish. A glossy transparent coating of the nature of paint, applied as a protective, or ornamental
+coating to objects.
+
+Varnish, Electric. Alcoholic or etherial varnishes are the best for electrical apparatus. They
+dry quickly and perfectly, and tend to form surfaces unfavorable to the hygroscopic collection
+of water. Sealing wax dissolved in alcohol, or shellac dissolved in the same solvent are used
+for electrical apparatus, although the first is rather a lacquer than a varnish. Etherial solution
+of gum-copal is used to agglomerate coils of wire. It is well to bake varnished objects to
+harden the coating.
+
+Varnish, Red. A solution of sealing wax in 90 per cent. alcohol. It is best made thin and applied
+in several coats, each coat being allowed to dry perfectly before the next is applied. It is
+often seen on Leyden jars. It is a protector from surface leakage.
+
+Vat. A vessel for chemical or other solutions. A depositing vat is one in which a plating solution
+is worked, for the deposition of electroplate upon articles immersed in the liquid, and electrolyzed
+by an electric current.
+
+Velocity. The rate of motion of a body. It is usually expressed in distance traversed per second
+of time. The absolute unit is one centimeter per second or kine. The foot per second is very
+largely used also.
+
+The dimensions of velocity are length (L) divided by time (T) or L/T.
+
+Velocity, Angular. Velocity in a circle defined by the unit angle, or the angle which subtends
+a circular arc equal in length to itself. The radius of the circle traversed by the moving
+body does not enter into this definition, as the real velocity of the object is not stated.
+If its angular velocity and the radius of the path it travels are given its actual velocity
+can be deduced.
+
+560   STANDARD ELECTRICAL DICTIONARY.
+
+Velocity of Signaling. The speed of transmission of electric signals is affected by the nature
+of the line, as regards its static capacity, and by the delicacy of the receiving instruments,
+which may need a more or less strong current to be affected. Thus of an original current one
+per cent. may suffice to operate a sensitive instrument. This might give almost the velocity
+of light, while if the instrument would only respond to the full current nearly two minutes
+(see Variable State) might be required for the production of a signal.
+
+Velocity Ratio. A term applied to the ratios existing between the electrostatic and electro-magnetic
+units. If we take as numerators the dimensions of the different qualities in the electrostatic
+system, and their dimensions in the electro-magnetic system as denominators, the fractions
+thus obtained reduce to expressions containing only velocity or V in some form. Thus if we
+divide the dimensions of the electrostatic quantity by the dimensions of electro-magnetic quantity
+the quotient is simply V or velocity. A like division for potential, electrostatic and electro-magnetic
+gives (1/V), and so on.
+
+The value of the velocity ratio is very nearly 3E10 (sometimes given as 2.98E10) centimeters
+per second. This is almost exactly that of light (2.9992E10 centimeters per second.) This is
+one of the proofs of Clerk Maxwell's magnetic theory of light. (See Maxwell's Theory of Light.)
+
+Ventilation of Armature. In a dynamo or motor ventilation of the armature is often provided
+for by apertures through it in order to prevent heating. This heating is caused by Foucault
+currents. By proper disposition of the interior of the armature with properly disposed vanes
+and orifices an action like that of a fan blower can be produced, which by creating a current
+of air cools the machine very efficiently.
+
+Verticity, Poles of. Points upon the earth's surface where the horizontal component of magnetic
+force disappears, leaving only the vertical component active. The term is derived from the
+verticity of the dipping needle when over either of them.
+
+561   STANDARD ELECTRICAL DICTIONARY.
+
+Vibration Period. In electrical resonance the period of a vibration in an electrical resonator.
+The length of this period indicates the quality of the resonator in responding to electrical
+oscillations by sympathetic vibration. For conductors of small resistance the period is thus
+calculated. Let T be the period of one-half a full vibration; L the absolute coefficient of
+self-induction expressed in centimeters or in henries X 10-9; C the electrostatic capacity
+of the terminals, also expressed in the same unit; v the velocity of light in centimeters per
+second. Then we have the formula
+
+  T = PI * SquareRoot( L * C ) / v
+
+Vibration, Sympathetic. A vibration in a cord or other body susceptible of elastic vibration
+produced by the vibrations of exactly the same period in a neighboring vibrating body. Thus
+if two tuning forks are tuned to precisely the same pitch, and are placed near each other,
+if one is sounded it will start the other into vibration by sympathy.
+
+In electricity its application is found in electric resonance experiments. The resonator has
+a definite period of electric resonance, and is made to give a spark by the exciter of identical
+period. This is by what may be called electric sympathetic vibration, and is exactly analogous
+to the action of the tuning forks upon each other.
+

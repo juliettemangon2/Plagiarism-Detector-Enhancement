@@ -1,0 +1,97 @@
+﻿The term "paper making," as used in this publication, means the operation of forming the finished
+sheet of paper from stock which has been furnished and prepared in the beater. In these tests
+a 30-inch Fourdrinier machine of regular construction was used, a machine which often is used
+for the production of paper for filling regular commercial orders. The machine is designed
+to cause the water suspension of fibers to flow on to a traveling wire cloth, whereby the water
+drains away. More water is removed by passing the wet sheet through a series of press rolls,
+after which the sheet is dried on steam-heated drums and passed through polished iron rolls,
+which impart a finish to the sheet. A Jordan refining machine was employed in conjunction with
+the machine to improve further the quality of the fiber, and a pulp screen was used in order
+to remove coarse and extraneous materials from the fiber.
+
+=DESCRIPTION OF TESTS.=
+
+The nature of each complete paper test and the dependence of each operation on the others were
+such that it does not seem advisable to submit the results of the seven tests in tabular form.
+The numerous cooks, however, which furnished the pulp for the paper tests are presented in
+Table I in all essential detail.
+
+TABLE I.--Data on cooking hemp hurds.
+
+------+-----------+------------+----------+--------------------+-----------
+      |           |            |          |                    |
+      |           |            |          |      Cooking       | Yield of
+      |  Caustic  |Strength of |          |                    | bone-dry
+      | soda used |caustic soda|Causticity+--------+-----------+   fiber
+ Cook |(percentage| (grams per |  of soda |        |           |(percentage
+  No. |of bone-dry|   liter).  | solution.|  Time  |Temperature|of bone-dry
+      |   hurds). |            |          |(hours).|   (°C.)   | unsieved
+      |           |            |          |        |           |  hurds).
+------+-----------+------------+----------+--------+-----------+-----------
+293   |       20.6|       100  |      75.3|       3|        166|
+294   |       21  |       100  |      75.3|       3|        166|
+295   |       21.6|       100  |      75.3|       3|        166|
+296   |       20.3|       100  |      75.3|       3|        166|
+301   |       21.9|       100  |      82.5|       4|        166|  [3]
+302   |       24.4|       100  |      82.5|       4|        166|
+303   |       24.2|       100  |      84.3|       4|        166|     44.1
+304   |       25  |       100  |      84.3|       4|        170|     39.5
+305   |       25  |       100  |      84.3|       5|        170|     39.4
+306   |       27.8|       107.5|      84.3|       4|        166|     36.5
+307   |       26.7|       107  |      84.4|       5|        170|     38.1
+308   |       26  |       107  |      84.4|       5|        170|\   37.3
+309   |       27.3|       107  |      84.4|       5|        170|/
+310   |       27.1|       107  |      84.4|       6|        170|     37.0
+311   |       27.2|       107  |      84.4|       6|        170|     36.8
+312   |       28.3|       116.5|      85.5|       5|        170|     35.9
+313   |       29.1|       113.1|      84.9|       5|        170|\   35.2
+314   |       29.1|       109  |      83.9|       5|        170|/
+315   |       29.4|       109  |      83.9|       5|        170|     34.9
+316   |       30  |       109.5|      84.9|       5|        170|     37.2
+317   |       29.6|       109.5|      84.9|       5|        170|     37.0
+318   |       29.6|       107  |      84.8|       5|        170|     37.7
+319   |       29.4|       107.5|      84.2|       5|        170|\   35.4
+320   |       29.3|       107.5|      84.2|       5|        170|/
+------+-----------+------------+----------+--------+-----------+-----------
+
+[Footnote 3: Stock not used; dirty.]
+
+Discussion of the various cooks will be given in connection with the descriptions of those
+paper tests in which the stocks from the cooks were used, since a stock and its cooking condition
+can be judged adequately only after it has been put through the various processes and into
+the finished sheet of paper.
+
+The first test consisted in making four separate cooks, Nos. 293, 294, 295, and 296, of approximately
+300 pounds each, dividing the total stock into two parts and making two separate paper tests.
+The first test was made primarily in order to learn some of the qualities and characteristics
+of the stock and to get the machinery equipment adjusted properly. The yield of fiber was not
+determined in this preliminary test, since the knowledge of it was not essential at this stage
+of the work. The cooked stock which was emptied into the drainer to be washed free from black
+liquor was composed largely of whole pieces of hurds, but only slight pressure between the
+fingers was required to crush the pieces. In the case of wood, this condition ordinarily would
+indicate undercooking, but might not in the case of hurds. Further observation on the action
+of the cooked stock during subsequent processes was necessary in order to judge of its quality
+or the suitability of the cooking conditions. The total cooked stock, about 500 pounds, was
+divided into two portions of 200 and 300 pounds, respectively, and work was continued on them
+separately. The 200-pound test, designated as run No. 135, was put into a 350-pound washing
+engine, washed one hour, and given a total light brush of 2-1/4 hours. The washing removed
+a great amount of dirt, but the engine did not reduce the hurd stock as much as was desired.
+After heating the stock in the beater to 40° C., it was bleached with bleaching-powder solution,
+94 gallons at 0.418 pound bleach per gallon, equivalent to 19.7 per cent of the fiber. This
+percentage of bleach is regarded as too high for stock intended for book-paper manufacture,
+and subsequent cooks therefore were given harder treatment in order to reduce this figure.
+After draining and washing free from bleach residues, the stock was furnished in the beater
+with 13 per cent of clay, 1 per cent of resin size, and 2.5 per cent of alum, was tinted blue,
+given one hour's light brush, and pumped to the stock chest. When running it on the paper machine,
+the Jordan refiner seemed to have little effect in reducing shives of undertreated wood, which
+indicated further the necessity of harder cooking. The furnish acted well on the paper machine
+at 70 feet per minute, but appeared somewhat too "free" on the wire. The paper produced from
+this test is of very low quality, due to the improper preparation of the stock, lack of sufficient
+bleach, the use of too small an amount of blue tinting, and the presence of an excessive amount
+of dirt, sand, and shives. The excessive amount of dirt and sand suggested the sieving of the
+hurds before cooking, and this was performed in all subsequent cooks.
+
+The finish of the sheet is very poor, due to the fact that the calender stack was composed
+of very light rolls which did not have a satisfactory surface, yet the stack is known to be
+able to produce better finishes if the proper stock is employed.
+

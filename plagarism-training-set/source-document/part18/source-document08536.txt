@@ -1,0 +1,621 @@
+﻿THE
+
+WORKING OF STEEL
+
+ANNEALING, HEAT TREATING
+
+AND
+
+HARDENING OF CARBON AND ALLOY STEEL
+
+BY
+
+FRED H. COLVIN
+
+Member American Society of Mechanical Engineers and Franklin Institute; Editor of the American
+Machinist, Author of "Machine Shop Arithmetic," "Machine Shop Calculations," "American Machinists'
+Hand Book." Considerable of the matter relating to the influence of chemical composition upon
+the properties of alloy steels has been rewritten. Furthermore, opportunity has been taken
+to include some brief notes on methods of physical testing--whereby the metallurgist judges
+of the excellence of his metal in advance of its actual performance in service.
+
+NEW YORK, N. Y.,
+
+  August, 1922.
+
+PREFACE TO FIRST EDITION
+
+The ever increasing uses of steel in all industries and the necessity of securing the best
+results with the material used, make a knowledge of the proper working of steel more important
+than ever before. For it is not alone the quality of the steel itself or the alloys used in
+its composition, but the proper working or treatment of the steel which determines whether
+or not the best possible use has been made of it.
+
+With this in mind, the authors have drawn, not only from their own experience but from the
+best sources available, information as to the most approved methods of working the various
+kinds of steel now in commercial use. These include low carbon, high carbon and alloy steels
+of various kinds, and from a variety of industries. The automotive field has done much to develop
+not only new alloys but efficient methods of working them and has been drawn on liberally so
+as to show the best practice. The practice in government arsenals on steels used in fire arms
+is also given.
+
+While not intended as a treatise on steel making or metallurgy in any sense, it has seemed
+best to include a little information as to the making of different steels and to give considerable
+general information which it is believed will be helpful to those who desire to become familiar
+with the most modern methods of working steel.
+
+It is with the hope that this volume, which has endeavored to give due credit to all sources
+of information, may prove of value to its readers and through them to the industry at large.
+
+July, 1921.
+
+  THE AUTHORS.
+
+CONTENTS
+
+PREFACE
+
+INTRODUCTION
+
+CHAPTER
+    I. STEEL MAKING
+   II. COMPOSITION AND PROPERTIES OF STEELS
+  III. ALLOYS AND THEIR EFFECT UPON STEEL
+   IV. APPLICATION OF LIBERTY ENGINE MATERIALS TO THE AUTOMOTIVE INDUSTRY
+    V. THE FORGING OF STEEL
+   VI. ANNEALING
+  VII. CASE-HARDENING OR SURFACE-CARBURIZING
+ VIII. HEAT TREATMENT OF STEEL
+   IX. HARDENING CARBON STEEL FOR TOOLS
+    X. HIGH SPEED STEEL
+   XI. FURNACES
+  XII. PYROMETRY AND PYROMETERS
+
+APPENDIX
+
+INDEX
+
+INTRODUCTION
+
+THE ABC OF IRON AND STEEL
+
+In spite of all that has been written about iron and steel there are many hazy notions in the
+minds of many mechanics regarding them. It is not always clear as to just what makes the difference
+between iron and steel. We know that high-carbon steel makes a better cutting tool than low-carbon
+steel. And yet carbon alone does not make all the difference because we know that cast iron
+has more carbon than tool steel and yet it does not make a good cutting tool.
+
+Pig iron or cast iron has from 3 to 5 per cent carbon, while good tool steel rarely has more
+than 1-1/4 per cent of carbon, yet one is soft and has a coarse grain, while the other has
+a fine grain and can be hardened by heating and dipping in water. Most of the carbon in cast
+iron is in a form like graphite, which is almost pure carbon, and is therefore called graphitic
+carbon. The resemblance can be seen by noting how cast-iron borings blacken the hands just
+as does graphite, while steel turnings do not have the same effect. The difference is due to
+the fact that the carbon in steel is not in a graphitic form as well as because it is present
+in smaller quantities.
+
+In making steel in the old way the cast iron was melted and the carbon and other impurities
+burned out of it, the melted iron being stirred or "puddled," meanwhile. The resulting puddled
+iron, also known as wrought iron, is very low in carbon; it is tough, and on being broken appears
+to be made up of a bundle of long fibers. Then the iron was heated to redness for several days
+in material containing carbon (charcoal) until it absorbed the desired amount, which made it
+steel, just as case-hardening iron or steel adds carbon to the outer surface of the metal.
+The carbon absorbed by the iron does not take on a graphitic form, however, as in the case
+of cast iron, but enters into a chemical compound with the iron, a hard brittle substance called
+"cementite" by metallurgists. In fact, the difference between the hard, brittle cementite and
+the soft, greasy graphite, accounts for many of the differences between steel and gray cast
+iron. Wrought iron, which has very little carbon of any sort in it, is fairly soft and tough.
+The properties of wrought iron are the properties of pure iron. As more and more carbon is
+introduced into the iron, it combines with the iron and distributes itself throughout the metal
+in extremely small crystals of cementite, and this brittle, hard substance lends more and more
+hardness and strength to the steel, at the expense of the original toughness of the iron. As
+more and more carbon is contained in the alloy--for steel is a true alloy--it begins to appear
+as graphite, and its properties counteract the remaining brittle cementite. Eventually, in
+gray cast iron, we have properties which would be expected of wrought iron, whose tough metallic
+texture was shot through with flakes of slippery, weak graphite.
+
+But to return to the methods of making steel tools in use 100 years ago.
+
+The iron bars, after heating in charcoal, were broken and the carbon content judged by the
+fracture. Those which had been in the hottest part of the furnace would have the deepest "case"
+and highest carbon. So when the steel was graded, and separated into different piles, a few
+bars of like kind were broken into short lengths, melted in fire-clay crucibles at an intense
+white heat, cast carefully into iron molds, and the resulting ingot forged into bars under
+a crude trip hammer. This melting practice is still in use for crucible steel, and will be
+described further on page 4. These are: The Bessemer, Open Hearth, Crucible and Electric Furnace
+Methods.
+
+BESSEMER PROCESS
+
+The bessemer process consists of charging molten pig iron into a huge, brick-lined pot called
+the bessemer converter, and then in blowing a current of air through holes in the bottom of
+the vessel into the liquid metal.
+
+The air blast burns the white hot metal, and the temperature increases. The action is exactly
+similar to what happens in a fire box under forced draft. And in both cases some parts of the
+material burn easier and more quickly than others. Thus it is that some of the impurities in
+the pig iron--including the carbon--burn first, and if the blast is shut off when they are
+gone but little of the iron is destroyed. Unfortunately sulphur, one of the most dangerous
+impurities, is not expelled in the process.
+
+A bessemer converter is shown in Fig. 1, while Fig. 2 shows the details of its construction.
+This shows how the air blast is forced in from one side, through the trunnion, and up through
+the metal. Where the steel is finished the converter is tilted, or swung on its trunnions,
+the blast turned off, and the steel poured out of the top.
+
+OPEN HEARTH PROCESS
+
+The open hearth furnace consists of a big brick room with a low arched roof. It is charged
+with pig iron and scrap through doors in the side walls.
+
+Through openings at one end of the furnace come hot air and gas, which burn in the furnace,
+producing sufficient heat to melt the charge and refine it of its impurities. Lime and other
+nonmetallic substances are put in the furnace. These melt, forming a "slag" which floats on
+the metal and aids materially in the refining operations.
+
+In the bessemer process air is forced through the metal. In the open-hearth furnace the metal
+is protected from the flaming gases by a slag covering. Therefore it is reasonable to suppose
+that the final product will not contain so much gas.
+
+A diagram of a modern regenerative furnace is shown in Fig. 3. Air and gas enter the hearth
+through chambers loosely packed with hot fire brick, burn, and exit to the chimney through
+another pair of chambers, giving to them some of the heat which would otherwise waste. The
+direction is reversed about every twenty minutes by changing the position of the dampers.
+
+CRUCIBLE STEEL
+
+Crucible steel is still made by melting material in a clay or graphite crucible. Each crucible
+contains about 40 lb. of best puddled iron, 40 lb. of clean "mill scrap"--ends trimmed from
+tool steel bars--and sufficient rich alloys and charcoal to make the mixture conform to the
+desired chemical analysis. The crucible is covered, lowered into a melting hole (Fig. 4) and
+entirely surrounded by burning coke. In about four hours the metal is converted into a quiet
+white hot liquid. Several crucibles are then pulled out of the hole, and their contents carefully
+poured into a metal mold, forming an ingot.
+
+If modern high-speed steel is being made, the ingots are taken out of the molds while still
+red hot and placed in a furnace which keeps them at this temperature for some hours, an operation
+known as annealing. After slow cooling any surface defects are ground out. Ingots are then
+reheated to forging temperature, hammered down into "billets" of about one-quarter size, and
+10 to 20 per cent of the length cut from the top. After reheating the billets are hammered
+or rolled into bars of desired size. Finished bars are packed with a little charcoal into large
+pipes, the ends sealed, and annealed for two or three days. After careful inspection and testing
+the steel is ready for market.
+
+THE ELECTRIC PROCESS
+
+The fourth method of manufacturing steel is by the electric furnace. These furnaces are of
+various sizes and designs; their size may be sufficient for only 100 lb. of metal--on the other
+hand electric furnaces for making armor-plate steel will hold 40 tons of steel. Designs vary
+widely according to the electrical principles used. A popular furnace is the 6-ton Heroult
+furnace illustrated in Fig. 5.
+
+It is seen to be a squat kettle, made of heavy sheet steel, with a dished bottom and mounted
+so it can be tilted forward slightly and completely drained. This kettle is lined with special
+fire brick which will withstand most intense heat and resist the cutting action of hot metal
+and slag. For a roof, a low dome of fire brick is provided. The shell and lining is pierced
+in front for a pouring spout, and on either side by doors, through which the raw material is
+charged.
+
+Two or three carbon "electrodes"--18-in. cylinders of specially prepared coke or graphite--extend
+through holes in the roof. Electrical connections are made to the upper ends, and a very high
+current sent through them. This causes tremendous arcs to form between the lower ends of the
+electrodes and the metal below, and these electric arcs are the only source of heat in this
+style of furnace.
+
+Electric furnaces can be used to do the same work as is done in crucible furnaces--that is
+to say, merely melt a charge of carefully selected pure raw materials. On the other hand it
+can be used to produce very high-grade steel from cheap and impure metal, when it acts more
+like an open-hearth furnace. It can push the refining even further than the latter furnace
+does, for two reasons: first the bath is not swept continuously by a flaming mass of gases;
+second, the temperature can be run up higher, enabling the operator to make up slags which
+are difficult to melt but very useful to remove small traces of impurities from the metal.
+
+Electric furnaces are widely used, not only in the iron industry, but in brass, copper and
+aluminum works. It is a useful melter of cold metal for making castings. It can be used to
+convert iron into steel or vice versa. Its most useful sphere, however, is as a refiner of
+metal, wherein it takes either cold steel or molten steel from open hearth or bessemer furnaces,
+and gives it the finishing touches.
+
+As an illustration of the furnace reactions that take place the following schedule is given,
+showing the various stages in the making of a heat of electric steel. The steel to be made
+was a high-carbon chrome steel used for balls for ball bearings:
+
+6-TON HEROULT FURNACE
+
+11:50 A.M.--Material charged:
+  Boiler plate   5,980 lb.
+  Stampings      5,991 lb.
+               -----------
+                11,971 lb.
+  Limestone        700 lb.
+12:29 P.M.--Completed charging (current switched on).
+ 3:20 P.M.--Charge melted down.
+  Preliminary analysis under black slag.
+    Analysis:
+      Carbon      Silicon     Sulphur     Phosphorus  Manganese
+       0.06        0.014       0.032        0.009       0.08
+           Note the practical elimination of phosphorus.
+ 3:40 P.M.--The oxidizing (black) slag is now poured and skimmed off as
+   clean as possible to prevent rephosphorizing and to permit of adding
+   carburizing materials. For this purpose carbon is added in the form
+   of powdered coke, ground electrodes or other forms of pure carbon.
+
+The deoxidizing slag is now formed by additions of lime, coke and fluorspar (and for some analyses
+ferrosilicon). The slag changes from black to white as the metallic oxides are reduced by these
+deoxidizing additions and the reduced metals return to the bath. A good finishing slag is creamy
+white, porous and viscous. After the slag becomes white, some time is necessary for the absorption
+of the sulphur in the bath by the slag.
+
+The white slag disintegrates to a powder when exposed to the atmosphere and has a pronounced
+odor of acetylene when wet.
+
+Further additions of recarburizing material are added as needed to meet the analysis. The further
+reactions are shown by the following:
+
+3:40 P.M.--Recarburizing material added:
+  130 lb. ground electrodes.
+   25 lb. ferromanganese.
+    Analysis:
+      Carbon   Silicon  Sulphur  Phosphorus  Manganese
+       0.76     0.011    0.030     0.008       0.26
+
+To form white slag there was added:
+
+  225 lb. lime.
+   75 lb. powdered coke.
+   55 lb. fluorspar.
+4:50 P.M.--
+  Analysis:
+      Carbon   Silicon  Sulphur  Phosphorus  Manganese
+       0.75     0.014    0.012     0.008       0.28
+           Note reduction of the sulphur content.
+
+During the white-slag period the following alloying additions were made:
+
+  500 lb. pig iron.
+   80 lb. ferrosilicon.
+    9 lb. ferromanganese.
+  146 lb. 6 per cent carbon ferrochrome.
+
+The furnace was rotated forward to an inclined position and the charge poured into the ladle,
+from which in turn it was poured into molds.
+
+5:40 P.M.--Heat poured.
+  Analysis:
+      Carbon   Silicon  Sulphur  Phosphorus  Manganese  Chromium
+       0.97     0.25     0.014     0.013       0.33       0.70
+
+Ingot weight poured  94.0 per cent Scull                 2.7 per cent Loss                
+3.3 per cent
+
+Total current consumption for the heat, 4,700 kW.-hr. or 710 kw.-hr. per ton.
+
+Electric steel, in fact, all fine steel, should be cast in big-end-up molds with refractory
+hot tops to prevent any possibility of pipage in the body of the ingot. In the further processing
+of the ingot, whether in the rolling mill or forge, special precautions should be taken in
+the heating, in the reduction of the metal and in the cooling.
+
+No attempt is made to compare the relative merits of open hearth and electric steel; results
+in service, day in and day out, have, however, thoroughly established the desirability of electric
+steel. Ten years of experience indicate that electric steel is equal to crucible steel and
+superior to open hearth.
+
+The rare purity of the heat derived from the electric are, combined with definite control of
+the slag in a neutral atmosphere, explains in part the superiority of electric steel. Commenting
+on this recently Dr. H. M. Howe stated that "in the open hearth process you have such atmosphere
+and slag conditions as you can get, and in the electric you have such atmosphere and slag conditions
+as you desire."
+
+Another type of electric furnace is shown in Figs. 7 and 8. This is the Ludlum furnace, the
+illustrations showing a 10-ton size. Figure 7 shows it in normal, or melting position, while
+in Fig. 8 it is tilted for pouring. In melting, the electrodes first rest on the charge of
+material in the furnace. After the current is turned on they eat their way through, nearly
+to the bottom. By this time there is a pool of molten metal beneath the electrode and the charge
+is melted from the bottom up so that the roof is not exposed to the high temperature radiating
+from the open arc. The electrodes in this furnace are of graphite, 9 in. in diameter and the
+current consumed is about 500 kw.-hr. per ton.
+
+One of the things which sometimes confuse regarding the contents of steel is the fact that
+the percentage of carbon and the other alloys are usually designated in different ways. Carbon
+is usually designated by "points" and the other alloys by percentages. The point is one ten-thousandth
+while 1 per cent is one one-hundredth of the whole. In other words, "one hundred point carbon"
+is steel containing 1 per cent carbon. Twenty point carbon, such as is used for carbonizing
+purposes is 0.20 per cent. Tool steel varies from one hundred to one hundred and fifty points
+carbon, or from 1.00 to 1.50 per cent.
+
+Nickel, chromium, etc., are always given in per cent, as a 3.5 per cent nickel, which means
+exactly what it says--3-1/2 parts in 100. Bearing this difference in mind all confusion will
+be avoided.
+
+CLASSIFICATIONS OF STEEL
+
+Among makers and sellers, carbon tool-steels are classed by "grade" and "temper." The word
+grade is qualified by many adjectives of more or less cryptic meaning, but in general they
+aim to denote the process and care with which the steel is made.
+
+Temper of a steel refers to the carbon content. This should preferably be noted by "points,"
+as just explained; but unfortunately, a 53-point steel (containing 0.53 per cent carbon) may
+locally be called something like "No. 3 temper."
+
+A widely used method of classifying steels was originated by the Society of Automotive Engineers.
+Each specification is represented by a number of 4 digits, the first figure indicating the
+class, the second figure the approximate percentage of predominant alloying element, and the
+last two the average carbon content in points. Plain carbon steels are class 1, nickel steels
+are class 2, nickel-chromium steels are class 3, chromium steels are class 5, chromium-vanadium
+steels are class 6, and silico-manganese steels are class 9. Thus by this system, steel 2340
+would be a 3 per cent nickel steel with 0.40 per cent carbon; or steel 1025 would be a 0.25
+plain carbon steel.
+
+Steel makers have no uniform classification for the various kinds of steel or steels used for
+different purposes. The following list shows the names used by some of the well-known makers:
+
+Air-hardening steel       Chrome-vanadium steel Alloy steel               Circular saw plates
+Automobile steel          Coal auger steel Awl steel                 Coal mining pick or cutter
+steel Axe and hatchet steel     Coal wedge steel Band knife steel          Cone steel Band
+saw steel            Crucible cast steel Butcher saw steel         Crucible machinery steel
+Chisel steel              Cutlery steel Chrome-nickel steel       Drawing die steel (Wortle)
+
+Drill rod steel           Patent, bush or hammer steel Facing and welding steel  Pick steel
+Fork steel                Pivot steel Gin saw steel             Plane bit steel Granite wedge
+steel       Quarry steel Gun barrel steel          Razor steel Hack saw steel            Roll
+turning steel High-speed tool steel     Saw steel Hot-rolled sheet steel    Scythe steel Lathe
+spindle steel       Shear knife steel Lawn mower knife steel    Silico-manganese steel Machine
+knife steel       Spindle steel Magnet steel              Spring steel Mining drill steel 
+Tool holder steel Nail die shapes           Vanadium tool steel Nickel-chrome steel       Vanadium-chrome
+steel Paper knife steel         Wortle steel
+
+Passing to the tonnage specifications, the following table from Tiemann's excellent pocket
+book on "Iron and Steel," will give an approximate idea of the ordinary designations now in use:
+
+                  Approximate
+  Grades          carbon range             Common uses
+
+Extra soft         0.08-0.18    Pipe, chain and other welding purposes;
+(dead soft)                     case-hardening purposes; rivets; pressing
+                                and stamping purposes.
+Structural (soft)  0.15-0.25    Structural plates, shapes and bars for
+(medium)                        bridges, buildings, cars, locomotives;
+                                boiler (flange) steel; drop forgings; bolts.
+Medium             0.20-0.35    Structural purposes (ships); shafting;
+                                automobile parts; drop forgings.
+Medium hard        0.35-0.60    Locomotive and similar large forgings; car
+                                axles; rails.
+Hard               0.60-0.85    Wrought steel wheels for steam and electric
+                                railway service; locomotive tires; rails;
+                                tools, such as sledges, hammers, pick points,
+                                crowbars, etc.
+Spring             0.85-1.05    Automobile and other vehicle springs; tools,
+                                such as hot and cold chisels, rock drills
+                                and shear blades.
+Spring             0.90-1.15    Railway springs; general machine shop tools.
+
+CHAPTER II
+
+COMPOSITION AND PROPERTIES OF STEEL
+
+It is a remarkable fact that one can look through a dozen text books on metallurgy and not
+find a definition of the word "steel." Some of them describe the properties of many other irons
+and then allow you to guess that everything else is steel. If it was difficult a hundred years
+ago to give a good definition of the term when the metal was made by only one or two processes,
+it is doubly difficult now, since the introduction of so many new operations and furnaces.
+
+We are in better shape to know what steel is than our forefathers. They went through certain
+operations and they got a soft malleable, weldable metal which would not harden; this they
+called iron. Certain other operations gave them something which looked very much like iron,
+but which would harden after quenching from a red heat. This was steel. Not knowing the essential
+difference between the two, they must distinguish by the process of manufacture. To-day we
+can make either variety by several methods, and can convert either into the other at will,
+back and forth as often as we wish; so we are able to distinguish between the two more logically.
+
+We know that iron is a chemical element--the chemists write it Fe for short, after the Latin
+word "ferrum," meaning iron--it is one of those substances which cannot be separated into anything
+else but itself. It can be made to join with other elements; for instance, it joins with the
+oxygen in the air and forms scale or rust, substances known to the chemist as iron oxide. But
+the same metal iron can be recovered from that rust by abstracting the oxygen; having recovered
+the iron nothing else can be extracted but iron; iron is elemental.
+
+We can get relatively pure iron from various minerals and artificial substances, and when we
+get it we always have a magnetic metal, almost infusible, ductile, fairly strong, tough, something
+which can be hardened slightly by hammering but which cannot be hardened by quenching. It has
+certain chemical properties, which need not be described, which allow a skilled chemist to
+distinguish it without difficulty and unerringly from the other known elements--nearly 100 of them.
+
+Carbon is another chemical element, written C for short, which is widely distributed through
+nature. Carbon also readily combines with oxygen and other chemical elements, so that it is
+rarely found pure; its most familiar form is soot, although the rarer graphite and most rare
+diamond are also forms of quite pure carbon. It can also be readily separated from its multitude
+of compounds (vegetation, coal, limestone, petroleum) by the chemist.
+
+With the rise of knowledge of scientific chemistry, it was quickly found that the essential
+difference between iron and steel was that the latter was iron plus carbon. Consequently it
+is an alloy, and the definition which modern metallurgists accept is this:
+
+"Steel is an iron-carbon alloy containing less than about 2 per cent carbon."
+
+Of course there are other elements contained in commercial steel, and these elements are especially
+important in modern "alloy steels," but carbon is the element which changes a soft metal into
+one which may be hardened, and strengthened by quenching. In fact, carbon, of itself, without
+heat treatment, strengthens iron at the expense of ductility (as noted by the percentage elongation
+an 8-in. bar will stretch before breaking). This is shown by the following table:
+
+--------------------------------------------------------------------------
+                  |           |            |Elastic |Ultimate|Percentage.
+  Class by use.   | Class by  |  Per cent  | limit  |strength|elongation
+                  | hardness. |  carbon.   |lb. per |lb. per |in 8 inches.
+                  |           |            |sq. in. |sq. in. |
+------------------|-----------|------------|--------|--------|------------
+Boiler rivet steel|Dead soft  |0.08 to 0.15| 25,000 | 50,000 |     30
+Struc. rivet steel|Soft       |0.15 to 0.22| 30,000 | 55,000 |     30
+Boiler plate steel|Soft       |0.08 to 0.10| 30,000 | 60,000 |     25
+Structural steel  |Medium     |0.18 to 0.30| 35,000 | 65,000 |     25
+Machinery steel   |Hard       |0.35 to 0.60| 40,000 | 75,000 |     20
+Rail steel        |Hard       |0.35 to 0.55| 40,000 | 75,000 |     15
+Spring steel      |High carbon|1.00 to 1.50| 60,000 |125,000 |     10
+Tool steel        |High carbon|0.90 to 1.50| 80,000 |150,000 |      5
+--------------------------------------------------------------------------
+
+Just why a soft material like carbon (graphite), when added to another soft material like iron,
+should make the iron harder, has been quite a mystery, and one which has caused a tremendous
+amount of study. The mutual interactions of these two elements in various proportions and at
+various temperatures will be discussed at greater length later, especially in Chap. VIII, p.
+105. But we may anticipate by saying that some of the iron unites with all the carbon to form
+a new substance, very hard, a carbide which has been called "cementite." The compound always
+contains iron and carbon in the proportions of three atoms of iron to one atom of carbon; chemists
+note this fact in shorthand by the symbol Fe3C (a definite chemical compound of three atoms
+of iron to one of carbon). Many of the properties of steel, as they vary with carbon content,
+can be linked up with the increasing amount of this hard carbide cementite, distributed in
+very fine particles through the softer iron.
+
+SULPHUR is another element (symbol S) which is always found in steel in small quantities. Some
+sulphur is contained in the ore from which the iron is smelted; more sulphur is introduced
+by the coke and fuel used. Sulphur is very difficult to get rid of in steel making; in fact
+the resulting metal usually contains a little more than the raw materials used. Only the electric
+furnace is able to produce the necessary heat and slags required to eliminate sulphur, and
+as a matter of fact the sulphur does not go until several other impurities have been eliminated.
+Consequently, an electric steel with extremely low sulphur (0.02 per cent) is by that same
+token a well-made metal.
+
+Sulphur is of most trouble to rolling and forging operations when conducted at a red heat.
+It makes steel tender and brittle at that temperature--a condition known to the workmen as
+"red-short." It seems to have little or no effect upon the physical properties of cold steel--at
+least as revealed by the ordinary testing machines--consequently many specifications do not
+set any limit on sulphur, resting on the idea that if sulphur is low enough not to cause trouble
+to the manufacturer during rolling, it will not cause the user any trouble.
+
+Tool steel and other fine steels should be very low in sulphur, preferably not higher than
+0.03 per cent. Higher sulphur steels (0.06 per cent, and even up to 0.10 per cent) have given
+very good service for machine parts, but in general a high sulphur steel is a suspicious steel.
+Screw stock is purposely made with up to 0.12 per cent sulphur and a like amount of phosphorus
+so it will cut freely.
+
+Manganese counteracts the detrimental effect of sulphur when present in the steel to an amount
+at least five times the sulphur content.
+
+PHOSPHORUS is an element (symbol P) which enters the metal from the ore. It remains in the
+steel when made by the so-called acid process, but it can be easily eliminated down to 0.06
+per cent in the basic process. In fact the discovery of the basic process was necessary before
+the huge iron deposits of Belgium and the Franco-German border could be used. These ores contain
+several per cent phosphorus, and made a very brittle steel ("cold short") until basic furnaces
+were used. Basic furnaces allow the formation of a slag high in lime, which takes practically
+all the phosphorus out of the metal. Not only is the resulting metal usable, but the slag makes
+a very excellent fertilizer, and is in good demand.
+
+SILICON is a very widespread element (symbol Si), being an essential constituent of nearly
+all the rocks of the earth. It is similar to carbon in many of its chemical properties; for
+instance it burns very readily in oxygen, and consequently native silicon is unknown--it is
+always found in combination with one or more other elements. When it bums, each atom of silicon
+unites with two atoms of oxygen to form a compound known to chemists as silica (SiO2), and
+to the small boy as "sand" and "agate."
+
+Iron ore (an oxide of iron) contains more or less sand and dirt mixed in it when it is mined,
+and not only the iron oxide but also some of the silicon oxide is robbed of its oxygen by the
+smelting process. Pig iron--the product of the blast furnace--therefore contains from 1 to
+3 per cent of silicon, and some silicon remains in the metal after it has been purified and
+converted into steel.
+
+However, silicon, as noted above, burns very readily in oxygen, and this property is of good
+use in steel making. At the end of the steel-making process the metal contains more or less
+oxygen, which must be removed. This is sometimes done (especially in the so-called acid process)
+by adding a small amount of silicon to the hot metal just before it leaves the furnace, and
+stirring it in. It thereupon abstracts oxygen from the metal wherever it finds it, changing
+to silica (SiO2) which rises and floats on the surface of the cleaned metal. Most of the silicon
+remaining in the metal is an excess over that which is required to remove the dangerous oxygen,
+and the final analysis of many steels show enough silicon (from 0.20 to 0.40) to make sure
+that this step in the manufacture has been properly done.
+
+MANGANESE is a metal much like iron. Its chemical symbol is Mn. It is somewhat more active
+than iron in many chemical changes--notably it has what is apparently a stronger attraction
+for oxygen and sulphur than has iron. Therefore the metal is used (especially in the so-called
+basic process) to free the molten steel of oxygen, acting in a manner similar to silicon, as
+explained above. The compound of manganese and oxygen is readily eliminated from the metal.
+Sufficient excess of elemental manganese should remain so that the purchaser may be sure that
+the iron has been properly "deoxidized," and to render harmless the traces of sulphur present.
+No damage is done by the presence of a little manganese in steel, quite the reverse. Consequently
+it is common to find steels containing from 0.3 to 1.5 per cent.
+
+ALLOYING ELEMENTS.--Commercial steels of even the simplest types are therefore primarily alloys
+of iron and carbon. Impurities and their "remedies" are always present: sulphur, phosphorus,
+silicon and manganese--to say nothing of oxygen, nitrogen and carbon oxide gases, about which
+we know very little. It has been found that other metals, if added to well-made steel, produce
+definite improvements in certain directions, and these "alloy steels" have found much use in
+the last ten years. Alloy steels, in addition to the above-mentioned elements, may commonly
+contain one or more of the following, in varying amounts: Nickel (Ni), Chromium (Cr), Vanadium
+(Va), Tungsten (W), Molybdenum (Mo). These steels will be discussed at more length in Chapters
+III and IV.
+
+PROPERTIES OF STEEL
+
+Steels are known by certain tests. Early tests were more or less crude, and depended upon the
+ability of the workman to judge the "grain" exhibited by a freshly broken piece of steel. The
+cold-bend test was also very useful--a small bar was bent flat upon itself, and the stretched
+fibers examined for any sign of break. Harder stiff steels were supported at the ends and the
+amount of central load they would support before fracture, or the amount of permanent set they
+would acquire at a given load noted. Files were also used to test the hardness of very hard steel.
+
+These tests are still used to a considerable extent, especially in works where the progress
+of an operation can be kept under close watch in this way, the product being periodically examined
+by more precise methods. The chief furnace-man, or "melter," in a steel plant, judges the course
+of the refining process by casting small test ingots from time to time, breaking them and examining
+the fracture. Cutlery manufacturers use the bend test to judge the temper of blades. File testing
+of case-hardened parts is very common.
+
+However there is need of standardized methods which depend less upon the individual skill of
+the operator, and which will yield results comparable to others made by different men at different
+places and on different steels. Hence has grown up the art of testing materials.
+
+TENSILE PROPERTIES
+
+Strength of a metal is usually expressed in the number of pounds a 1-in. bar will support just
+before breaking, a term called the "ultimate strength." It has been found that the shape of
+the test bar and its method of loading has some effect upon the results, so it is now usual
+to turn a rod 5-1/2 in. long down to 0.505 in. in diameter for a central length of 2-3/8 in.,
+ending the turn with 1/2-in. fillets. The area of the bar equals 0.2 sq. in., so the load it
+bears at rupture multiplied by 5 will represent the "ultimate strength" in pounds per square inch.
+
+Such a test bar is stretched apart in a machine like that shown in Fig. 9. The upper end of
+the bar is held in wedged jaws by the top cross-head, and the lower end grasped by the movable
+head. The latter is moved up and down by three long screws, driven at the same speed, which
+pass through threads cut in the corners of the cross-head. When the test piece is fixed in
+position the motor which drives the machine is given a few turns, which by proper gearing pulls
+the cross-head down with a certain pull. This pull is transmitted to the upper cross-head by
+the test bar, and can be weighed on the scale arm, acting through a system of links and levers.
+
+Thus the load may be increased as rapidly as desirable, always kept balanced by the weighing
+mechanism, and the load at fracture may be read directly from the scale beam.
+
+This same test piece may give other information. If light punch marks are made, 2 in. apart,
+before the test is begun, the broken ends may be clamped together, and the distance between
+punch marks measured. If it now measures 3 in. the stretch has been 1 in. in 2, or 50 per cent.
+This figure is known as the elongation at fracture, or briefly, the "elongation," and is generally
+taken to be a measure of ductility.
+
+When steel shows any elongation, it also contracts in area at the same time. Often this contraction
+is sharply localized at the fracture; the piece is said to "neck." A figure for contraction
+in area is also of much interest as an indication of toughness; the diameter at fracture is
+measured, a corresponding area taken out from a table of circles, subtracted from the original
+area (0.200 sq. in.) and the difference divided by 0.2 to get the percentage contraction.
+
+Quite often it is desired to discover the elastic limit of the steel, in fact this is of more
+use to the designer than the ultimate strength. The elastic limit is usually very close to
+the load where the metal takes on a permanent set. That is to say, if a delicate caliper ("extensometer,"
+so called) be fixed to the side of the test specimen, it would show the piece to be somewhat
+longer under load than when free. Furthermore, if the load had not yet reached the yield point,
+and were released at any time, the piece would return to its original length. However, if the
+load had been excessive, and then relieved, the extensometer would no longer read exactly 2.0
+in., but something more.
+
+Soft steels "give" very quickly at the yield point. In fact, if the testing machine is running
+slowly, it takes some time for the lower head to catch up with the stretching steel. Consequently
+at the yield point, the top head is suddenly but only temporarily relieved of load, and the
+scale beam drops. In commercial practice, the yield point is therefore determined by the "drop
+of the beam." For more precise work the calipers are read at intervals of 500 or 1,000 lb.
+load, and a curve plotted from these results, a curve which runs straight up to the elastic
+limit, but there bends off.
+
+A tensile test therefore gives four properties of great usefulness: The yield point, the ultimate
+strength, the elongation and the contraction. Compression tests are seldom made, since the
+action of metal in compression and in tension is closely allied, and the designer is usually
+satisfied with the latter.
+
+IMPACT TESTS
+

@@ -1,0 +1,573 @@
+﻿In the sulphide process, the image which, in a black-developed print, consists of metallic
+silver in fine division, is converted into silver sulphide, a substance which in the ordinary
+way is also black, but when produced in a fine condition on a photographic print is brown to
+sepia color. Silver sulphide is a most permanent substance. Therefore a sulphide-toned print
+should be permanent, too, a conclusion which is fully borne out in practice. A sulphide-toned
+print is at least as permanent as the bromide from which it is made. The image of the latter
+is susceptible to practically only one agent likely to come in contact with it, namely, sulphur
+fumes from burning gas, which partially sulphurize it and give rise to iridescent markings
+resembling those due to stale paper. Now, as the sulphide-toned print is the result of this
+sulphurizing process carried out with intention to a state of completeness, the result should
+be--and proves to be in practice--immune to this one cause of defacement.
+
+In converting the silver image into one of silver sulphide, the method is to first act on (bleach)
+the silver image with some reagent which will change it into a compound of silver susceptible
+to the action of sulphide. Iodine has been used for this, giving an image of silver iodide.
+Bromine gives one of silver bromide. A mixture of potass bichromate and hydrochloric acid gives
+silver chloride, as does also a solution of chlorine, though in the former case the presence
+of the chromium compounds affects the color obtained. But the best of the lot is a solution
+of the two substances potassium ferricyanide and potassium bromide, which forms an image of
+silver ferrocyanide and silver bromide. Both of these are converted into silver sulphide when
+treated with a solution of sodium sulphide. In the case of the hypo-alum process, in which
+the prints are toned direct (without bleaching) in a mixture of hypo and alum, the image is
+also changed into silver sulphide, but only to a partial extent. Theoretically, the method
+is not so good as sulphide proper; it is much more inconvenient in practice except on a commercial
+scale, while the results cannot be said to quite equal those by the sulphide process as regards
+permanency.
+
+So much by way of theory. We will now give the formulae for the two solutions required in the
+sulphide process. The first of these is the "bleach," or oxidizing mixture of bromide and ferricyanide.
+Within reasonable limits, the proportions of these salts and the quantity of each in the solution
+does not matter very much. Each chemical can, if desired, be kept in a separate solution if
+care be taken to keep the mixture in the dark,--that is, in a cupboard where it will not be
+exposed constantly to daylight. The ferricyanide suffers in time by exposure to daylight; but,
+as both it and the bromide are comparatively cheap and serve for a large number of prints,
+there is no need to take excessive care. The ferricyanide-bromide mixture, however, keeps very
+much better than a plain solution of ferricyanide alone. Formulae which place the salts in
+separate solutions are a mistake.
+
+As good a formula as any is: Potass ferricyanide, 300 grains; potass bromide, 100 grains, water
+20 ounces; Ammonium bromide may be used in place of the potassium salt in the above formula;
+the difference is not marked, but the ammonium compound tends to give a somewhat warmer brown
+or sepia. In the case of many formulae, it will be noticed that equal quantities of bromide
+and ferricyanide are recommended. Although, as just stated, variations in the formula are not
+at all marked in their effects, a proportion of bromide over one-quarter of the ferricyanide
+does tend towards the yellowish color of which complaints are now and again heard. I want to
+make it clear that the opportunities for going wrong with the bleacher are very small indeed.
+Without encouraging the reader to be careless let it be said that "any old formula" (of ferricyanide
+and bromide) for the bleacher will prove successful. Not so, however, in the case of the sulphide
+solution, which requires to be very carefully made up and used.
+
+Sulphide, not sulphite. The material for the toning or darkening of the bleached print is the
+chemical substance, sodium sulphide, of the formula Na2S.9H2O. This is purchased as small crystals
+which greedily absorb water and rapidly become almost liquid if not properly corked. Not that
+this totally unfits the sulphide for use. Sulphide which has gone liquid will at all times
+be found to work perfectly, but it is of course open to suspicion, and, in any case, it is
+not possible to know what is the strength of a solution made up with such a supply. For this
+reason, it is best to make up the sulphide into solution of 20 per cent strength, and add this
+to water to make the toning bath. And it is here that a caution must be noted. The weak working
+solution, which is only about 1 to 2 per cent strength, keeps very badly indeed, and should
+be made up fresh from the stock solution at the time of toning each batch of prints. This is
+one of the most necessary items to bear in mind in using the sulphide process.
+
+Sodium sulphide is sold in various degrees of purity, and the label on the bottle is not always
+in exact correspondence with the condition of the substance inside, but the two forms which
+must be adhered to for sulphide toning are the ordinary "pure" and the "pure for analysis."
+The former can be obtained from any reliable drug store or photographic dealer. It comes in
+small lumps, yellowish to greenish in color; when dissolved in water the solution will be yellow,
+and will usually show a deposit which must be filtered off. This sulphide will give tones which
+are sepia brown with most papers. In the case of the "pure-for-analysis" sulphide, which is
+the recrystallized variety, the salt will be pure white and will form a quite colorless and
+clear solution in water. The tone given by this kind of sulphide is usually of a more purplish
+color. The distinct difference between the two commercial varieties of sulphide should not
+be overlooked, as it allows the worker to modify the process usefully when dealing with papers
+differing (as all papers do) to a slight extent in their adaptability to sulphide toning. The
+purer form has certainly much better keeping properties than the other, but either, if made
+up in 20 per cent solution, keeps for a month or two at least--which is enough for all purposes.
+The chief difference between the two is noticed in the diluted or working solutions. That of
+the purest sulphide may be kept and used again, though it is not really good policy to do so.
+
+The supply of sulphide should therefore be dissolved as soon as purchased, as follows: Stock
+sulphide solution--20 per cent; sodium sulphite 4 ounces; water to make 20 ounces. The actual
+toning solution is made up at the time of treating the prints by mixing the above stock with
+water, as follows: Sulphide toning bath.--Stock 20 per cent solution 3 ounces; water to make
+20 ounces.
+
+This makes a bath which contains about one per cent real sulphide, corresponding with about
+a 3 per cent solution of the sulphide as purchased. If the bath is much weaker, the tone obtained
+is usually not quite so good; while, if it is stronger, there is danger of the print's blistering
+while toning, or afterward in the washing water. Indeed, some papers need to be toned in a
+weaker bath, and require also to be fixed in an alum-hypo fixing bath (see later), so that
+the strength of the toning bath given above may be taken as the maximum, and used at half or
+one-third strength, as circumstances show to be necessary. And, to repeat the caution once
+more, the toning bath is to be thrown away as soon as the prints have been passed through it.
+With these points in our mind as to the making up of the solution, we can come to the process
+proper.
+
+The prints require to be well washed and free from hypo before being placed in the bromide-ferricyanide
+bleacher, because any hypo in conjunction with the ferricyanide will form the well-known Farmer's
+reducer, and cause patchiness of the prints. It is immaterial whether the prints are taken
+direct through the toning process or dried in the meantime. Some workers contend that the toning
+process is more regular if the prints are dried before bleaching. In either case, immersion
+in the bleacher will cause the fully developed bromide to disappear, leaving only a faint brown
+image behind. In some cases the image is fainter than in others, the difference appearing to
+depend chiefly on the developer employed. Developers with a liability to stain will give prints
+which do not bleach out so completely as those made with cleaner working developers. But, in
+all cases, two to three minutes' action of the bleaching solution will be ample; if all pure
+black is not gone in this time, it is a sign that the bleach is becoming exhausted. The prints
+should be kept constantly on the move whilst in the solution, and turned over and over to ensure
+equal action. They are then given quite a brief rinse in running water--half a minute to a
+minute--and then transferred to the sulphide solution, where they should darken to the full
+brown or sepia tone in a few seconds. It is well always to leave them here for twice to three
+times the period required to give the full tone. A wash of half an hour will remove the salts
+left in the film.
+
+Granted that bleacher and sulphide are in proper working order, there is one further factor
+in the making of sepia prints which is of vital importance, and that is the proper preparation
+of the print itself. A good sulphide tone presupposes a good black and white bromide. Not only
+that, defects in the bromide which may lie latent while the print is untoned come to light
+in the sulphide bath. This applies to uneven fixation (due to omission to keep prints moving
+in the hypo bath) and fingering of the surface; while, as regards the original development
+of the print, making the best of a wrong exposure will not do when sulphide toning is in view.
+A print that is forced by long development will suffer in tone, the result being colder and
+less satisfactory as regards vigor. Full exposure, and development which is complete in the
+normal time for a perfect black print, are the conditions for a good sepia tone, and, when
+a batch of prints is being put through, it is well to take steps to preserve a uniform time
+of development in order to secure an identical tone throughout.
+
+There are many different formulas for the uranium toning of bromide prints, and I suppose that
+most of them have given good results with the workers who published their methods. Of those
+which I have tried, however, none has yielded the results which I have been enabled to obtain
+from my own formula--my own in that I arrived at it by patient experimenting. It may be that
+this formula is not wholly original with myself. At any rate, I do not claim anything for it
+except that it works, with me, better than others I have tried.
+
+The requirements for toning bromide prints with uranium are: 1 ounce of uranium nitrate; 1
+ounce of potassium ferricyanide (the red crystals); 1/2 pound bottle of acetic acid--c. p.
+glacial preferred; water; a supply of blotting paper, to be kept exclusively for this purpose,
+and a few absolutely and chemically clean trays.
+
+The expense attached to these toning processes is slight. Uranium nitrate costs from forty
+to sixty cents per ounce, and an ounce will last a long time. Potassium ferricyanide costs
+about twenty cents per pound, and a pound is ample for a lifetime. Glacial acetic acid is a
+little more costly, but a half-pound bottle will prove a good investment. It is used also,
+as the reader will recall, in making acid hypo for acid fixing.
+
+To prepare the toning baths, dissolve the ounce of uranium nitrate in 10 ounces of water. The
+water should be distilled if this is easily obtainable, and the solution should be kept in
+an orange-glass bottle or an ordinary bottle protected from light by a non-actinic paper wrapping.
+Dissolve the ounce of potassium ferricyanide in 10 ounces of water. Keep this also in an orange-glass
+bottle, well corked. There are many cautions about this particular salt, and it has been said
+that it will not keep in solution. In my practice I find no difficulty whatever in the use
+of a solution six months old, despite the difficulties mentioned in the text-books.
+
+To tone the bromide prints, first note that the prints should have been developed and fixed
+and washed just as usual. It is necessary that prints to be toned shall contain no trace of
+hypo. To secure this, the prints should be specially prepared for toning by being again thoroughly
+washed, as any hypo remaining in the print will cause spots and streakiness. With care at this
+stage the toning will give clean and bright prints, which should be as permanent as the original
+bromide print.
+
+I cannot give the reason why, but, as a general rule, bromide prints tone better if the print
+has been dried after washing and rewet just before toning. There may be a chemical reason for
+this, but I am inclined to think that it is a physical one, viz., that the emulsion is softer
+after its first washing than after having been dried and wet, so that it allows toning solution
+to get into the film more quickly. This naturally results in more rapid toning, and quick toning
+does not yield as good prints as a slower and more gradual building up of the color image.
+
+Having the print ready for toning as here outlined, take 1 dram of the uranium solution, add
+1/2 dram of acetic acid and then 5 ounces of water. In a separate graduate put 1 dram of ferricyanide
+solution and 5 ounces of water. Just before toning, pour these two solutions together into
+the third graduate and use immediately. To proceed, lay the rewetted print face up in a clean
+tray and flow the freshly made toning bath (the two solutions combined) over the print. The
+print and tray must be kept in motion by gentle rocking during the toning operation. The toning
+solution tends to throw a red precipitate as it works. This precipitate should not be permitted
+to settle on the face of the print. Some workers tone their prints face down, but I do not
+advocate this, as it is important to take the print from the toning bath at just the right
+moment, and, as the toning process is short (six or seven minutes is usually sufficient even
+for the deepest red) you need to watch the print all the time. In the toning operation note
+that a constant quiet motion of the tray, to keep the solution moving over the print, is essential
+to success.
+
+I have already given, in an earlier paragraph, the order in which the colors come. But that
+order was for a normal print. Some prints behave differently, and it is in the control of these
+unavoidable variations with different prints that skill and success come. A print of a half-tone
+subject against a jet-black background, a portrait, for instance, will hardly follow the normal
+order in the appearance of colors. This because the half-tones will be brown and even red-brown
+before the toning solution has changed the dense black deposit of the background at all. If
+the toning was stopped at this stage, some very pretty effects in double toning might result.
+
+From this explanation of the toning process, the discerning reader will perceive the need for
+caution in selecting the best kind of a print for uranium toning. Thus a print which has a
+bald-headed sky will tone only in the body of the print, but if there is any tint at all to
+the sky, it also will tone, giving an effect not much to be desired except for sunset or sunrise
+pictures. If white high-lights are desired in the toned print, they must be white originally
+and not the least bit fogged. As double-toned effects in a print are not usually desirable,
+those prints having deep black shadows or dark masses will be avoided. The best kind of print
+for this method of toning is one fully exposed and slightly under-developed, since, when the
+uranium does take hold of the shadows, it makes for an increase of contrast.
+
+Experience is the best teacher, and I could not begin to describe in detail what the reader
+can himself ascertain from a few experiments. Some prints needing contrast should be carried
+far in the toning solution; others, not needing contrast, will give better results if they
+are toned only through the browns, and so on. The reader who can spend a Saturday afternoon
+with a few bromide prints, varying in character, will learn more from his experimenting than
+I could tell him in many pages. For these experiments waste or imperfect black prints can be
+used with practical economy, the chief object being to watch the progress of toning and chemical
+changes.
+
+When the desired tone is reached, remove the print from the toning solution and wash quickly
+and well in running water for fifteen minutes. If washed too long, the color of the print will
+fade and a dead and lifeless print will result. If not washed long enough, the yellow of the
+ferricyanide will remain in the print, robbing its gradations of brightness and purity of color
+and impairing the permanency of the print.
+
+A big advantage in this method of toning is its wonderful adaptability. There is no hard and
+fast rule as to the proportion of the chemicals to the bulk of water used. Try two drams of
+each of the two solutions; then three drams of each, but watch that the print does not get
+beyond you in toning. The only practical difference in my formula and others that I have seen
+is that I make my stock solution weaker than that ordinarily advised and use less of it to
+a certain amount of water, because I prefer slow toning and the accompanying ease of control
+which the flash-in-the-pan formula does not admit. Quick toning, like quick development, tends
+to block the shadows in the print, and if you once get bronzed shadows the print is practically
+hopeless. Not quite ruined, however, as a bath in a 5 per cent solution of sodium carbonate
+will discharge the color and then, if the print is faded, it may be redeveloped in an alkaline
+developer such as metol-hydro. But before it is retoned the print must be thoroughly washed,
+as the presence of sodium carbonate does not permit the toning solution to do its work.
+
+Finally, I may say that, while a bath of acetic acid and water is often advised to stop the
+toning action in this method, I have never found it necessary.
+
+All the thin varieties of bromide paper curl badly in drying. If they are to be kept unmounted
+it is well to immerse them in water to which has been added a few drops of glycerine. This
+will ensure their lying flat after drying. A solution of 2 ounces of glycerine in 25 ounces
+of water is advised when it is desired to make bromides on heavy rough paper remain flat, after
+drying, for book illustration and similar purposes.
+
+If one is trying to rush through a bromide print, it can be trimmed while wet by placing it
+on a sheet of stiff paper and cutting through both.
+
+The paper will be found to cockle the mounts badly in drying. Aside from the glue mountant,
+formula for which accompanies the paper, I know no preventive except to mount the prints while
+dry with the dry mounting tissue. As the paper when wet stretches one way considerably, as
+much as a third of an inch on a ten- or twelve-inch length, provision must be made in trimming,
+especially if mounts with centers of a given size are used.
+
+The paper being covered with an emulsion which in warm weather is very soft while wet, mounting
+is somewhat more difficult than with some of the other papers. My method is to mount not more
+than half a dozen at once, placing them face down, one on top of the other, on a glass or ferrotype
+plate, blotting off the surface water and spreading the paste over the top one in the usual
+way. I place this on the mount and then stretch over it smoothly a damp handkerchief or piece
+of very thin rubber cloth, rubbing the print down with my hands, seldom using the squeegee
+and then very lightly. By this method abrasion of the surface seldom results and air-bells
+are unknown. Owing to the strong contracting power of the paper in drying, the mounting paste
+must be used freely, especially at the edges of the print.
+
+Apart from the methods of procedure here given, there are innumerable modifications covering
+every detail of contact printing and enlarging on bromide paper. Most of these have been given
+careful trial as published, but few have quite fulfilled the expectations they created.
+
+BOOKS.
+
+Manuals dealing with the manipulation of the various brands of paper may also be obtained,
+generally gratis, from the various manufacturers of bromide paper or their American agents
+as follows: The Eastman Kodak Co., Rochester, N. Y.; The Defender Photo Supply Co., Rochester,
+N. Y.; J. L. Lewis, New York City.
+
+ROYAL ALBUMS
+
+combine all the good features you seek in an album for the proper display and preservation of your
+
+UNMOUNTED PHOTOGRAPHS AND POST CARDS
+
+  Quality in Materials
+  The Best of Workmanship
+  Pleasing in Design and Appearance
+  Durability in Service
+  Moderate in Price
+  A Wide Variety in Styles and Sizes
+  Bindings in All Desirable Colors and Finishes
+  Leaves and Covers of Harmonious Coloring
+
+Ask Your Dealer to Show You ROYAL ALBUMS
+
+MANUFACTURED BY F. L. SCHAFUSS COMPANY 200 FIFTH AVENUE, NEW YORK
+
+Makers of Albums Exclusively
+
+TO PROFESSIONAL AND AMATEUR PHOTOGRAPHERS
+
+Write us at once for particulars regarding our new Multi-Speed Flashlight Attachment for our
+
+MULTI-SPEED SHUTTER
+
+It is a simple device operating in conjunction with the Multi-Speed Shutter and attached to
+same with a screw on the back of the shutter.
+
+It makes high speed photography practicable under all conditions. Takes photographs of moving
+objects in 1-1000th second.
+
+Especially valuable for making instantaneous full-timed pictures of babies, aged and nervous
+people, groups, etc. Invaluable to press photographers for making race starts at night, indoor
+athletic events and all kinds of newspaper illustrations hitherto impossible.
+
+Send for a free Specimen Photograph and Detailed Information
+
+       *       *       *       *       *
+
+THE MULTI-SPEED SHUTTER JUNIOR
+
+Simple, Efficient, Moderate in Price
+
+Based on the principle of the famous Multi-Speed Shutter.
+
+Gives accurate exposures up to 1-500th second, in addition to the usual slower speeds.
+
+Extremely compact for the small camera. Easy in operation.
+
+Highest efficiency in illumination and definition.
+
+Widely endorsed as the simplest and best shutter sold even at a higher price.
+
+Send for Detailed Information and FREE Illustrated Catalogue
+
+MULTI-SPEED SHUTTER CO., 317-323 East 34th Street NEW YORK
+
+LANDE'S Patent Enlarging Lamp
+
+PATENTED
+
+Puts Enlarged Pictures Within Reach of Everyone. Converts any Camera into an Enlarging Lantern
+without the use of Condensers.
+
+Enlargements made at home in any room which can be darkened. By means of this lamp and his
+regular camera any amateur is equipped to make enlargements on bromide paper. It is fitted
+with two incandescent gas lamps. The light is reflected so as to give a perfect even illumination
+over the entire surface of the negative.
+
+The time of exposure varies according to the power of the light, the density of the negative
+and size of the enlargement. Approximately an average negative enlarged to four times the original
+size will take about one to one and one-half minutes.
+
+Prices
+
+  No. 1. For 5 ×  7 and smaller negatives       $12.00
+  No. 2. For 8 × 10 and smaller negatives        15.00
+
+Ask your dealer to show you
+
+MANUFACTURED BY GEORGE MURPHY, Inc., 57 E. Ninth St., New York
+
+Cheap Blotting Papers are expensive in use and may ruin your prints. There is practical economy
+and comfort in the use of
+
+PHOTO FINISH WORLD BLOTTING
+
+The Best for Twenty Years
+
+Made expressly for photographic use. 100% pure cotton fibre, very absorbtive and non-linting.
+Absolutely free from anything that can injure the photographic print. Notable for its smooth,
+hard finish, giving durability in use. Try it and you'll use no other.
+
+UNEQUALLED IN QUALITY ECONOMY and SATISFACTION
+
+Your dealer can supply you if you will insist on getting "Photo Finish World." It is worth
+insisting upon.
+
+Manufactured by THE ALBEMARLE PAPER MFG. CO. Richmond, Va., U. S. A.
+
+DURATOL NON-POISONOUS RAPID DEVELOPER
+
+Produces essentially the same results as other =coal-tar= developers. It is economic by reason
+of slow exhaustion, and its solutions are stable for many months, the bottles need not be kept
+filled to the neck.
+
+It produces fog-free negatives with the right amount of density in the high lights, a wealth
+of detail in the shadows and great softness.
+
+  BEST FORMULA FOR PLATES, FILMS AND SLOW-WORKING, CONTRASTY GASLIGHT
+  PAPERS:
+
+  Hot Water                        32 oz.
+  Duratol                          15 grains
+  Soda Sulphite dry                3/4 oz.
+  Potassium Carbonate dry          1 oz.
+  Hydroquinone                     75 grains
+
+  Development complete in from 2 to 5 minutes.
+
+  AN EXCELLENT FORMULA FOR SOFT-WORKING PAPERS (ARTURO, CYKO AND ARTEX):
+
+  Hot Water                        35 oz.
+  Duratol                          15 grains
+  Soda Sulphite dry                1-2 oz.
+  Potassium Carbonate dry          3/4 oz.
+  Hydroquinone                     60 grains
+
+  Development complete in about 2 minutes.
+
+Sample upon request from
+
+SCHERING & GLATZ 150 Maiden Lane--New York
+
+Make Your Own Enlargements
+
+The GRAPHIC Enlarging and Reducing Camera
+
+With this camera you can make enlargements of any size with either daylight or artificial light.
+No condensing lenses are required. The reflecting cone supplied with each camera distributes
+the light evenly over the entire surface of the negative.
+
+  PRICE
+
+  Including Negative Carrier and Kits and three sheets of diffusing Ground
+  Glass.
+
+  No. 1. For Negatives  5 ×  7 and smaller $28.00
+  No. 2.  "     "       8 × 10  "    "      35.00
+  No. 3.  "     "      11 × 14  "    "      45.00
+
+FOLMER & SCHWING DIVISION Eastman Kodak Co. ROCHESTER, NEW YORK
+
+WE RECOMMEND "Agfa" AMIDOL FOR DEVELOPING BROMIDE WORK
+
+¶ Send an "Agfa" Label and 10 cents for a copy of the "Agfa" Formulæ Book. It contains complete
+formulæ for all makes of paper and other valuable information.
+
+BERLIN ANILINE WORKS 215 WATER STREET NEW YORK
+
+$15.00
+
+From a Small Negative You Can Print a Picture Any Size
+
+The Radion Enlarging Printer is a device which, used in connection with your camera, produces
+prints from either film or glass negatives in any dimensions you wish.
+
+The printing is almost as quick as contact printing, and the size of the prints can be varied
+instantly.
+
+THE RADION ENLARGING PRINTER
+
+enables you to get all the results of a big camera with a small and inexpensive equipment.
+It comes to you complete and ready to operate at any time of day or night. It is equipped with
+new, specially constructed Mazda lamps ready to attach to any electric light socket.
+
+The Radion Enlarging Printer works without the use of condensers, which thereby reduces the
+cost of the machine and secures a better detail on the print.
+
+PRICE $15.00
+
+Most dealers in photographic supplies can sell you a Radion Enlarging Printer. If yours cannot,
+write direct to us. Write anyway for descriptive circulars that will be of great interest to
+every camera user.
+
+H. C. WHITE CO.
+
+Lens Grinders and Makers of Optical Instruments for over Forty Years
+
+503 RIVER ST., NORTH BENNINGTON, VERMONT
+
+Branches:
+
+45 W. 34th St., New York City      San Francisco      London
+
+The First Essential in Enlarging is the Curry Utility Enlarging and Copying Board and Springs
+
+It is 20 × 30 inches, made of well-seasoned wood, nicely finished.
+
+Will hold without injury any size copy of any thickness.
+
+=Utility Springs= are made of the best nickeled steel.
+
+Price, including 24 Springs, =$3.50=.
+
+       *       *       *       *       *
+
+THE CURRY STEREON Anastigmat Lens
+
+  Series A--F 4.5
+  Series B--F 6.3
+
+The finest lens at any price for portraits, views or enlarging.
+
+Send for Price List and "Photo Developments."
+
+       *       *       *       *       *
+
+FRANK J. CURRY
+
+Importer, Manufacturer and Dealer in Photo Goods of Every Description.
+
+812 Chestnut Street Philadelphia, Pa.
+
+For Enlarging
+
+Bausch & Lomb-Zeiss Tessar IIb-F:6.3
+
+because of its excellent optical corrections.
+
+The =Tessar= has a flat field allowing exposures at full aperture.
+
+No danger from vibration because of long exposure.
+
+Saves exposure time on dense negatives.
+
+For Sale by Dealers.
+
+Send for Booklet 70 H, "Useful Tables for the Photographer," free on request.
+
+Contains tables on enlarging.
+
+Our name, backed by over half a century of experience, is on all our products--lenses, microscopes,
+field glasses, projection apparatus, engineering and other scientific instruments.
+
+Bausch & Lomb Optical Co. NEW YORK    WASHINGTON    CHICAGO    SAN FRANCISCO LONDON     ROCHESTER,
+N.Y.     FRANKFORT
+
+You see the picture before you on the ground glass, right up to the moment of exposure and
+are sure of success if you use
+
+REFLEX CAMERAS
+
+FOR YOUR CAMERA WORK OUT-OF-DOORS AND AT HOME
+
+REFLEX CAMERAS EXCEL
+
+all other similar types in curtain velocity, ease and speed of operation, simplicity of construction,
+freedom from outside mechanism, perfect workmanship.
+
+REGULAR 4×5 and 5×7
+
+LONG-FOCUS 4×5 and 5×7
+
+JUNIOR REFLEX 3-1/4×4-1/4 (fixed focus)
+
+Price $12, with either one Holder or Adapter.
+
+Ask any independent dealer or write for catalogue and sample print to
+
+REFLEX CAMERA CO. Newark, N. J.
+
+GOERZ CAMERAS
+
+ARE UNIQUE IN THE HAND CAMERA LINE
+
+OUR NEW VEST-POCKET TENAX
+
+is the finest pocket camera ever made. It measures, closed, 3/4×2-3/4×3-1/2 inches. Equipped
+with Compound Shutter, all speeds up to 1-250 second. We furnish with it a purse case containing
+six nickel holders for plates 1-3/4×2-5/16 inches. Our fine enlarging apparatus, made especially
+for use with this camera, will afford good enlargements of various sizes up to 5 × 7 inches.
+
+Our =Ango=, =Manufoc Tenax= and =Folding Reflex= are all splendid cameras for the professional
+photographer and ambitious amateur.
+
+They show the same high qualities of workmanship which distinguish
+
+GOERZ LENSES
+
+Get our new illustrated catalog from your dealer or direct from
+
+C. P. GOERZ AMERICAN OPTICAL CO. OFFICE AND FACTORY: 317 EAST 34TH STREET, NEW YORK
+
+Dealers' Distributing Agencies: For Middle West, Burke & James, Chicago. Pacific Coast, Hirsch
+& Kaiser, San Francisco.
+
+HOW TO MAKE YOUR CAMERA PAY
+
+Here are books you'll surely want to read! For they show how you can increase your ability
+to make money with your camera. They tell how to make prints for book, magazine and newspaper
+publishers, and show how you can make money during spare time.
+
+The LIBRARY of AMATEUR PHOTOGRAPHY
+

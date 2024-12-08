@@ -1,0 +1,188 @@
+﻿     +----------------+           +----------------+
+     |                |           |                |
+     |                |           |                |
+     | EARTHQUAKE     |-+         |     FLOOD      |-+
+     | Response Plan  | |         |  Response Plan | |
+     |     (4)        | |         |       (4)      | |
+     |                | |         |                | |
+     |                | |-+       |                | |-+
+     +----------------+ | |       +----------------+ | |
+      |                 | |        |                 | |
+      | D & C Checklist | |        | D & C Checklist | |
+      +-----------------+ |        +-----------------+ |
+        |Svcs. Sup.       |          |Svcs. Sup.
+
+TABLE 2
+
+EMERGENCY SUPPORT FUNCTIONS
+
+KEY:
+ a: Emergency Transportation
+ b: Emergency Communications
+ c: Emergency Debris Clearance
+ d: Fire Fighting
+ e: Emerg. Roads, Air Fields & Bridges
+ f: Emergency Demolition
+ g: Logistical Support
+ h: Emergency Medical Care
+ i: Search and Rescue
+ j: Identif. & Disposal of Dead
+ k: Warnings of Risks & Hazards
+ l: Emergency Dist. of Medicine
+ m: Emergency Dist. of Food
+ n: Emergency Dist. of Consum. Supplies
+ o: Emerg. This action was initiated in January 1980 through the
+actions of the Assembly Committee on Government Organization, Frank
+Vicencia, Chairman. Inclusions of specific funds for preparedness was
+included following a subcommittee on Emergency Planning and Disaster
+Relief hearing on possible earthquake prediction on April 22, 1980.
+The text of the Law follows:
+
+                 Assembly Bill No. 2202
+
+                 CHAPTER 1046
+
+            An act to amend Section 8897 of, to amend and
+          renumber Section 8898 of, and to add Section
+          8895.1 to, the Government Code, relating to the
+          Seismic Safety Commission, making an appropriation
+          therefor, and declaring the urgency thereof, to
+          take effect immediately.
+
+          [Approved by Governor September 25, 1980. Filed
+          with Secretary of State September 26, 1980.]
+
+                 LEGISLATIVE COUNSEL'S DIGEST
+
+            AB 2202, Vicencia. Seismic Safety Commission.
+
+            The Seismic Safety Commission Act, which will
+          self-repeal, effective January 1, 1986,
+          establishes the Seismic Safety Commission, and
+          confers upon it various powers and duties relating
+          to earthquake hazard reduction. The California
+          Emergency Services Act confers various related
+          powers and duties upon the Governor, the Director
+          and the Department of Emergency Services, and the
+          California Emergency Council.
+
+            This bill would amend the Seismic Safety
+          Commission Act by: changing the basic subject of
+          the powers and duties of the commission to
+          earthquake hazard mitigation and making certain
+          corresponding changes in its powers and duties;
+          including within commission responsibilities,
+          scheduling on its agenda as required, a report on
+          disaster mitigation issues from the Office of
+          Emergency Services and defining, for such
+          purposes, "disaster" as all natural hazards which
+          could have an impact on public safety; and
+          authorizing the commission to exercise various
+          specified powers in relation to other disasters,
+          as so defined, in connection with issues or items
+          reported or discussed with the Office of Emergency
+          Services at any commission meeting.
+
+            This bill would also require the commission to
+          initiate, as specified, a comprehensive program to
+          prepare the state for responding to a major
+          earthquake prediction, as specified.
+
+            This bill would appropriate $750,000 for the
+          purposes of this act.
+
+            This act would take effect immediately as an
+          urgency statute.
+
+            Appropriation: yes.
+
+          The people of the State of California do enact
+          as follows:
+
+            SECTION 1. Section 8895.1 is added to the
+          Government Code, to read:
+
+            8895.1. The
+          program should be implemented in order to result
+          in specific tools or products to be used by
+          governments in responding to an earthquake
+          prediction, such as educational materials for
+          citizens. This program may be implemented on a
+          prototypical basis in one area of the state
+          affected by earthquake predictions, provided that
+          it is useful for application in other areas of the
+          state upon its completion.
+
+            SEC. 2. Section 8897 of the Government Code is
+          amended to read:
+
+            8897. The commission is responsible for all of
+          the following in connection with earthquake hazard
+          mitigation:
+
+            (a) Setting goals and priorities in the public
+          and private sectors.
+
+            (b) Requesting appropriate state agencies to
+          devise criteria to promote earthquake and disaster
+          safety.
+
+            (c) Scheduling a report on disaster mitigation
+          issues from the Office of Emergency Services, on
+          the commission agenda as required. For the
+          purposes of this subdivision, the term disaster
+          refers to all natural hazards which could have
+          impact on public safety.
+
+            (d) Recommending program changes to state
+          agencies, local agencies, and the private sector
+          where such changes would improve earthquake
+          hazards and reduction.
+
+            (e) Reviewing the recovery and reconstruction
+          efforts after damaging earthquakes.
+
+            (f) Gathering, analyzing, and disseminating
+          information.
+
+            (g) Encouraging research.
+
+            (h) Sponsoring training to help improve the
+          competence of specialized enforcement and other
+          technical personnel.
+
+            (i) Helping to coordinate the earthquake safety
+          activities of government at all levels.
+
+            (j) Establishing and maintaining necessary
+          working relationships with any boards,
+          commissions, departments, and agencies, or other
+          public or private organizations.
+
+            SEC. 3. Section 8898 of the Government Code is
+          amended and renumbered to read:
+
+            8897.1. To implement the foregoing
+          responsibilities, the commission may do any of the
+          following:
+
+            (a) Review state budgets and review grant
+          proposals, other than those grant proposals
+          submitted by institutions of postsecondary
+          education to the federal government, for
+          earthquake related activities and to advise the
+          Governor and Legislature thereon.
+
+            (b) Review legislative proposals, related to
+          earthquake safety to advise the Governor and
+          Legislature concerning such proposals, and to
+          propose needed legislation.
+
+            (c) Recommend the addition, deletion, or
+          changing of state agency standards when, in the
+          commission's view, the existing situation creates
+          undue hazards or when new developments would
+          promote earthquake hazard mitigation, and conduct
+          public hearings as deemed necessary on the
+          subjects.
+

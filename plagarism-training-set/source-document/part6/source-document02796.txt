@@ -1,0 +1,98 @@
+﻿==========================================================
+                 |         |                   |
+                 |  1920   |                   |  1920
+|||
+                 |         |                   |
+Aluminium     Al |  27.1   |  Molybdenum    Mo |  96.0
+Antimony      Sb | 120.2   |  Neodymium     Nd | 144.3
+Argon         A  |  39.9   |  Neon          Ne |  20.2
+Arsenic       As |  74.96  |  Nickel        Ni |  58.68
+Barium        Ba | 137.37  |  Nitrogen      N  |  14.008
+Bismuth       Bi | 208.0   |  Osmium        Os | 190.9
+Boron         B  |  11.0   |  Oxygen        O  |  16.00
+Bromine       Br |  79.92  |  Palladium     Pd | 106.7
+Cadmium       Cd | 112.40  |  Phosphorus    P  |  31.04
+Caesium        Cs | 132.81  |  Platinum      Pt | 195.2
+Calcium       Ca |  40.07  |  Potassium     K  |  39.10
+Carbon        C  |  12.005 |  Praseodymium  Pr | 140.9
+Cerium        Ce | 140.25  |  Radium        Ra | 226.0
+Chlorine      Cl |  35.46  |  Rhodium       Rh | 102.9
+Chromium      Cr |  52.0   |  Rubidium      Rb |  85.45
+Cobalt        Co |  58.97  |  Ruthenium     Ru | 101.7
+Columbium     Cb |  93.1   |  Samarium      Sm | 150.4
+Copper        Cu |  63.57  |  Scandium      Sc |  44.1
+Dysprosium    Dy | 162.5   |  Selenium      Se |  79.2
+Erbium        Er | 167.7   |  Silicon       Si |  28.3
+Europium      Eu | 152.0   |  Silver        Ag | 107.88
+Fluorine      Fl |  19.0   |  Sodium        Na |  23.00
+Gadolinium    Gd | 157.3   |  Strontium     Sr |  87.63
+Gallium       Ga |  69.9   |  Sulphur       S  |  32.06
+Germanium     Ge |  72.5   |  Tantalum      Ta | 181.5
+Glucinum      Gl |   9.1   |  Tellurium     Te | 127.5
+Gold          Au | 197.2   |  Terbium       Tb | 159.2
+Helium        He |   4.00  |  Thallium      Tl | 204.0
+Hydrogen      H  |   1.008 |  Thorium       Th | 232.4
+Indium        In | 114.8   |  Thulium       Tm | 168.5
+Iodine        I  | 126.92  |  Tin           Sn | 118.7
+Iridium       Ir | 193.1   |  Titanium      Ti |  48.1
+Iron          Fe |  55.84  |  Tungsten      W  | 184.0
+Krypton       Kr |  82.92  |  Uranium       U  | 238.2
+Lanthanum     La | 139.0   |  Vanadium      V  |  51.0
+Lead          Pb | 207.2   |  Xenon         Xe | 130.2
+Lithium       Li |   6.94  |  Ytterbium     Yb | 173.5
+Lutecium      Lu | 175.0   |  Yttrium       Y  |  88.7
+Magnesium     Mg |  24.32  |  Zinc          Zn |  65.37
+Manganese     Mn |  54.93  |  Zirconium     Zr |  90.6
+Mercury       Hg | 200.6   |                   |
+==========================================================
+
+INDEX
+
+Acidimetry
+Acid solutions, normal
+  standard
+Acids, definition of
+Acids, weak, action of other acids on
+  action of salts on
+Accuracy demanded
+Alkalimetry
+Alkali solutions, normal
+  standard
+Alumina, determination of in stibnite
+Ammonium nitrate, acid
+Analytical chemistry, subdivisions of
+Antimony, determination of, in stibnite
+Apatite, analysis of
+Asbestos filters
+Atomic weights, table of
+
+Balances, essential features of
+  use and care of
+Barium sulphate, determination of sulphur in
+Bases, definition of
+Bichromate process for iron
+Bleaching powder, analysis of
+Brass, analysis of
+Burette, description of
+  calibration of
+  cleaning of
+  reading of
+
+Calcium, determination of, in limestone
+Calibration, definition of
+  of burettes
+  of flasks
+Carbon dioxide, determination of, in limestone
+Chlorimetry
+Chlorine, gravimetric determination of
+Chrome iron ore, analysis of
+Coin, determination of silver in
+Colloidal solution of precipitates
+Colorimetric analyses, definition of
+Copper, determination of, in brass
+  determination of in copper ores
+Crucibles, use of
+Crystalline precipitates
+
+Densities of water Deposition potentials Desiccators Direct methods Dissociation, degree of
+

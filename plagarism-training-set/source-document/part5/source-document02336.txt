@@ -1,0 +1,411 @@
+﻿At the risk of appearing tautological to a tiresome degree it is necessary to accentuate the
+fact that the comparison of handwriting, and more particularly of signatures, is essentially
+dependent on cultivating the faculty of observation. This art cannot be taught; it can only
+be acquired by practice and experience, like swimming or riding. The teacher can at most indicate
+the method of study and some of the leading principles of conducting an investigation. Most
+men are not naturally observant, and the habit can be best fostered by having an object; but
+when once a person has been taught what to look for he almost instinctively notices details
+that previously never struck him. This is specially true of the study of handwriting.
+
+The best method of practice that can be adopted by the student is to begin by making a careful
+study of his own signature and writing. He will be surprised at the number of facts hitherto
+unsuspected that will be revealed to him. The value of using his own handwriting as a subject
+of examination lies in this, that the student can satisfy himself how and why certain strokes
+are made. This he can only guess at in the writing of others.
+
+The preliminary exercise should consist in studying the effect produced by the different methods
+of holding the pen. The signature supplies excellent material for this class of practice. Begin
+by holding the pen with the top end pointed well towards the left shoulder, in the absurd and
+unnatural position taught by the old school of writing masters. Repeat the signature with the
+pen held a trifle less acutely angular, and go on till six or eight signatures have been written
+at a decreasing angle--until the top of the penholder points well to the right, producing what
+is known as a backhand. The effect of these angles must be carefully noted, and in a short
+time it will be found possible to arrive at a very accurate opinion as to how the writer of
+a particular signature habitually holds his pen--an important and valuable piece of knowledge.
+The practice should be extended to long sentences, and a frequent repetition of all the letters,
+capital and small, the magnifying glass being always used to examine the effect of the various
+and varying strokes.
+
+In examining a signature for comparing it with a suspected forgery it should be copied very
+frequently, as the clues and suggestions the experiments will produce are of much greater service
+than will at first appear, and of more practical value than pages of theory, as the how and
+why will be revealed for much that would be obscure without this assistance. As experience
+grows, it will not be necessary to adopt this copying process so often, for the eye soon becomes
+alert at detecting slight shades of difference in strokes, and a glance will convey more than
+could be explained in many pages.
+
+CHAPTER XVI.
+
+THE EXPERT IN THE WITNESS-BOX.
+
+When the expert has been called upon to give an opinion upon the genuineness of writings he
+embodies his conclusions in a report of which the following may be taken as a fair example:--
+
+    To the Chief of Police.
+
+      SIR,
+
+                            REX versus JONES.
+
+    In accordance with your instructions dated ---- I beg leave to
+    inform you that I have made a careful examination of the document
+    marked A, and attached hereto, and compared it with the documents
+    marked B, C, D, E and F, also attached.
+
+    I have arrived at the conclusion that the document A was written
+    by the same hand as produced B, C, D, E and F.
+
+    The main reasons which have led me to form this opinion are these:--
+
+    First, although the writing in A bears at first sight no
+    resemblance to that of the other documents, the difference is only
+    such as experience leads me to expect in a writing which has been
+    purposely disguised, as I believe this has been.
+
+    The writing on the five documents B to F I take to be the normal
+    hand of the author, and that on A to be the same writer's hand
+    altered so as to present a different appearance. I will call the
+    specimens B to F the genuine examples, and A the disguised.
+
+    Experience shows that the person who writes an anonymous letter
+    generally seeks to disguise his hand by departing as much as he
+    deems possible from his normal writing. The usual hand of the writer
+    of the genuine document is a free rounded hand sloping upwards
+    towards the right. The writing of A presents exactly the features
+    I would expect to find when, as appears to be the case here, the
+    writer has adopted the familiar trick of sloping his writing in a
+    direction opposite to his normal hand. While the result of this
+    change is to alter the apparent style and general appearance of the
+    writing, the alteration does not extend to certain tricks and
+    characteristics which are plainly obvious in the genuine letters and
+    are repeated in the anonymous letter A.
+
+    The writing in the genuine letters contains fourteen very
+    distinctive peculiarities, or tricks of hand, which I find repeated
+    in the anonymous letter A.
+
+                  (Here describe them, as for example.)
+
+    1. The figure 4 in the dates is always made like the print form of
+       that figure.
+
+    2. The small e is always of the Greek form.
+
+    3. The small t is always crossed by a bar thick at the beginning,
+       tapering to a point, with its longest part behind the shank of
+       the t [and so on].
+
+The various points of resemblance are set out in detail, a separate paragraph for each, and
+each paragraph numbered.
+
+It is extremely important that a report should be fully descriptive and written in plain, non-technical
+language, easily understood by the jury, who will have to decide whether the resemblance has
+been made out.
+
+Too many handwriting experts spoil the effect of their evidence by employing technical language
+and presuming on the part of the jury an acquaintance with the methods of comparing handwritings.
+
+Do not be satisfied by saying that certain letters resemble each other. Show by an enlarged
+diagram how and where, indicating the parts to which attention is called by arrows. Place the
+single letters to be compared in parallel columns, headed with the alphabetical letter distinguishing
+the document in which the particular letter occurs. Use foolscap paper, and write on one side
+of the paper only.
+
+The usual method of dealing with the handwriting expert in the witness-box is shown in the
+following extract from a report of an actual case.
+
+Mr. D. B---- was called by counsel for the prosecution and duly sworn.
+
+Q.--You have had considerable experience in examining handwriting.
+
+A.--Over twenty years.
+
+Q.--Look at these documents. (Hands documents to witness.) Have you seen and examined these?
+
+A.--I have.
+
+Q.--Have you formed any opinion upon them?
+
+A.--I have, and have prepared a report.
+
+In some cases the expert is allowed to read his report in full. In others he is requested to
+give a verbal report, but if the point be insisted upon, the judge generally permits the report
+to be read, either by the expert or by counsel. A copy of the report, together with the documents
+in dispute are then usually handed to the jury for examination. The expert may proceed to illustrate
+his point with the aid of a blackboard and chalk, but much depends upon the attitude taken
+by the judge and counsel. Some judges insist that the expert shall confine himself to expressing
+his opinion, leaving counsel to deal with the explanation and comparison; others give the expert
+every opportunity of showing how he has arrived at his opinions.
+
+The examination in chief is usually a very simple matter. The trouble for the expert begins
+when counsel for the other side gets up to cross-examine.
+
+In nearly every case the object of the cross-examining counsel is to ridicule the art and get
+the expert to admit the possibility of other writers possessing the same peculiarities which
+are said to distinguish the letters before the Court.
+
+Counsel's favourite trick is to select some letter and ask the expert if he is prepared to
+swear that he has never seen something just like it in some other person's writing. The expert
+who knows his business will insist on keeping well to the front the bedrock basis of handwriting
+comparison, which is the application of the law of probability to cumulative evidence. It is
+not a question whether some other person may be in the habit of making a t or a k similar to
+those cited as evidences of common origin, but whether it is probable that two persons should
+make a dozen or more letters in precisely the same way under similar conditions and exhibit
+precisely the same peculiarities of style. He should reply with the unanswerable postulate
+that millions of persons possess red hair, snub noses, a scar on the face, blue eyes, bent
+fingers and a stammer; but it is millions to one against any two persons possessing all six
+of those peculiarities.
+
+In the course of his replies the expert may justifiably help his own case by repeating, when
+opportunity occurs, such irrefutable axioms as, No writer can say off-hand what peculiarities
+he may exhibit; that there are scores of ways of dotting an i, or crossing a t, and that few
+persons know which form they mostly affect. Fifty such points may be gathered from this little
+volume alone, while acquaintance with the works of other writers on caligraphy will supply
+ample ammunition for meeting and repelling the customary form of attack on the handwriting expert.
+
+Another method of discrediting a witness is to remind him that experts have differed, the Dreyfus
+case being usually cited. The answer is obvious. First it is essential to be assured that those
+experts were all competent, for there are degrees of competency in judging handwriting as in
+every other subject on which opinion may be called. It is a notorious fact that in the Dreyfus
+case the most competent experts testified that the Henry letters were forgeries, the authorities
+called on the other side being in most cases unknown men or amateurs of no standing. A number
+of these self-styled experts possessed no other qualification than presumed familiarity with
+the handwriting of Dreyfus. It is also worthy of note that several of the experts on both sides
+proved most inefficient witnesses, obscuring their explanations by the employment of technical
+phraseology which conveyed little meaning to the lay mind.
+
+Exactitude and regularity in the choice of the words used in describing the parts of letters
+should be strictly observed by the student. The rules given in the chapter on "Terminology"
+should be mastered and adhered to. In most cases the terms there applied to letter-analysis
+will be found to be self-explanatory.
+
+CHAPTER XVII.
+
+HANDWRITING AND EXPRESSION.
+
+No work dealing with the study of handwriting would be complete unless it recognised that phase
+of it which touches on the delineation of character by an examination of the caligraphy.
+
+That many valuable clues can be picked up by the expert who applies the principles on which
+the graphologist works is indisputable, nor is it necessary to accept all the theories claimed
+as reliable by those who practice this interesting branch of the art of writing-analysis.
+
+There is no doubt that many persons have attained a remarkable degree of proficiency in deducing
+from the hand-gestures of an unknown person a very accurate estimate of his or her character,
+and this fact should prove that the principles of the art of graphology are based on scientific
+grounds, or at least that the rules on which the student works are regular and not, as some
+suggest, mere guess-work or coincidence.
+
+The elder d'Israeli, in his fascinating work, the "Curiosities of Literature," devotes considerable
+space to the subject.
+
+       *       *       *       *       *
+
+Professor Foli, in his very useful work, "Handwriting as an Index to Character" (London: C.
+A. Pearson, Ltd.), says:
+
+"The changes which handwriting undergoes as maturity is reached prove how directly it is influenced
+by the nervous condition of the writer.
+
+"The writing proper to childhood is large, round and accompanied by a laboured pen movement;
+whereas that which is normal as manhood or womanhood is attained is smaller, and turned off
+by a more rapid and fluent motion of the hand.
+
+"Illness, again, affects the writing. As the hand is charged with more or less of the nerve
+fluid, so the writing is stronger or weaker, firmer or feebler, as the case may be.
+
+"This goes to show the important influence which the nerve current exerts in fashioning the
+handwriting. Small wonder that our handwriting alters day by day. Yet it does not alter either.
+So far as its general appearance is concerned I grant it seems to do so. But look at the really
+significant points of the writing written at different times. Give a glance at the height at
+which the 'i' is dotted, the way in which the 't' is barred, the manner in which the letters
+are, or are not, connected and finished off. These things will crop up with unerring uniformity
+time after time.
+
+"You do, of course, get a studied handwriting now and then, just as you sometimes meet with
+a formed facial expression. But that does not express the true character, simply because the
+control over the feelings or the power of disguising what is felt is a salient point in the
+character; and this very fact will serve to show that there is truth in graphology.
+
+"That the pen, whether it be a fine or a broad pointed nib, plays a certain part in determining
+the thickness or thinness of the strokes, I am willing to allow, but here again we have no
+argument against graphology, for most people have their favourite nib--just as they prefer
+one occupation to another--and this is the one which will best serve to define their characteristics.
+The same with the surface of the paper upon which they write; some will select a smooth, others
+a rough kind, but whatever that may be which is adopted with comfort, it will be typical of
+the writer."
+
+The following are some of the more marked signs of the character they indicate. For a fuller
+exposition of their application it would be well to study the work of Foli, before mentioned,
+and of Rosa Baughan (Upcott Gill, London, 2s. 6d.), with the scholarly work of J. Crépieux-Jainin,
+entitled, "Handwriting and Expression," translated by J. Holt Schooling.
+
+       *       *       *       *       *
+
+General Characteristic.--The fineness of an organism will be revealed by a fine light penstroke.
+Coarse, low natures make heavy blurred entangled lines.
+
+Activity is denoted by the length of the letters. Where it is feeble the letters will be widely
+spaced and rounded.
+
+Excitability is shown by sharp strokes and stops. The more acute and irregular the pen-strokes
+the greater the intensity of feeling.
+
+Aggression, which is the inclination to attack, the destructive force, is indicated by the
+final strokes of letters and the cross-bars of t's advancing well forward, the dots of the
+i's placed well forward. In such a word as "time" the dot would probably be between the m and
+e. The style is angular and well and evenly spaced, altogether a forward, "go-ahead" writing.
+
+Economy, or acquisitiveness, is shown by the finishing strokes being turned backwards, and
+inwards; by a cramped hand, a disposition to curtail strokes, particularly the endings of letters,
+as if the expenditure of ink was begrudged.
+
+Secretiveness, or extra caution, has its sign in the narrow, tightly-closed form of the body
+of the letters a, d, g, o, q, the a and o often being merely a narrow v. The general tendency
+of the writing is to compression, the final strokes being very short. When very marked, the
+letters dwindle into an indistinct unformed condition. The substitution of dashes for punctuation
+is another symptom.
+
+Insincerity.--Beware of the man or woman whose writing is a fine, wavy line, upright, with
+short, stumpy and indistinct tops and tails, words running at their end to an almost straight
+line, the letters merely indicated. The flatter, finer and more perpendicular this writing,
+the greater the insincerity. Such a writer would probably be a polite, pleasing and plausible
+person, but double-faced as Janus.
+
+Love of praise, glory, ambition are shown by a tendency to write upwards, the lines of writing
+trending towards the right-hand corner of the paper. The signature will usually have a curved
+line below it, with a degree of flourish.
+
+Self-esteem, to which is allied conceit and ostentation, shows itself in proportion to the
+size of the writing, the taller and more flourished the upstrokes and the longer the downstrokes,
+the greater the self-assertiveness. The flourish beneath the signature will be very pronounced,
+often an elaborate spider's web of interlaced lines. The writing is more or less angular with
+the finals turned backwards and inwards.
+
+Will power is shown by firm bars to the t, with a tendency to descend from left to right, bludgeon-like
+downstrokes to tailed letters, writing rather angular than rounded, and the final strokes finished
+by a heavy pressure. Straight, firm, downward strokes take the place of the tails to y, g, f, q.
+
+Sympathy, good nature, kindness of heart are shown by a flowing open hand, the finals of the
+letters being extended and thrown out with an expansive movement. The tailed letters are long
+and looped, and often turned up the right side of the letter. The letters are well apart but
+not necessarily unconnected, and the style is curved. As a general rule hard matter-of-fact
+natures incline to an angular style; the artistic and softer nature affects rounded, gracefully
+curved strokes, and avoids straight perpendiculars or horizontals.
+
+Constructiveness, which implies the ability to combine and connect words and phrases, is shown
+by joining the words together, several being written without lifting the pen from the paper.
+The more simple and ingenuous the method of attaching the words, the greater will be the ability.
+When this joining of words is carried to extremes, it may be taken as a sign of good deductive
+judgment.
+
+Observation, by which is implied the keen, penetrating, inquiring mind (which in excess becomes
+curiosity), is marked by angularity of the strokes and finals; a small, generally neat, handwriting,
+with the letters disconnected.
+
+Punctuation affords a very valuable clue to character-reading, for reasons set out in the chapter
+"How to Study a Handwriting." They are the most mechanical and unpremeditated of hand-gestures,
+and are, therefore, the more valuable.
+
+When, for example, a dot is thick and heavy, we infer that the pen has been driven across the
+paper with a strong, decided movement of the hand, which would be consistent with extreme energy
+and will power; whereas, when the dot is light and faintly indicated we may be certain that
+only a moderate force has been expended upon its production, which would be compatible with
+less resistance and endurance in the character.
+
+Again, a dot whose outlines were blurred would show a certain sensuousness of character--strong
+passions and a want of restraint over the lower propensities; whereas, a dot whose edges were
+sharply defined would tell of refinement and a loathing against all that was coarse or vulgar.
+
+Careful attention to punctuation indicates neatness, order, method and love of arrangement;
+nor is it necessary that the punctuation should be strictly correct, for the art is but imperfectly
+mastered by most people, even the best educated.
+
+Stops that partake of the appearance of a comma indicate a degree of impetuosity; well rounded
+stops imply calmness and tranquility of temperament. When the full stops are fashioned after
+the form of a comma and droop towards the right hand they indicate a tendency to sulkiness.
+When they are merely angular we may infer impatience and a "peppery" disposition.
+
+Flourishes are always indicative of a certain amount of assertiveness. The simpler the flourish
+the less artificial this self-insistence; the more elaborate, the greater the desire to seem
+what one is not.
+
+BIBLIOGRAPHY OF HANDWRITING.
+
+Most of the works in this list relate to that aspect of the study of graphology which is supposed
+to bear upon the manifestations of character. But there is not one which the student of handwriting
+can afford to ignore, since, apart from the debatable question of character reading, they all
+contain numerous hints and observations of extreme value to the student whose objective is
+the acquisition of aptitude in the more practical art of detecting forgery.
+
+    AUTOGRAPH COLLECTING: A practical manual for Amateurs and
+      Historical Students. By HENRY T. SCOTT, M.D. London: Upcott Gill.
+      Price 5s.
+
+    A GUIDE TO THE COLLECTION OF HISTORICAL DOCUMENTS, LITERARY MSS. AND
+      AUTOGRAPH LETTERS, &c. By Rev. H. T. SCOTT and SAMUEL DAVEY. (Out
+      of print.) May be seen in British Museum and many public
+      libraries.
+
+    THE AUTOGRAPHIC MIRROR: A monthly journal now defunct, but
+      procurable at second hand.
+
+    HANDWRITING AND EXPRESSION. Translated and edited by JOHN HOLT
+      SCHOOLING, from the third French edition of "L'Escriture et le
+      Caractere," par J. CRÉPIEUX-JAININ. Kegan, Paul and Trench.
+
+    CHARACTER INDICATED BY HANDWRITING. By ROSA BAUGHAN. Upcott Gill.
+      Price 2s. 6d.
+
+    THE PHILOSOPHY OF HANDWRITING. By DON FELIX DE SALAMANCA. Macmillan.
+
+    HOW TO READ CHARACTER IN HANDWRITING. By HENRY FRITH. Ward Lock.
+      Price 1s.
+
+    HANDWRITING AS AN INDEX TO CHARACTER. By Professor FOLI. C. A.
+      Pearson. Price 1s.
+
+    A SYSTEM OF GRAPHOLOGY. By the ABBÉ MICHON. In French; no English
+      translation. A valuable work.
+
+    A HISTORY OF HANDWRITING. Same Author.
+
+    A METHOD OF GRAPHOLOGIC STUDY. Same Author.
+
+    A MEMOIR UPON THE FAULTY METHODS USED BY EXPERTS IN HANDWRITING.
+      Same Author.
+
+    A DICTIONARY OF THE NOTABILITIES OF FRANCE JUDGED FROM THE
+      HANDWRITING. Same Author.
+
+    THE HANDWRITING OF THE FRENCH PEOPLE SINCE THE MEROVINGIAN EPOCH.
+      Same Author.
+
+    LES MYSTÉRES DE L'ÉCRITURE. Preface by Desbarrolles. Same Author.
+
+    THE HANDWRITING OF JUNIUS PROFESSIONALLY EXAMINED BY CHABOT. Edited
+      by the Hon. E. TWISTLETON. John Murray. 1871.
+
+This work is the only one hitherto published in England explaining the methods of the handwriting
+expert. Mons. Chabot, for many years the leading English expert, was commissioned by Mr. Twistleton
+to examine the handwriting of "Junius" with a view to deciding the authorship of the famous
+letters. The result was an exhaustive volume in which the process of handwriting analysis is
+illustrated by thousands of examples. The conclusion arrived at was that the writer of the
+"Junius" letters was Sir Philip Francis.
+
+     Literary and Historical
+ Autograph Letters and Manuscripts
+            Purchased.
+
+       OPINIONS GIVEN AS TO
+
+     GENUINENESS OF DOCUMENTS.
+
+              ALSO ON
+
+        SUSPECTED FORGERIES
+
+                AND
+
+        ANONYMOUS LETTERS.
+

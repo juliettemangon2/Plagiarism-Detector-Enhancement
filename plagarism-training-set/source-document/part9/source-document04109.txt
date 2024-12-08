@@ -1,0 +1,65 @@
+﻿ set up as a book-seller -> bookseller
+p. 008: the lovely curves of the birdges -> bridges
+p. 011: [normalized] he slipt into the Festival Playhouse -> slipped
+p. 011: [normalized] acquaintance of Andreas Döberlein -> Döderlein
+p. 011: [normalized] Döberlein seemed not disinclined -> Döderlein
+p. 014: [normalized] little, eight-year old daughter -> eight-year-old
+p. 017: [normalized] Theresa said to the working-man -> workingman
+p. 018: fiercely red pamphets spread out -> pamphlets
+p. 023: [normalized] a room of the brushmaker Hadebusch -> brush-maker
+p. 024: Frau Hadesbusch wailed -> Hadebusch
+p. 024: [normalized] The old brushmaker poked his head -> brush-maker
+p. 046: status of the artistocracy -> aristocracy
+p. 047: [normalized] he indulged in eaves-dropping -> eavesdropping
+p. 048: [normalized] as a fourteen-year old girl -> fourteen-year-old
+p. 054: no sooner had be seen her -> he
+p. 057: seemed to be similiarly situated -> similarly
+p. 065: [normalized] the seventeen-year old boy -> seventeen-year-old
+p. 067: flatter the leader and politican -> politician
+p. 067: [normalized] socialist book-keeper -> bookkeeper
+p. 067: Her shrieks called Herr Franke -> Francke
+p. 084: [missing period] took the artist’s part.
+p. 094: [normalized] she was in her nightgown -> night-gown
+p. 095: clasped Eleanor about the hips -> Eleanore
+p. 095: stepped back from her, terror stricken -> terror-stricken
+p. 101: The venemous and eloquent hatred -> venomous
+p. 105: [normalized] fell head-long to the floor -> headlong
+p. 107: [added comma] and if you want to, why you can come -> why, you
+p. 121: meant at the time by “having a child,” -> ‘having a child,’
+p. 122: [added comma] Why the arithmetic of it -> Why, the
+p. 123: [normalized] fixed on a ten-year old girl -> ten-year-old
+p. 124: [normalized] right under my bed-room -> bedroom
+p. 125: crystallised by artifical means -> artificial
+p. 127: [normalized] voice that the passers-by simpered -> passersby
+p. 130: rather die, they said, then meet -> than meet
+p. 131: she could play the role of an emissary -> rôle
+p. 132: [normalized] Eschenbach at mid-day -> midday
+p. 133: [normalized] unusually large eye-brows -> eyebrows
+p. 136: their retinue was seedy looking indeed -> seedy-looking
+p. 136: dozen or so super-numaries -> super-numeraries
+p. 145: [normalized] pleasing, faraway look in her eyes -> far-away
+p. 153: [normalized] character of the book-seller -> bookseller
+p. 154: [normalized] with heartrending dignity -> heart-rending
+p. 162: [comma missing ink] “Where are you going, my dear friend?”
+p. 163: he liked to breathe the air that Eberhard dreamed -> breathed
+p. 169: [normalized] weatherbeaten by the storms -> weather-beaten
+p. 169: something childlike in his restlessness -> child-like
+p. 176: from the land of no-where -> nowhere
+p. 180: [normalized] this over-crowded room -> overcrowded
+p. 183: the words of the “Herzreise” -> “Harzreise”
+p. 183: voice of the painter Krapotkin -> Kropotkin
+p. 186: Gertrude was pealing potatoes -> peeling
+p. 191: but twenty pfennigs’ worth of sweets -> buy
+p. 197: [added closing quotes] “I think he is. If not, I will get him.”
+p. 202: light hearted and light footed -> light-hearted and light-footed
+p. 212: [normalized] appeared in the Phoenix -> Phœnix
+p. 215: [normalized] her well-nigh supernatural ability -> wellnigh
+p. 215: [normalized] a serious, far-a-way warning -> far-away
+p. 227: threw it at Fraülein Varini -> Fräulein
+p. 253: [normalized] passersby and onlookers -> on-lookers
+p. 257: Eleanor’s example was equally great -> Eleanore’s
+p. 275: the greatest atraction for her -> attraction
+p. 297: potato pealings -> peelings
+p. 300: [normalized] just stepped out of a band-box -> bandbox
+p. 300: That old white bearded man -> white-bearded
+p.

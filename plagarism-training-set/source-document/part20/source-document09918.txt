@@ -1,0 +1,10 @@
+﻿
+    “i” for “e”, “aw” for “au” (“Chawcer”)
+    several occurrences of “an” are read as “one”
+    ampersand (&) for word “and”
+    final “-e”, especially in “much(e), such(e)”;
+      sometimes in “doth(e), hath(e)” and other words
+    single “o” changed to “oo”: “moore”, “woordes”
+    some Latin citations have final -e for -æ
+    words ending -o{r} transcribed as -o{u}r
+    word divisions such as “as well”, “my selfe”

@@ -1,0 +1,542 @@
+﻿Suppose now that the extra stimulus has been found which arouses a satisfactory substitute
+response. The original stimulus, or the reaction-tendency aroused by it, still continuing,
+participates in arousing the substitute response, playing the part of the originally ineffective
+stimulus in the conditioned reflex. Thus the original stimulus becomes strongly linked with
+the substitute response.
+
+The process of reaching a substitute response thus includes three stages: (a) original response
+found unsatisfactory, (b) new stimulus found which gives a satisfactory substitute response,
+(c) attachment of the substitute response to the original stimulus.
+
+{409}
+
+There are two main cases under the general head of substitute response. In one case, the substitute
+response is essentially an old response, not acquired during the process of substitution, but
+simply substituted, as indicated just above, for the original response to the situation. This
+represents the common trial and error learning of animals. The second case is that where the
+substitute response has to be built up by combination of old responses into a higher unit.
+
+C. Substitute Response, but not in Itself a New Response
+
+I. Trial and error.
+
+Our much-discussed instance of the cat in the cage need not be described again, but may simply
+be illustrated by a diagram.
+
+{410}
+
+2. Learning to balance on a bicycle.
+
+When the beginner feels the bicycle tipping to the left, he naturally responds by leaning to
+the right, and even by turning the wheel to the right. Result unsatisfactory--strained position
+and further tipping to the left. As the bicyclist is about to fall, he saves himself by a response
+which he has previously learned in balancing on his feet; he extends his foot to the left,
+which amounts to a response to the ground on the left as a good base of support. Now let him
+sometime respond to the ground on his left by turning his wheel that way, and, to his surprise
+and gratification, he finds the tipping overcome, and his balance well maintained. The response
+of turning to the left, originally made to the ground on the left (but in part to the tipping),
+becomes so linked with the tipping as to be the prompt reaction whenever tipping is felt. The
+diagram of this process would be the same as for the preceding instance.
+
+D. Substitute Response, the Response Being a Higher Motor Unit
+
+1. The brake and clutch combination in driving an automobile.
+
+This may serve as an instance of simultaneous coördination, since the two movements which are
+combined into a higher unit are executed simultaneously. The beginner in driving an automobile
+often has considerable trouble in learning to release the "clutch", which, operated by the
+left foot, ungears the car from the engine, and so permits the car to be stopped without stopping
+the engine. The foot brake, operated by the right foot, is comparatively easy to master, because
+the necessity for stopping the car is a perfectly clear and definite stimulus. Now, when the
+beginner gets a brake-stimulus, he responds promptly with his right foot, but neglects to employ
+his left foot on the clutch, because he has no effective clutch-stimulus; there is nothing
+{411} in the situation that reminds him of the clutch. Result, engine stalled, ridicule for
+the driver. Next time, perhaps, he thinks "clutch" when he gets the brake-stimulus, and this
+thought, being itself a clutch-stimulus, arouses the clutch-response simultaneously with the
+brake-response. After doing this a number of times, the driver no longer needs the thought
+of the clutch as a stimulus, for the left foot movement on the clutch has become effectively
+linked with the brake-stimulus, so that any occasion that arouses the brake-response simultaneously
+arouses the clutch response.
+
+The combination of two responses is effected by linking both to the same stimulus; thus the
+two become united into a coördinated higher motor unit.
+
+2. The word-habit in typewriting furnishes an example of successive coördination, the uniting
+of a sequence of movements into a higher unit. [Footnote: See p. 324.] The beginner has to
+spell out {412} the word he is writing, and make a separate response to each letter; but when
+he has well mastered the letter-habits, and, still unsatisfied, is trying for more speed, it
+happens that he thinks ahead while writing the first letter of a word, and prepares for the
+second letter. In effect, he commences reacting to the second letter while still writing the
+first. This goes further, till he anticipates the series of letters forming a short word while
+still at the beginning of the word. The letter movements are thus linked to the thought of
+the word as a whole, and the word becomes an effective stimulus for arousing the series of
+letter movements.
+
+Many other instances of learning can be worked out in the same way, and there seems to be no
+difficulty in {413} interpreting any of them by the law of combination. Even "negative adaptation"
+can possibly be interpreted as an instance of substitute response; some slight and easy response
+may be substituted for the avoiding reaction or the attentive reaction that an unimportant
+stimulus at first arouses, these reactions being rather a nuisance when they are unnecessary.
+On the whole, the law of combination seems to fill the bill very well. It explains what the
+law of exercise left unexplained. It always brings in the law of exercise as an ally, and,
+in explaining substitute response, it brings in the law of effect, which however, as we saw
+before, may be a sub-law under the law of exercise. These two, or three laws, taken together,
+give an adequate analysis of the whole process of learning.
+
+The Law of Combination in Recall
+
+Unitary response to multiple stimuli is important in recall as well as in learning. The clearest
+case of this is afforded by "controlled association". [Footnote: See p. 381.]
+
+In an opposites test, the response to the stimulus word "long" is aroused partly by this stimulus
+word, and partly by the "mental set" for opposites. There are two lines of influence, converging
+upon the response, "long--short" (of which only the word "short" may be spoken): one line from
+the stimulus word "long", and the other from the mental set for pairs of opposite words. The
+mental set for opposites tends to arouse any pair of opposites; the word "long" tends to arouse
+any previously observed group of words of which "long" is a part. The mental set, an internal
+stimulus, and the stimulus word coming from outside, converge or combine to arouse one particular
+response.
+
+The mental set for adding has previously exercised {414} linkages with the responses composing
+the addition table, while the mental set for multiplication has linkages with the responses
+composing the multiplication table. When the set for adding is active, a pair of numbers, seen
+or heard, together with this internal stimulus of the mental set, arouses the response that
+gives the sum; but when the multiplying set is active, the same pair of numbers gives the product
+as the response. All thinking towards any goal is a similar instance of the law of combination.
+
+The Laws of Learning in Terms of the Neurone
+
+We have good evidence that the brain is concerned in learning and retention. Loss of some of
+the cortex through injury often brings loss of learned reactions, and the kind of reactions
+lost differs with the part of the cortex affected. Injury in the occipital lobe brings loss
+of visual knowledge, and injury in the neighborhood of the auditory sense-center brings loss
+of auditory knowledge.
+
+Injury to the retina or optic nerve, occurring early in life, results in an under-development
+of the cortex in the occipital lobe. The nerve cells remain small and their dendrites few and
+meager, because they have not received their normal amount of exercise through stimulation
+from the eye.
+
+Exercise, then, has the same general effect on neurones that it has on muscles; it causes them
+to grow and it probably also improves their internal condition so that they act more readily
+and more strongly. The growth, in the cortex, of dendrites and of the end-brushes of axons
+that interlace with the dendrites, must improve the synapses between one neurone and another,
+and thus make better conduction paths between one part of the cortex and another, and also
+between the cortex and the lower sensory and motor centers.
+
+The law of exercise has thus a very definite meaning when {415} translated into neural terms.
+It means that the synapses between stimulus and response are so improved, when traversed by
+nerve currents in the making of a reaction, that nerve currents can get across them more easily
+the next time.
+
+The more a synapse is used, the better synapse it becomes, and the better linkage it provides
+between some stimulus and some response. The cortex is the place where linkages are made in
+the process of learning, and it is there also that forgetting, or atrophy, takes place through
+disuse. Exercise makes a synapse closer, disuse lets it relapse into a loose and poorly conducting
+state.
+
+The law of combination, also, is readily translated into {416} neural terms. The "pre-existing
+loose linkages" which it assumed to exist undoubtedly do exist in the form of "association
+fibers" extending in vast numbers from any one part of the cortex to many other parts. These
+fibers are provided by native constitution, but probably terminate rather loosely in the cortex
+until exercise has developed them. They may be compared to telephone wires laid down in the
+cables through the streets and extending into the houses, but still requiring a little fine
+work to attach them properly to the telephone instruments.
+
+The diagrams illustrating different cases under the law of combination can easily be perfected
+into neural diagrams, though, to be sure, any diagram is ultra-simple as compared with the
+great number of neurones that take part in even a simple reaction.
+
+The reader will be curious to know now much of this neural interpretation of our psychological
+laws is observed fact, and how much speculation. Well, we cannot as yet {417} observe the brain
+mechanism in actual operation--not in any detail. We have good evidence, as already outlined,
+for growth of the neurones and their branches through exercise.
+
+We have perfectly good evidence of the law of "unitary response to multiple stimuli" from the
+physiological study of reflex action; and we have perfectly good anatomical evidence of the
+convergence and divergence of neural paths of connection, as required by the law of combination.
+The association fibers extending from one part to another of the cortex are an anatomical fact.
+[Footnote: See p. 56.] Facilitation is a fact, and that means that a stimulus which could not
+of itself arouse a response can coöperate with another stimulus that has a direct connection
+with that response, and reinforce its effect. In short, all the elements required for a neural
+law of combination are known facts, and the only matter of doubt is whether we have built these
+elements together aright in our interpretation. It is not pure speculation, by any means.
+
+{418}
+
+EXERCISES
+
+1. Outline the chapter, in the form of a list of laws and sub-laws.
+
+2. Review the instances of learning cited in Chapters XIII-XV,
+   and examine whether they are covered and sufficiently accounted for
+   by the general laws given in the present chapter.
+
+3. Draw diagrams, like those given in this chapter, for the simpler
+   cases, at least, that you have considered in question 2.
+
+4. Show that response by analogy is important in the development
+   of language. Consider metaphor, for example, and slang, and the
+   using of an old word in a new sense (as in the case of
+   'rail-road').
+
+REFERENCES
+
+William James devoted much thought to the problem of the mechanism of learning, habit, association,
+etc., and his conclusions are set forth in several passages in his Principles of Psychology,
+1890, Vol. I, pp. 104-112, 554-594, and Vol. II, pp. 578-592.
+
+Another serious consideration of the matter is given by William McDougall in his Physiological
+Psychology, 1905, Chapters VII and VIII.
+
+See also Thorndike's Educational Psychology, Briefer Course, 1914, Chapter VI.
+
+On the whole subject of association, see Howard C. Warren, A History of the Association Psychology,
+1921.
+
+{419}
+
+CHAPTER XVII
+
+PERCEPTION
+
+MENTAL LIFE CONSISTS LARGELY IN THE DISCOVERY OF FACTS NEW TO THE INDIVIDUAL, AND IN THE RE-DISCOVERY
+OF FACTS PREVIOUSLY OBSERVED
+
+You will remember the case of John Doe, who was brought before us for judgment on his behavior,
+as to how far it was native and how far acquired. We have since that time been occupied in
+hearing evidence on the case, and after mature consideration have reached a decision which
+we may formulate as follows: that this man's behavior is primarily instinctive or native, but
+that new attachments of stimulus and response, and new combinations of responses, acquired
+in the process of learning, have furnished him with such an assortment of habits and skilled
+acts of all sorts that we can scarcely identify any longer the native reactions out of which
+his whole behavior is built. That decision being reached, we are still not ready to turn the
+prisoner loose, but wish to keep him under observation for a while longer, in order to see
+what use he makes of this vast stock of native and acquired reactions. We wish to know how
+an individual, so equipped, behaves from day to day, and meets the exigencies of life. Such,
+in brief, is the task we have still before us.
+
+Accordingly, one fine morning we enter our prisoner's sleeping quarters, and find him, for
+once, making no use of his acquired reactions, as far as we can see, and utilizing but a small
+fraction of his native reactions. He is, in short, asleep. We ring a bell, and he stirs uneasily.
+We {420} ring again, and he opens his eyes sleepily upon the bell, then spies us and sits bolt
+upright in bed. "Well, what . . ." He throws into action a part of his rather colorful vocabulary.
+He evidently sees our intrusion in an unfavorable light at first, but soon relaxes a little
+and "supposes he must be late for breakfast". Seeing our stenographer taking down his remarks,
+he is puzzled for a moment, then breaks into a loud laugh, and cries out, "Oh! This is some
+more psychology. Well, go as far as you like. It must have been your bell I heard in my dream
+just now, when I thought I saw a lot of cannibals beating the tom-tom". Having now obtained
+sufficient data for quite a lengthy discussion, we retire to our staff room and deliberate
+upon these manifestations.
+
+"The man perceives", we agree. "By the use of his eyes and ears he discovered facts, and interpreted
+them in the light of his previous experience. In knowing the facts, he also got adjusted to
+them and governed his actions by them. But notice--a curious thing--how his perception of the
+facts progressed by stages from the vague and erroneous to the correct and precise. Before
+he was fully awake, he mistook the bell for a tom-tom; then, more fully aroused, he knew the
+bell. Ourselves he first saw as mere wanton intruders, then as cheerful friends who wished
+him no ill; finally he saw us in our true character as investigators of his behavior."
+
+Following our man through the day's work and recreation, we find a large share of his mental
+activity to consist in the perception of facts. We find that he makes use of the facts, adjusting
+himself to them and also shaping them to suit himself. His actions are governed by the facts
+perceived, at the same time that they are governed by his own desires. Ascertaining how the
+facts stand, he takes a hand and manipulates them. He is constantly coming to know {421} fresh
+facts, and constantly doing something new with them. His life is a voyage of discovery, and
+at the same time a career of invention.
+
+Discovery and invention!--high-sounding words, still they are applicable to everyday life.
+The facts observed may not be absolutely new, but at least they have always to be verified
+afresh, since action needs always to take account of present reality. The invention may be
+very limited in scope, but seldom does an hour pass that does not call for doing something
+a little out of the ordinary, so as to escape from a fresh trap or pluck fruit from a newly
+discovered bough. All of our remaining chapters might, with a little forcing, be pigeonholed
+under these two great heads. Discovery takes its start with the child's instinctive exploratory
+activity, and invention with his manipulation, and these two tendencies, perhaps at bottom
+one, remain closely interlinked throughout.
+
+Some Definitions
+
+Perception is the culmination of the process of discovery. Discovery usually requires exploration,
+a search for facts; and it requires attention, which amounts to finding the facts or getting
+them effectively presented; and perception then consists in knowing the presented facts.
+
+When the facts are presented to the senses, we speak of "sense perception". If they are presented
+to the eye, we speak of visual perception; if to the ear, of auditory perception, etc. But
+when we speak of a fact as being "presented" to the eye or ear, we do not necessarily mean
+that it is directly and completely presented; it may only be indicated. We may have before
+the eyes simply a sign of some fact, but perceive the fact which is the meaning of the sign.
+We look out of the window and "see it is wet to-day", though wetness is something to be felt
+rather than seen; {422} having previously observed how wet ground looks, we now respond promptly
+to the visual appearance by knowing the indicated state of affairs. In the same way, we say
+that we "hear the street car", though a street car, we must admit, is not essentially a noise.
+What we hear, in strictness, is a noise, but we respond to the noise by perceiving the presence
+of the car. Responding to a stimulus presented to one sense by perceiving a fact which could
+only be directly presented to another sense is exemplified also by such common expressions
+as that the stone "looks heavy", or that the bell "sounds cracked". or that the jar of fruit
+"smells sour". Sense perception, then, is responding to a stimulus by knowing some fact indicated
+by it either directly or indirectly. Perception that is not sense perception occurs when the
+fact perceived is not even indirectly presented to the senses at the moment. The fact is then
+presented by recall; yet the fact in question is not recalled. Recall not only gives you facts
+previously perceived, but may provide the data, the stimulus, for fresh perception. Putting
+together two recalled facts, you may perceive a further fact not previously known. Remembering
+that you took your umbrella to the office this morning in the rain, that it was fine when you
+left the office, and that you certainly did not have the umbrella when you reached home, you
+perceive that you must have left it at the office. Reading in the paper of preparations for
+another polar expedition, and remembering that both poles have already been discovered, you
+perceive that there is something more in polar exploration than the mere race for the pole.
+Perception of this sort amounts to "reasoning", and will be fully considered in another chapter,
+while here we shall focus our attention on sense perception.
+
+{423}
+
+The Difference Between Perception and Sensation
+
+If sense perception is a response to a sensory stimulus, so is sensation, and the question
+arises whether there is any genuine difference between these two. In the instance of "hearing
+the street car", the difference is fairly obvious; hearing the noise is sensation, while knowing
+the street car to be there is perception.
+
+Sensation is the first response aroused by a stimulus, or at least the first response that
+is conscious. Perception is a second response, following the sensation, and being properly
+a direct response to the sensation, and only an indirect response to the physical stimulus.
+The chain of events is: stimulus, response of the sense organ and sensory nerve, first cortical
+response which is sensation, second cortical response which is perception.
+
+Conscious sensation is the response of the part of the cortex that first receives the nerve
+current from the sense organ stimulated, the response of the "sensory area" for the particular
+sense stimulated. When the eye is stimulated, the nerve current first reaches a small portion
+of the occipital lobe, called the visual sensory area. Without that area there is no visual
+sensation. When the ear is stimulated, the conscious sensation is the response of a small portion
+of the temporal lobe called the auditory sensory area, and without this area there is no auditory
+sensation. But the presence of the visual sensory area is not enough to give the visual perception
+of facts, nor is the presence of the auditory sensory area enough to give auditory perception.
+The cortical regions adjacent to the sensory areas are necessary for perception; if they are
+destroyed, the individual may still see, but not know the objects seen; or may still hear,
+but not recognize the words or tunes that he hears. If the cortical area destroyed is in the
+parietal {424} lobe, adjacent to the sensory area for the cutaneous and kinesthetic senses,
+he may still "feel" objects, but without being able to distinguish an apple from a lump of
+coal, or a folded newspaper from a tin pail.
+
+Sense perception, then, is a response of areas adjacent to the sensory areas, and this response
+is aroused by nerve currents coming along "association fibers" from the sensory areas which
+are first aroused from the sense organs.
+
+The whole chain of events, from the time the stimulus reaches the sense organ to the time the
+fact is perceived, occupies only a fifth or even a tenth of a second in simple cases, and the
+interval between the beginning of the sensation to the beginning of the perception is not over
+a twentieth when the fact is easily perceived. Since the sensation usually lasts for longer
+than this, it overlaps the perception in time, and the two conscious responses are so blended
+that it is difficult or impossible for introspection to separate them.
+
+But when an unusual fact is presented, perception may lag, though sensation occurs promptly.
+We may be baffled and confused for an instant, and have sensation without any definite perception;
+or, more often, we make a rapid series of trial and error perceptions. In one instance, a noise
+was first heard as distant thunder, and then, correctly, as somebody walking on the floor above.
+In another case, a faint sound was first taken for a bird singing, then for a distant locomotive
+whistle, and finally for what it was, the tinny noise of a piece of metal carried in the hand
+and brushing against the overcoat as the person walked; this series occupied not over five
+seconds. On touching an object in the dark, you may feel it as one thing and another till some
+response is aroused that fits the known situation and so satisfies you. Such trial and error
+perception can be observed very frequently if one is on the watch for {425} psychological curiosities;
+and it justifies the distinction between sensation and perception, since the sensation remains
+virtually unchanged while perception changes.
+
+Another sort of shifting perception is seen in looking steadily at the "ambiguous figures"
+which were considered in the chapter on attention, the cube, staircase, and others; and the
+"dot figures" belong here as well. [Footnote: See p. 252.] In these cases the stimulus arouses
+two or more different perceptions, alternately, while the sensation remains almost or quite
+unchanged.
+
+Perception and Image
+
+The experiment with ambiguous figures also gives an answer to the question whether perception
+consists in the addition of recalled memory images to the sensations aroused by the present
+stimulus. If that were so, you should, when you see the upper side of the flight of stairs,
+see them as wooden stairs or stone stairs, as carpeted or varnished, with shadows on them such
+as appear on a real flight of stairs, with a railing, or with some other addition of a similar
+nature; and, when the appearance changes to that of the under side of a flight of stairs, the
+colors, shadows, etc., should change as well. The usual report is that no such addition can
+be detected, and that the subject sees no filling-in of the picture, but simply the bare lines--only
+that they seem at one moment to be the bare outline of the upper side, and at another moment
+an equally bare outline of the lower side, of a flight of stairs.
+
+So again, when you "hear the street car", you do not ordinarily, to judge from the reports
+of people who have been asked, get any visual or kinesthetic image of the car, but you simply
+know the car is there. You will quite {426} possibly get some such image, if you dwell on the
+fact of the car's being there, just as some persons, in talking to a friend over the telephone,
+have a visual image of the friend. There is no reason why such images should not be aroused,
+but the question is whether they are essential to perception of the fact, and whether they
+occur before or after the fact is perceived. Often they do not occur, and often, when they
+do occur, they follow the perception of the fact, being aroused by that perception and not
+constituting it.
+
+Sometimes images are certainly aroused during the perception of a fact, and, blending with
+the present rather vague sensation, add color and filling to the picture.
+
+Here is an instance of this which I once observed in myself, in spite of the infrequency of
+my visual images. Approaching a house through a wide field one winter night, and seeing a lamp
+shining out of a window towards me, I seemed to see the yellowish light touching the high spots
+in the grass around. I was surprised that the lamp should carry so far, and the next instant
+saw that the light spots on the ground were small patches of snow, lighted only from the clouded
+sky; and at this the yellow tinge of the spots vanished. I must have read the yellow color
+into them to fit the lamplight. The yellow was an image blending with the actual sensation.
+Colors tacked on to a seen object in this way are sometimes called "memory colors".
+
+When this instance is considered carefully, however, it does not by any means indicate that
+the image produced the perception. I responded to the pair of stimuli--lamp shining towards
+me and light spots around me--by perceiving the spots as lighted by the lamp; and the color
+followed suit. I next saw the spots as snow, and the color vanished. It was a case of trial
+and error perception, with color images conforming to the perception.
+
+Perception does not essentially consist in the recall of {427} images, but is a different sort
+of response--what sort, we have still to consider.
+
+Perception and Motor Reaction
+
+Possibly, we may surmise, perception is a motor response, completely executed or perhaps merely
+incipient, or at least a readiness for a certain motor response. This guess is not quite so
+wild as our customary sharp distinction between knowing and doing might lead us to think. When
+we say that reacting to a thing in a motor way is quite different from merely seeing the thing,
+we forget how likely the child is to do something with any object as soon as he sees what it
+is. We forget also how common it is for a person, in silently reading a word--which is perceiving
+the word--to whisper it or at least move his lips. To be sure, persons who read a great deal
+usually get over this habit, as the child more and more inhibits his motor response to many
+seen objects. But may it not be that the motor response is simply reduced to a minimum? Or,
+still better, may it not be that perceiving an object amounts to getting ready to do something
+with it? May not seeing a word always be a getting ready to say it, even if no actual movement
+of the vocal organs occurs? May not seeing an orange consist in getting ready to take it, peel
+it, and eat it? May not perceiving our friend amount to the same thing as getting ready to
+behave in a friendly manner, and perceiving our enemy amount to the same thing as getting on
+our guard against him? According to this view, perception would be a response that adjusted
+the perceiver to the fact perceived, and made him ready to do something appropriate.
+
+In spite of the attractiveness of this theory of perception, it is probably not the real essence
+of the matter. Just as perception may change while sensation remains the same, so there may
+be a hesitation between two motor responses {428} to an object, without any change in the way
+it is perceived; and just as a block may occur between sensation and perception, so also may
+one occur between perception of a fact and the motor response. In other words, perception of
+a fact may not spell complete readiness to act upon it. The best example of this is afforded
+again by cases of localized brain injuries.
+
+It happens, in motor aphasia, that the subject hears and understands a spoken word--fully perceives
+it--and yet cannot pronounce it himself. And at that, there need be no paralysis of the speech
+organs. The brain injury has affected the motor speech-coördinating machinery, and deprived
+the individual of the power to get ready for speaking a word, even though he perceives it.
+
+Analogous disabilities occur in respect to other movements. It may happen, through injury somewhere
+near the motor area, though not precisely in that area, that one who clearly perceives a seen
+object is still quite incapable of handling it. He knows the object, and he knows in an abstract
+way what to do with it, but how to go about it he cannot remember. This type of disturbance
+is called "motor apraxia", and, like motor aphasia, it proves that there is a preparation that
+follows perception and still precedes actual movement. Paralysis of the motor area is different;
+then, the subject both perceives the object, and gets all ready to act upon it; only, the movement
+does not occur.
+
+The truth seems to be that a series of four responses occurs in the brain, in the process of
+making a skilled movement dealing with a perceived object. First, sensation; second, perception
+of the object; third, coördinating preparation for the act; and fourth, execution of the act
+by the motor area arousing the lower motor centers and through them the muscles. The first
+response is like receiving signals {429} or code messages; the second deciphers the messages
+and knows the state of affairs; the third plans action; and the fourth sends out orders to
+the agents that perform the action.
+
+The distinction between perception and preparation for action is sometimes rather difficult
+to draw. The twelve o'clock whistle means time to drop your tools, and it is hard to draw a
+line between knowing the fact and beginning the act. On the other hand, when my watch tells
+me the noon hour is almost over, some little time may be required before I get into motion.
+Where there is no block or inhibition, the chain of responses runs off with such speed as to
+seem a single response. But a block may occur at any one of several places. It may check the
+actual movement, as in the "delayed reaction", [Footnote: See p. 76.] and in cases where we
+itch to do something yet check ourselves. Here the preparation occurs, but the execution is
+checked. Sometimes the block occurs between perception and preparation, when we know a fact
+but find nothing to do about it or hesitate between two ways of acting. Sometimes, also, the
+block occurs between sensation and perception; a sudden loud noise will sometimes throw a person
+into a momentary state of confusion during which he is unable to recognize the noise.
+
+Blocking of response at different stages can be illustrated very well in the case of anger.
+The irritating stimulus gives a prompt fighting reaction, unless checked at some stage. When
+the check prevents me from actually striking the offending person, but leaves me clenching
+my fist and gnashing my teeth, the chain of responses has evidently gone as far as readiness
+for action, and been blocked between that stage and the stage of execution. Probably the inhibitory
+influence here is anticipation of bad consequences. The block may occur one stage further back,
+when I say to myself that {430} I mustn't let myself get "all riled up" since it will spoil
+my morning's work; here, instead of substituting the clenched fist for actual fighting, I substitute
+a bored or contemptuous attitude for the pugnacious attitude. All this time I still am conscious
+of the offense done me. But suppose something leads me to try to look at the other person's
+behavior from his own point of view--then I perceive it in a different light, and it may no
+longer appear a personal offense to myself. I here get a substitute perception.
+
+The process of blocking and substituting is the same process that we have seen in trial and
+error.[Footnote: See p. 408.] The response proving unsatisfactory, or promising to be unsatisfactory,
+is checked and a substitute response found. Other elements in the situation get a chance to
+exert their influence on the reaction. If perception of a fact were absolutely the same as
+preparing a motor act, we could not look over the situation, perceiving one fact after another,
+and letting our adjustment for action depend on the total situation instead of on the separate
+facts successively observed; nor could we perceive one fact while preparing the motor response
+to another fact, as is actually done in telegraphy, typewriting, reading aloud, and many other
+sorts of skilled action. In reading aloud, the eyes on the page keep well ahead of the voice;
+while one word is being pronounced, the next word is being prepared for pronouncing, and words
+still further ahead are in process of being perceived.
+
+We conclude, accordingly, that perception of an object is not absolutely the same thing as
+motor response to the object, nor even as motor readiness to respond, although the transition
+from perception to motor readiness may be so quick that the whole reaction seems a unit. In
+reality, perception of the object precedes the motor adjustment, and is one factor in determining
+that adjustment.
+
+{431}
+
+What Sort of Response, Then, Is Perception?
+
+We can say this, that perception is knowing the fact, as distinguished from readiness to act.
+We can say that perception is an adjustment to facts as they are, while motor adjustment is
+a preparation for changing the facts. Perception does not alter the facts, but takes them as
+they are; movement alters the facts or produces new facts. We can say that perception comes
+in between sensation and motor preparation. But none of these statements is quite enough to
+satisfy us, if we wish to know something of the machinery of perception. What is the stimulus
+in perception, and what is the nature of the response?
+
+It takes a collection of stimuli to arouse a perception. This collection is at the same time
+a selection from among the whole mass of sensory stimuli acting at any moment on the individual.
+Perception is thus a fine example both of the "law of selection" and of the "law of combination".
+[Footnote: See pp. 256, 263.] Perception is at once a combining response and an isolating response.
+
+We perceive a face--that means that we take the face as a unit, or make a unitary response
+to the multiple stimuli coming from the face. At the same time, in perceiving the face, we
+isolate it from its background, or disregard the numerous other stimuli that are simultaneously
+acting upon us. If we proceed to examine the face in detail, we may isolate the nose and perceive
+that as a whole. We might isolate still further and perceive a freckle on the nose, taking
+that as a whole, or even observing separately its location, diameter, depth of pigmentation,
+etc. Even if we went so far as to observe a single speck of dust on the skin, in which case
+isolation would about reach its maximum, combination would still stay in the game, for we should
+either note {432} the location of the speck--which would involve relating it to some part of
+the face--or we should contrast it with the color of the skin, or in some similar way take
+the single stimulus in relation with other present stimuli. Perception is always a unitary
+response to an isolated assemblage of stimuli.
+
+Consider these two opposite extremes: taking in the general effect of the view from a mountain
+top, and perceiving the prick of a pin. In the first case, combination is very much in evidence,
+but where is the isolation? There is isolation, since internal bodily sensations, and very
+likely auditory and olfactory sensations as well, are present but do not enter into the view.
+In the case of the pin prick, isolation is evident, but where does combination come in? It
+would not come into the mere reflex of pulling the hand away, but perceiving the pin means
+something more than reflex action. It means locating the sensation, or noticing its quality
+or duration or something of that sort, and so contrasting it with other sensations or relating
+it to them in some way. To perceive one stimulus as related to another is to respond to both
+together.
+
+But in describing perception as a unitary response to an isolated assemblage of stimuli, we
+have not differentiated it from a motor response, for that, too, is often aroused by a few
+(or many) stimuli acting together. What more can we say? In neural terms, we can only repeat
+what was said before, that perception is the next response after sensation, being a direct
+response to a certain combination of sensations, and being in its turn the stimulus, or part
+of the stimulus, that arouses a motor adjustment, as it may also be the stimulus to recall
+of previously observed facts. In more psychological terms, we can say that sense perception
+is closely bound up with sensation, so that we seem to see the fact, or hear it, etc.; we perceive
+it as present to the {433} senses, rather than as thought of or as anticipated. Motor readiness
+is anticipatory, perception definitely objective. Motor readiness is an adjustment for something
+yet to be, while perception is an adjustment to something already present.
+
+Practised Perception
+

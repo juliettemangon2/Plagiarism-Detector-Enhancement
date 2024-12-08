@@ -1,0 +1,809 @@
+﻿The Augustan Reprint Society
+
+                LEWIS THEOBALD
+     Preface to The Works of Shakespeare
+                    (1734)
+
+            With an Introduction by
+                  Hugh G. Dick
+
+             Publication Number 20
+             (Extra Series, No. 2)
+
+                  Los Angeles
+    William Andrews Clark Memorial Library
+           University of California
+                     1949
+
+       *       *       *       *       *
+
+GENERAL EDITORS
+
+H. RICHARD ARCHER, Clark Memorial Library RICHARD C. BOYS, University of Michigan EDWARD NILES
+HOOKER, University of California, Los Angeles H.T. SWEDENBERG, JR., University of California,
+Los Angeles
+
+ASSISTANT EDITORS
+
+W. EARL BRITTON, University of Michigan JOHN LOFTIS, University of California, Los Angeles
+
+ADVISORY EDITORS
+
+EMMETT L. AVERY, State College of Washington BENJAMIN BOYCE, University of Nebraska LOUIS I.
+BREDVOLD, University of Michigan CLEANTH BROOKS, Yale University JAMES L. CLIFFORD, Columbia
+University ARTHUR FRIEDMAN, University of Chicago SAMUEL H. MONK, University of Minnesota ERNEST
+MOSSNER, University of Texas JAMES SUTHERLAND, Queen Mary College, London
+
+       *       *       *       *       *
+
+INTRODUCTION
+
+Lewis Theobald's edition of Shakespeare (1734) is one cornerstone of modern Shakespearian scholarship
+and hence of English literary scholarship in general. It is the first edition of an English
+writer in which a man with a professional breadth and concentration of reading in the writer's
+period tried to bring all relevant, ascertainable fact to bear on the establishment of the
+author's text and the explication of his obscurities. For Theobald was the first editor of
+Shakespeare who displayed a well grounded knowledge of Shakespeare's language and metrical
+practice and that of his contemporaries, the sources and chronology of his plays, and the broad
+range of Elizabethan-Jacobean drama as a means of illuminating the work of the master writer.
+Thus both in the edition itself and in his Preface, which stands as the first significant statement
+of a scholar's editorial duties and methods in handling an English classic, Theobald takes
+his place as an important progenitor of modern English studies.
+
+It is regrettable, though it was perhaps historically inevitable, that this pioneer of English
+literary scholarship should have been tagged "piddling Theobald" by Pope and crowned the first
+king of The Dunciad. Pope's edition of Shakespeare was completed by 1725, and in the following
+year Theobald made the poet his implacable enemy when he issued his Shakespeare Restored, which
+demolished Pope's pretensions as an editor by offering some two hundred corrections. But the
+conflict was not merely strife between two writers: it was a clash between two kinds of criticism
+in which the weight of tradition and polite taste were all on the side of Pope. What Theobald
+had done, in modern terms, was to open the rift between criticism and scholarship or, in eighteenth-century
+terms, to proclaim himself a "literal critic" and to insist upon the need for "literal criticism"
+in the understanding and just appreciation of an older writer. The new concept, which Theobald
+owed largely to Richard Bentley as primate of the classical scholars, was of course the narrower
+one--implicit in it was the idea of specialization--and Theobald's opponents among the literati
+were quick to assail him as a mere "Word-catcher" (cf. R.F. Jones, Lewis Theobald, 1919, p. 114).
+
+His own edition of Shakespeare, therefore, was the work of a man and a method on trial. At
+first Theobald had proposed simply to write further commentary on Shakespeare's plays, but
+by 1729 he determined to issue a new edition and in October of that year signed a contract
+with Tonson. From the first Theobald found warm support for his project among booksellers,
+incipient patrons, and men of learning. His work went forward steadily; subscribers, including
+members of the Royal Family, were readily forthcoming; and by late 1731 Theobald felt that
+his labors were virtually complete. But vexing delays occurred in the printing so that the
+edition, though dated 1733, did not appear until early in 1734, New Style. When it did appear,
+it was plain to all that Theobald's vindication of himself and his method was complete. Judicious
+critics like the anonymous author of Some Remarks on the Tragedy of Hamlet (1736) were quick
+to applaud Theobald's achievement, and even Pope himself was silenced.
+
+Ultimately of course Theobald came under severe attack by succeeding editors of Shakespeare,
+notably Warburton and Johnson, yet both men were guilty of unwarranted abuse of their predecessor,
+whose edition was nine times issued in the course of the century and was still in current use
+by the time of Coleridge (cf. Wm. Jaggard, Shakespeare Bibliography, 1911, pp. 499-504). Warburton
+and Johnson's abuse, coupled with that of Pope, obscured Theobald's real achievements for more
+than a century until J.C. Collins did much to rehabilitate his reputation by an essay celebrating
+him as "The Porson of Shakespearian Criticism" (Essays and Studies, 1895, pp. 263-315). Collins's
+emotional defense was largely substantiated by T.R. Lounsbury's meticulous The Text of Shakespeare
+(1906), R.F. Jones's Lewis Theobald (1919), which brought much new material to light, and most
+recently by R.B. McKerrow's dispassionate appraisal, "The Treatment of Shakespeare's Text by
+his Earlier Editors, 1709-1768" (Proceedings of the British Academy, XIX, 1933, 23-27). As
+a result, so complete has been Theobald's vindication that even in a student's handbook he
+is hailed as "the great pioneer of serious Shakespeare scholarship" and as "the first giant"
+in the field (A Companion to Shakespeare Studies, 1934, ed. H. Granville Barker and G.B. Harrison,
+pp. 306-07).
+
+Theobald's Preface occupied his attention for over a year and gave him much trouble in the
+writing. Its originality was, and still is, a matter of sharp dispute. The first we hear of
+it is in a letter of 12 November 1731 from Theobald to his coadjutor Warburton, who had expressed
+some concern about what Theobald planned to prefix to his edition. Theobald announced a major
+change in plan when he replied that "The affair of the Prolegomena I have determined to soften
+into a Preface."
+
+His next letter, which contains the list of acknowledgements substantially as printed, thanks
+Warburton for consenting to give the requested help, announces that he is himself busy about
+"the Contents... wch. I am Endeavouring to modell in my Head, in Order to communicate them
+to you, for your Directions & refinement," indicates that he has "already rough-hewn the Exordium
+& Conclusion," and asserts that "What I shall send you from Time to Time, I look upon only
+as Materials: wch I hope may grow into a fine Building, under your judicious Management" (Jones,
+op. cit., pp. 283-84).
+
+Warburton apparently misunderstood or overlooked Theobald's remarks about materials, for in
+his next letter Theobald was obliged to return, somewhat ambiguously, to the same point:
+
+  I make no Question of my being wrong in the disjointed Parts
+  of my Preface, but my Intention was, (after I had given you the
+  Conclusion, & the Manner in wch. I meant to start) to give you a
+  List of all the other general Heads design'd to be handled, then to
+  transmit to you, at proper Leisure, my rough Working off of each
+  respective Head, that you might have the Trouble only of refining &
+  embellishing wth: additional Inrichments: of the general Arrangement,
+  wch. you should think best for the whole; & of making the proper
+  Transitions from Subject to Subject, wch. I account no inconsiderable
+  Beauty (Ibid., pp. 289-90).
+
+Finally on January 10, 1733, Theobald wrote Warburton: "I promise myself now shortly to sit
+down upon ye fine Synopsis, wch. you so modestly call the Skeleton of Preface" (Ibid., p. 310).
+
+It is clear from the foregoing that Theobald wrote most of the Preface topic by topic, and
+probably followed the plan for the general structure as submitted by Warburton. Yet it is equally
+clear that certain parts of the Preface, such as the contrast between Julius Caesar and Addison's
+Cato, which Warburton later claimed as his and which Theobald omitted from his second edition,
+were furnished Theobald as "additional Inrichments" (D.N. Smith, Eighteenth Century Essays
+on Shakespeare, 1903, pp. xlviii-ix). When later a break did occur between the two men, neither
+was free from blame. Theobald had asked and got so much help with the Preface that he should
+have acknowledged the debt, no matter how naked it might have made him seem. Warburton, on
+the other hand, had had honest warning that acknowledgement would not be made for this part
+of his help; and if his synopsis were followed, as seems likely, his condemnation of the Preface
+as "Theobald's heap of disjointed stuff" was disingenuous, to say the least. Far less defensible
+was his assertion in the same letter to Thomas Birch that, apart from the section on Greek
+texts, virtually the entire Preface was stitched together from notes which he had supplied
+(Nichols, Illustrations, II, 81).
+
+Three further points concerning the Preface demand mention. First, the section on Shakespeare's
+life is often dismissed as a simple recension of Rowe's Life (1709). Actually, however, the
+expansion itself is a characteristic example of Theobald's habit of exploring original sources.
+(ed. S.H. Monk, Augustan Society Reprints, 1949, p. ii). To this statement Theobald adds plentiful
+detail drawn from the same Stratford records, from tombs in the Stratford Church, and from
+documents in the Heralds' Office connected with the coat of arms obtained for the playwright's
+father. Such typical expansions were the result of conscientious research.
+
+Second, all critics have agreed to condemn the digression in which Theobald advertised his
+ability to emend Greek texts. Theobald himself was hesitant about including it lest he be indicted
+for pedantry, but was encouraged to do so by Warburton, who later scoffed at what he had originally
+admired. This much may be said in Theobald's behalf. Such a digression would not have seemed
+irrelevant in an age which took its classical scholarship seriously; and such digressions,
+arising naturally out of context and strategically placed before the conclusion, were not only
+allowed but actually encouraged by classical rhetoricians like Cicero and Quintilian, whose
+teachings were still standard in the English schools.
+
+Finally, the Preface exists in two forms. The later and shorter form was that designed for
+Theobald's second edition (1740), which omits all passages presumably contributed by Warburton
+and more besides, the section on Greek texts, and the list of acknowledgements to contemporary
+Shakespearian enthusiasts. This abridged form has been frequently reprinted. From a copy in
+the University of Michigan Library the original Preface is here reproduced for the first time.
+
+    Hugh G. Dick
+    University of California,
+    Los Angeles
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+                      The
+                     WORKS
+                       of
+                 SHAKESPEARE:
+
+                       in
+                 Seven Volumes.
+
+Collated with the Oldest Copies, and Corrected;
+     With NOTES, Explanatory, and Critical:
+
+               By Mr. THEOBALD.
+
+I, Decus, i, nostrum: melioribus utere Fatis.
+    Virg.
+
+                   LONDON:
+    Printed for A. Bettesworth and C. Hitch,
+         J. Tonson, F. Clay, W. Feales,
+               and R. Wellington.
+
+                  MDCCXXXIII.
+
+       *       *       *       *       *
+
+                      THE
+
+                    PREFACE.
+
+I confess, I don’t conceive the Difference betwixt Ingeniô and Geniô in the first Verse. He
+was a Sampson in Strength, but he suffer’d some such Dalilah to give him up to the Philistines.
+
+As I have mention’d the Sweetness of his Disposition, I am tempted to make a Reflexion or two
+on a Sentiment of his, which, I am persuaded, came from the Heart.
+
+  The Man, that hath no Musick in himself,
+  Nor is not mov’d with Concord of sweet Sounds,
+  Is fit for Treasons, Stratagems, and Spoils:
+  The Motions of his Spirit are dull as Night,
+  And his Affections dark as Erebus:
+  Let no such Man be trusted.----
+
+    [Sidenote: A Lover of Musick.]
+
+Shakespeare was all Openness, Candour, and Complacence; and had such a Share of Harmony in
+his Frame and Temperature, that we have no Reason to doubt, from a Number of fine Passages,
+Allusions, Similies, &c. fetch’d from Musick, but that He was a passionate Lover of it. And
+to this, perhaps, we may owe that great Number of Sonnets, which are sprinkled thro’ his Plays.
+I have found, that the Stanza’s sung by the Gravedigger in Hamlet, are not of Shakespeare’s
+own Composition, but owe their Original to the old Earl of Surrey’s Poems. Many other of his
+Occasional little Songs, I doubt not, but he purposely copied from his Contemporary Writers;
+sometimes, out of Banter; sometimes, to do them Honour. The Manner of their Introduction, and
+the Uses to which he has assigned them, will easily determine for which of the Reasons they
+are respectively employ’d. In As you like it, there are several little Copies of Verses on
+Rosalind, which are said to be the right Butter-woman’s Rank to Market, and the very false
+Gallop of Verses. Dr. Thomas Lodge, a Physician who flourish’d early in Queen Elizabeth’s Reign,
+and was a great Writer of the Pastoral Songs and Madrigals, which were so much the Strain of
+those Times, composed a whole Volume of Poems in Praise of his Mistress, whom he calls Rosalinde.
+I never yet could meet with this Collection; but whenever I do, I am persuaded, I shall find
+many of our Author’s Canzonets on this Subject to be Scraps of the Doctor’s amorous Muse: as,
+perhaps, those by Biron too, and the other Lovers in Love’s Labour’s lost, may prove to be.
+
+It has been remark’d in the Course of my Notes, that Musick in our Author’s time had a very
+different Use from what it has now. At this Time, it is only employ’d to raise and inflame
+the Passions; it, then, was apply’d to calm and allay all kinds of Perturbations. And, agreeable
+to this Observation, throughout all Shakespeare’s Plays, where Musick is either actually used,
+or its Powers describ’d, it is chiefly said to be for these Ends. His Twelfth-Night, particularly,
+begins with a fine Reflexion that admirably marks its soothing Properties.
+
+    [Sidenote*: Milton an Imitator of him.]
+
+This Similitude is remarkable not only for the Beauty of the Image that it presents, but likewise
+for the Exactness to the Thing compared. This is a way of Teaching peculiar to the Poets; that,
+when they would describe the Nature of any thing, they do it not by a direct Enumeration of
+its Attributes or Qualities, but by bringing something into Comparison, and describing those
+Qualities of it that are of the Kind with those in the Thing compared. So, here for instance,
+the Poet willing to instruct in the Properties of Musick, in which the same Strains have a
+Power to excite Pleasure, or Pain, according to that State of Mind the Hearer is then in, does
+it by presenting the Image of a sweet South Wind blowing o’er a Violet-bank; which wafts away
+the Odour of the Violets, and at the same time communicates to it its own Sweetness: by This
+insinuating, that affecting Musick, tho’ it takes away the natural sweet Tranquillity of the
+Mind, yet, at the same time, communicates a Pleasure the Mind felt not before. This Knowledge,
+of the same Objects being capable of raising two contrary Affections, is a Proof of no ordinary
+Progress in the Study of human Nature. *The general Beauties of those two Poems of MILTON,
+intitled, L’Allegro and Il Pensoroso, are obvious to all Readers, because the Descriptions
+are the most poetical in the World; yet there is a peculiar Beauty in those two excellent Pieces,
+that will much enhance the Value of them to the more capable Readers; which has never, I think,
+been observ’d. The Images, in each Poem, which he raises to excite Mirth and Melancholy, are
+exactly the same, only shewn in different Attitudes. Had a Writer, less acquainted with Nature,
+given us two Poems on these Subjects, he would have been sure to have sought out the most contrary
+Images to raise these contrary Passions. And, particularly, as Shakespeare, in the Passage
+I am now commenting, speaks of these different Effects in Musick; so Milton has brought it
+into each Poem as the Exciter of each Affection: and lest we should mistake him, as meaning
+that different Airs had this different Power, (which every Fidler is proud to have you understand,)
+He gives the Image of those self-same Strains that Orpheus used to regain Eurydice, as proper
+both to excite Mirth and Melancholy. But Milton most industriously copied the Conduct of our
+Shakespeare, in Passages that shew’d an intimate Acquaintance with Nature and Science. If he
+was not acquainted with the Rule as deliver’d by Horace, his own admirable Genius pierc’d into
+the Necessity of such a Rule.
+
+  ----Servetur ad imum
+  Qualis ab incœpto processerit, & sibi constet.
+
+For what can be more ridiculous, than, in our modern Writers, to make a debauch’d young Man,
+immers’d in all the Vices of his Age and Time, in a few hours take up, confine himself in the
+way of Honour to one Woman, and moralize in good earnest on the Follies of his past Behaviour?
+Nor can, that great Examplar of Comic Writing, Terence be altogether excused in this Regard;
+who, in his Adelphi, has left Demea in the last Scenes so unlike himself: whom, as Shakespeare
+expresses it, he has turn’d with the seamy Side of his Wit outward. This Conduct, as Errors
+are more readily imitated than Perfections, Beaumont and Fletcher seem to have follow’d in
+a Character in their Scornful Lady. It may be objected, perhaps, by some who do not go to the
+Bottom of our Poet’s Conduct, that he has likewise transgress’d against the Rule himself, by
+making Prince Harry at once, upon coming to the Crown, throw off his former Dissoluteness,
+and take up the Practice of a sober Morality and all the kingly Virtues. But this would be
+a mistaken Objection. The Prince’s Reformation is not so sudden, as not to be prepar’d and
+expected by the Audience. He gives, indeed, a Loose to Vanity, and a light unweigh’d Behaviour,
+when he is trifling among his dissolute Companions; but the Sparks of innate Honour and true
+Nobleness break from him upon every proper Occasion, where we would hope to see him awake to
+Sentiments suiting his Birth and Dignity. And our Poet has so well, and artfully, guarded his
+Character from the Suspicions of habitual and unreformable Profligateness; that even from the
+first shewing him upon the Stage, in the first Part of Henry IV, when he made him consent to
+join with Falstaffe in a Robbery on the Highway, he has taken care not to carry him off the
+Scene, without an Intimation that he knows them all, and their unyok’d Humour; and that, like
+the Sun, he will permit them only for a while to obscure and cloud his Brightness; then break
+thro’ the Mist, when he pleases to be himself again; that his Lustre, when wanted, may be the
+more wonder’d at.
+
+Another of Shakespeare’s grand Touches of Nature, and which lies still deeper from the Ken
+of common Observation, has been taken notice of in a Note upon The Tempest; where Prospero
+at once interrupts the Masque of Spirits, and starts into a sudden Passion and Disorder of
+Mind. As the latent Cause of his Emotion is there fully inquir’d into, I shall no farther dwell
+upon it here.
+
+Such a Conduct in a Poet (as Shakespeare has manifested on many like Occasions;) where the
+Turn of Action arises from Reflexions of his Characters, where the Reason of it is not express’d
+in Words, but drawn from the inmost Resources of Nature, shews him truly capable of that Art,
+which is more in Rule than Practice: Ars est celare Artem. An exquisite fine Instance of this
+Kind occurs in Lear, where that old King, hasty and intemperate in his Passions, coming to
+his Son and Daughter Cornwall, is told by the Earl of Gloucester that they are not to be spoken
+with: and thereupon throws himself into a Rage, supposing the Excuse of Sickness and Weariness
+in them to be a purpos’d Contempt: Gloucester begs him to think of the fiery and unremoveable
+Quality of the Duke: and This, which was design’d to qualify his Passion, serves to exaggerate
+the Transports of it.
+
+As the Conduct of Prince Henry in the first Instance, the secret and mental Reflexions in the
+Case of Prospero, and the instant Detour of Lear from the Violence of Rage to a Temper of Reasoning,
+do so much Honour to that surprizing Knowledge of human Nature, which is certainly our Author’s
+Masterpiece, I thought, they could not be set in too good a Light.
+
+    [Sidenote*: Mr. Addison and He compared, on a similar Topick.]
+
+I shall dismiss the Examination into these his latent Beauties, when I have made a short Comment
+upon a remarkable Passage from Julius Cæsar, which is inexpressibly fine in its self, *and
+greatly discovers our Author’s Knowledge and Researches into Nature.
+
+That nice Critick Dionysius of Halicarnassus confesses, that he could not find those great
+Strokes, which he calls the terrible Graces, in any of the Historians, which he frequently
+met with in Homer. I believe, the Success would be the same likewise, if we sought for them
+in any other of our Authors besides our British HOMER, Shakespeare. This Description of the
+Condition of Conspirators has a Pomp and Terror in it, that perfectly astonishes. Our excellent
+Mr. Addison, whose Modesty made him sometimes diffident in his own Genius, but whose exquisite
+Judgment always led him to the safest Guides, as we may see by those many fine Strokes in his
+Cato borrow’d from the Philippics of Cicero, has paraphrased this fine Description; but we
+are no longer to expect those terrible Graces, which he could not hinder from evaporating in
+the Transfusion.
+
+  O think, what anxious Moments pass between
+  The Birth of Plots, and their last fatal Periods.
+  Oh, ’tis a dreadful Interval of Time,
+  Fill’d up with Horror all, and big with Death.
+
+I shall observe two Things on this fine Imitation: first, that the Subjects of these two Conspiracies
+being so very different, (the Fortunes of Cæsar and the Roman Empire being concern’d in the
+First; and That of only a few Auxiliary Troops, in the other;) Mr. Addison could not with Propriety
+bring in that magnificent Circumstance, which gives the terrible Grace to Shakespeare’s Description.
+
+  The Genius and the mortal Instruments
+  Are then in Council.----
+
+For Kingdoms, in the poetical Theology, besides their good, have
+their evil Genius’s likewise: represented here with the most
+daring Stretch of Fancy, as fitting in Council with the Conspirators,
+whom he calls the mortal Instruments. But this Would have been
+too great an Apparatus to the Rape, and Desertion, of Syphax, and
+Sempronius. Secondly, The other Thing very observable is, that Mr.
+Addison was so warm’d and affected with the Fire of Shakespeare’s
+Description; that, instead of copying his Author’s Sentiments, he
+has, before he was aware, given us only the Image of his own
+Impressions on the reading his great Original.
+  ----the State of Man,
+  Like to a little Kingdom, suffers then
+  The Nature of an Insurrection.
+
+Comparing the Mind of a Conspirator to an Anarchy, is just and beautiful; but the Interim to
+a hideous Dream has something in it so wonderfully natural, and lays the human Soul so open,
+that one cannot but be surpriz’d, that any Poet, who had not himself been, some time or other,
+engaged in a Conspiracy, could ever have given such Force of Colouring to Truth and Nature.
+For Instance, in his Timon, he turns Athens, which was a perfect Democracy, into an Aristocracy;
+while he ridiculously gives a Senator the Power of banishing Alcibiades. On the contrary, in
+Coriolanus, he makes Rome, which at that time was a perfect Aristocracy, a Democracy full as
+ridiculously, by making the People choose Coriolanus Consul: Whereas, in Fact, it was not till
+the Time of Manlius Torquatus, that the People had a Right of choosing one Consul. This, then,
+was the Condition of the English Tongue when Shakespeare took it up: like a Beggar in a rich
+Wardrobe. He found the pure native English too cold and poor to second the Heat and Abundance
+of his Imagination: and therefore was forc’d to dress it up in the Robes, he saw provided for
+it: rich in themselves, but ill-shaped; cut out to an air of Magnificence, but disproportion’d
+and cumbersome. To the Costliness of Ornament, he added all the Graces and Decorum of it. It
+may be said, this did not require, or discover a Knowledge of the Latin. To the first, I think,
+it did not; to the second, it is so far from discovering it, that, I think, it discovers the
+contrary. To make This more obvious by a modern Instance: The great MILTON likewise labour’d
+under the like Inconvenience; when he first set upon adorning his own Tongue, he likewise animated
+and enrich’d it with the Latin, but from his own Stock: and so, rather by bringing in the Phrases,
+than the Words: And This was natural; and will, I believe, always be the Case in the same Circumstances.
+His Language, especially his Prose, is full of Latin Words indeed, but much fuller of Latin
+Phrases: and his Mastery in the Tongue made this unavoidable. On the contrary, Shakespeare,
+who, perhaps, was not so intimately vers’d in the Language, abounds in the Words of it, but
+has few or none of its Phrases: Nor, indeed, if what I affirm be true, could He. This I take
+to be the truest Criterion to determine this long agitated Question.
+
+It may be mention’d, tho’ no certain Conclusion can be drawn from it, as a probable Argument
+of his having read the Antients; that He perpetually expresses the Genius of Homer, and other
+great Poets of the Old World, in animating all the Parts of his Descriptions; and, by bold
+and breathing Metaphors and Images, giving the Properties of Life and Action to inanimate Things.
+He is a Copy too of those Greek Masters in the infinite use of compound and de-compound Epithets.
+I will not, indeed, aver, but that One with Shakespeare’s exquisite Genius and Observation
+might have traced these glaring Characteristics of Antiquity by reading Homer in Chapman’s
+Version. He has attack’d him like an unhandy Slaughterman; and not lopp’d off the Errors, but
+the Poet. Were it every where the true Text, which That Editor in his late pompous Edition
+gave us, the Poet deserv’d not the large Encomiums bestow’d by him: nor, in that Case, is Rymer’s
+Censure of the Barbarity of his Thoughts, and the Impropriety of his Expressions, groundless.
+For there ever have been, and ever will be in Playhouses, a Set of assuming Directors, who
+know better than the Poet himself the Connexion and Dependance of his Scenes; where Matter
+is defective, or Superfluities to be retrench’d; Persons, that have the Fountain of Inspiration
+as peremptorily in them, as Kings have That of Honour.
+
+But because the Art of Criticism, both by Those who cannot form a true Judgment of its Effects,
+nor can penetrate into its Causes, (which takes in a great Number besides the Ladies;) is esteem’d
+only an arbitrary capricious Tyranny exercis’d on Books; I think proper to subjoin a Word or
+two about those Rules on which I have proceeded, and by which I have regulated myself in this
+Edition. By This, I flatter myself, it will appear, my Emendations are so far from being arbitrary
+or capricious, that They are establish’d with a very high Degree of moral Certainty. Whenever
+Words are depraved, the Sense of course must be corrupted; and thence the Readers betray’d
+into a false Meaning. Tho’ I should be convicted of Pedantry by some, I’ll venture to subjoin
+a few flagrant Instances, in which I have observed most Learned Men have suffer’d themselves
+to be deceived, and consequently led their Readers into Error: and This for want of the Help
+of Literal Criticism: in some, thro’ Indolence and Inadvertence: in others, perhaps, thro’
+an absolute Contempt of It. If the Subject may seem to invite this Digression, I hope, the
+Use and Application will serve to excuse it.
+
+    [Sidenote: Platonius corrected.]
+
+I. In that golden Fragment, which we have left of Platonius, upon the three Kinds of Greek
+Comedy, after he has told us, that when the State of Athens was alter’d from a Democracy to
+an Oligarchy, and that the Poets grew cautious whom they libell’d in their Comedies; when the
+People had no longer any Desire to choose the accustom’d Officers for furnishing Choric Singers,
+and defraying the Expence of them, Aristophanes brought on a Play in which there was no Chorus.
+For, subjoins He, τῶν γὰρ ΧΟΡΕΥΤΩΝ μὴ χειροτονουμένων, καὶ τῶν ΧΟΡΗΓΩΝ οὐκ ἐχόντων τὰς τροφὰς,
+ὑπεξῃρέθη τῆς Κωμῳδίας τὰ χορικὰ μέλη, καὶ τῶν ὑποθέσεων ὁ τρόπος μετεβλήθη. “The Chorus-Singers
+being no longer chosen by Suffrage, and the Furnishers of the Chorus no longer having their
+Maintenance, the Choric Songs were taken out of Comedies, and the Nature of the Argument and
+Fable chang’d.” But there happen to be two signal Mistakes in this short Sentence. For the
+Chorus-Singers were never elected by Suffrage at all, but hir’d by the proper Officer who was
+at the Expence of the Chorus: and the Furnishers of the Chorus had never either Table, or Stipend,
+allowed them, towards their Charge. To what Purpose then is this Sentence, which should be
+a Deduction from the Premises, and yet is none, brought in? Or how comes the Reasoning to be
+founded upon what was not the Fact? The Mistake manifestly arises from a careless Transposition
+made in the Text: Let the two Greek Words, which I have distinguished by Capitals, only change
+Places, and we recover what Platonius meant to infer: “That the [A]Furnishers of Chorus’s being
+no longer elected by Suffrage, and the [B]Chorus-Singers having no Provision made for them,
+Chorus’s were abolished, and the Subjects of Comedies alter’d.”
+
+    [Footnote A: Χορηγῶν.]
+    [Footnote B: Χορευτῶν.]
+
+II. There is another more egregious Error still subsisting in this instructive Fragment, which
+has likewise escaped the Notice of the Learned. The Author is saying, that, in the old Comedy,
+the Masks were made so nearly to resemble the Persons to be satirized, that before the Actor
+spoke a Word, it was known whom he was to personate. But, in the New Comedy, when Athens was
+conquered by the Macedonians, and the Poets were fearful lest their Masks should be construed
+to resemble any of their New Governors, they formed them so preposterously as only to move
+Laughter; ὁρῶμεν γοῦν (says He) τὰς ὀφρῦς ἐν τοῖς προσώποις τῆς Μενάνδρου κωμῳδίας ὁποίας ἔχει,
+καὶ ὅπως ἐξεστραμμένον τὸ ΣΩΜΑ. καὶ οὐδε κατὰ ἀνθρώπων φύσιν. “We see therefore what strange
+Eyebrows there are to the Masks used in Menander’s Comedies; and how the Body is distorted,
+and unlike any human Creature alive.” But the Author, ’tis evident, is speaking abstractedly
+of Masks; and what Reference has the Distortion of the Body to the Look of a Visor? I am satisfied,
+Platonius wrote; καὶ ὅπως ἐξεστραμμένον τὸ ὌΜΜΑ, i.e. “and how the Eyes were goggled and distorted.”
+This is to the Purpose of his Subject: and Jul. Pollux, in describing the Comic Masques, speaks
+of some that had ΣΤΡΕΒΛΟΝ τὸ ὌΜΜΑ: Others, that were ΔΙΑΣΤΡΟΦΟΙ τὴν ὌΨΙΝ. PERVERSIS oculis,
+as Cicero calls them, speaking of Roscius.
+
+    [Sidenote: Camerarius and Keuster, mistaken.]
+
+III. Suidas, in the short Account that he has given us of Sophocles, tells us, that, besides
+Dramatic Pieces, he wrote Hymns and Elegies; καὶ λόγον καταλογάδην περὶ τοῦ Χοροῦ πρὸς Θέσπιν
+καὶ Χοίριλον ἀγωνιζόμενος. This the Learned Camerarius has thus translated: Scripsit Oratione
+solutâ de Choro contra Thespin & Chœrilum quempiam. And Keuster likewise understood, and render’d,
+the Passage to the same Effect. He owns, the Place is obscure, and suspected by him. “For how
+could Sophocles contend with Thespis and Chœrilus, who liv’d long before his Time?” The Scholiast
+upon [C]Aristophanes, however, expresly says, as Keuster might have remember’d, that Sophocles
+actually did contend with Chœrilus. But that is a Point nothing to the Passage in Question;
+which means, as I have shewn in another Place, That Sophocles declaimed in Prose, contending
+to obtain a Chorus for reviving some Pieces of Thespis and Chœrilus. Is This contending against
+Them, as rival Poets?
+
+    [Footnote C: In Ranis, v. 73.]
+
+    [Sidenote: Meursius, and Camerarius mistaken.]
+
+IV. Some other Learned Men have likewise been mistaken in Particulars with regard to Sophocles.
+In the Synopsis of his Life, we find these Words; Τελευτᾶ δὲ μετὰ Ἐυριπίδην ἐτῶν ϛ’. Meursius,
+as well as Camerarius, have expounded This, as if Sophocles surviv’d Euripides six Years. But
+the best Accounts agree that they died both in the same Year, a little before the Frogs of
+Aristophanes was play’d; scil. Olymp. 93, 3. The Meaning, therefore, of the Passage is, as
+some of the Commentators have rightly observ’d; That Sophocles died after Euripides, at 90
+Years of Age. The Mistake arose from hence, that, in Numerals, ϛʹ signifies as well 6 as 90.
+
+    [Sidenote: Father Brumoy mistaken.]
+
+V. The Learned Father Brumoy too, who has lately given us three Volumes upon the Theatre of
+the Greeks, has slipt into an Error about Sophocles; for, speaking of his Antigone, he tells
+us, it was in such Request as to be perform’d Two and Thirty times; Elle fût representée trente
+deux fois. The Account, on which This is grounded, we have from the Argument prefix’d to Antigone
+by Aristophanes the Grammarian: and the Latin Translator of this Argument, probably, led Father
+Brumoy into his Mistake, and he should have referr’d to the Original. The Greek Words are;
+λέλεκται δὲ τὸ δρᾶμα τοῦτο τριακοστὸν δεύτερον. i. e. “This Play is said to have been the Thirty
+Second, in Order of Time, produced by Sophocles.”
+
+The Mistakes, that I have mentioned, (tho’ they necessarily lead into Error, from the Authority
+with which they come into the World;) yet are such, ’tis obvious, as have been the Effects
+of Inadvertence; and therefore I do not quote them to the Dishonour of their Learned Authors.
+I shall point out Two or Three, which seem to have sprung from another Source: either a due
+Want of Sagacity, or an absolute Neglect of literal Criticism.
+
+    [Sidenote: Sir George Wheler corrected.]
+
+VI. Sir George Wheler, who, in his JOURNEY into GREECE, has traded much with Greek Antiquities
+and Inscriptions, and who certainly was no mean Scholar, has shewn himself very careless in
+this Respect. When he was at Sardis, he met with a Medal of the Emperor Commodus seated in
+the Midst of the Zodiack with Celestial Signs engraven on it; and, on the other Side, a Figure
+with a Crown-Mure with these Letters about it, Σάρδις Ἀσίας, ΑΥΔΙΑΣ, Ἕλλαδος, ᾱ μητρόπολις:
+Sardis, the first Metropolis of Asia, Greece, and Audia.--But where and what Audia was, (says
+He) I find not. Now is it not very strange, that this Gentleman should not remember, that Sardis
+was the Capital City of Lydia; and, consequently, that for ΑΥΔΙΑΣ we should read ΛΥΔΊΑΣ? Tho’
+my Correction is too obvious to want any Justification, yet, I find, it has One from the Learned
+Father [D]Harduin; who produces another Coin of Sardis (in the French King’s Cabinet) which
+bears the very same Inscription, only exhibited as it ought to be.
+
+    [Footnote D: In his Nummi Antiqui illustrati.]
+
+Nor was This a single Inaccuracy in Sir George. I’ll instance in Two pretty Inscriptions, the
+One an Epitaph, the other a Votive Table, which He has given Us, but in a very corrupt Condition.
+Tho’ I have never been in Greece, nor seen the Inscriptions any where but in his Book, I think,
+I can restore them to their true Sense and Numbers: And, as they are particularly elegant,
+some Readers will not be displeas’d to see them in a State of Purity.
+
+    [Sidenote: An Epitaph corrected and explained.]
+
+VII. Of the Antiquities of Philadelphia (says he) I had but a slender Account; only I have
+the Copy of one Inscription, being the Monument of a Virgin, in these three Couplets of Verses.
+But she was so far from being a Virgin, that the Epitaph shews her to have been a Wife; that
+it was put up in Memory of Her by her Husband; and that she dy’d in the Flower of her Youth
+at the Age of twenty three.
+
+  Ξαντίππην Ἀκύλα μνήμην [1]βίου παρέδωκην
+    Βωμῷ [2]τειμήσας σεμνω ταυτην ἄλοχον‧
+  Παρθένον ἧς ἀπέλυσε μίτρην ΗΣΔΡΙΟΝ ἄνθοσ.
+    Ἔσκεν ἐν ἡμιτελεῖ παυσαμενον θαλάμῳ.
+  Τρεῖς γαρ ἐπ᾽ εἰκοσίους τελεῶσε [3]βιον ἐνιαυτοὺς,
+    Καὶ μετὰ τούσδε θάνεν [4]τουτου λιπουσαφαος.
+
+  [Notes:
+    1 βιότου παρέδωκεν.
+    2 τιμήσας σεμνοτάτην.
+    3 βιοῦσ᾽.
+    4 τοῦτο λιποῦσα φάος. ]
+
+I have, for Brevity’s sake, mark’d the general Corrections, which I have made, at the Side.
+The third Verse is neither true in Quantity, nor Language: ΗΣΔΡΙΟΝ is a Monster of a Word,
+which never could be the Reading of any Marble. As I correct it, we recover a most beautiful
+Couplet.
+
+  Παρθένον, ἧς ἀπέλυσε μίτρην‧ ἯΣ ἨΡΙΝΌΝ ἄνθος.
+  Ἔσκεν ἐν ἡμιτελεῖ παυσάμενον θαλάμῳ.
+
+  Puellam, cujus Zonam solvit; cujus VERNUS Flos
+  Præproperô tabuit in Thalamô.
+
+    [Sidenote: A Votive Table corrected.]
+
+VIII. I come now to the Votive Table, which is rich in poetick Graces, however overwhelm’d
+with Depravation: and Sir George seems as much to have mistaken the Purport, as the Words,
+of the Inscription. At Chalcedon, says he, I found an Inscription in the Wall of a private
+House near the Church; which signifieth, that Evante, the Son of Antipater, having made a prosperous
+Voyage, and desiring to return by the Ægean Sea, offered Cakes at a Statue, which he had erected
+to Jupiter, which had sent him such good Weather, as a Token of his good Voyage.
+
+[1]ΟΥΡΙΟΝ ἐπὶ [2]ΠΡΙΜΝΗΣ τις ὁδηγητῆρα καλείτω, Ζῆνα κατὰ [3]πρωτΟΝ ΩΝιστιον ἐκπετάσας [4]ΕΠΙ
+ΚΥΑΝΕΑΣ ΔΙΝΑΣ ΔΡΟΜΟΥΣ ἔνθα Ποσειδῶν Καμπύλον εἰλίσσει κῦμα παρὰ ψαμαθοῖς. Εἶτα κατ᾽ Αἰγαῖαν
+πόντου πλάκα [5]ΝΑΣ ἐρεύνων, Νείσθω‧ τῷ δὲ [6]ΒΑΛΛΩΝ ψαιστὰ παρὰ [7]ΤΩ ΖΩΑΝΩ. [8]ΟΔΕ τὸν [9]ΕΥΑΝΤΗ
+τὸν ἀεὶ θεὸν Ἀντιπάτρου παῖς Στησε [10]φιλων ἀγαθῆς σύμβολον εὐπλοΐης.
+
+  [Notes:
+    1 Ὂυρον.
+    2 πρύμνης.
+    3 πρώτων, ἱστίον.
+    4 Κυανεαῖς δίνησιν ἐπίδρομον.
+    5 Νόστον.
+    6 βαλών.
+    7 ξοάνῳ
+    8 Ἐσδέ.
+    9 εὐανθῆ.
+   10 Φίλων. ]
+
+I have mark’d, as before, my Corrections at the Side; and I may venture to say, I have supported
+the faltring Verses both with Numbers and Sense. But who ever heard of Evante, as the Name
+of a Man, in Greece? Neither is this Inscription a Piece of Ethnic Devotion, as Sir George
+has suppos’d it, to a Statue erected to Jupiter: On the contrary, it despises those fruitless
+Superstitions. Philo (a Christian, as it seems to me;) sets it up, in Thanks for a safe Voyage,
+to the true God. That all my Readers may equally share in this little Poem, I have attempted
+to put it into an English Dress.
+
+  Invoke who Will the prosp’rous Gale behind,
+  Jove at the Prow, while to the guiding Wind
+  O’er the blue Billows he the Sail expands,
+  Where Neptune with each Wave heaps Hills of Sands:
+  Then let him, when the Surge he backward plows,
+  Pour to his Statue-God unaiding Vows:
+  But to the God of Gods, for Deaths o’erpast,
+  For Safety lent him on the watry Waste,
+  To native Shores return’d, thus Philo pays
+  His Monument of Thanks, of grateful Praise.
+
+I shall have no Occasion, I believe, to ask the Pardon of some Readers for these Nine last
+Pages; and Others may be so kind to pass them over at their Pleasure. (Those Discoveries, which
+give Light and Satisfaction to the truly Learned, I must confess, are Darkness and Mystery
+to the less capable: Φέγγος μὲν ξυνετοῖς, ἀξυνετοῖς δ᾽ Ἐρεβος.) Nor will they be absolutely
+foreign, I hope, to a Preface in some Measure critical; especially, as it could not be amiss
+to shew, that I have read other Books with the same Accuracy, with which I profess to have
+read Shakespeare. Besides, I design’d this Inference from the Defence of Literal Criticism.
+
+    [Sidenote: The Delay of this Edition excused.]
+
+Having now run thro’ all those Points, which I intended should make any Part of this Dissertation,
+it only remains, that I should account to the Publick, but more particularly to my Subscribers,
+why they have waited so long for this Work; that I should make my Acknowledgments to those
+Friends, who have been generous Assistants to me in the conducting it: and, lastly, that I
+should acquaint my Readers what Pains I have myself taken to make the Work as complete, as
+faithful Industry, and my best Abilities, could render it.
+
+In the middle of the Year 1728, I first put out my Proposals for
+publishing only Emendations and Remarks on our Poet: and I had
+not gone on many Months in this Scheme, before I found it to be the
+unanimous Wish of those who did me the Honour of their Subscriptions,
+that I would give them the Poet’s Text corrected; and that I would
+subjoin those Explanatory Remarks, which I had purpos’d to publish
+upon the Foot of my first Proposals. Earnest Sollicitations were
+made to me, that I would think of such an Edition; which I had as
+strong Desires to listen to: and some noble Persons then, whom I
+have no Privilege to name, were pleased to interest themselves so
+far in the Affair, as to propose to Mr. Tonson his undertaking an
+Impression of Shakespeare with my Corrections. The throwing my
+whole Work into a different Form, to comply with this Proposal, was
+not the slightest Labour: and so no little Time was unavoidably
+lost. While the Publication of my Remarks was thus respited, my
+Enemies took an unfair Occasion to suggest, that I was extorting
+Money from my Subscribers, without ever designing to give them
+any Thing for it: an Insinuation levell’d at once to wound me
+ Reputation and Interest. Conscious, however, of my own just
+Intentions, and labouring all the while to bring my wish’d Purpose
+to bear, I thought these anonymous Slanderers worthy of no Notice.
+A Justification of myself would have been giving them Argument for
+fresh Abuse; and I was willing to believe that any unkind Opinions,
+entertain’d to my Prejudice, would naturally drop and lose their
+Force, when the Publick should once be convinc’d that I was in
+Earnest, and ready to do them Justice. I left no Means untry’d
+to put it in my Power to do this: and I hope, without Breach of
+Modesty, I may venture to appeal to all candid Judges, whether I
+have not employ’d all my Power to be just to them in the Execution
+of my Task. I must needs have been in the most Pain, who saw myself
+daily so barbarously outraged. I might have taken advantage of
+the favourable Impressions entertain’d of my Work, and hurried it
+crudely into the World: But I have suffer’d, for my Author’s sake,
+those Impressions to cool, and perhaps, be lost; and can now appeal
+only to the Judgment of the Publick. If I succeed in this Point,
+the Reputation gain’d will be the more solid and lasting.
+
+    [Sidenote: Acknowledgment of Assistance.]
+
+I come now to speak of those kind Assistances which I have met with from particular Friends,
+towards forwarding and compleating this Work. Soon after my Design was known, I had the Honour
+of an Invitation to Cambridge; and a generous Promise from the Learned and ingenious Dr. Thirlby
+of Jesus-College, there, who had taken great Pains with my Author, that I should have the Liberty
+of collating his Copy of Shakespeare, mark’d thro’ in the Margin with his own Manuscript References
+and accurate Observations. He not only made good this Promise, but favour’d me with a Set of
+Emendations, interspers’d and distinguish’d in his Name thro’ the Edition, and which can need
+no Recommendation here to the judicious Reader.
+
+The next Assistance I receiv’d was from my ingenious Friend Hawley Bishop Esq; whose great
+Powers and extensive Learning are as well known, as his uncommon Modesty, to all who have the
+Happiness of his Acquaintance. This Gentleman was so generous, at the Expence both of his Pocket
+and Time, to run thro’ all Shakespeare with me. We join’d Business and Entertainment together;
+and at every of our Meetings, which were constantly once a Week, we read over a Play, and came
+mutually prepar’d to communicate our Conjectures upon it to each other. The Pleasure of these
+Appointments, I think, I may say, richly compensated for the Labour in our own Thoughts: and
+I may venture to affirm, in the Behalf of my Assistant, that our Author has deriv’d no little
+Improvement from them. How great a share soever of Praise I must lose from my self, in confessing
+these Assistances; and however my own poor Conjectures may be weaken’d by the Comparison with
+theirs; I am very well content to sacrifice my Vanity to the Pride of being so assisted, and
+the Pleasure of being just to their Merits. I beg leave to observe to my Readers, in one Word,
+here, that from the Confession of these successive Aids, and the Manner in which I deriv’d
+them, it appears, I have pretty well fill’d up the Interval, betwixt my first Proposals and
+my Publication, with having my Author always in View, and at Heart.
+
+Some Hints I have the Honour to owe to the Informations of Dr. Mead, and the late Dr. Friend:
+Others to the Kindness of the ingenious Martin Folkes, Esq; who likewise furnish’d me with
+the first folio Edition of Shakespeare, at a Time when I could not meet with it among the Booksellers;
+as my obliging Friend Thomas Coxeter, Esq; did with several of the old 4to single Plays, which
+I then had not in my own Collection. Some few Observations I likewise owe to F. Plumptree,
+Esq; Others to the Favour of anonymous Persons: for all which I most gladly render my Acknowledgments.
+
+    [Sidenote: The Editor’s particular Pains taken.]
+
+As to what regards my self singly, if the Edition do not speak for the Pains I have taken about
+it, it will be very vain to plead my own Labour and Diligence. Besides a faithful Collation
+of all the printed Copies, which I have exhibited in my Catalogue of Editions at the End of
+this Work; let it suffice to say, that, to clear up several Errors in the Historical Plays,
+I purposely read over Hall and Holingshead’s Chronicles in the Reigns concern’d; all the Novels
+in Italian, from which our Author had borrow’d any of his Plots; such Parts of Plutarch, from
+which he had deriv’d any Parts of his Greek or Roman Story: Chaucer and Spenser’s Works; all
+the Plays of B. Jonson, Beaumont and Fletcher, and above 800 old English Plays, to ascertain
+the obsolete and uncommon Phrases in him: Not to mention some Labour and Pains unpleasantly
+spent in the dry Task of consulting Etymological Glossaries.
+
+But as no Labour of Mine can be equivalent to the dear and ardent Love I bear for Shakespeare,
+so, if the Publick shall be pleas’d to allow that He owes any Thing to my Willingness and Endeavours
+of restoring Him; I shall reckon the Part of my Life so engag’d, to have been very happily
+employ’d: and put Myself, with great Submission, to be try’d by my Country in the Affair.
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+  The Editors of THE AUGUSTAN REPRINT SOCIETY
+
+          are pleased to announce that
+
+   THE WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+  of The University of California, Los Angeles
+
+will become the publisher of the Augustan Reprints in May, 1949. The editorial policy of the
+Society will continue unchanged. As in the past, the editors will strive to furnish members
+inexpensive reprints of rare seventeenth and eighteenth century works.
+
+Publications for the fourth year (1949-1950)
+
+(At least six items will be printed in the main from the following list)
+
+SERIES IV: MEN, MANNERS, AND CRITICS
+
+John Dryden, His Majesties Declaration Defended (1681) [#15074] Daniel Defoe (?), Vindication
+of the Press (1718) [#14084] Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela (1754)
+
+SERIES V: DRAMA
+
+Thomas Southerne, Oroonoko (1696) Mrs. Centlivre, The Busie Body (1709) Charles Johnson, Caelia
+(1733) Charles Macklin, Man of the World (1781) [#14463]
+
+SERIES VI: POETRY AND LANGUAGE
+
+Andre Dacier, Essay on Lyric Poetry
+Poems by Thomas Sprat
+Poems by the Earl of Dorset
+Samuel Johnson, Vanity of Human Wishes (1749), and one of the 1750
+  Rambler papers. [#13350]
+
+EXTRA SERIES:
+
+Lewis Theobald, Preface to Shakespeare’s Works (1733)
+
+A few copies of the early publications of the Society are still
+available at the original rate. Richard Blackmore's Essay upon Wit (1716), and Addison’s
+    Freeholder No. 45 (1716). (I, 1) [#13484]
+
+ 2. Samuel Cobb’s Of Poetry and Discourse on Criticism (1707).
+    (II, 1) [#14528]
+
+ 3. Letter to A.H. Esq.; concerning the Stage (1698), and Richard
+    Willis’ Occasional Paper No. IX (1698). (III, 1)
+
+ 4. Essay on Wit (1748), together with Characters by Flecknoe, and
+    Joseph Warton’s Adventurer Nos. 127 and 133. (I, 2) [#14973]
+
+ 5. Samuel Wesley’s Epistle to a Friend Concerning Poetry (1700) and
+    Essay on Heroic Poetry (1693). (II, 2)
+
+ 6. Representation of the Impiety and Immorality of the Stage (1704)
+    and Some Thoughts Concerning the Stage (1704). (III, 2) [#15656]
+
+Second Year (1947-1948)
+
+ 7. John Gay’s The Present State of Wit (1711); and a section on Wit
+    from The English Theophrastus (1702). (I, 3) [#14800]
+
+ 8. Rapin’s De Carmine Pastorali, translated by Creech (1684). (II, 3)
+    [#14495]
+
+ 9. T. Hanmer’s (?) Some Remarks on the Tragedy of Hamlet (1736).
+    (III, 3) [#14899]
+
+10. Corbyn Morris’ Essay towards Fixing the True Standards of Wit,
+    etc. (1744). (I, 4) [#16233]
+
+11. Thomas Purney’s Discourse on the Pastoral (1717). (II, 4) [#15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+    Krutch. (III, 4) [#16335]
+
+Third Year (1948-1949)
+
+13. Sir John Falstaff (pseud.), The Theatre (1720). (IV, 1) [#15999]
+
+14. Edward Moore’s The Gamester (1753). (V, 1) [#16267]
+
+15. John Oldmixon’s Reflections on Dr. Swift’s Letter to Harley
+    (1712); and Arthur Mainwaring’s The British Academy (1712). (VI, 1)
+
+16. Nevil Payne’s Fatal Jealousy (1673). (V, 2)
+
+17. (Extra Series, 1) [#16275]
+
+18. Aaron Hill’s Preface to The Creation; and Thomas Brereton’s
+    Preface to Esther. (IV, 2) [#15870]
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+

@@ -1,0 +1,235 @@
+﻿     PART IV--ENGINE DEVELOPMENT
+         I.  THE VERTICAL TYPE
+        II.  THE VEE TYPE
+       III.  THE RADIAL TYPE
+        IV.  THE ROTARY TYPE
+         V.  THE HORIZONTALLY-OPPOSED ENGINE
+        VI.  THE TWO-STROKE CYCLE ENGINE
+       VII.  ENGINES OF THE WAR  PERIOD
+
+     APPENDICES
+
+PART I. THE EVOLUTION OF THE AEROPLANE
+
+I. THE PERIOD OF LEGEND
+
+The blending of fact and fancy which men call legend reached its fullest and richest expression
+in the golden age of Greece, and thus it is to Greek mythology that one must turn for the best
+form of any legend which foreshadows history. Yet the prevalence of legends regarding flight,
+existing in the records of practically every race, shows that this form of transit was a dream
+of many peoples--man always wanted to fly, and imagined means of flight.
+
+In this age of steel, a very great part of the inventive genius of man has gone into devices
+intended to facilitate transport, both of men and goods, and the growth of civilisation is
+in reality the facilitation of transit, improvement of the means of communication. He was a
+genius who first hoisted a sail on a boat and saved the labour of rowing; equally, he who first
+harnessed ox or dog or horse to a wheeled vehicle was a genius--and these looked up, as men
+have looked up from the earliest days of all, seeing that the birds had solved the problem
+of transit far more completely than themselves. So it must have appeared, and there is no age
+in history in which some dreamers have not dreamed of the conquest of the air; if the caveman
+had left records, these would without doubt have showed that he, too, dreamed this dream. His
+main aim, probably, was self-preservation; when the dinosaur looked round the corner, the prehistoric
+bird got out of the way in his usual manner, and prehistoric man, such of him as succeeded
+in getting out of the way after his fashion--naturally envied the bird, and concluded that
+as lord of creation in a doubtful sort of way he ought to have equal facilities. He may have
+tried, like Simon the Magician, and other early experimenters, to improvise those facilities;
+assuming that he did, there is the groundwork of much of the older legend with regard to men
+who flew, since, when history began, legends would be fashioned out of attempts and even the
+desire to fly, these being compounded of some small ingredient of truth and much exaggeration
+and addition.
+
+In a study of the first beginnings of the art, it is worth while to mention even the earliest
+of the legends and traditions, for they show the trend of men's minds and the constancy of
+this dream that has become reality in the twentieth century. In one of the oldest records of
+the world, the Indian classic Mahabarata, it is stated that 'Krishna's enemies sought the aid
+of the demons, who built an aerial chariot with sides of iron and clad with wings. The chariot
+was driven through the sky till it stood over Dwarakha, where Krishna's followers dwelt, and
+from there it hurled down upon the city missiles that destroyed everything on which they fell.'
+Here is pure fable, not legend, but still a curious forecast of twentieth century bombs from
+a rigid dirigible. It is to be noted in this case, as in many, that the power to fly was an
+attribute of evil, not of good--it was the demons who built the chariot, even as at Friedrichshavn.
+Mediaeval legend in nearly every case, attributes flight to the aid of evil powers, and incites
+well-disposed people to stick to the solid earth--though, curiously enough, the pioneers of
+medieval times were very largely of priestly type, as witness the monk of Malmesbury.
+
+The legends of the dawn of history, however, distribute the power of flight with less of prejudice.
+Egyptian sculpture gives the figure of winged men; the British Museum has made the winged Assyrian
+bulls familiar to many, and both the cuneiform records of Assyria and the hieroglyphs of Egypt
+record flights that in reality were never made. The desire fathered the story then, and until
+Clement Ader either hopped with his Avion, as is persisted by his critics, or flew, as is claimed
+by his friends.
+
+While the origin of many legends is questionable, that of others is easy enough to trace, though
+not to prove. Among the credulous the significance of the name of a people of Asia Minor, the
+Capnobates, 'those who travel by smoke,' gave rise to the assertion that Montgolfier was not
+first in the field--or rather in the air--since surely this people must have been responsible
+for the first hot-air balloons. Far less questionable is the legend of Icarus, for here it
+is possible to trace a foundation of fact in the story. Such a tribe as Daedalus governed could
+have had hardly any knowledge of the rudiments of science, and even their ruler, seeing how
+easy it is for birds to sustain themselves in the air, might be excused for believing that
+he, if he fashioned wings for himself, could use them. In that belief, let it be assumed, Daedalus
+made his wings; the boy, Icarus, learning that his father had determined on an attempt at flight
+secured the wings and fastened them to his own shoulders. A cliff seemed the likeliest place
+for a 'take-off,' and Icarus leaped from the cliff edge only to find that the possession of
+wings was not enough to assure flight to a human being. The sea that to this day bears his
+name witnesses that he made the attempt and perished by it.
+
+In this is assumed the bald story, from which might grow the legend of a wise king who ruled
+a peaceful people--'judged, sitting in the sun,' as Browning has it, and fashioned for himself
+wings with which he flew over the sea and where he would, until the prince, Icarus, desired
+to emulate him. Icarus, fastening the wings to his shoulders with wax, was so imprudent as
+to fly too near the sun, when the wax melted and he fell, to lie mourned of water-nymphs on
+the shores of waters thenceforth Icarian. Between what we have assumed to be the base of fact,
+and the legend which has been invested with such poetic grace in Greek story, there is no more
+than a century or so of re-telling might give to any event among a people so simple and yet
+so given to imagery.
+
+We may set aside as pure fable the stories of the winged horse of Perseus, and the flights
+of Hermes as messenger of the gods. With them may be placed the story of Empedocles, who failed
+to take Etna seriously enough, and found himself caught by an eruption while within the crater,
+so that, flying to safety in some hurry, he left behind but one sandal to attest that he had
+sought refuge in space--in all probability, if he escaped at all, he flew, but not in the sense
+that the aeronaut understands it. But, bearing in mind the many men who tried to fly in historic
+times, the legend of Icarus and Daedalus, in spite of the impossible form in which it is presented,
+may rank with the story of the Saracen of Constantinople, or with that of Simon the Magician.
+A simple folk would naturally idealise the man and magnify his exploit, as they magnified the
+deeds of some strong man to make the legends of Hercules, and there, full-grown from a mere
+legend, is the first record of a pioneer of flying. Such a theory is not nearly so fantastic
+as that which makes the Capnobates, on the strength of their name, the inventors of hot-air
+balloons. However it may be, both in story and in picture, Icarus and his less conspicuous
+father have inspired the Caucasian mind, and the world is the richer for them.
+
+Of the unsupported myths--unsupported, that is, by even a shadow of probability--there is no
+end. Although Latin legend approaches nearer to fact than the Greek in some cases, in others
+it shows a disregard for possibilities which renders it of far less account. Thus Diodorus
+of Sicily relates that one Abaris travelled round the world on an arrow of gold, and Cassiodorus
+and Glycas and their like told of mechanical birds that flew and sang and even laid eggs. More
+credible is the story of Aulus Gellius, who in his Attic Nights tells how Archytas, four centuries
+prior to the opening of the Christian era, made a wooden pigeon that actually flew by means
+of a mechanism of balancing weights and the breath of a mysterious spirit hidden within it.
+There may yet arise one credulous enough to state that the mysterious spirit was precursor
+of the internal combustion engine, but, however that may be, the pigeon of Archytas almost
+certainly existed, and perhaps it actually glided or flew for short distances--or else Aulus
+Gellius was an utter liar, like Cassiodorus and his fellows. In far later times a certain John
+Muller, better known as Regiomontanus, is stated to have made an artificial eagle which accompanied
+Charles V. on his entry to and exit from Nuremberg, flying above the royal procession. But,
+since Muller died in 1436 and Charles was born in 1500, Muller may be ruled out from among
+the pioneers of mechanical flight, and it may be concluded that the historian of this event
+got slightly mixed in his dates.
+
+Thus far, we have but indicated how one may draw from the richest stores from which the Aryan
+mind draws inspiration, the Greek and Latin mythologies and poetic adaptations of history.
+The existing legends of flight, however, are not thus to be localised, for with two possible
+exceptions they belong to all the world and to every civilisation, however primitive. The two
+exceptions are the Aztec and the Chinese; regarding the first of these, the Spanish conquistadores
+destroyed such civilisation as existed in Tenochtitlan so thoroughly that, if legend of flight
+was among the Aztec records, it went with the rest; as to the Chinese, it is more than passing
+strange that they, who claim to have known and done everything while the first of history was
+shaping, even to antedating the discovery of gunpowder that was not made by Roger Bacon, have
+not yet set up a claim to successful handling of a monoplane some four thousand years ago,
+or at least to the patrol of the Gulf of Korea and the Mongolian frontier by a forerunner of
+the 'blimp.'
+
+The Inca civilisation of Peru yields up a myth akin to that of Icarus, which tells how the
+chieftain Ayar Utso grew wings and visited the sun--it was from the sun, too, that the founders
+of the Peruvian Inca dynasty, Manco Capac and his wife Mama Huella Capac, flew to earth near
+Lake Titicaca, to make the only successful experiment in pure tyranny that the world has ever
+witnessed. Teutonic legend gives forth Wieland the Smith, who made himself a dress with wings
+and, clad in it, rose and descended against the wind and in spite of it. Indian mythology,
+in addition to the story of the demons and their rigid dirigible, already quoted, gives the
+story of Hanouam, who fitted himself with wings by means of which he sailed in the air and,
+according to his desire, landed in the sacred Lauka. Bladud, the ninth king of Britain, is
+said to have crowned his feats of wizardry by making himself wings and attempting to fly--but
+the effort cost him a broken neck. Bladud may have been as mythic as Uther, and again he may
+have been a very early pioneer. The Finnish epic, 'Kalevala,' tells how Ilmarinen the Smith
+'forged an eagle of fire,' with 'boat's walls between the wings,' after which he 'sat down
+on the bird's back and bones,' and flew.
+
+Pure myths, these, telling how the desire to fly was characteristic of every age and every
+people, and how, from time to time, there arose an experimenter bolder than his fellows, who
+made some attempt to translate desire into achievement. And the spirit that animated these
+pioneers, in a time when things new were accounted things accursed, for the most part, has
+found expression in this present century in the utter daring and disregard of both danger and
+pain that stamps the flying man, a type of humanity differing in spirit from his earthbound
+fellows as fully as the soldier differs from the priest.
+
+Throughout mediaeval times, records attest that here and there some man believed in and attempted
+flight, and at the same time it is clear that such were regarded as in league with the powers
+of evil. There is the half-legend, half-history of Simon the Magician, who, in the third year
+of the reign of Nero announced that he would raise himself in the air, in order to assert his
+superiority over St Paul. The legend states that by the aid of certain demons whom he had prevailed
+on to assist him, he actually lifted himself in the air--but St Paul prayed him down again.
+He slipped through the claws of the demons and fell headlong on the Forum at Rome, breaking
+his neck. The 'demons' may have been some primitive form of hot-air balloon, or a glider with
+which the magician attempted to rise into the wind; more probably, however, Simon threatened
+to ascend and made the attempt with apparatus as unsuitable as Bladud's wings, paying the inevitable
+penalty. Another version of the story gives St Peter instead of St Paul as the one whose prayers
+foiled Simon--apart from the identity of the apostle, the two accounts are similar, and both
+define the attitude of the age toward investigation and experiment in things untried.
+
+Another and later circumstantial story, with similar evidence of some fact behind it, is that
+of the Saracen of Constantinople, who, in the reign of the Emperor Comnenus--some little time
+before Norman William made Saxon Harold swear away his crown on the bones of the saints at
+Rouen--attempted to fly round the hippodrome at Constantinople, having Comnenus among the great
+throng who gathered to witness the feat. The Saracen chose for his starting-point a tower in
+the midst of the hippodrome, and on the top of the tower he stood, clad in a long white robe
+which was stiffened with rods so as to spread and catch the breeze, waiting for a favourable
+wind to strike on him. The wind was so long in coming that the spectators grew impatient. 'Fly,
+O Saracen!' they called to him. 'Do not keep us waiting so long while you try the wind!' Comnenus,
+who had present with him the Sultan of the Turks, gave it as his opinion that the experiment
+was both dangerous and vain, and, possibly in an attempt to controvert such statement, the
+Saracen leaned into the wind and 'rose like a bird 'at the outset. But the record of Cousin,
+who tells the story in his Histoire de Constantinople, states that 'the weight of his body
+having more power to drag him down than his artificial wings had to sustain him, he broke his
+bones, and his evil plight was such that he did not long survive.'
+
+Obviously, the Saracen was anticipating Lilienthal and his gliders by some centuries; like
+Simon, a genuine experimenter--both legends bear the impress of fact supporting them. Contemporary
+with him, and belonging to the history rather than the legends of flight, was Oliver, the monk
+of Malmesbury, who in the year 1065 made himself wings after the pattern of those supposed
+to have been used by Daedalus, attaching them to his hands and feet and attempting to fly with
+them. Twysden, in his Historiae Anglicanae Scriptores X, sets forth the story of Oliver, who
+chose a high tower as his starting-point, and launched himself in the air. As a matter of course,
+he fell, permanently injuring himself, and died some time later.
+
+After these, a gap of centuries, filled in by impossible stories of magical flight by witches,
+wizards, and the like--imagination was fertile in the dark ages, but the ban of the church
+was on all attempt at scientific development, especially in such a matter as the conquest of
+the air. Yet there were observers of nature who argued that since birds could raise themselves
+by flapping their wings, man had only to make suitable wings, flap them, and he too would fly.
+
+Some four centuries later there was published a book entitled Perugia Augusta, written by one
+C. Crispolti of Perugia--the date of the work in question is 1648. In it is recorded that 'one
+day, towards the close of the fifteenth century, whilst many of the principal gentry had come
+to Perugia to honour the wedding of Giovanni Paolo Baglioni, and some lancers were riding down
+the street by his palace, Giovanni Baptisti Danti unexpectedly and by means of a contrivance
+of wings that he had constructed proportionate to the size of his body took off from the top
+of a tower near by, and with a horrible hissing sound flew successfully across the great Piazza,
+which was densely crowded. But (oh, horror of an unexpected accident!) he had scarcely flown
+three hundred paces on his way to a certain point when the mainstay of the left wing gave way,
+and, being unable to support himself with the right alone, he fell on a roof and was injured
+in consequence. Those who saw not only this flight, but also the wonderful construction of
+the framework of the wings, said--and tradition bears them out--that he several times flew
+over the waters of Lake Thrasimene to learn how he might gradually come to earth. But, notwithstanding
+his great genius, he never succeeded.'
+
+This reads circumstantially enough, but it may be borne in mind that the date of writing is
+more than half a century later than the time of the alleged achievement--the story had had
+time to round itself out. Danti, however, is mentioned by a number of writers, one of whom
+states that the failure of his experiment was due to the prayers of some individual of a conservative
+turn of mind, who prayed so vigorously that Danti fell appropriately enough on a church and
+injured himself to such an extent as to put an end to his flying career. That Danti experimented,
+there is little doubt, in view of the volume of evidence on the point, but the darkness of
+the Middle Ages hides the real truth as to the results of his experiments. If he had actually
+flown over Thrasimene, as alleged, then in all probability both Napoleon and Wellington would
+have had air scouts at Waterloo.
+
+Danti's story may be taken as fact or left as fable, and with it the period of legend or vague
+statement may be said to end--the rest is history, both of genuine experimenters and of charlatans.
+Such instances of legend as are given here are not a tithe of the whole, but there is sufficient
+in the actual history of flight to bar out more than this brief mention of the legends, which,
+on the whole, go farther to prove man's desire to fly than his study and endeavour to solve
+the problems of the air.
+
+II. EARLY EXPERIMENTS
+

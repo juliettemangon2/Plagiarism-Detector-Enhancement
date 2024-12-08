@@ -1,0 +1,354 @@
+﻿Separately Excited Dynamo. A dynamo-electric machine whose field magnet is excited from an
+outside source, which may be another dynamo or a battery. Alternating current dynamos are often
+of this description.
+
+Separate Touch. In magnetism a method of inducing magnetism in a steel bar. The opposite poles
+of two magnets are applied at the center of the bar to be magnetized, but without touching
+each other, and are drawn apart to its ends. They are returned through the air and the process
+is repeated a number of times and on both sides of the bar if necessary.
+
+Separation of Electricities. Under the double fluid theory of electricity the action of electrification
+in accumulating positive electricity in one conductor and negative on the other of the excited
+surfaces of two conductors.
+
+Separator. India rubber bands or other forms used in batteries to keep the plates from touching
+in the cell; especially applied to secondary batteries, where the plates are so near together
+as to require separators to prevent short circuiting.
+
+Fig. 301. SERIES CONNECTION.
+
+Series. (a) Arranged in succession as opposed to parallel. Thus if a set of battery jars are
+arranged with the zinc of one connected to the carbon of the next one for the entire number,
+it is said to be arranged in series. When incandescent lamps are arranged in succession so
+that the current goes through one after the other they are arranged in series.
+
+The opposite of parallel, q. v., or multiple arc, q. v.; it may be used as a noun or as an
+adjective.
+
+(b) See Electro-Chemical Series;
+
+(c) Thermo-Electric Series
+
+(d) Electrostatic Series;
+
+(e) Electro-motive Series.
+
+Synonym--Cascade Connection (but little used.)
+
+480   STANDARD ELECTRICAL DICTIONARY.
+
+Series-multiple. Arrangement of electric apparatus, in which the parts are grouped in sets
+in parallel and these sets are connected in series. It is used as a noun, as "arranged in series-multiple,"
+or as an adjective, as "a series-multiple circuit or system."
+
+Fig. 302. SERIES-MULTIPLE CONNECTION.
+
+Service Conductors. In electric distribution the equivalents of service pipes in the distribution
+of gas; wires leading from the street mains to the houses, where current is to be supplied.
+
+Serving. The wrapping or winding of a cable composed of small size wire, laid closely and smoothly
+with a tool called a serving mallet, or serving block, or by machinery. It serves to protect
+the cable from wear.
+
+Shackle. In telegraph lines a swinging insulator bracket for use where wires make an angle
+with the pole. A journal box is attached to the pole, like half of a gate hinge. To this a
+short iron arm is pivoted so as to be free to swing through a considerable angle. At its end
+an insulator is carried to which the wire is attached. The shackle swings into line with the
+wire, or takes a position for two wires corresponding to the resultant of their directions of pull.
+
+Fig. 303. DOUBLE SHACKLE
+
+Shadow. Electric. A term applied to a phenomenon of high vacua. If an electric discharge is
+maintained in a Crookes' tube the glass opposite the negative electrode tends to phosphoresce.
+A plate of aluminum, used also as the positive electrode, protects the glass directly behind
+it so as to produce the effect of a shadow.
+
+Synonym--Molecular Shadow.
+
+481   STANDARD ELECTRICAL DICTIONARY.
+
+Sheath for Magnet Coils. In 1867 C. E. Varley proposed the use of a copper sheath surrounding
+a magnet core to diminish self-induction. It has since been used by Brush and others. Sometimes
+metallic foil is laid between the successive coils of wire.
+
+Synonym--Mutual Induction Protector.
+
+Sheath for Transformers. A protective sheath of copper, interposed between the primary and
+secondary circuits of an alternating current transformer. It is connected to the earth. If
+the primary coil loses its insulation before it can leak to the secondary it is grounded. This
+protects the secondary circuit from the high electro-motive force of the primary circuit.
+
+Shellac. A resin; produced as an exudation upon the branches of certain Asiatic trees, such
+as the banyan (Ficus religiosa). It is due to punctures in the bark of the trees in question,
+which punctures are made by the female of the insect coccus ficus or c. lacca.
+
+Commercial shellac contains about 90 per cent. of resinous material, the rest is made up of
+wax, gluten, coloring matter and other substances.
+
+Shellac is soluble in alcohol, and in aqueous solutions of ammonium chloride, of borax and
+in strong ammonia solution. Long standing is required in the case of the last named solvent.
+Dilute hydrochloric and acetic acids dissolve it readily; nitric acid slowly; strong sulphuric
+acid is without action on it. Alkalies dissolve it.
+
+In electric work it is used as an insulator and dielectric. Its alcoholic solution is used
+to varnish glass plates of influence machines, for the coils of induction coils and similar
+purposes.
+
+Resistance in ohms per centimeter cube at 28° C. (82.4 F.)--(Ayrton), 9.0E15
+
+Specific Inductive Capacity (Wüllner),   2.95 to 3.73
+
+The same substance in less pure forms occurs in commerce, as stick lac, lump lac, seed lac,
+button lac.
+
+Shellac Varnish. Solution of shellac in alcohol; methylic alcohol (wood alcohol or wood naphtha)
+is often used as solvent.
+
+Dr. Muirhead recommends button lac, dissolved in absolute alcohol, and the top layers decanted.
+For highest insulation he dissolves the lac in ordinary alcohol, precipitates by dropping into
+water, collects the precipitate, dries and dissolves in absolute alcohol.
+
+Shielded. adj. An electric measuring instrument of the galvanometer type is shielded when it
+is so constructed that its indications are not seriously affected by the presence of neighboring
+magnets or by fields of force. Shielding can be effected by using a very strong permanent magnet
+to produce a field within which the magnetic needle moves and which reacts upon it, or by enclosing
+the instrument in a thick iron box.
+
+482   STANDARD ELECTRICAL DICTIONARY.
+
+S. H. M. Symbol or abbreviation for "simple harmonic motion."
+
+Shock, Break. A term in electro-therapeutics; the shock received when an electric circuit,
+including the patient in series, is broken or opened.
+
+Synonym--Opening Shock.
+
+Shock, Electric. The effect upon the animal system of the discharge through it of electricity
+with high potential difference. Pain, nervous shock, violent muscular contortions accompany
+it. Of currents, an alternating current is reputed worse than a direct current; intermediate
+is the pulsatory current.
+
+The voltage is the main element of shock, amperage has also some direct influence.
+
+Shock, Static. A term in electro-therapeutics. The application of static discharges from small
+condensers or Leyden jars to a patient who is insulated from the ground with one electrode
+applied to the conducting surface on which he rests, while the other, a spherical electrode,
+is brought near the body so as to produce a disruptive or spark discharge.
+
+Short Circuit. A connection between two parts of a circuit, which connection is of low resistance
+compared to the intercepted portion. The term is used also as a verb, as "to short circuit a lamp."
+
+Fig. 304. DIAGRAM ILLUSTRATING SHORT CIRCUIT WORKING.
+
+Short Circuit Working. A method of working intermittently an electro-magnet so as to avoid
+sparking. It consists in providing a short circuit in parallel with the magnetic coils. This
+short circuit is of very low resistance. To throw the magnet into action the short circuit
+is opened; to throw it out of action the short circuit is closed. The shunt or short circuit
+must be of negligibly small resistance and inductance.
+
+483   STANDARD ELECTRICAL DICTIONARY.
+
+Shovel Electrodes. Large plate electrodes used in a medical bipolar bath. (See Bath, Bipolar.)
+
+Shunt. In a current circuit a connection in parallel with a portion of the circuit. Thus in
+a dynamo a special winding for the field may have its ends connected to the bushes, from which
+the regular external circuit also starts. The field is then wound in shunt with the armature.
+In the case of a galvanometer a resistance coil may be put in parallel with it to prevent too
+much current going through the galvanometer; this connection is a shunt.
+
+The word is used as a noun, as "a shunt," or "a connection or apparatus in shunt with another,"
+and as an adjective, as "a shunt connection," or as a verb, as "to shunt a battery."
+
+Shunt Box. A resistance box designed for use as a galvanometer shunt. (See Shunt, Galvanometer.)
+The box contains a series of resistance coils which can be plugged in or out as required.
+
+Shunt, Electro-magnetic. In telegraphy a shunt for the receiving relay consisting of the coils
+of an electro-magnet. It is placed in parallel with the relay. Its poles are permanently connected
+by an armature. Thus it has high self-induction.
+
+On opening and closing the circuit by the sending key, extra currents are produced in the shunt.
+The connections are so arranged that on making the circuit the extra current goes through the
+relay in the same direction as the principal current, while on breaking the circuit the induced
+current goes in the opposite direction.
+
+Thus the extra currents accelerate the production and also the cessation of signalling currents,
+tending to facilitate the operations of sending despatches.
+
+Shunt, Galvanometer. A resistance placed in parallel with a galvanometer, so as to short circuit
+its coils and prevent enough current passing through it to injure it. By knowing the resistance
+of the shunt and of the galvanometer coils, the proportion of current affecting the galvanometer
+is known. This gives the requisite factor for calculation. (See Multiplying Power of Shunt.)
+
+Shunt Ratio. The coefficient expressing the ratio existing between the current in a shunt and
+in the apparatus or conductor in parallel with it. (See Multiplying Power of/ Shunt.)
+
+Shunt Winding. A dynamo or motor is shunt-wound when the field magnet winding is in shunt or
+in parallel with the winding of the armature.
+
+Shuttle Current. A current alternating in direction; an alternating current.
+
+484   STANDARD ELECTRICAL DICTIONARY.
+
+Side-Flash. A bright flashing lateral discharge from a conductor conveying a current due to
+a static discharge.
+
+Sighted Position. In an absolute electrometer (see Electrometer, Absolute) the position of
+the balanced arm carrying the movable disc or plate, when the disc and guard plate are in one
+plane. The cross-hair on the lever-end is then seen midway between two stops, or some other
+equivalent position is reached which is discerned by sighting through a magnifying glass or
+telescope.
+
+Silver.
+A metal; one of the elements; symbol Ag.; atomic weight, 108; valency, 1;
+equivalent, 108; specific gravity, 10.5. It is a conductor of electricity.    9.826    "
+  (c) 1 meter long, weighing 1 gram,      .1527  "     .1662   "
+  (d) 1 meter long, 1 millimeter thick,   .01916 "     .02080  "
+
+Silver Bath. A solution of a salt of silver for deposition in the electroplating process.
+
+The following is a typical formula:
+  Water,              10.0   parts by weight.
+  Potassium Cyanide,   5       "        "
+  Metallic Silver,     2.5     "        "
+
+The silver is first dissolved as nitrate and converted into cyanide and
+added in that form, or for 2.5 parts metallic silver we may read:
+  Silver cyanide,   3   parts by weight.
+
+While many other formulas have been published the above is representative of the majority.
+Other solvents for the silver than potassium cyanide have been suggested, such as sodium hyposulphite,
+but the cyanide solution remains the standard.
+
+Silver Stripping Bath. Various baths are used to remove silver from old electroplated articles.
+Their composition depends upon the base on which the metal is deposited. Silvered iron articles
+are placed as anodes in a solution of 1 part potassium cyanide in 20 parts of water. As kathode
+a silver anode or a copper one lightly oiled may be used. From the latter the silver easily
+rubs off. For copper articles a mixture of fuming sulphuric acid and nitric acid (40º Beaumé)
+may be used. The presence of any water in this mixture will bring about the solution of the
+copper. Or fuming sulphuric acid may be heated to between 300º and 400º F., some pinches of
+dry pulverized potassium nitrate may be thrown in and the articles at once dipped. These methods
+effect the solution of the silver, leaving the copper unattacked.
+
+485   STANDARD ELECTRICAL DICTIONARY.
+
+Simple Substitution. A method of obtaining a resistance equal to that of a standard. The standard
+is put in circuit with a galvanometer and the deflection is noted. For the standard another
+wire is substituted and its length altered until the same deflection is produced. The two resistances
+are then evidently identical. The standard can be again substituted to confirm the result.
+
+Sine Curve. If we imagine a point moved back and forth synchronously with a pendulum, and if
+such point made a mark upon paper, it would trace the same line over and over again. If now
+the paper were drawn steadily along at right angles to the line of motion of the point, then
+the point would trace upon it a line like the profile of a wave. Such line is a sine curve.
+It derives its name from the following construction. Let a straight line be drawn, and laid
+off in fractions, such as degrees, of the perimeter of a circle of given diameter. Then on
+each division of the line let a perpendicular be erected equal in height to the sine of the
+angle of the circle corresponding to that division; then if the extremities of such lines be
+united by a curve such curve will be a sine curve.
+
+In such a curve the abscissas are proportional to the times, while the ordinates are proportional
+to the sines of angles, which angles are themselves proportional to the times. The ordinates
+pass through positive and negative values alternately, while the abscissas are always positive.
+
+Any number of sine curves can be constructed by varying the diameter of the original circle,
+or by giving to the abscissas a value which is a multiple of the true length of the divisions
+of circle. If the pendulum method of construction were used this would be attained by giving
+a greater or less velocity to the paper as drawn under the pendulum.
+
+A species of equation for the curve is given as follows: y = sin( x )
+
+In this x really indicates the arc whose length is x, and reference should be made to the value
+of the radius of the circle from which the curve is described. It will also be noticed that
+the equation only covers the case in which the true divisions of the circle are laid off on
+the line. If a multiple of such divisions are used, say n times, or 1-n times, then the equation
+should read y = n sin( x ) or y = sin( x ) / n
+
+Synonyms--Curve of Sines--Sinusoidal Curve--Harmonic Curve.
+
+486   STANDARD ELECTRICAL DICTIONARY.
+
+Sine Law. The force acting on a body is directly proportional to the sine of the angle of deflection
+when--
+
+I. The controlling force is constant in magnitude and direction; and
+
+II. The deflecting force, although variable in its direction in space, is fixed in direction
+relatively to the deflecting body. The fluid repels itself but attracts matter; an excess creates
+positive, a deficiency, negative electrification; friction, contact action or other generating
+cause altering the distribution creates potential difference or electrification. The assumed
+direction (see Direction) of the current and of lines of force are based on the single fluid
+theory. Like the double fluid theory, q. v., it is merely a convenience and not the expression
+of a truth. (See Fluid, Electric, and Double Fluid Theory.)
+
+Synonym--Franklin's Theory.
+
+Single Fluid Voltaic Cell. A galvanic couple using only a single fluid, such as the Smee or
+Volta cell.
+
+Simple Harmonic Motion. Motion of a point or body back and forth along a line; the motion of
+a pendulum, as regards its successive swings back and forth, is an example of harmonic motion.
+
+Sinistrotorsal. adj. The reverse of dextrotorsal, q. v. A helix with left-handed winding, the
+reverse of an ordinary screw, such as a wood-screw or corkscrew.
+
+Skin Effect. A current of very brief duration does not penetrate the mass of a conductor. Alternating
+currents for this reason are mainly conducted by the outer layers of a conductor. The above
+is sometimes called the skin effect.
+
+Sled. A contact for electric cars of the conduit system. It is identical with the plow, q.v.,
+but is drawn after the cars instead of being pushed along with them.
+
+Slide Meter Bridge. A name for a Slide Bridge one meter long. There are also slide half meter
+and slide quarter meter bridges and others. (See Meter Bridge.)
+
+S. N. Code. Abbreviation for single needle code, the telegraphic alphabet used with the single
+needle system.
+
+Soaking-in-and-out. A term for the phenomena of the residual electrostatic charge; the gradual
+acquirement or loss by a condenser of a portion of its electrostatic charge.
+
+487   STANDARD ELECTRICAL DICTIONARY.
+
+Soldering, Electric. This secures them as if by soldering. It is used in connecting the carbon
+filament of an incandescent lamp with the platinum wires that pass through the glass. Copper
+is the metal usually deposited.
+
+Solenoid. The ideal solenoid is a system of circular currents of uniform direction, equal,
+parallel, of equal diameter of circle, and with their centers lying on the same straight line,
+which line is perpendicular to their planes.
+
+Fig. 305. EXPERIMENTAL SOLENOID.
+
+The simple solenoid as constructed of wire, is a helical coil, of uniform diameter, so as to
+represent a cylinder. After completing the coil one end of the wire is bent back and carried
+through the centre of the coil, bringing thus both ends out at the same end. The object of
+doing this is to cause this straight return member to neutralize the longitudinal component
+of the helical turns. This it does approximately so as to cause the solenoid for its practical
+action to correspond with the ideal solenoid.
+
+Instead of carrying one end of the wire through the centre of the coil as just described, both
+ends may be bent back and brought together at the centre.
+
+A solenoid should always have this neutralization of the longitudinal component of the helices
+provided for; otherwise it is not a true solenoid.
+
+Solenoids are used in experiments to represent magnets and to study and illustrate their laws.
+When a current goes through them they acquire polarity, attract iron, develop lines of force
+and act in general like magnets.
+
+A solenoid is also defined as a coil of insulated wire whose length is not small as compared
+with its diameter.
+
+488   STANDARD ELECTRICAL DICTIONARY.
+
+Sonometer, Hughes'. A sound measurer; a modification of a portion of Hughes' induction balance,
+used for testing the delicacy of the ear or for determining the relative intensity of sounds.
+(See Hughes' Induction Balance.) It is the arrangement of three coils, two mounted one at each
+of the ends of a graduated bar, and the third one between them and free to slide back and forth
+thereon.
+
+Sonorescence. The property of producing sounds under the influence of momentary light radiations
+rapidly succeeding each other. It is the property utilized in the photophone, q. v.
+
+Fig. 306. MORSE SOUNDER.
+

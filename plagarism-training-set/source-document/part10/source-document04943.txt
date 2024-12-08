@@ -1,0 +1,785 @@
+﻿PUNCH,
+
+OR THE LONDON CHARIVARI.
+
+VOL. 100.
+
+January 3, 1891.
+
+  JANUARY xxxi Days.
+
+   1 Th  N. Year's D.
+   2 F   Abydos t.
+   3 S   L. Hunt b.
+   4 S   2 S. af. Chr.
+   5 M   Sambourne]
+   6 T   Epiphany
+   7 W   Bp. Ely d.
+   8 Th  Cam. L.T.b.
+   9 F   S.r. 8 h. 6 m.
+  10 S   S.s. 4 h. 10 m.
+  11 S   1.S. af. Epip.
+  12 M   Hil. Sit. b.
+  13 Tu  B. Cannæ
+  14 W   Oxf. L.T. b.
+  15 Th  Orsini plot
+  16 F   B. Corunna
+  17 S   Franklin b.
+  18 S   2 S. af. Epip.
+  19 M   Watt b.
+  20 Tu  Fabian
+  21 W   Agnes
+  22 Th  Vincent
+  23 F   Pitt d. 1806
+  24 S   Fox b. 1749
+  25 S   Septuag. S.
+  26 M   Brazil disc.
+  27 Tu  J. Gibson d.
+  28 W   Prescott d.
+  29 Th  Capit. Paris
+  30 F   Chas. I. bhd.
+  31 S   B. Jonson b.
+
+  FEBRUARY xxviii Days.
+
+   1 S   Sexages. S.
+   2 M   B. Lincoln
+   3 Tu  Bassevi d.
+   4 W   S.r. 7 h. 36 m.
+   5 Th  Galvani d.
+   6 F   S.s. 4 h. 56 m.
+   7 S   Dickens b.
+   8 S   Quinqu. S.
+   9 M   Darnley m.
+  10 Tu  Q.V. marr.
+  11 W   Ash. Wed.
+  12 Th  Cellini d.
+  13 F   Revol. 1688
+  14 S   Valentine
+  15 S   1 S. in Lent.
+  16 M   Burke exe.
+  17 Tu  Braham d.
+  18 W   Luther d.
+  19 Th  Copernic. b.
+  20 F   J. Hume d.
+  21 S   Trinidad t.
+  22 S   2 S. in Lent
+  23 M   S. Brookes d.
+  24 Tu  Matthias
+  25 W   Wren d.
+  26 Th  T. Moore d.
+  27 F   Benevento
+  28 S   J. Tenniel
+
+  MARCH xxxi Days.
+
+   1 S   3 S. in Lent
+   2 M   Wesley d.
+   3 Tu  B. Merton
+   4 W   Somers b.
+   5 Th  S.r. 6 h. 39 m.
+   6 F   Du Maurier
+   7 S   S.s. 5 h. 48 m.
+   8 S   4 S. in Lent
+   9 M   Cobbett b.
+  10 Tu  Schiller b.
+  11 W   Inc. T. imp.
+  12 Th  Gregory
+  13 F   Talfourd d.
+  14 S   Byng shot
+  15 S   5 S. in Lent
+  16 M   Dr. Kent d.
+  17 Tu  St. Patrick
+  18 W   Suez cnl. op.
+  19 Th  Lucknow t.
+  20 F   B. Alexand.
+  21 S   Benedict
+  22 S   Palm S.
+  23 M   Nat. Gal. f.
+  24 Tu  Q. Eliz. d.
+  25 W   Lady Day
+  26 Th  D. Camb. b.
+  27 F   Good Frid.
+  28 S   Cateau
+  29 S   East. Sun.
+  30 M   Bk. Holiday
+  31 Tu  Haydn b.
+
+  APRIL xxx Days.
+
+   1 W   All Fools
+   2 Th  S.r. 5 h. 35 m.
+   3 F   S.s. 6 h. 34 m.
+   4 S   Ambrose bp.
+   5 S   Low Sun.
+   6 M   O. Lady-Day
+   7 Tu  Pr. Leop. b.
+   8 W   B. Savona
+   9 Th  Fire Ins. ex.
+  10 F   Cam. E.T. b.
+  11 S   Canning d.
+  12 S   2 S. af. Eas.
+  13 M   Handel d.
+  14 Tu  Prs. Beatr. b.
+  15 W   S. Maron.
+  16 Th  Thiers b.
+  17 F   B. Culloden
+  18 S   Graunt d.
+  19 S   3 S. af. Eas.
+  20 M   Spa. fl. des.
+  21 Tu  Bp. Heber b.
+  22 W   Odessa bom.
+  23 Th  St. George
+  24 F   B. Landrec.
+  25 S   Prs. Alice b.
+  26 S   4 S. af. Eas.
+  27 M   Gibbon b.
+  28 Tu  B. Tours
+  29 W   S. Cath. S.
+  30 Th  Fitzroy d.
+
+  MAY xxxi Days.
+
+   1 F   May Day
+   2 S   S.r. 4 h. 32 m.
+   3 S   Rogation S.
+   4 M   Sering. tkn.
+   5 Tu  S.s. 7 h. 27 m.
+   6 W   John Evan.
+   7 Th  Holy Thurs.
+   8 F   Le Sage b.
+   9 S   Hf. qr. Day
+  10 S   S. af. Ascen.
+  11 M   Chatham d.
+  12 Tu  Albt. Mem. c.
+  13 W   O. May Day
+  14 Th  Gratton d.
+  15 F   O'Connell d.
+  16 S   B. Albuera
+  17 S   Whit Sun.
+  18 M   Bk. Holiday
+  19 Tu  Dunstan
+  20 W   Columbus d.
+  21 Th  Cawnpore
+  22 F   Dasent b.
+  23 S   M. Lemon d.
+  24 S   Trin. Sun.
+  25 M   Pr. Hel. b.
+  26 Tu  Augustine
+  27 W   Ven. Bede
+  28 Th  Corp. Christ.
+  29 F   Chas. II. res.
+  30 S   Pope d.
+  31 S   1 Sn. af. Tr.
+
+  JUNE xxx Days.
+
+   1 M   Nicomede
+   2 Tu  Harvey b.
+   3 W   S.r. 3 h. 50 m.
+   4 Th  S.s. 8 h. 7 m.
+   5 F   Weber d.
+   6 S   Calpee tkn.
+   7 S   2 Sn. af. Tr.
+   8 M   D. Jerrold d.
+   9 Tu  Paxton d.
+  10 W   Heilsberg
+  11 Th  Barnabas
+  12 F   B. Wilton
+  13 S   Hastgs. bhd.
+  14 S   3 Sn. af. Tr.
+  15 M   Mag. Charta
+  16 Tu  Wat Tyl. sl.
+  17 W   St. Alban
+  18 Th  Waterloo
+  19 F   B. Wavres
+  20 S   Q. Vic. Ac.
+  21 S   4 Sn. af. Tr.
+  22 M   B. Pered
+  23 Tu  B. Plassy
+  24 W   Midsm. D.
+  25 Th  B. Altivia
+  26 F   Geo. IV. d.
+  27 S   Cairo tkn.
+  28 S   5 Sn. af. Tr.
+  29 M   St. Peter
+  30 Tu  Roscoe d.
+
+  JULY xxxi Days.
+
+   1 W   B. Boyne
+   2 Th  S.r. 3 h. 50 m.
+   3 F   B. Sadowa
+   4 S   S.s. 8 h. 17 m.
+   5 S   6 Sn. af. Tr.
+   6 M   Old Mid. D.
+   7 Tu  J. Huss bt.
+   8 W   A. Smith d.
+   9 Th  Fire Ins. ex.
+  10 F   Bp. Fell d.
+  11 S   B. Ouden
+  12 S   7 Sn. af. Tr.
+  13 M   D. Orleans d.
+  14 Tu  Bastile des.
+  15 W   St. Swithin
+  16 Th  Beranger d.
+  17 F   Punch b. '41
+  18 S   Sherlock d.
+  19 S   8 Sn. af. Tr.
+  20 M   Margaret
+  21 Tu  R. Burns d.
+  22 W   Salamanca
+  23 Th  Lyonet b.
+  24 F   Gibral. tkn.
+  25 S   St. James
+  26 S   9 Sn. af. Tr.
+  27 M   Talavera
+  28 Tu  Robesp. exe.
+  29 W   B. Beylau
+  30 Th  W. Penn d.
+  31 F   E. Pease d.
+
+  AUGUST xxxi Days.
+
+   1 S   Lammas
+   2 S   10 Sn. af. Tr.
+   3 M   Bk. Holiday
+   4 Tu  Oystr. Sea. c.
+   5 W   S.r. 4 h. 31 m.
+   6 Th  Dk. Edn. b.
+   7 F   S.s. 7 h. 37 m.
+   8 S   Otway b.
+   9 S   11 S. af. Tr.
+  10 M   C. Keene b.
+  11 Tu  Trin. Sit. c.
+  12 W   Grouse s.b.
+  13 Th  O. Lammas
+  14 F   Ld. Clyde d.
+  15 S   W. Scott b.
+  16 S   12 S. af. Tr.
+  17 M   Ad. Blake d.
+  18 Tu  B. Spurs
+  19 W   Ozontero
+  20 Th  Saragossa
+  21 F   Blck. Ck. s.b.
+  22 S   B. Bosworth
+  23 S   13 S. af. Tr.
+  24 M   S. Bartholo.
+  25 Tu  J. Watt d.
+  26 W   P. Cons. b.
+  27 Th  Thomson d.
+  28 F   B. Leipsic
+  29 S   Jno. Bp. bh.
+  30 S   14 S. af. Tr.
+  31 M   Bunyan d.
+
+  SEPTEMBER xxx Days.
+
+   1 Tu  Part. sh. e.
+   2 W   Capit. Sedan
+   3 Th  S.r. 5 h. 17 m.
+   4 F   S.s. 6 h. 39 m.
+   5 S   Comte d.
+   6 S   15 S. af. Tr.
+   7 M   Eunurchus
+   8 Tu  Nat. B.V.M.
+   9 W   B. Flodden
+  10 Th  B. Quesnoy
+  11 F   S. of Delhi
+  12 S   O.P. Riots
+  13 S   16 S. af. Tr.
+  14 M   Holy Cross
+  15 Tu  B. Rajghur
+  16 W   Jas. II. d.
+  17 Th  Lambert
+  18 F   Geo. I. land.
+  19 S   B. Poitiers
+  20 S   17 S. af. Tr.
+  21 M   St. Matth.
+  22 Tu  Virgil d.
+  23 W   Autn. Q. b.
+  24 Th  S. Butler d.
+  25 F   Porson d.
+  26 S   St. Cyprian
+  27 S   18 S. af. Tr.
+  28 M   Nicopolis
+  29 Tu  Mich. Day
+  30 W   St. Jerome
+
+  OCTOBER xxxi Days.
+
+   1 Th  Cam. M.T. b.
+   2 F   Arago d.
+   3 S   S.r. 6 h. 6 m.
+   4 S   19 S. af. Tr.
+   5 M   S.s. 5 h. 28 m.
+   6 Tu  Faith
+   7 W   Abp. Laud b.
+   8 Th  B. Actium
+   9 F   St. Denys
+  10 S   Ox. M.T. b.
+  11 S   20 S. af. Tr.
+  12 M   America d.
+  13 Tu  Edw. Conf.
+  14 W   B. Senlac
+  15 Th  Fire Ins. ex.
+  16 F   Soissons t.
+  17 S   Etheldreda
+  18 S   21 S. af. Tr.
+  19 M   Kneller d.
+  20 Tu  B. Navarino
+  21 W   Trafalgar
+  22 Th  B. Edge Hill
+  23 F   Irish Reb.
+  24 S   P. Leigh d.
+  25 S   22 S. af. Tr.
+  26 M   Danton b.
+  27 Tu  Cap. Cook b.
+  28 W   J. Locke d.
+  29 Th  J. Leech d.
+  30 F   Tower brnt.
+  31 S   All Hallows
+
+  NOVEMBER xxx Days.
+
+   1 S   23 S. af. Tr.
+   2 M   All Souls
+   3 Tu  Fall of Acre
+   4 W   Will. III. b.
+   5 Th  S.r. 7 h. 3 m.
+   6 F   S.s. 4 h. 23 m.
+   7 S   B. Mooltan
+   8 S   24 S. af. Tr.
+   9 M   P. of Wls. b.
+  10 Tu  M. Luther b.
+  11 W   St. Martin
+  12 Th  Hf. qr. Day
+  13 F   Britius
+  14 S   Leibnitz d.
+  15 S   25 S. af. Tr.
+  16 M   J. Bright b.
+  17 Tu  Hugh Bp. L.
+  18 W   Wilkie b.
+  19 Th  B. Arcola
+  20 F   Ld. Elgin d.
+  21 S   J. Hogg d.
+  22 S   26 S. af. Tr.
+  23 M   St. Clemen.
+  24 Tu  J. Knox d.
+  25 W   Chantrey d.
+  26 Th  G. Grisi d.
+  27 F   De. Teck b.
+  28 S   Bunsen d.
+  29 S   1 S. in Adv.
+  30 M   Burnand b.]
+
+  DECEMBER xxxi Days.
+
+   1 Tu  Prs. Wls. b.
+   2 W   B. Austerl.
+   3 Th  Bradbury b.
+   4 F   Richelieu d.
+   5 S   S.r. 7 h. 51 m.
+   6 S   2 S. in Adv.
+   7 M   S.s. 3 h. 50 m.
+   8 Tu  Baxter d.
+   9 W   Vandyke d.
+  10 Th  Milton b.
+  11 F   Jno. Gay d.
+  12 S   Cibber d.
+  13 S   3 S. in Adv.
+  14 M   P. Cons. d.
+  15 Tu  I. Walton d.
+  16 W   V. Weber b.
+  17 Th  Oxf. M.T. e.
+  18 F   D. 7 h. 46 m.
+  19 S   Cam. M.T. e.
+  20 S   4 S. in Adv.
+  21 M   St. Thomas
+  22 Tu  Win. Q. b.
+  23 W   Jas. II. abd.
+  24 Th  Christ. Eve
+  25 F   Christ. Day
+  26 S   Bk. Holiday
+  27 S   Sun. af. Chr.
+  28 M   Innocents
+  29 Tu  Stafford ex.
+  30 W   Pegu anxd.
+  31 Th  Silvester
+
+       *       *       *       *       *
+
+TO-DAY'S AMUSEMENTS.
+
+(AS THEY WILL PROBABLY BE ADVERTISED IN THE PRESS OF THE DAY AFTER TO-MORROW.)
+
+EXECUTION OF THE LITTLE PEDLINGTON MURDERER.--Reserved gallows seats, immediately behind the
+drop, commanding a clear view of the dying struggles, with chance of hearing the criminal's
+last confession; Lady's ticket Two Guineas. Lady and Gentleman's, ditto, three guineas. (8.30 A.M.)
+
+TRIAL AT THE OLD BAILEY OF LA BELLE ISABELLE, the husband-poisoner. Last day of trial, summing-up
+of the Judge, intense excitement. A few special tickets at Ten Guineas still obtainable (including
+"snack" luncheon and use of opera-glasses), and commanding front view of the Judge when summing-up,
+and close sight of the prisoner's facial play during the passing of sentence, &c, (11. A.M.
+Ladies advised to be in their places not later than 10.30.)
+
+GREAT INTERNATIONAL CRIMES EXHIBITION AT BOEOTIA.--Additional Attractions. Portrait groups
+in wax, life-size, of all great criminals from CAIN to CHARLES PEACE; Lecture on Capital Punishments
+in all Ages, with illustrations and demonstrations (3 P.M. and 7 P.M.) Old Newgate. Mediæval
+Torture Chamber in full work. Grand Execution Tableaux, in the grounds; realistic renderings
+of punishments inflicted on RAVAILLAC, DAMIENS, &c., &c. (3 o'clock and 6.30.) Auto-da-Fé at
+2.30 and 7. Admission One Shilling. Children under eight half-price. Ladies' Reserved Seats
+(inclusive of all Shows) One Guinea. Open 10 till 10. (Thirty thousand persons, chiefly Ladies,
+passed the turnstiles last Wednesday.)
+
+PUBLIC VIVISECTION DEMONSTRATION AT THE SENSATIONAL SURGICAL SOCIETY'S ROOMS.--Exhibition of
+the droll effects of Curari upon subjects under the knife, and the actual cautery. No annoying
+noise, or disconcerting struggles! Bulgarian Band will play Popular Pieces. (3 P.M.)
+
+BULL FIGHT AT THE ARCADIAN HALL.--Full Spanish Programme this day. Absolutely no restrictions!
+Serious accidents daily! Two Toreadors killed last week, and seven seriously injured. No deception!
+Extra fierce bulls to-day, and consequent prospect of HIGHLY SENSATIONAL SCENES IN THE ARENA!!!
+Admission, 1s. to £5 5s. Specially Reserved Front Seats for Ladies, £7 7s. (3 P.M., and 8.30.)
+
+IMPERIAL PHONOGRAPHIC SOCIETY, HALL OF HORRORS.--Phonographic Reproductions of Last Dying Speeches
+and Confessions of Criminals. Sobs and Hysterical Attacks of Persons under trial (Women especially).
+Reports of Cases tried in Camerâ. Private Conversations of parties to Causes Célèbres, &c.,
+&c., &c. Highly realistic revelations, and Sensational Vocal Scenes. Admission, Half a Guinea.
+(8 P.M.)
+
+PORNOGRAPHIC ART GALLERIES.--NOW open daily. Admission by private card only. Illustrated Catalogue
+(purchase of which is compulsory). Two Guineas. Special coloured copies including reproduction
+of pictures in Special Art Sanctum, £10 10s. (10 till 4 only.)
+
+GHOUL THEATRE.--The Society Beauty and the Blood Bath, or, The Demon of Dahomey! Strongly Sensational
+Melodrama, in Five Acts, and a Special Death Dance Tableau!!! The Toilet! The Torture!! The
+Tub!!! Beauty unadorned and Bloodshed Undisguised! Mirth-moving Murders and Side-splitting
+Suicides! Fun and Funerals! Roars of Laughter and Tremendous Thrills of Pleasing Horror Nightly!
+Open at 7.30. Commence at 8.
+
+  Moving in Society at 9!      Great Toilet Scene at 9.30!
+  The Blood-Bath at 10.45!    Death Dance Tableau at 11.5!
+                                  Carriages at 11.10!
+
+Enormous Success! Two-hundred-and-fifty-second Night, and still crowded with the élite of Fashion!
+Be in time!!!
+
+       *       *       *       *       *
+
+       *       *       *       *       *
+
+THE HERO'S COMMON-FORM DIARY.
+
+January.--Leisurely return to England. Enthusiastic reception en route.
+
+February.--Greeted by Mayor and Corporation with an address at Dover. Triumphant progress to
+London.
+
+March.--Imposing scene at the Guildhall. Acceptance of the Freedom of the City.
+
+April.--Visits to the provinces. Loud cheers on every side, and unlimited hospitality.
+
+May.--Lion of the London Season. Hundreds of nightly invitations.
+
+June.--Gaiety from morning to night. Universal recognition of distinguished conduct.
+
+July.--Phenomenal success of book of travels and adventures.
+
+August.--Popularity at its height everywhere, save in town, which now begins to empty.
+
+September.--Slight reaction. Rejoinders begin to appear.
+
+October.--Unpleasantness on the increase. Interviewing, letters to the papers, and sensational
+journalism generally.
+
+November.--Demonstration at the Lord Mayor's Show. Charges, counter-charges, and recrimination.
+First-rate A1, go-as-you-please, strongly recommended row.
+
+December.--Fresh sensation (about a murder or a charitable scheme) and everything forgotten
+(if not forgiven) in time to observe a Merry Christmas and a Happy New Year.
+
+       *       *       *       *       *
+
+HOLIDAY TASKS FOR THE NEW YEAR.
+
+Emperor of R-ss-a.--To personally visit Siberia.
+
+King of It-ly.--To come to terms with the Vatican.
+
+Emperor of G-rm-ny.--To stay at home.
+
+King of P-rtug-l.--To accept the situation in Africa.
+
+President C-rn-t.--To forget the existence of Egypt.
+
+King of Sp-n.--To master the difficulties of the Alphabet.
+
+Emperor of A-str-a.--Between Kingdom and Empire, to make both ends meet.
+
+Lord S-l-sb-ry.--To prepare for the General Election.
+
+Mr. Gl-dst-ne.--To explain Home Rule.
+
+Lord R. Ch-rch-ll.--To give up racing in favour of politics.
+
+Mr. H.M. St-nl-y.--To re-write Darkest Africa.
+
+General B-th.--To publish a balance-sheet that will please all.
+
+Mr. Sheriff A-g-st-s H-rr-s.--To attend to his professional duties, and get through his official
+work.
+
+And Mr. P-nch.--To bear as gaily as ever the weight of half a century.
+
+       *       *       *       *       *
+
+SUGGESTION FOB MR. W.B. AT THE T.R.O.--Should Mr. WILSON BARRETT contemplate giving another
+Matinée of that out-of-date play, The Lady of Lyons, why not change its title to The Old Lady
+of Lyons? No extra charge for this suggestion.
+
+       *       *       *       *       *
+
+GENUINE ORANGE BITTERS.--Police Protection to TIM HEALY.
+
+       *       *       *       *       *
+
+       *       *       *       *       *
+
+VOCES POPULI.
+
+THE IMPROMPTU CHARADE-PARTY.
+
+    SCENE--The Library of a Country-House; the tables and chairs
+    are heaped with brocades, draperies, and properties of all
+    kinds, which the Ladies of the company are trying on, while
+    the men rack their brains for a suitable Word. In a secluded
+    corner, Mr. NIGHTINGALE and MISS ROSE are conversing in
+    whispers.
+
+Mr. Whipster (Stage-Manager and Organiser--self-appointed). No--but I say, really, you know,
+we must try and decide on something--we've been out half an hour, and the people will be getting
+impatient! (To the Ladies.) Do come and help; it's really no use dressing up till we've settled
+what we're going to do. Can't anybody think of a good Word?
+
+Miss Larkspur. We ought to make a continuous story of it, with the same plot and characters
+all through. We did that once at the Grange, and it was awfully good--just like a regular Comedy!
+
+Mr. Whipster. Ah, but we've got to hit on a Word first. Come--nobody got an idea? NIGHTINGALE,
+you're not much use over there, you know. I hope you and Miss ROSE have been putting your heads
+together?
+
+Mr. Nightingale (confused). Eh? No, nothing of the sort! Oh, ah--yes, we've thought of a lot
+of Words.
+
+Miss Rose. Only you've driven them all out of our heads again!
+
+    [They resume their conversation.
+
+Mr. Wh. Well, do make a suggestion, somebody! Professor, won't you give us a Word?
+
+Chorus of Ladies. Oh, do, Professor--you're sure to think of something clever!
+
+Professor Pollen (modestly). Well, really, I've so little experience in these matters that--A
+Word has just occurred to me, however; I don't know, of course, whether it will meet with approval--(he
+beams at them with modest pride through his spectacles)--it's "Monocotyledonous."
+
+Chorus of Ladies. Charming! Monocottle--Oh, can't we do that?
+
+Mr. Wh. (dubiously). We might--but--er--what's it mean?
+
+Prof. Pollen. It's a simple botanical term, signifying a plant which has only one cup-shaped
+leaf, or seed-lobe. Plants with two are termed--
+
+Mr. Wh. I don't see how we're going to act a plant with only one seed-lobe myself--and then
+the syllables--"mon"--"oh"--"cot"--"till"--we shouldn't get done before midnight, you know!
+
+Prof. Pollen (With mild pique). Well, I merely threw it out as a suggestion. I thought it could
+have been made amusing. No doubt I was wrong; no doubt.
+
+Mr. Settee (nervously). I've thought of a word. How would--er--"Familiar" do?
+
+Mr. Wh. (severely). Now, really. SETTEE, do try not to footle like this! [Mr. SETTEE subsides
+amidst general disapproval.
+
+Mr. Flinders. (With a flash of genius). I've got it--Gamboge!
+
+Mr. Wh. Gamboge, eh? Let's see how that would work:--"Gam"--"booge." How do you see it yourself?
+
+    [Mr. FLINDERS discovers, on reflection, that he doesn't see
+    it, and the suggestion is allowed to drop.
+
+Miss Pelagia Rhys. I've an idea. Familiar! "Fame"--"ill"--"liar," you know. [Chorus of applause.
+
+Mr. Wh. Capital! The very thing--congratulate you, Miss RHYS!
+
+Mr. Settee (sotto voce). But I say, look here, I suggested that, you know, and you said--!
+
+Mr. Wh. (ditto). What on earth does it matter who suggests it, so long as it's right? Don't
+be an ass, SETTEE! (Aloud.) How are we going to do the first syllable "Fame," eh? [Mr. SETTEE
+sulks.
+
+Mr. Pushington. Oh, that's easy. One of us must come on as a Poet, and all the ladies must
+crowd round flattering him, and making a lot of him, asking for his autograph, and so on. I
+don't mind doing the Poet myself, if nobody else feels up to it.
+
+    [He begins to dress for the part by turning his dress-coat
+    inside out, and putting on a turban and a Liberty sash, by
+    way of indicating the eccentricity of genius; the Ladies adorn
+    themselves with a similar regard to realism, and even more
+    care for appearances.
+
+AFTER THE FIRST SYLLABLE.
+
+    The Performers return from the drawing-room, followed by
+    faint applause.
+
+Mr. Pushington. Went capitally, that syllable, eh? (No response.) You might have played up
+to me a little more than you did--you others. You let me do everything!
+
+Miss Larkspur. You never let any of us get a word in!
+
+Mr. Pushington. Because you all talked at once, that was all. Now then--"ill." I'll be a celebrated
+Doctor, and you all come to me one by one, and say you're ill--see?
+
+    [Attires himself for the rôle of a Physician in a
+    dressing-gown and an old yeomanry helmet.
+
+Mr. Whipster (huffily). Seems to me I may as well go and sit with the audience--I'm no use here!
+
+Mr. Pushington. Oh, yes, WHIPSTER, I want you to be my confidential butler, and show the patients
+in.
+
+    [Mr. W. accepts--with a view to showing PUSHINGTON that
+    other people can act as well as he.
+
+AFTER THE SECOND SYLLABLE.
+
+Mr. Pushington. Seemed to drag a little, somehow! There was no necessity for you to make all
+those long soliloquies, WHIPSTER. A Doctor's confidential servant wouldn't chatter so much!
+
+Mr. Whipster. You were so confoundedly solemn over it, I had to put some fun in somewhere!
+
+Mr. P. Well, you might have put it where someone could see it. Nobody laughed.
+
+Professor Pollen. I don't know, Mr. PUSHINGTON, why, when I was describing my symptoms--which
+I can vouch for as scientifically correct--you persisted in kicking my legs under the table--it
+was unprofessional, Sir, and extremely painful!
+
+Mr. Pushington. I was only trying to hint to you that as there were a dozen other people to
+follow, it was time you cut the interview short, Professor--that one syllable alone has taken
+nearly an hour.
+
+Miss Buckram. If I had known the kind of questions you were going to ask me, Mr. PUSHINGTON,
+I should certainly not have exposed myself to them. I say no more, but I must positively decline
+to appear with you again.
+
+Mr. Pushington. Oh, but really, you know, in Charades one gets carried away at times. I assure
+you, I hadn't the remotest (&c., &c.--until Miss BUCKRAM is partly mollified.) Now then--last
+syllable. Look here, I'll be a regular impostor, don't you know, and all of you come on and
+say what a liar I am. We ought to make that screamingly funny!
+
+AFTER THE THIRD SYLLABLE.
+
+Mr. Pushington. Muddled? Of course it was muddled--you all called me a liar before I opened
+my mouth!
+
+The Rest.--But you didn't seem to know how to begin, and we had to bring the Word in somehow.
+
+Pushington. Bring it in?--but you needn't have let it out. There was SETTEE there, shouting
+"liar" till he was black in the face. We must have looked a set of idiots from the front. I
+shan't go in again (muttering). It's no use acting Charades with people who don't understand
+it. There; settle the Word yourselves!
+
+AFTER THE WORD. AMONG THE AUDIENCE.
+
+General Murmur. What can it be? Not Turk, I suppose, or Magician?--Quarrelling?--Parnellite?--Impertinence?
+Shall we give it up? No, they like us to guess, poor things; and besides, if we don't, they'll
+do another; and it is getting so late, and such a long drive home. Oh, they're all coming back;
+then it is over. No, indeed, we can't imagine. "Familiar!" To be sure--how clever, and how
+well you all acted it, to be sure--you must be quite tired after it all. I am sure we--hem--are
+deeply indebted to you ... My dear Miss ROSE, how wonderfully you disguised yourself. I never
+recognised you a bit, nor you, Mr. NIGHTINGALE. What part did you take?
+
+Mr. Nightingale. I--er--didn't take any particular part--wasn't wanted, you know.
+
+Miss Rose. Not to act,--so we stayed outside and--and--arranged things.
+
+An Old Lady. Indeed? Then you had all the hard work, and none of the pleasure, my dear, I'm afraid.
+
+Miss Rose (sweetly). Oh no. I mean yes!--but we didn't mind it much.
+
+The O.L. And which of you settled what the Word was to be?
+
+Mr. N. Well, I believe we settled that together.
+
+    [Carriages are announced; departure of guests who are not
+    of the house-party. In the Smoking-room, Mr. PUSHINGTON
+    discovers that he does not seem exactly popular with the
+    other men, and puts it down to jealousy.
+
+       *       *       *       *       *
+
+ROBERT'S XMAS BANKWET.
+
+We held our annywal Crismus Bankwet larst Satterday. Our principel Toast of course was, "Success
+to the Grand Old Copperashun, and may it flurrish for ewer!" with 3 times 3, and one cheer
+more for the bewtifool LADY MARESS, and may she flurrish for ewer too! Ah, we Waiters is a
+gallarnt race and knows our dooty to the fairer and weaker sects quite as well as ewen Aldermen
+theirselves. I next perposed the City Livvery Compnys, in a speech, as BROWN said, as ort for
+to be printed and sircculated. I had serttenly given a good deal of atention to it, and praps
+shood have dun ewen better if I hadn't quite forgot ewery word of the werry last part, which,
+unfortnitly, was all about the lots of money as they gives away. But I remembred all about
+their luvly dinners, and that was naterally more intresting to my hordience. I was werry much
+pressed to say which, in my opinion, of all the Nobel Livvery Cumpnys guv the most nobly scrumpshus
+Dinners of 'em all, but I declined, on the ground that it wood naterally cause a most enormous
+emount of gelosy, and was of too delicat and xquisit a natur to be thus publicly discussed.
+There was werry considerabel diffrens of opinion about their warious choice wines, but all
+agreed in praising them werry hily, but ewen more, the trew libberality with which they was
+served, and not poured out so close as to make the pore Waiter's dooty a thirsty and tanterlising
+one indeed.
+
+We drank the Nobel Army of Hotel Keepers, most serttenly not forgettin the gentlemanly Manager
+of the truly "Grand," as ewerybody knows as is anybody, and drank to their great success, for
+werry ewident reesons.
+
+Young FRANK returned thanks for the Ladies, and, with all the reckless ordassity of a young
+feller of forty, was rash enuff to say, as how as he werrily believed, that if the prinsiple
+Hotel Keepers was to hintroduce pretty Gals as Waiters, all us old Fogys, as he rudely called
+us, woud have to go and git our seweral livings in a more manly employment! Of course boys
+will be boys, so we kindly forgave him, more specially as he stands six foot one in his stockings,
+let alone his boots. However he made up for his bad manners by singing with his capital voice,
+his new Song of "Old Robert the Waiter" being a rayther complementary Parody, as he called
+it, upon "Old Simon the Cellerer," which was receeved with emense aplause. So he gave, as an
+arncore, the Waiter's favrite Glee of "Mynear Van Dunk," with its fine conwincing moral against
+Teetotaling and all such cold rubbish.
+
+BROWN wound up the armony of our truly appy heavening by singing his new song of, "The LORD
+MARE leads a nappy life," and we sort our seweral nupshal couches as happy and contented a
+lot as his Lordship hisself, our werry larst drink all round being to the follering sentiment
+given out by me as the prowd Chairman: "May all the well to do in this grand old London of
+ours enjoy as merry a Crismus as we have enjoyed to-night, and may they all give a kind thort,
+and a liberal stump-up, to all the poor and needy who so badly wants it this bitter weather."
+ROBERT.
+
+       *       *       *       *       *
+
+OUR BOOKING-OFFICE.
+
+MR. JEROME K. JEROME, or, more easily pronounced, "Mr. JERUMKY JERUM," is occasionally very
+amusing in his book for Christmastide, entitled Told After Supper. What he wants, that is,
+what he ought to have whether he wants it or not, is judicious editing. Had this process been
+applied to this eccentric haphazardy book, scarcely more than a third of it would have been
+published. "His style, in this book at least, and, for my part," says the Baron, "I say the
+same of his Three Men in a Tub, suggests the idea of his writing being the work of a young
+man who, among his companions and admirers, has earned the reputation of being a 'deuced funny
+chap,' and so has to struggle to live up to this reputation, or to live it down." JERUMKY JERUM
+still somewhat affects Yankee humour, not, however, in so forced and vulgar a manner as in
+his overpraised Three Men in a Boat. Two of the Ghost Stories are humorous, but their setting
+is unworthy of them. Had they been introduced into a tale as DICKENS (of whose style there
+is a very palpable attempt at imitation in the description of a stormy winter's night) brought
+in his story of Tom Smart, and of the inimitable Gabriel Grub, their mirth-raising value would
+have been considerably enhanced. As it is, these choice morsels--sandwich'd in between heavy
+slabs of doughy material--stand a chance of not being tasted. To anyone who comes across the
+book the Baron says, "read about the Curate and the Card-trick, and JOHNSON and EMILY. The
+tinted paper on which it is printed is a mistake, as are also most of the amateurish illustrations."
+

@@ -1,0 +1,64 @@
+﻿Joint, Butt. A joint in belting or in wire in which the ends to be joined are cut off square
+across, placed in contact and secured. It ensures even running when used in belting. Any irregularity
+in thickness of a belt affects the speed of the driven pulley. As dynamos are generally driven
+by belts, and it is important to drive them at an even speed to prevent variations in the electro-motive
+force, butt joints should be used on belting for them, unless a very perfect lap joint is made,
+which does not affect either the thickness or the stiffness of the belt.
+
+When a butt joint is used in wire a sleeve may be used to receive the abutting ends, which
+may be secured therein by soldering. This species of joint has been used on lightning rods
+and may more properly be termed a sleeve joint.
+
+Joint, Lap. (a) In belting a joint in which the ends are overlapped, and riveted or otherwise
+secured in place. If made without reducing the thickness of the ends it is a bad joint for
+electrical work, as it prevents even running of machinery to which it is applied. Hence dynamo
+belts should be joined by butt joints, or if by lap joints the ends should be shaved off so
+that when joined and riveted, there will be no variation in the thickness of the belt.
+
+(b) In wire lap joints are made by overlapping the ends of the wire and soldering or otherwise
+securing. The Britannia joint (see Joint, Britannia,) may be considered a lap-joint.
+
+Joint, Marriage. A joint for stranded conductors used for Galende's cables. It is made somewhat
+like a sailor's long splice. Each one of the strands is wound separately into the place whence
+the opposite strand is unwound and the ends are cut off so as to abutt. In this way all are
+smoothly laid in place and soldering is next applied.
+
+Fig. 205. MARRIAGE JOINT.
+
+311   STANDARD ELECTRICAL DICTIONARY.
+
+Joint, Sleeve. A joint in electric conductors, in which the ends of the wires are inserted
+into and secured in a metallic sleeve or tube, whose internal diameter is just sufficient to
+admit them.
+
+Joint, Splayed. The method of joining the ends of stranded conductors. The insulating covering
+is removed, the wires are opened out, and the center wire, heart or core of the cable is cut
+off short. The two ends are brought together, the opened out wires are interlaced or crotched
+like the fingers of the two hands, and the ends are wound around the body of the cable in opposite
+directions. The joint is trimmed and well soldered. Tinned wire with rosin flux for the soldering
+is to be recommended. Insulating material is finally applied by hand, with heat if necessary.
+
+Joints in Belts. Belt-joints for electric plants where the belts drive dynamos should be made
+with special care. The least inequality affects the electro-motive force. Butt joints are,
+generally speaking, the best, where the ends of the belt are placed in contact and laced. Lap-joints
+are made by overlapping the belt, and unless the belt is carefully tapered so as to preserve
+uniform strength, the speed of the dynamo will vary and also the electromotive force.
+
+Joulad. A name proposed to be substituted for "joule," q. v. It has not been adopted.
+
+Joule. This term has been applied to several units.
+
+(a) The practical C. G. S. unit of electric energy and work--the volt-coulomb. It is equal
+to 1E7 ergs--0.73734 foot pound.--.00134 horse power seconds. A volt-ampere represents one
+joule per second.
+
+(b) It has also been used as the name of the gram-degree C. thermal unit--the small calorie.
+
+Synonym--Joulad.
+
+Joule Effect. The heating effect of a current passing through a conductor. It varies with the
+product of the resistance by the square of the current, or with (C^2)*R.
+
+Joule's Equivalent. The mechanical equivalent of heat, which if stated in foot-pounds per pound-degree
+F. units, is 772 (772.55). (See Equivalents.)
+

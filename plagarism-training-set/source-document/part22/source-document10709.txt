@@ -1,0 +1,279 @@
+﻿(b) At least 3 feet from the exhaust pipe of engine.
+
+(c) Far enough away from the wall to prevent dirt or loose mortar from dropping on the cells.
+
+Figs. 298 and 299 illustrate two types of battery racks recommended for use with farm light
+batteries. The stair-step rack is most desirable where there is sufficient room for its installation.
+Where the space is insufficient to make this installation, use the two-tier shelf rack. The
+racks should be made from 1-1/2 or 2 inch boards.
+
+  [Fig. 298 "Stair-Step" rack for farm lighting battery]
+
+The cells may be placed on the battery rack with either the face or the edges of the plates
+facing out. The latter method requires a shorter battery rack and is very desirable from the
+standpoint of future inspections. In very dark places, it is more desirable to have the surface
+of the plates turned out to enable the user to see when the cells are bubbling during the monthly
+equalizing charge. Either method is satisfactory.
+
+All metal parts such as pipes, bolt heads, etc., which are near the battery should be given
+at least three coats of asphaltum paint. Care must be taken not to have an open flame of any
+kind in the battery room, as the hydrogen and oxygen gases, given off as a battery charges
+may explode and cause injury to the person and possible severe damage to the battery. When
+making an installation, it is always a good plan to carry the following material for taking
+care of spillage and broken jars:
+
+1. 1 Thermometer 2. 2 Series Cells 3. 6 Battery Bolts and Nuts 4. 1 Hydrometer Syringe 5. 2
+Gallons distilled water 6. 1 Jar Vaseline 7. 1 Gallon 1.220 specific gravity electrolyte
+
+  [Fig. 299 Installation of a Delco-Light plant, showing two-tier
+   shelf rack for battery]
+
+When a battery arrives at the shipping destination, the person lifting this shipment should
+remove the slats from the top of each crate and inspect each cell for concealed damage, such
+as breakage: Should any damage be discovered, it is important that a notation covering this
+damage be made and signed by the freight agent on the freight bill. This will enable the customer
+or dealer to make a claim against the railroad for the amount of damage. If a notation of this
+kind is not made before the battery is lifted, the dealer will be forced to stand the expense
+of repairing or replacing the damaged cells.
+
+When removing cells from a crate, avoid lifting them by the terminal posts as much as possible.
+This causes the weight of the electrolyte and jar to pull on the sealing compound between the
+jar and cover, and if the sealing is not absolutely tight, the jar and electrolyte may fall
+from the cover. A cell should never be carried using the terminal posts as handles. The hand
+should be put underneath the jar.
+
+Sometimes a battery will arrive with electrolyte spilled from some of the cells. If spillage
+is only about one-half to one inch down on the plates of three or four cells, this spillage
+may be replaced by drawing a little electrolyte out of each cell of the other full cells in
+the set. Oftentimes several cells will have electrolyte extending above the water line, which
+will aid greatly in making up any loss in other cells. After all cells have been drawn on to
+fill up the ones that are spilled, the entire set may then have its electrolyte brought up
+to the water line by adding distilled water.
+
+Very carefully adjust spillage of pilot cells (Delco), as it is very important that the specific
+gravity of the pilot cells be left as near 1.220 as possible.
+
+In case the spillage is more than one inch below the top of plates or glass broken, remove
+cell and install a new cell in its place. The spilled or broken cell must not be used until
+given special treatment.
+
+Connecting Cells
+
+Before connecting up the cells the terminals should be scraped clean for about 11/2 inches
+on both sides. An old knife or rough file is suitable for doing this work. After the terminals
+are thoroughly brightened, they should be covered with vaseline. The bolts and nuts used in
+making the connections on the battery should also be coated with vaseline. The vaseline prevents
+and retards corrosion, which is harmful to efficient operation.
+
+If a new battery is to be installed in parallel with one already in service, connections should
+be made so that each series will consist of half new and half old cells. The pilot cells for
+the new battery should be placed in one series and that for the old battery in the other, unless
+local conditions may make some other arrangement desirable.
+
+A drop light must always be provided to enable the user to inspect his battery, particularly
+when giving the monthly equalizing charge.
+
+Initial Charge
+
+When a battery is connected to the plant, it should be given a proper INITIAL CHARGE before
+any power or lights are used.
+
+Batteries shipped filled with electrolyte are fully charged before leaving the factory. As
+soon as a storage battery cell of any type or make is taken off charge and stands idle for
+a considerable length of time, some of the acid in the electrolyte is absorbed by the plates,
+thereby lowering the gravity and forming sulphate on the plates. This process is very gradual,
+but it is continuous, and unless the acid is completely driven out of the plates by charging
+before the battery is used, the battery will not give as good service as the user has a right
+to expect. Due to the time required in shipment, the above action has a chance to take place,
+which makes it necessary to give the initial charge.
+
+The initial charge consists of charging the battery, with the power and light switch open,
+until each cell is bubbling freely from the top to bottom on the surface of the outside negative
+plates and both pilot balls are up (Delco-Light), and then CONTINUING THE CHARGE FOR FIVE HOURS
+MORE. If the battery has no pilot cells, measure the specific gravity of the electrolyte of
+each cell, and continue the charge until six consecutive readings show no increase in gravity.
+
+As an accurate check on giving the initial charge properly (Delco-Light), we strongly recommend
+that hourly hydrometer readings of both pilot cells be taken after both balls are up, the charge
+to be continued until six consecutive hourly readings show no RISE in gravity.
+
+Due to the fact that it is impossible to hold each cell in a battery to a definite maximum
+gravity when fully charged, there is likely to be a variation of from ten to fifteen points
+in the specific gravity readings of the various cells. It should be understood, however, that
+the maximum gravity is the gravity when the cells are fully charged and with the level of the
+solution at the water line. For example, with each cell in a battery fully charged and therefore
+at maximum gravity and with the level at the proper height, some cells may read 1.230, one
+or two 1.235, several 1.215 and 1.210. All of these cells will operate efficiently, and there
+should be no cause for alarm. An exception to this is the pilot cell of the Delco-Light Battery.
+
+If this check on the initial charge is properly made, it assures the service man and dealer
+that the battery is in proper operating condition to be turned over to the user. Negligence
+in giving the initial charge properly may result in trouble to both user, service man and dealer.
+
+The initial charge may require considerable running of the plant, depending upon the state
+of charge of the cells when installed.
+
+Instructing Users
+
+During the time the initial charge is being given, the service man should instruct the user
+on the care and operation of the plant and battery.
+
+The best way to give instructions to the user is to tack the instruction cards on the wall
+near the plant in a place where the user can read them easily.
+
+Proceed to read over the plant operating card with the user. Read the first item, go to the
+plant, explain this feature to the user and allow him to perform the operation, if the instruction
+calls for actual performance.
+
+Remember, the user is not familiar with the plant and battery, and the actual performance of
+each operation aids him to retain the instructions.
+
+After the first item has been covered thoroughly, proceed to the second, etc. During the course
+of instruction, the user will often interrupt with questions not dealing directly with the
+point being explained. The service man should keep the user's attention on the points he is
+explaining. When the service man has finished explaining both plant and battery instruction
+cards, he should answer any points in question which the user wants explained.
+
+When the monthly equalizing charge is explained to the user, the service man should always
+take the user to the battery and show him a cell bubbling freely. This is necessary in order
+that the user may recognize when the cells are bubbling freely at the time he gives the monthly
+equalizing charge.
+
+Impress upon the user the importance of inspecting each cell when giving the monthly equalizing
+charge to see that every cell bubbles freely. If a cell fails to bubble freely at the end of
+the equalizing charge, the user should inform the service man of this condition immediately.
+
+Caution the user against the use of an open flame near the plant or battery at any time. The
+gas which accumulates in a cell will explode sufficiently to break the glass jar if this gas
+is ignited by a spark or open flame.
+
+Care of the Plant in Operation
+
+(See also special instructions for the different makes, beginning page 460.)
+
+The battery repairman should be able not only to repair the batteries, but should also be able
+to keep the entire plant in working order, and suggestions will be given as to what must be
+done, although no detailed instructions for work on the generator, engine, and switchboard
+will be given as this is beyond the scope of this book.
+
+Battery Room. The essential things about the battery room are that it must be clean, dry, and
+well ventilated. This means, of course, that the battery and battery rack must also be kept
+clean and dry. A good time to clean up is when the battery is being charged. Clean out the
+room first, sweeping out dirt and rubbish, dusting the walls, and so on. Both high and low
+temperatures should be avoided. If the battery room is kept too hot, the battery will become
+heated and the hot electrolyte will attack the plates and separators. Low temperatures do no
+actual harm to a charged battery except to make the battery sluggish, and seem to lack capacity.
+A discharged battery will, however, freeze above 0° Fahrenheit. The battery will give the best
+service if the battery room temperature is kept between 60° and 80° Fahrenheit.
+
+Do not bring any open flame such as a lantern, candle or match near a battery and do not go
+near the battery with a lighted cigar, cigarette or pipe, especially while the battery is charging.
+Hydrogen and oxygen gases form a highly explosive mixture. An explosion will not only injure
+the battery, but will probably disfigure the one carrying the light, or even destroy his eyes.
+
+It is a good plan to keep the windows of the battery room open as much as possible.
+
+Engine. The engine which drives the generator requires attention occasionally. Wipe off all
+dirt, oil or grease. Keep the engine well lubricated with a good oil. If grease cups are used,
+give these several turns whenever the engine is run to charge the battery. Use clean fuel,
+straining it, if necessary, through a clean cloth or chamois, if there is any dirt in it. The
+cooling water should also be clean, and in winter a non-freezing preparation should be added
+to it. Do not change the carburetor setting whenever the engine does not act properly. First
+look over the ignition system and spark plug for trouble, and also make sure that the carburetor
+is receiving fuel. If possible, overhaul the engine once a year to clean out the carbon, tighten
+bearings and flywheel, remove leaky gaskets, and so on.
+
+Generator. Keep the outside of the generator clean by wiping it occasionally with an oiled
+rag. See that there is enough lubricating oil in the bearings, but that there is not too much
+oil, especially in the bearing at the commutator end of the generator. Keep the commutator
+clean. If it is dirty, wipe it with a rag moistened slightly with kerosene. The brushes should
+be lifted from the commutator while this is being done. Finish with a dry cloth. If the commutator
+is rough it may be made smooth with fine sandpaper held against it while the generator is running,
+and the brushes are lifted.
+
+The surfaces of the brushes that bear on the commutator should be inspected to see that they
+are clean, and that the entire surfaces make contact with the commutator. The parts that are
+making contact will look smooth and polished, while other parts will have a dull, rough appearance.
+If the brush contact surfaces are dirty or all parts do not touch the commutator, draw a piece
+of fine sandpaper back and forth under the brushes, one at a time, with the sanded side of
+the paper against the brush. This will clean the brushes and shape the contact surfaces to
+fit the curve of the commutator. Brushes should be discarded when they be come so short that
+they do not make good contact with the commutator. See that the brush holders and brush wires
+are all tight and clean. Watch for loose connections of wires, as these will cause voltage
+loss when the generator is charging the battery. Watch for "high mica," which means a condition
+in which the insulation between the segments projects above the surface of the commutator,
+due to the commutator wearing down faster than the insulation. If this condition arises, the
+mica should be cut down until it is slightly below the surface of the commutator. An old hack
+saw blade makes a good tool for this purpose. A commutator may have grooves cut in by the brushes.
+These grooves do no harm as long as the brushes have become worn to the exact shape of the
+grooves. When the brushes are "dressed" with sandpaper, however, they will not fit the grooves,
+and the commutator should be turned down in a lathe until the grooves are removed.
+
+A steady low hum will be heard when the generator is in operation. Loud or unusual noises should
+be investigated, however, as a bearing may need oil, the armature may be rubbing on the field
+pole faces, and so on.
+
+Watch for overheating of the generator. If you can hold your hand on the various parts of the
+generator, the temperature is safe. If the temperature is so high that parts may be barely
+touched with the hand, or if an odor of burned rubber is noticeable, the generator is being
+overheated, and the load on the generator should be reduced.
+
+Switchboard. Clean off dirt and grease occasionally. Keep switch contacts clean and smooth.
+If a "cutout" is on the board, keep its contacts smooth and clean. If the knife switch blades
+are hard to move, look for cutting at the pivots. Something may be cutting into the blades.
+If this is found to be the case, use a file to remove all roughness from the parts of the pivot.
+See that no switches are bent or burned.
+
+Keep the back of the board clean and dry as well as the front. See that all connections are
+tight. Keep all wires, rheostats, etc., perfectly clean. A coat of shellac on the wires, switch
+studs, etc., will be helpful in keeping these parts clean.
+
+Care of Battery
+
+Cleanliness. Keep the battery and battery rack clean. After a charge is completed, wipe off
+any electrolyte that may be running down the outsides of the jars. Wipe all electrolyte and
+other moisture from the battery rack. Occasionally go over the rack with a rag wet with ammonia
+or washing soda solution. Then finish with a dry cloth. Paint the rack with asphaltum paint
+once a year, or oftener if the paint is rubbed or scratched.
+
+If sand trays are used, renew the sand whenever it becomes very wet with electrolyte. Keep
+the terminals and connectors clean. Near the end of a charge, feel each joint between cells
+for a poor connection. Watch also for corrosion on the connections. Corrosion is caused by
+the electrolyte attacking any exposed metals other than lead, near the battery, resulting in
+a grayish deposit on the connectors or bolts at the joints. Such joints will become hotter
+than other joints, and may thus be located by feeling the joints after the battery has been
+charged for some time. Corrosion may be removed by washing the part in a solution of baking soda.
+
+Be very careful to keep out of the cells anything that does not belong there. Impurities injure
+a cell and may even ruin it. Do not let anything, especially metals, fall into a cell. If this
+is done accidentally, pour out the electrolyte immediately, put in new separators, wash the
+plates in water, fill with electrolyte having a gravity about 30 points higher than that which
+was poured out, and charge. The cell may be connected in its proper place and the entire battery
+charged. Vent plugs should be kept in place at all times, except when water is added to the
+electrolyte.
+
+Keep the Electrolyte Above the Tops of the Plates. If the battery has glass jars, the height
+of the electrolyte can be seen easily. If the battery has sealed rubber jars, the height of
+the electrolyte may be determined with a glass tube, as described on page 55. In most batteries
+the electrolyte should stand from three-fourths of an inch to an inch above the plates. Some
+jars have a line or mark showing the proper height of the electrolyte. A good time to inspect
+the height of the electrolyte is just before putting the battery on charge. If the electrolyte
+is low, distilled water should be added to bring it up to the proper level. Water should never
+be added at any other time, as the charging current is required to mix the water thoroughly
+with the electrolyte.
+
+Determining the Condition of the Cells. The specific gravity of the electrolyte is the best
+indicator of the condition of the battery as to charge, just as is the case in automobile batteries,
+and hence should be watched closely. It is not convenient or necessary to take gravity readings
+on every cell in the battery on every charge or discharge. Therefore, one cell called the "Pilot"
+cell should be selected near the center of the battery and its specific gravity readings taken
+to indicate the state of charge or discharge of the entire battery. Delco-Light batteries each
+have two pilot cells with special jars. Each of these has a pocket in one of its walls in which
+a ball operates as a hydrometer or battery gauge. One pilot cell contains the pilot ball for
+determining the end of the charge, and other pilot cell containing the ball for determining
+the end of the discharge. See Fig. 294.
+
+Hydrometer readings should be taken frequently, and a record of consecutive readings kept.
+When the gravity drops to the lowest value allowable (1.150 to 1.180, depending on the make
+of battery) the battery should be charged.
+

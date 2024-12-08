@@ -1,0 +1,142 @@
+﻿As the vessel is to be used principally as a dispatch boat and for reconnoitering, and as--on
+account of its great speed--it will not be obliged to come into conflict with larger and stronger
+men-of-war, no great preparations for protection were needed, nor was it necessary that it
+should be heavily armed, all available room being devoted to the engines, boilers, and the
+storing of coal; these occupy more than half the length of the vessel, leaving only space enough
+for the accommodation of the officers and crew at the ends. The armament consists of five Hotchkiss
+revolving guns on each side, and a 4 in. gun at each end, the latter being so arranged that
+each one can sweep half the horizon.
+
+The keel was laid in August, 1885, and the ship was launched July 29, 1886, on which occasion
+it was christened Greif. On the trial trip it was found that the slender shape of the vessel
+adapted it for the development of a very high rate of speed under favorable conditions, when
+it can make at least 22 knots an hour, so that the speed of 19 knots an hour guaranteed by
+the builders can certainly be reached, even when traveling at a disadvantage. In spite of its
+great length, the Greif can be easily maneuvered. When moving forward at full speed, it can
+be made to describe a circle by proper manipulation of the rudder, and by turning one screw
+forward and the other backward, the ship can be turned in a channel of its own length.
+
+A large and rapid cruiser, also for the German navy, is being built by the corporation "Germania".
+This vessel is of about the same length as the Greif, has more than double its displacement,
+and will make 18 knots an hour, an unusual rate of speed for a vessel of its class. It will
+be launched by the last of the summer or early in the fall.
+
+       *       *       *       *       *
+
+TWIN SCREW TORPEDO BOAT.
+
+We give several illustrations of a sea going twin screw torpedo boat lately built for the Italian
+government by Messrs. Yarrow & Co., of Poplar. The vessel in question is 140 ft. long by 14
+ft. wide, and her displacement approaches close on 100 tons. The engines are of the compound
+surface condensing type ordinarily fitted by this firm in their torpedo boats, excepting where
+triple compounds are fitted. The general arrangement is shown by the sectional plan. As will
+be noticed, there are two boilers, one before and the other aft of the engines, and either
+boiler is arranged to supply either or both the engines. Yarrow's patent water tight ash pans
+are fitted to each boiler, to prevent the fire being extinguished by a sudden influx of water
+into the stokehold. There is an independent centrifugal pumping engine arranged to take its
+suction from any compartment of the boat. There are also steam ejectors and hand pumps to each
+compartment. These compartments are very numerous, as the space is much subdivided, both from
+considerations of strength and safety. Bow and stern rudders are fitted, each having independent
+steam steering gear, but both rudders can be worked in unison, or they can be immediately changed
+to hand gear when necessary. The accommodation is very good for a vessel of this class. Officers'
+and petty officers' cabins are aft, while the crew is berthed forward.
+
+The armament consists of two bow tubes built in the boat. There are two turntables, as shown
+in the illustrations, each fitted with two torpedo tubes. These, it will be noticed, are not
+arranged parallel to each other, but lie at a small angle, so that if both torpedoes are ejected
+at once, they will take a somewhat divergent course. Messrs. Yarrow have introduced this plan
+in order to give a better chance for one of the torpedoes to hit the vessel attacked. There
+are two quick firing three pounder guns on deck, and there is a powerful search light, the
+dynamo and engine being placed in the galley compartment.
+
+We believe, says Engineering, this torpedo boat, together with a sister vessel, built also
+for the Italian government, are the fastest vessels of their class yet tried, and it is certain
+that the British Navy does not yet possess a craft to equal them. It is an extraordinary and
+lamentable fact that Great Britain, which claims to be the foremost naval power in the world,
+has always been behind the times in the matter of torpedo boats.
+
+The official trial of this boat was recently made in the Lower Hope in rough weather. The following
+is a copy of the official record of the six runs on the measured mile:
+
+    Boiler   | Receiver |         |Revolutions |       |       |Second
+    Pressure.| Pressure.| Vacuum. | per Minute.| Speed.| Means.| Means.
+-------------+----------+---------+------------+-------+-------+------
+      |lb.   |     lb.  |    in.
+
+       *       *       *       *       *
+
+SOME RECENT HIGH-SPEED TWIN SCREWS.
+
+[Footnote: A paper recently read before the Institution of Naval Architects, London.]
+
+By E.A. LINNINGTON.
+
+One of the most interesting and valuable features in the development of naval construction
+in recent years is the great advance which has been made in the speeds of our war ships. This
+advance has been general, and not confined to any particular vessel or class of vessel. From
+the first class armored fighting ship of about 10,000 tons displacement down to the comparatively
+diminutive cruiser of 1,500 tons, the very desirable quality of a high speed has been provided.
+
+These are all twin screw ships, and each of the twins is driven by its own set of engines and
+line of shafting, so that the propelling machinery of each ship is duplicated throughout. The
+speeds attained indicate a high efficiency with the twin screws. In all ships, but more especially
+in high speed ships, success depends largely upon the provision of propellers suited for the
+work they have to perform, and where a high propulsive efficiency has been secured, there is
+no doubt the screws are working with a high efficiency. The principal purpose of this paper
+is to record the particulars of the propellers, and the results of the trials of several of
+these high speed twin screw ships. The table gives the leading particulars of several classes
+of ships, the particulars of the screws, and the results obtained on the measured mile trials
+from a ship of each class, except C. The vessels whose trials are inserted in the table have
+not been selected as showing the highest speeds for the several classes. Excepting C, they
+are the ships which have been run on the measured mile at or near the designed load water line.
+On light draught trials, speeds have been attained from half a knot to a knot higher than those
+here recorded. No ship of the class C has yet been officially tried on the measured mile, but
+as several are in a forward state, perhaps the actual data from one of them may shortly be
+obtained. All these measured mile trials were made under the usual Admiralty conditions, that
+is to say, the ships' bottoms and the screws were clean, and the force of the wind and state
+of the sea were not such as to make the trials useless for purposes of comparison. On such
+trials the i.h.p. is obtained from diagrams taken while the ship is on the mile, and the revolutions
+are recorded by ruechanical counters for the time occupied in running the mile. Not less than
+four runs are made during a trial extending over several hours. The i.h.p. in the table is
+not necessarily the maximum during the trial, for the average while on the mile is sometimes
+a little below the average for the whole of the trial. The revolutions are the mean for the
+two sets of engines, and the i.h.p. is the sum of the powers of the two sets. The pitch of
+the screw is measured. The bolt holes in the blade flanges allow an adjustment of pitch, but
+in each case the blades were set as nearly as possible at the pitch at which they were cast.
+The particulars given in the table may be taken to be as reliable and accurate as such things
+can be obtained, and for each ship there are corresponding data; that is, the powers, speeds,
+displacements, revolutions, pitches, and other items existed at the same time. There are a
+few points of detail about these propellers which deserve a passing notice. In Fig. 1 is shown
+a fore and aft section through the boss. It will be observed that the flanges of the blades
+are sunk into the boss, and that the bolts are sunk into the flanges. The recess for the bolt
+heads is covered with a thin plate having the curve of the flange, so that the flanges and
+the boss form a section of a sphere. This method of construction is a little more expensive
+than exposed flanges and bolts, which, however, render the boss a huge churn. With the high
+revolutions at which these screws work, a spherical boss is extremely desirable, but, of course,
+the details need not be exactly as shown in the illustration. The conical tail is fitted to
+prevent loss with eddies behind the flat end of the boss, and is particularly valuable with
+the screws of high speed ships. The light hood shown on the stern bracket is for the purpose
+of preventing eddies behind the boss of the stern bracket, and to save the resistance of the
+flat face of the screw boss. The edges of the blades are cast sharp, instead of being rounded
+at the back, with a small radius, as in the usual practice--the object of the sharp edge being
+the diminution of the edge resistance. The driving key extends the whole length of the boss,
+and the tapered shaft fits throughout its length.
+
+These points of detail have been features of all Admiralty screws for some years.
+
+The frictional resistance of screw propellers is always a fruitful source of inefficiency.
+With a given screw, the loss due to friction may be taken to vary approximately as the square
+of the speed. This is not to say that the frictional resistance is greater in proportion to
+the thrust at high than at low speeds. The blades of screws for any speed should be as smooth
+and clean as possible, but for high speed screws the absolute saving of friction may be considerable
+with an improvement of the surface. There is no permanent advantage in polishing the blades.
+No doubt there is some advantage for a little time, and, probably, better results may thereby
+be secured on trial, but the blades soon become rough, and shell fish and weed appear to grow
+as rapidly on recently polished blades as on an ordinary surface. These screws are of gun metal.
+They were fitted to the ships in the condition in which they left the foundry. It appears that
+within certain limits mere shape of blade does not affect the efficiency of the screw, but,
+with a given number of blades and a given disk, the possible variations in the form or distribution
+of a given area are such that different results may be realized. The shapes of the blades of
+these propellers are shown in Figs. 2, 3, and 4. It will be seen the shapes are not exactly
+the same for all the screws, but the differences do not call for much remark.
+

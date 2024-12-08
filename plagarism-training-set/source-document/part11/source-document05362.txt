@@ -1,0 +1,683 @@
+﻿CONTRIBUTIONS TO THE THEORY OF NATURAL SELECTION.
+
+A Series of Essays.
+
+BY
+
+ALFRED RUSSEL WALLACE,
+
+AUTHOR OF
+
+"THE MALAY ARCHIPELAGO," ETC., ETC.
+
+SECOND EDITION, WITH CORRECTIONS AND ADDITIONS.
+
+New York:
+
+MACMILLAN AND CO.
+
+1871.
+
+[The Right of Translation and Reproduction is reserved.]
+
+LONDON:
+
+PRINTED BY HEAD, HOLE & CO., FARRINGDON STREET,
+
+AND IVY LANE, E.C.
+
+PREFACE.
+
+The present volume consists of essays which I have contributed to various periodicals, or read
+before scientific societies during the last fifteen years, with others now printed for the
+first time. The two first of the series are printed without alteration, because, having gained
+me the reputation of being an independent originator of the theory of "natural selection,"
+they may be considered to have some historical value. I have added to them one or two very
+short explanatory notes, and have given headings to subjects, to make them uniform with the
+rest of the book. The other essays have been carefully corrected, often considerably enlarged,
+and in some cases almost rewritten, so as to express more fully and more clearly the views
+which I hold at the present time; and as most of them originally appeared in publications which
+have a very limited circulation, I believe that the larger portion of this volume will be new
+to many of my friends and to most of my readers.
+
+I now wish to say a few words on the reasons which have led me to publish this work. The second
+essay, especially when taken in connection with the first, contains an outline sketch of the
+theory of the origin of species (by means of what was afterwards termed by Mr. Darwin--"natural
+selection,") as conceived by me before I had the least notion of the scope and nature of Mr.
+Darwin's labours. They were published in a way not likely to attract the attention of any but
+working naturalists, and I feel sure that many who have heard of them, have never had the opportunity
+of ascertaining how much or how little they really contain. It therefore happens, that, while
+some writers give me more credit than I deserve, others may very naturally class me with Dr.
+Wells and Mr. Patrick Matthew, who, as Mr. Darwin has shown in the historical sketch given
+in the 4th and 5th Editions of the "Origin of Species," certainly propounded the fundamental
+principle of "natural selection" before himself, but who made no further use of that principle,
+and failed to see its wide and immensely important applications.
+
+The present work will, I venture to think, prove, that I both saw at the time the value and
+scope of the law which I had discovered, and have since been able to apply it to some purpose
+in a few original lines of investigation. But here my claims cease. Far abler men than myself
+may confess, that they have not that untiring patience in accumulating, and that wonderful
+skill in using, large masses of facts of the most varied kind,--that wide and accurate physiological
+knowledge,--that acuteness in devising and skill in carrying out experiments,--and that admirable
+style of composition, at once clear, persuasive and judicial,--qualities, which in their harmonious
+combination mark out Mr. Darwin as the man, perhaps of all men now living, best fitted for
+the great work he has undertaken and accomplished.
+
+My own more limited powers have, it is true, enabled me now and then to seize on some conspicuous
+group of unappropriated facts, and to search out some generalization which might bring them
+under the reign of known law; but they are not suited to that more scientific and more laborious
+process of elaborate induction, which in Mr. Darwin's hands has led to such brilliant results.
+
+Another reason which has led me to publish this volume at the present time is, that there are
+some important points on which I differ from Mr. Darwin, and I wish to put my opinions on record
+in an easily accessible form, before the publication of his new work, (already announced,)
+in which I believe most of these disputed questions will be fully discussed.
+
+I will now give the date and mode of publication of each of the essays in this volume, as well
+as the amount of alteration they have undergone.
+
+I.--ON THE LAW WHICH HAS REGULATED THE INTRODUCTION OF NEW SPECIES.
+
+First published in the "Annals and Magazine of Natural History," September, 1855. Reprinted
+without alteration of the text.
+
+II.--ON THE TENDENCY OF VARIETIES TO DEPART INDEFINITELY FROM THE ORIGINAL TYPE.
+
+First published in the "Journal of the Proceedings of the Linnæan Society," August, 1858. Reprinted
+without alteration of the text, except one or two grammatical emendations.
+
+III.--MIMICRY AND OTHER PROTECTIVE RESEMBLANCES AMONG ANIMALS.
+
+First published in the "Westminster Review," July, 1867. Reprinted with a few corrections and
+some important additions, among which I may especially mention Mr. Jenner Weir's observations
+and experiments on the colours of the caterpillars eaten or rejected by birds.
+
+IV.--THE MALAYAN PAPILIONIDÆ, OR SWALLOW-TAILED BUTTERFLIES, AS ILLUSTRATIVE OF THE THEORY
+OF NATURAL SELECTION.
+
+First published in the "Transactions of the Linnæan Society," Vol. XXV.
+
+The introductory part of this essay is now reprinted, omitting tables, references to plates,
+&c., with some additions, and several corrections. Owing to the publication of Dr. Felder's
+"Voyage of the Novara" (Lepidoptera) in the interval between the reading of my paper and its
+publication, several of my new species must have their names changed for those given to them
+by Dr. Felder, and this will explain the want of agreement in some cases between the names
+used in this volume and those of the original paper.
+
+V.--ON INSTINCT IN MAN AND ANIMALS.
+
+Not previously published.
+
+VI.--THE PHILOSOPHY OF BIRDS' NESTS.
+
+First published in the "Intellectual Observer," July, 1867. Reprinted with considerable emendations
+and additions.
+
+VII.--A THEORY OF BIRDS' NESTS; SHOWING THE RELATION OF CERTAIN DIFFERENCES OF COLOUR IN BIRDS
+TO THEIR MODE OF NIDIFICATION.
+
+First published in the "Journal of Travel and Natural History" (No. 2), 1868. Now reprinted
+with considerable emendations and additions, by which I have endeavoured more clearly to express,
+and more fully to illustrate, my meaning in those parts which have been misunderstood by my
+critics.
+
+VIII.--CREATION BY LAW.
+
+First published in the "Quarterly Journal of Science," October, 1867. Now reprinted with a
+few alterations and additions.
+
+IX.--THE DEVELOPMENT OF HUMAN RACES UNDER THE LAW OF NATURAL SELECTION.
+
+First published in the "Anthropological Review," May, 1864. Now reprinted with a few important
+alterations and additions. I had intended to have considerably extended this essay, but on
+attempting it I found that I should probably weaken the effect without adding much to the argument.
+I have therefore preferred to leave it as it was first written, with the exception of a few
+ill-considered passages which never fully expressed my meaning. As it now stands, I believe
+it contains the enunciation of an important truth.
+
+X.--THE LIMITS OF NATURAL SELECTION AS APPLIED TO MAN.
+
+This is the further development of a few sentences at the end of an article on "Geological
+Time and the Origin of Species," which appeared in the "Quarterly Review," for April, 1869.
+I have here ventured to touch on a class of problems which are usually considered to be beyond
+the boundaries of science, but which, I believe, will one day be brought within her domain.
+
+       *       *       *       *       *
+
+For the convenience of those who are acquainted with any of my essays in their original form,
+I subjoin references to the more important additions and alterations now made to them.
+
+ADDITIONS AND CORRECTIONS TO THE ESSAYS AS ORIGINALLY PUBLISHED.
+
+Essays I. and II. are unaltered, but short notes are added at pp. 19, 24, 29, and 40.
+
+III.--Mimicry, and other Protective Resemblances among Animals.
+
+ PAGE
+
+   53  Additional illustration of protective colouring in the case of
+       the wood-dove and the robin.
+
+   63  On moths resembling bird's dung and mortar.
+
+   86  Correction of some names of African Papilios and a reference to
+       Mr. Trimen's observations.
+
+   89  Mr. Jenner Weir's observation on birds which refused to eat
+       Spilosoma menthrasti.
+
+  102  An additional case of snake mimicry in Oxyrhopus trigeminus.
+
+  107  Mr. Salvin's case of mimicry among hawks.
+
+  113  Name, Diadema anomala, added.
+
+  117 to 122.  Use of gay colours in caterpillars, with an account of
+       Mr. Jenner Weir's and Mr. Butler's observations.
+
+  135 to 140.  Additions to the discussion on the rank of the
+       Papilionidæ, and on the principles which determine the
+       comparative rank of groups in the animal kingdom.
+
+  164  Illustration of variability from Mr. Baker's revision of the
+       British Roses.
+
+  173  Additional facts, on local variations of colour.
+
+  196  Additional genus of birds (Ceycopsis) peculiar to Celebes.
+
+  199, 200.  Concluding remarks.
+
+VI.--The Philosophy of Birds' Nests.
+
+  218  On nesting of Terns and Gulls, rewritten.
+
+  220 to 222.  Daines Barrington, and others, on the song of birds.
+
+  223  On young birds learning to build, by memory and imitation.
+
+  224  Levaillant, on mode of nest-building.
+
+  229  On imperfect adaptation in birds' nests.
+
+VII.--A Theory of Birds' Nests.
+
+  231, 232.  Introductory passages modified, with some omissions.
+
+  233  How modifications of organization would affect the form of the
+       nest.
+
+  235  Illustration from the habits of children and savages.
+
+  235, 236.  Objection to term "hereditary habit" answered.
+
+  237  Passage rewritten, on more or less variable characters in
+       relation to nidification.
+
+  248  On males choosing or rejecting females, and on the various modes
+       in which colour may be acquired by female birds.
+
+  249  On probable ancestral colours of female birds.
+
+  255  Protective colouring of the Waxwing.
+
+VIII.--Creation by Law.
+
+  293  Amount of variation in dogs.
+
+  296, 297.  The "Times" on Natural Selection.
+
+  298 to 300.  On intermediate or generalized forms of extinct animals
+       as an indication of transmutation or development.
+
+  302  Tabular demonstration of the Origin of Species by Natural
+       Selection.
+
+IX.--The development of Human Races, under the law of Natural Selection.
+
+  316  On colour as perhaps correlated with immunity from disease in
+       man.
+
+  326, 327.  On the probable future development of man.
+
+  330  Concluding paragraph rewritten.
+
+London, March, 1870.
+
+PREFACE TO THE SECOND EDITION.
+
+The flattering reception of my Essays by the public and the press having led to a second edition
+being called for within a year of its first publication, I have taken the opportunity to make
+a few necessary corrections. I have also added a few passages to the 6th and 7th Essays, and
+have given two notes, explanatory of some portions of the last chapter which appear to have
+been not always understood. These additions are as follows:--
+
+  +-------------------------------------------------------------------+
+  | To avoid altering the paging the additional pages now given have |
+  |     been lettered.                                               |
+  +---------+---------+-----------------------------------------------+
+  | 1st Ed. | 2nd Ed. |                                               |
+  +---------+---------+                                               |
+  |  221    |  221    |    Additional facts as to birds acquiring     |
+  |         |         |      the song of other species.               |
+  |         |         |                                               |
+  |  223    |  223A } |    Mr. Spruce's remarks on young birds        |
+  |         |  223B } |      pairing with old.                        |
+  |         |         |                                               |
+  |  228    |  228A } |    Pouchet's observations on a change         |
+  |         |  228B } |      in the nests of swallows.                |
+  |         |         |                                               |
+  |  229    |   --    |   Passage omitted about nest of Golden        |
+  |         |         |     Crested Warbler, which had been           |
+  |         |         |     inserted on Rennie's authority, but       |
+  |         |         |     has not been confirmed by any later       |
+  |         |         |     observers.                                |
+  |         |         |                                               |
+  |  261    |  261    |   Daines Barrington, on importance of         |
+  |         |         |     protection to the female bird.            |
+  |         |         |                                               |
+  |         |  372    |   Note A.                                     |
+  |         |         |                                               |
+  |         |  372B   |   Note B.                                     |
+  +---------+---------+-----------------------------------------------+
+
+CONTENTS.
+
+ I.--On the Law which has regulated the introduction of New
+     Species.                                                Pp. 1-25
+
+    Geographical distribution dependent on Geologic Changes
+
+    A Law deduced from well-known Geographical and Geological facts
+
+    The form of a true system of Classification determined by this Law
+
+    Geographical Distribution of Organisms
+
+    Geological Distribution of the forms of Life
+
+    High Organization of very ancient Animals consistent with this Law
+
+    Objections to Forbes' Theory of Polarity
+
+    Rudimentary Organs
+
+    Conclusion
+
+ II.--On the Tendency of Varieties to depart indefinitely from the
+      Original Type.                                        Pp. 26-44
+
+    Instability of Varieties supposed to prove the permanent
+    distinctness of Species
+
+    The Struggle for Existence
+
+    The Law of Population of Species
+
+    The Abundance or Rarity of a Species dependent upon its more or less
+    perfect Adaptation to the Conditions of Existence
+
+    Useful Variations will tend to Increase, useless or hurtful
+    Variations to Diminish
+
+    Superior Varieties will ultimately extirpate the Original Species
+
+    The Partial Reversion of Domesticated Varieties explained
+
+    Lamarck's Hypothesis very different from that now advanced
+
+    Conclusion
+
+ III.--Mimicry, and other Protective Resemblances among
+       Animals.    Pp. 130-200
+
+    Special value of the Diurnal Lepidoptera for inquiries of this
+    Nature
+
+    Question of the rank of the Papilionidæ
+
+    Distribution of the Papilionidæ
+
+    Definition of the word Species
+
+    Laws and Modes of Variation
+
+        Simple Variability
+
+        Polymorphism or Dimorphism
+
+        Local form or variety
+
+        Co-existing Variety
+
+        Race or Subspecies
+
+        Species
+
+    Variation as specially influenced by Locality
+
+        Local Variation of Size
+
+        Local Variation of Form
+
+        Local Variations of Colour
+
+    Remarks on the facts of Local Variation
+
+    Mimicry
+
+    Concluding Remarks on Variation in Lepidoptera
+
+    Arrangement and Geographical Distribution of the Malayan Papilionidæ
+
+        Arrangement
+
+        Geographical Distribution
+
+    Range of the Groups of Malayan Papilionidæ
+
+    Remarkable peculiarities of the island of Celebes
+
+    Concluding Remarks
+
+ V.--On Instinct in Man and Animals.                     Pp. 201-210
+
+    How Instinct may be best Studied
+
+    Definition of Instinct
+
+    Does Man possess Instincts?
+
+    How Indians travel through unknown and trackless Forests
+
+ VI.--The Philosophy of Birds' Nests.                    Pp. 211-230
+
+    Instinct or Reason in the Construction of Birds' Nests
+
+    Do Men build by Reason or by Imitation?
+
+    Why does each Bird build a peculiar kind of Nest?
+
+    How do young Birds learn to build their first Nest?
+
+    Do Birds sing by Instinct or by Imitation?
+
+    Man's Works mainly Imitative
+
+    How young Birds may learn to build Nests.                                      Pp. 231-263
+
+    Changed Conditions and persistent Habits as influencing Nidification
+
+    Classification of Nests
+
+    Sexual differences of Colour in Birds
+
+    The Law which connects the Colours of Female Birds with the mode of
+    Nidification
+
+    What the Facts Teach us Colour more variable than Structure or
+    Habits, and therefore the Character which has generally been
+    modified
+
+    Exceptional cases confirmatory of the above Explanation
+
+    Real or apparent exceptions to the Law stated at p. 240
+
+    Various modes of Protection of Animals
+
+    Females of some groups require and obtain more Protection than the
+    Males
+
+    Conclusion
+
+ VIII.--Creation by Law.                                          Pp. 302-331
+
+    Wide difference of Opinion as to Man's Origin
+
+    Outline of the Theory of Natural Selection
+
+    Different effects of Natural Selection on Animals and on Man
+
+    Influence of External Nature in the development of the Human Mind
+
+    Extinction of Lower Races
+
+    The Origin of the Races of Man
+
+    The Bearing of these views on the Antiquity of Man
+
+    Their Bearing on the Dignity and Supremacy of Man
+
+    Their Bearing on the future Development of Man
+
+    Summary
+
+    Conclusion
+
+ X.--The Limits of Natural Selection as applied to Man. Pp. 333--371
+
+    What Natural Selection can Not do
+
+    The Brain of the Savage shown to be Larger than he Needs it to be
+
+        Size of Brain an important Element of Mental Power
+
+        Comparison of the Brains of Man and of Anthropoid Apes
+
+        Range of intellectual power in Man
+
+        Intellect of Savages and of Animals compared
+
+    The use of the Hairy Covering of Mammalia
+
+    The Constant absence of Hair from certain parts of Man's body a
+    remarkable Phenomenon
+
+    Savage Man feels the want of this Hairy Covering
+
+    Man's Naked Skin could not have been produced by Natural Selection
+
+    Feet and Hands of Man considered as Difficulties on the Theory of
+    Natural Selection
+
+    The Origin of Some of Man's Mental Faculties, by the preservation of
+    Useful Variations, not possible
+
+    Difficulty as to the Origin of the Moral Sense
+
+    Summary of the Argument as to the Insufficiency of Natural Selection
+    to account for the Development of Man
+
+    The Origin of Consciousness
+
+    The Nature of Matter
+
+        Matter is Force
+
+        All Force is probably Will-force
+
+    Conclusion
+
+I.
+
+ON THE LAW WHICH HAS REGULATED THE INTRODUCTION OF NEW SPECIES.[A]
+
+  +--------------------------------------------------------------+
+  | [A] Written at Sarawak in February, 1855, and published in   |
+  | the "Annals and Magazine of Natural History," September,     |
+  | 1855.                                                        |
+  +--------------------------------------------------------------+
+
+Geographical Distribution dependent on Geologic Changes.
+
+The facts proved by geology are briefly these:--That during an immense, but unknown period,
+the surface of the earth has undergone successive changes; land has sunk beneath the ocean,
+while fresh land has risen up from it; mountain chains have been elevated; islands have been
+formed into continents, and continents submerged till they have become islands; and these changes
+have taken place, not once merely, but perhaps hundreds, perhaps thousands of times:--That
+all these operations have been more or less continuous, but unequal in their progress, and
+during the whole series the organic life of the earth has undergone a corresponding alteration.
+This alteration also has been gradual, but complete; after a certain interval not a single
+species existing which had lived at the commencement of the period. This complete renewal of
+the forms of life also appears to have occurred several times:--That from the last of the geological
+epochs to the present or historical epoch, the change of organic life has been gradual: the
+first appearance of animals now existing can in many cases be traced, their numbers gradually
+increasing in the more recent formations, while other species continually die out and disappear,
+so that the present condition of the organic world is clearly derived by a natural process
+of gradual extinction and creation of species from that of the latest geological periods. We
+may therefore safely infer a like gradation and natural sequence from one geological epoch
+to another.
+
+Now, taking this as a fair statement of the results of geological inquiry, we see that the
+present geographical distribution of life upon the earth must be the result of all the previous
+changes, both of the surface of the earth itself and of its inhabitants. Many causes, no doubt,
+have operated of which we must ever remain in ignorance, and we may, therefore, expect to find
+many details very difficult of explanation, and in attempting to give one, must allow ourselves
+to call into our service geological changes which it is highly probable may have occurred,
+though we have no direct evidence of their individual operation.
+
+The great increase of our knowledge within the last twenty years, both of the present and past
+history of the organic world, has accumulated a body of facts which should afford a sufficient
+foundation for a comprehensive law embracing and explaining them all, and giving a direction
+to new researches. It is about ten years since the idea of such a law suggested itself to the
+writer of this essay, and he has since taken every opportunity of testing it by all the newly-ascertained
+facts with which he has become acquainted, or has been able to observe himself. These have
+all served to convince him of the correctness of his hypothesis. Fully to enter into such a
+subject would occupy much space, and it is only in consequence of some views having been lately
+promulgated, he believes, in a wrong direction, that he now ventures to present his ideas to
+the public, with only such obvious illustrations of the arguments and results as occur to him
+in a place far removed from all means of reference and exact information.
+
+A Law deduced from well-known Geographical and Geological Facts. 4th. The phænomena of rudimentary
+organs. We will briefly endeavour to show its bearing upon each of these.
+
+The Form of a true system of Classification determined by this Law. It is evidently possible
+that two or three distinct species may have had a common antitype, and that each of these may
+again have become the antitypes from which other closely allied species were created. The effect
+of this would be, that so long as each species has had but one new species formed on its model,
+the line of affinities will be simple, and may be represented by placing the several species
+in direct succession in a straight line. But if two or more species have been independently
+formed on the plan of a common antitype, then the series of affinities will be compound, and
+can only be represented by a forked or many branched line. Now, all attempts at a Natural classification
+and arrangement of organic beings show, that both these plans have obtained in creation. They
+are said to have an analogy to each other when they are so far removed from their common antitype
+as to differ in many important points of structure, while they still preserve a family resemblance.
+We are also made aware of the difficulty of arriving at a true classification, even in a small
+and perfect group;--in the actual state of nature it is almost impossible, the species being
+so numerous and the modifications of form and structure so varied, arising probably from the
+immense number of species which have served as antitypes for the existing species, and thus
+produced a complicated branching of the lines of affinity, as intricate as the twigs of a gnarled
+oak or the vascular system of the human body. The latter class have been very generally rejected
+by naturalists, as contrary to nature, notwithstanding the ability with which they have been
+advocated; but the circular system of affinities seems to have obtained a deeper hold, many
+eminent naturalists having to some extent adopted it. The complicated branching of the lines
+of affinities in extensive groups must also afford great facilities for giving a show of probability
+to any such purely artificial arrangements. Their death-blow was given by the admirable paper
+of the lamented Mr. Strickland, published in the "Annals of Natural History," in which he so
+clearly showed the true synthetical method of discovering the Natural System.
+
+Geographical Distribution of Organisms. If in any case the antitype had an extensive range,
+two or more groups of species might have been formed, each varying from it in a different manner,
+and thus producing several representative or analogous groups. The Sylviadæ of Europe and the
+Sylvicolidæ of North America, the Heliconidæ of South America and the Euploeas of the East,
+the group of Trogons inhabiting Asia, and that peculiar to South America, are examples that
+may be accounted for in this manner. They must have been first peopled, like other newly-formed
+islands, by the action of winds and currents, and at a period sufficiently remote to have had
+the original species die out, and the modified prototypes only remain. In the same way we can
+account for the separate islands having each their peculiar species, either on the supposition
+that the same original emigration peopled the whole of the islands with the same species from
+which differently modified prototypes were created, or that the islands were successively peopled
+from each other, but that new species have been created in each on the plan of the pre-existing
+ones. St. Helena is a similar case of a very ancient island having obtained an entirely peculiar,
+though limited, flora. On the other hand, no example is known of an island which can be proved
+geologically to be of very recent origin (late in the Tertiary, for instance), and yet possesses
+generic or family groups, or even many species peculiar to itself.
+
+When a range of mountains has attained a great elevation, and has so remained during a long
+geological period, the species of the two sides at and near their bases will be often very
+different, representative species of some genera occurring, and even whole genera being peculiar
+to one side only, as is remarkably seen in the case of the Andes and Rocky Mountains. A similar
+phænomenon occurs when an island has been separated from a continent at a very early period.
+The shallow sea between the Peninsula of Malacca, Java, Sumatra and Borneo was probably a continent
+or large island at an early epoch, and may have become submerged as the volcanic ranges of
+Java and Sumatra were elevated. The organic results we see in the very considerable number
+of species of animals common to some or all of these countries, while at the same time a number
+of closely allied representative species exist peculiar to each, showing that a considerable
+period has elapsed since their separation. The facts of geographical distribution and of geology
+may thus mutually explain each other in doubtful cases, should the principles here advocated
+be clearly established.
+
+In all those cases in which an island has been separated from a continent, or raised by volcanic
+or coralline action from the sea, or in which a mountain-chain has been elevated in a recent
+geological epoch, the phænomena of peculiar groups or even of single representative species
+will not exist. Our own island is an example of this, its separation from the continent being
+geologically very recent, and we have consequently scarcely a species which is peculiar to
+it; while the Alpine range, one of the most recent mountain elevations, separates faunas and
+floras which scarcely differ more than may be due to climate and latitude alone.
+
+The series of facts alluded to in Proposition (3), of closely allied species in rich groups
+being found geographically near each other, is most striking and important. Mr. Lovell Reeve
+has well exemplified it in his able and interesting paper on the Distribution of the Bulimi.
+It is also seen in the Humming-birds and Toucans, little groups of two or three closely allied
+species being often found in the same or closely adjoining districts, as we have had the good
+fortune of personally verifying. But it is the same throughout Nature; every class and order
+of animals will contribute similar facts. Hitherto no attempt has been made to explain these
+singular phenomena, or to show how they have arisen. Why are the genera of Palms and of Orchids
+in almost every case confined to one hemisphere? Why are the closely allied species of brown-backed
+Trogons all found in the East, and the green-backed in the West? Why are the Macaws and the
+Cockatoos similarly restricted? Insects furnish a countless number of analogous examples;--the
+Goliathi of Africa, the Ornithopteræ of the Indian Islands, the Heliconidæ of South America,
+the Danaidæ of the East, and in all, the most closely allied species found in geographical
+proximity.
+
+Geological Distribution of the Forms of Life.
+
+The phænomena of geological distribution are exactly analogous to those of geography. Closely
+allied species are found associated in the same beds, and the change from species to species
+appears to have been as gradual in time as in space. Geology, however, furnishes us with positive
+proof of the extinction and production of species, though it does not inform us how either
+has taken place. The extinction of species, however, offers but little difficulty, and the
+modus operandi has been well illustrated by Sir C. Lyell in his admirable "Principles." Geological
+changes, however gradual, must occasionally have modified external conditions to such an extent
+as to have rendered the existence of certain species impossible. The extinction would in most
+cases be effected by a gradual dying-out, but in some instances there might have been a sudden
+destruction of a species of limited range.
+
+High Organization of very ancient Animals consistent with this Law.
+
+Much discussion has of late years taken place on the question, whether the succession of life
+upon the globe has been from a lower to a higher degree of organization. The admitted facts
+seem to show that there has been a general, but not a detailed progression. Mollusca and Radiata
+existed before Vertebrata, and the progression from Fishes to Reptiles and Mammalia, and also
+from the lower mammals to the higher, is indisputable. On the other hand, it is said that the
+Mollusca and Radiata of the very earliest periods were more highly organized than the great
+mass of those now existing, and that the very first fishes that have been discovered are by
+no means the lowest organised of the class. Now it is believed the present hypothesis will
+harmonize with all these facts, and in a great measure serve to explain them; for though it
+may appear to some readers essentially a theory of progression, it is in reality only one of
+gradual change. It is, however, by no means difficult to show that a real progression in the
+scale of organization is perfectly consistent with all the appearances, and even with apparent
+retrogression, should such occur.
+
+Returning to the analogy of a branching tree, as the best mode of representing the natural
+arrangement of species and their successive creation, let us suppose that at an early geological
+epoch any group (say a class of the Mollusca) has attained to a great richness of species and
+a high organization. Now let this great branch of allied species, by geological mutations,
+be completely or partially destroyed. Subsequently a new branch springs from the same trunk,
+that is to say, new species are successively created, having for their antitypes the same lower
+organized species which had served as the antitypes for the former group, but which have survived
+the modified conditions which destroyed it. This new group being subject to these altered conditions,
+has modifications of structure and organization given to it, and becomes the representative
+group of the former one in another geological formation. It may, however, happen, that though
+later in time, the new series of species may never attain to so high a degree of organization
+as those preceding it, but in its turn become extinct, and give place to yet another modification
+from the same root, which may be of higher or lower organization, more or less numerous in
+species, and more or less varied in form and structure than either of those which preceded
+it. Again, each of these groups may not have become totally extinct, but may have left a few
+species, the modified prototypes of which have existed in each succeeding period, a faint memorial
+of their former grandeur and luxuriance. The foregoing remarks appear to apply to the case
+of the Mollusca, which, at a very early period, had reached a high organization and a great
+development of forms and species in the testaceous Cephalopoda.
+
+Objections to Forbes' Theory of Polarity.
+

@@ -1,0 +1,436 @@
+﻿THE GENUS PINUS
+
+               PUBLICATIONS OF THE ARNOLD ARBORETUM No. 5
+
+                                 THE
+
+                             GENUS PINUS
+
+                                 BY
+
+                         GEORGE RUSSELL SHAW
+
+          Es giebt jedoch auch Arten--und dieses ist
+          für den Systematiker wie für den Physiologen
+          gleich wichtig--welche sich den wechselnden
+          Bedingungen der Feuchtigkeit so vollkommen
+          anpassen, dass ihre extremen Formen zu
+          ungleichen Arten zu gehören scheinen.
+
+                                        Schimper.
+
+                              CAMBRIDGE
+                     PRINTED AT THE RIVERSIDE PRESS
+                                1914
+
+               REPRINTED 1958 BY THE MURRAY PRINTING COMPANY
+                      FORGE VILLAGE, MASSACHUSETTS
+
+  CONTENTS
+
+                                                        Page     Plate
+
+  PART 1 CHARACTERS OF THE GENUS                           1
+
+    Cotyledon, Primary Leaf, Bud and Branchlet          1, 2         I
+
+    Secondary Leaves                                       2        II
+
+      External Characters                                  4
+
+      Internal Characters                                  4
+
+    Flowers and Conelet                                    7       III
+
+    Cone                                                   8        IV
+
+      Phyllotaxis                                         12         V
+
+      Cone-tissues and Seeds                           12-16        VI
+
+    Wood                                                  17       VII
+
+    Bark                                                  18
+
+  PART 2 CLASSIFICATION OF THE SPECIES                    22
+
+    Sections, subsections and groups                      25
+
+    Section Haploxylon                                    26
+
+      Subsection Cembra                                   26
+
+        Group Cembrae                                     26
+
+          Pinus Koraiensis, Cembra, Albicaulis        26, 27      VIII
+
+        Group Flexiles                                    28
+
+          Pinus Flexilis, Armandi                     28, 30        IX
+
+        Group Strobi                                      30
+
+          Pinus Ayacahuite, Lambertiana               30, 32         X
+
+                Parviflora, Peuce, Excelsa            32, 34        XI
+
+                Monticola, Strobus                    34, 36       XII
+
+      Subsection Paracembra                               36
+
+        Group Cembroides                                  38
+
+          Pinus Cembroides, Pinceana, Nelsonii        38, 40      XIII
+
+        Group Gerardianae                                 40
+
+          Pinus Bungeana, Gerardiana                  40, 42       XIV
+
+        Group Balfourianae                                42
+
+          Pinus Balfouriana, Aristata                 42, 44        XV
+
+    Section Diploxylon                                    44
+
+      Subsection Parapinaster                             44
+
+        Group Leiophyllae                                 44
+
+          Pinus Leiophylla, Lumholtzii                44, 46       XVI
+
+        Group Longifoliae                                 46
+
+          Pinus Longifolia, Canariensis               46, 48      XVII
+
+        Group Pineae                                      48
+
+          Pinus Pinea                                     48     XVIII
+
+      Subsection Pinaster                                 50
+
+        Group Laricionea                                  51
+
+          Pinus Resinosa, Tropicalis                  51, 52       XIX
+
+                Massoniana, Densiflora                    52        XX
+
+                Sylvestris, Montana                       54       XXI
+
+                Luchuensis, Thunbergii, Nigra         56, 58      XXII
+
+                Merkusii, Sinensis, Insularis         58, 60     XXIII
+
+        Group Australes                                   62
+
+          Pinus Pseudostrobus                             62      XXIV
+
+                Montezumae                                64       XXV
+
+                Ponderosa                                 66      XXVI
+
+                Teocote, Lawsonii                         68     XXVII
+
+                Occidentalis, Palustris                   70    XXVIII
+
+                Caribaea                                  70      XXIX
+
+                Taeda, Glabra, Echinata               72, 74       XXX
+
+        Group Insignes                                    76
+
+          Pinus Pringlei, Oocarpa                     76, 78      XXXI
+
+                Halepensis, Pinaster                  78, 80     XXXII
+
+                Virginiana, Clausa                        80    XXXIII
+
+                Rigida, Serotina, Pungens             82, 84     XXXIV
+
+                Banksiana, Contorta                       84      XXXV
+
+                Greggii, Patula                           86     XXXVI
+
+                Muricata, Attenuata, Radiata          86, 88    XXXVII
+
+        Group Macrocarpae                                 90
+
+          Pinus Torreyana, Sabiniana                      90   XXXVIII
+
+                Coulteri                                  93     XXXIX
+
+  INDEX                                                   94
+
+INTRODUCTION
+
+This discussion of the characters of Pinus is an attempt to determine their taxonomic significance
+and their utility for determining the limits of the species. A systematic arrangement follows,
+based on the evolution of the cone and seed from the comparatively primitive conditions that
+appear in Pinus cembra to the specialized cone and peculiar dissemination of Pinus radiata
+and its associates. This arrangement involves no radical change in existing systems. The new
+associations in which some of the species appear are the natural result of another point of view.
+
+Experience with Mexican species has led me to believe that a Pine can adapt itself to various
+climatic conditions and can modify its growth in response to them. Variations in dimensions
+of leaf or cone, the number of leaves in the fascicle, the presence of pruinose branchlets,
+etc., which have been thought to imply specific distinctions, are often the evidence of facile
+adaptability. In fact such variations, in correlation with climatic variation, may argue, not
+for specific distinction, but for specific identity. The remarkable variation in the species
+may be attributed partly to this adaptability, partly to a participation, more or less pronounced,
+in the evolutionary processes that culminate in the serotinous Pines.
+
+PART I
+
+CHARACTERS OF THE GENUS
+
+THE COTYLEDON. Plate I, figs. 1-3.
+
+The upper half of the embryo in Pinus is a cylindrical fascicle of 4 to 15 cotyledons (fig.
+1). The cross-section of a cotyledon is, therefore, a triangle whose angles vary with the number
+composing the fascicle. Sections from fascicles of 10 and of 5 cotyledons are shown in figs.
+2 and 3. Apart from this difference cotyledons are much alike. Their number varies and is indeterminate
+for all species, while any given number is common to so many species that the character is
+of no value.
+
+THE PRIMARY LEAF. Plate I, figs. 4-6.
+
+Primary leaves follow the cotyledons immediately (fig. 4) and assume the usual functions of
+foliage for a limited period, varying from one to three years, secondary fascicles appearing
+here and there in their axils. With the permanent appearance of the secondary leaves the green
+primaries disappear and their place is taken by bud-scales, which in the spring and summer
+persist as scarious bracts, each subtending a fascicle of secondary leaves. At this stage the
+bracts present two important distinctions.
+
+    1. The bract-base is non-decurrent, like the leaf-base
+         of Abies                                                fig. 5.
+    2. The bract-base is decurrent, like the leaf-base of Picea  fig. 6.
+
+The two sections of the genus, Haploxylon and Diploxylon, established by Koehne on the single
+and double fibro-vascular bundle of the leaf, are even more accurately characterized by these
+two forms of bract-insertion. The difference between them, however, is most obvious on long
+branchlets with wide intervals between the leaf-fascicles.
+
+The bracts of spring-shoots are the scarious bud-scales of the previous winter; but the bracts
+of summer-shoots have the form and green color of the primary leaf.
+
+THE BUD. Plate I, figs. 7-11.
+
+The winter-bud is an aggregate of minute buds, each concealed in the axil of a primary leaf
+converted into a scarious, more or less fimbriate, bud-scale. Buds from which normal growth
+develops appear only at the nodes of the branches. On uninodal branchlets they form an apical
+group consisting of a terminal bud with a whorl of subterminal buds about its base. On multinodal
+branchlets the inner nodes bear lateral buds which may be latent.
+
+Fig. 7 represents a magnified bud of P. resinosa, first immersed in alcohol to dissolve the
+resin, then deprived of its scales. This bud contains both fascicle-buds, destined for secondary
+leaves, and larger paler buds at its base. These last are incipient staminate flowers, sufficiently
+developed for recognition. Such flower-bearing buds are characteristic of the Hard Pines in
+distinction from the Soft Pines whose staminate flowers cannot be identified in the bud.
+
+The want of complete data leaves the invariability of this distinction in question, but with
+all species that I have examined, the flowers of Hard Pines are further advanced at the end
+of the summer. In the following year they open earlier than those of Soft Pines in the same
+locality. The staminate flowers of some Hard Pines (resinosa, sylvestris, etc.,) are not apparent
+without removing the bud-scales, but, with most Hard Pines, they form enlargements of the bud
+(fig. 9).
+
+Invisible or latent buds are present at the nodes and at the apex of dwarf shoots. The former
+are the origin of the numerous shoots that cover the trunk and branches of P. rigida, leiophylla
+and a few other species (fig. 10). The latter develop into shoots in the centre of a leaf-fascicle
+(fig. 11) when the branchlet, bearing the fascicle, has been injured.
+
+The size, color and form of buds, the presence of resin in quantity, etc., assist in the diagnosis
+of species. Occasionally a peculiar bud, like that of P. palustris, may be recognized at once.
+
+THE BRANCHLET. Plate I, figs. 12-14.
+
+The branchlet, as here understood, is the whole of a season's growth from a single bud, and
+may consist of a single internode (uninodal, fig. 12-a) or of two or more internodes (multinodal,
+fig. 13), each internode being defined by a leafless base and a terminal node of buds.
+
+The spring-shoot is uninodal in all Soft Pines and in many Hard Pines, but, in P. taeda and
+its allies and in species with serotinous cones, it is more or less prevalently multinodal.
+
+The uninodal spring-shoot may remain so throughout the growing season and become a uninodal
+branchlet. Or a summer-shoot may appear on vigorous branches of any species with the result
+of converting a uninodal spring-shoot into an imperfect multinodal branchlet. The summer-shoot
+may be recognized, during growth, by its green, not scarious bracts and, at the end of the
+season, by the imperfect growth of its wood and foliage (fig. 14).
+
+The perfect multinodal branchlet is formed in the winter-bud (fig. 8-a) and the spring-shoot
+is multinodal. It is gradually evolved among the Hard Pines, where it may be absent, rare,
+frequent or prevalent, according to the species. In fact there is, in Pinus, an evolutionary
+tendency toward multinodal growth, with its beginnings in the summer-shoot and its culmination
+in the multinodal winter-bud, most prevalent among the serotinous Pines.
+
+The multinodal shoot is never invariable in a species, but is rare, common or prevalent. This
+condition prevents its employment for grouping species. For Pines are not sharply divided into
+multinodal and uninodal species, and no exact segregation of them, based on this difference,
+is possible. In fact the character is unequally developed among closely related species, such
+as P. palustris and caribaea. Both produce multinodal shoots, but the former so rarely that
+it should be classed as a uninodal species, while the latter is characteristically multinodal.
+The multinodal spring-shoot, however, has a certain correlative value in its relation to other
+evolutionary processes that are obvious in the genus.
+
+The length of the branchlet is much influenced by different soils and climates. In species
+able to adapt themselves to great changes, the length of the internode may vary from 50 cm.
+or more to 1 cm. or less. In the latter case the branch is a series of very short leafless
+joints terminated by a crowded penicillate tuft of leaves (fig. 12-b). Such a growth may be
+seen on any species (ponderosa, albicaulis, resinosa, etc.) that can survive exposure and poor
+nourishment.
+
+The presence of wax, as a bloom on the branchlet, is associated with trees in arid localities,
+especially Mexico, where it is very common. With several species the character is inconstant,
+apparently dependent on environment, and is a provision against too rapid transpiration.
+
+The branchlet furnishes evidence of the section to which the species belongs, for the bract-bases
+persist after the bracts have fallen away. The color of the branchlet, its lustre, the presence
+of minute hairs, etc., are often suggestions for determining species.
+
+THE SECONDARY LEAF. Plate II.
+
+Secondary leaves, the permanent foliage of Pines, are borne on dwarf-shoots in the axils of
+primary leaves. They form cylindrical fascicles, rarely monophyllous, prevalently of 2, 3 or
+5 leaves, occasionally of 4, 6, 7, or 8 leaves. The scales of the fascicle-bud elongate into
+a basal sheath, deciduous (fig. 15) in all Soft Pines except P. Nelsonii, persistent (fig.
+16) in all Hard Pines except P. leiophylla and Lumholtzii. Inasmuch as these three species
+are easily recognized, the fascicle-sheath is useful for sectional distinctions.
+
+EXTERNAL CHARACTERS.
+
+The number of leaves in the fascicle is virtually constant in most species, the variations
+being too rare to be worthy of consideration. With some species, however, heteromerous fascicles
+are normal. The influences that cause this variation are not always apparent (echinata, etc.),
+but with P. ponderosa, leiophylla, sinensis and others, the number of leaves in the fascicle
+is, in some degree, dependent on climatic conditions, the smaller number occurring in colder
+regions. In Mexico, for example, where snow-capped mountains lie on subtropical table-lands
+and extremes of temperature are in juxtaposition, the conditions are favorable for the production
+of species with heteromerous fascicles, and the number of leaves in the fascicle possesses
+often climatic rather than specific significance.
+
+Among conifers, the leaf of Pinus attains extraordinary length with great variation, from 5
+cm. or less to 50 cm. or more, the maximum for each species being usually much more than twice
+the minimum. Climate is the predominating influence; for the shortest leaves occur on alpine
+and boreal species, the longest leaves on species in or near the tropics.
+
+The length of the leaf is complicated by the peculiarities of individual trees and by pathological
+influences; as a general rule, however, the length of leaves is less or greater according to
+unfavorable or favorable conditions of temperature, moisture, soil and exposure. Therefore
+the dimensions of the leaf may be misleading. It can be said, however, that certain species
+always produce short leaves, others leaves of medium length, and others very long leaves.
+
+Persistence of the leaf varies with the species and with the individual tree. But it is noteworthy
+that the longest persistence is associated with short leaves (Balfouriana, albicaulis, montana,
+etc.).
+
+INTERNAL CHARACTERS.
+
+Since the leaf-fascicle is cylindrical, the cross-section of a leaf is a sector, its proportional
+part, of a circle. Theoretically the leaf, in section, should indicate the number of leaves
+composing its fascicle. This is absolutely true for fascicles of two leaves only. No fascicle
+of five leaves, that I have examined, is equally apportioned among its five members. It may
+be divided in various ways, one of which is shown in fig. 18, where the leaf (a) might be mistaken
+for one of a fascicle of 3, and the leaf (b) for one of a fascicle of 6. Therefore if absolute
+certainty is required, a fascicle of triquetral leaves is best determined by actual count.
+
+The transverse section of a leaf may be conveniently divided into three distinct parts--1,
+the dermal tissues, epiderm, hypoderm and stomata (fig. 17-a)--2, the green tissue, containing
+the resin-ducts (fig. 17-b)--3, the stelar tissues, enclosed by the endoderm and containing
+the fibro-vascular bundle (fig. 17-c).
+
+THE DERMAL TISSUES OF THE LEAF.
+
+The stomata of Pine leaves are depressed below the surface and interrupt the continuity of
+epiderm and hypoderm. They are wanting on the dorsal surface of the leaves of several Soft
+Pines, constantly in some species, irregularly in others. In Hard Pines, however, all surfaces
+of the leaf are stomatiferous. In several species of the Soft Pines the longitudinal lines
+of stomata are very conspicuous from the white bloom which modifies materially the general
+color of the foliage.
+
+Under the action of hydrochloric acid the hypoderm is sharply differentiated from the epiderm
+by a distinct reddish tint, but without the aid of a reagent the two tissues do not always
+differ in appearance. The cells of epiderm and hypoderm may be so similar that they appear
+to form a single tissue. In most species, however, the epiderm is distinct, while the cells
+of the hypoderm are either uniform, with equally thin or thick walls--or biform, with very
+thin walls in the outer row of cells and very thick walls in the inner row or rows of cells--or
+multiform, with cell-walls gradually thicker toward the centre of the leaf. These conditions
+may be tabulated as follows--
+
+    Cells of epiderm and hypoderm similar              fig. 19.
+    Cells of epiderm and hypoderm distinct.
+      Cells of hypoderm uniform, thin or thick    figs. 20, 21.
+      Cells of hypoderm biform                         fig. 22.
+      Cells of hypoderm multiform                      fig. 23.
+
+The biform hypoderm is not always obvious (clausa, Banksiana, etc.) where in some leaves there
+is but one row of cells. But with the examination of other leaves one or more cells of a second
+row will be found with very thick walls. Among Hard Pines there is no Old World species with
+a biform hypoderm. But there are a few American species with uniform hypoderm (resinosa, tropicalis,
+patula and Greggii); while, in some leaves of the few American Hard Pines with multiform hypoderm,
+the uniform hypoderm is a variation.
+
+THE GREEN TISSUE.
+
+In this tissue are the resin-ducts, each with a border of cells, corresponding in appearance
+and in chemical reaction with the cells of the hypoderm and with thinner or thicker walls.
+With reference to the green tissue the foliar duct may be in one of four positions.
+
+    1. External   against the hypoderm                    fig. 24.
+    2. Internal   against the endoderm                    fig. 28.
+    3. Medial     in the green tissue, touching neither
+                    hypoderm nor endoderm                 fig. 26.
+    4. Septal     touching both endoderm and hypoderm,
+                    forming a septum                      fig. 30.
+
+Among the Soft Pines the external duct is invariable in the subsection Paracembra. It is also
+characteristic of the Strobi, where it is sometimes associated with a medial duct. In the Cembrae
+and the Flexiles, however, the ducts are external in some species, or medial or both in others,
+without regard to the affinities of these species.
+
+Among the Hard Pines the external duct is characteristic of the Old World, there being but
+two American Pines with this character (resinosa and tropicalis). The internal duct is peculiar
+to Hard Pines of the New World, its presence in Old World species being extremely rare. The
+medial duct is common to species of both hemispheres, either alone or in association with ducts
+in other positions (figs. 25, 27). The septal duct is peculiar to a few species (oocarpa, tropicalis,
+and less frequently Pringlei and Merkusii). I have also seen it in a leaf of P. canariensis.
+The internal and septal ducts appear to be confined to the species of warm-temperate or tropical
+countries.
+
+The number of resin-ducts of a single leaf may be limited to two or three (strobus, koraiensis,
+etc.), but in many species it is exceedingly variable and often large (pinaster, sylvestris,
+etc.). Eighteen or more ducts in a single leaf have been recorded. Such large numbers are peculiar
+to Pinus. Occasionally a single leaf, possibly the leaves of a single tree, may be without
+ducts, but this is never true of all the leaves of a species.
+
+THE STELAR TISSUES.
+
+The walls of the endoderm are, in most species, uniform, but, with P. albicaulis and some species
+of western North America, the outer walls of the cells are conspicuously thickened (fig. 32).
+Both thin and thick walls may be found among the leaves of the group Macrocarpae and of the
+species longifolia.
+
+The fibro-vascular bundle of the leaf is single in Soft Pines, double in Hard Pines. This distinction
+is employed by Koehne as the basis of his two sections, Haploxylon and Diploxylon. The double
+bundle is usually obvious even when the two parts are contiguous, but they are sometimes completely
+merged into an apparently single bundle. This condition, however, is never constant in a Hard
+Pine, and a little investigation will discover a leaf with a true double bundle.
+
+Some cells about the fibro-vascular bundle acquire thick walls with the appearance and chemical
+reaction of the hypoderm cells. Among the Soft Pines this condition is most obvious in the
+group Cembroides. Among the Hard Pines it appears in all degrees of development, being absent
+(figs. 24, 25), sometimes in irregular lines above and below the bundle (figs. 26, 27, 30,
+31), or forming a conspicuous tissue between and partly enclosing the two parts of the bundle
+(figs. 28, 29).
+
+The leaf-section furnishes sectional and other lesser distinctions. It is often decisive in
+separating species otherwise difficult to distinguish (nigra and resinosa or Thunbergii and
+sinensis, etc.). Sometimes it is sufficiently distinct to determine a species without recourse
+to other characters (tropicalis, oocarpa, Merkusii, etc.). An intimate knowledge of the leaf-section,
+with an understanding of the limits of its variation, is a valuable equipment for recognizing
+species.
+
+THE FLOWERS. Plate III, figs. 33-39.
+
+The flowers in Pinus are monoecious, the pistillate in the position of a long shoot, taking
+the place of a subterminal or lateral bud, the staminate in the position of a dwarf-shoot,
+taking the place of a leaf-fascicle but confined to the basal part of the internode.
+

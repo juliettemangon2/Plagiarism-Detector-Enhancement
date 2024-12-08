@@ -1,0 +1,271 @@
+﻿All incubators must be kept in a warm location, whether operated by a lamp or otherwise. The
+warmer the room or cellar, the less warmth required to be supplied. Bear in mind that the incubator
+recommended has four inches of sawdust surrounding it, and more sawdust would still be an advantage.
+The sawdust is not used to protect against the outside temperature, but to absorb and hold
+a large amount of heat, and that is the secret of its success. The directions given were to
+first fill the tank with boiling water and allow it to remain for 24 hours. In the meantime
+the sawdust absorbs the heat, and more boiling water is then added until the egg-drawer is
+about 110 or 115 degrees. By this time there is a quantity of stored heat in the sawdust. The
+eggs will cool the drawer to 103. The loss of heat (due to its being held by the sawdust) will
+be very slow. All that is needed then is to supply that which will be lost in 12 hours, and
+a bucket of boiling water should keep the heat about correct, if added twice a day, but it
+may require more, as some consideration must be given to fluctuations of the temperature of
+the atmosphere. The third week of incubation, owing to animal heat from the embryo chicks,
+a bucket of boiling water will sometimes hold temperature for 24 hours. No objection can be
+urged against attaching a lamp arrangement, but a lamp is dangerous at night, while the flame
+must be regulated according to temperature. The object of giving the hot water method was to
+avoid lamps. We have a large number of them in use (no lamps) here, and they are equal to any
+others in results.
+
+With all due respect to some inquirers, the majority of them seem afraid of the work. Now,
+there is some work with all incubators. What is desired is to get rid of the anxiety. I stated
+that a bucket of water twice a day would suffice. I trusted to the judgment of the reader somewhat.
+Of course, if the heat in the egg drawer is 90 degrees, and the weather cold, it may then take
+a wash boiler full of water to get the temperature back to 103 degrees, but when it is at 103
+keep it there, even if it occasionally requires two buckets of boiling water. To judge of what
+may be required, let us suppose the operator looks at the thermometer in the morning, and it
+is exactly 103 degrees. He estimates that it will lose a little by night, and draws off half
+a bucket of water. At night he finds it at 102. Knowing that it is on what we term "the down
+grade," he applies a bucket and a half (always allowing for the night being colder than the
+day). As stated, the sawdust will not allow the drawer to become too cold, as it gives off
+heat to the drawer. And, as the sawdust absorbs, it is not easy to have the heat too high.
+One need not even look at the drawer until the proper times. No watching--the incubator regulates
+itself. If a lamp is used, too much heat may accumulate. The flame must be occasionally turned
+up or down, and the operator must remain at home and watch it, while during the third week
+he will easily cook his eggs.
+
+The incubator can be made at home for so small a sum (about $5 for the tank, $1 for faucet,
+etc., with 116 feet of lumber) that it will cost but little to try it. A piece of glass can
+be placed in front of the egg drawer, if preferred. If the heat goes down to 90, or rises at
+times to 105, no harm is done. But it works well, and hatches, the proof being that hundreds
+are in use. I did not give the plan as a theory or an experiment. They are in practical use
+here, and work alongside of the more expensive ones, and have been in use for four years. To
+use a lamp attachment, all that is necessary is to have a No. 2 burner lamp with a riveted
+sheet-iron chimney, the chimney fitting over the flame, like an ordinary globe, and extending
+the chimney (using an elbow) through the tank from the rear, ending in front. It should be
+soldered at the tank. The heat from the lamp will then pass through the chimney and consequently
+warm the surrounding water.--Rural New-Yorker.
+
+[For description and illustrations of this incubator see SUPPLEMENT, No. 630.]
+
+       *       *       *       *       *
+
+THE PEAK OF TENERIFFE.
+
+The Hon. Ralph Abercromby made a trip to the island of Teneriffe in October, 1887, for the
+purpose of making some electrical and meteorological observations, and now gives some of the
+results which he obtained, which may be summarized as follows: The electrical condition of
+the peak of Teneriffe was found to be the same as in every other part of the world. The potential
+was moderately positive, from 100 to 150 volts, at 5 ft. 5 in. from the ground, even at considerable
+altitudes; but the tension rose to 549 volts on the summit of the peak, 12,200 ft., and to
+247 volts on the top of the rock of Gayga, 7,100 feet. A large number of halos were seen associated
+with local showers and cloud masses. The necessary ice dust appeared to be formed by rising
+currents. The shadow of the peak was seen projected against the sky at sunset. The idea of
+a southwest current flowing directly over the northeast trade was found to be erroneous. There
+was always a regular vertical succession of air currents in intermediate directions at different
+levels from the surface upward, so that the air was always circulating on a complicated screw
+system.
+
+       *       *       *       *       *
+
+ESTRADE'S HIGH SPEED LOCOMOTIVE.
+
+We illustrate a very remarkable locomotive, which has been constructed from the designs of
+M. Estrade, a French engineer. This engine was exhibited last year in Paris. Although the engine
+was built, M. Estrade could not persuade any railway company to try it for him, and finally
+he applied to the French government, who have at last sanctioned the carrying out of experiments
+with it on one of the state railway lines. The engine is in all respects so opposed to English
+ideas that we have hitherto said nothing about it. As, however, it is going to be tried, an
+importance is given to it which it did not possess before; and, as a mechanical curiosity,
+we think it is worth the consideration of our readers.
+
+In order that we may do M. Estrade no injustice, we reproduce here in a condensed form, and
+in English, the arguments in its favor contained in a paper written by M. Max de Nansouty,
+C.E., who brought M. Estrade's views before the French Institution of Civil Engineers, on May
+21, 1886. M. Nansouty's paper has been prepared with much care, and contains a great deal of
+useful data quite apart from the Estrade engine. The paper in question is entitled "Memoire
+relatif au Materiel Roulant a Grand Vitesse," D.M. Estrade.
+
+About thirty years ago, M. Estrade, formerly pupil of the Polytechnic School, invented rolling
+stock for high speed under especial conditions, and capable of leading to important results,
+more especially with regard to speed. Following step by step the progress made in the construction
+of railway stock, the inventor, from time to time, modified and improved his original plan,
+and finally, in 1884, arrived at the conception of a system entirely new in its fundamental
+principles and in its execution. A description of this system is the object of the memoir.
+
+The great number of types of locomotives and carriages now met with in France, England, and
+the United States renders it difficult to combine their advantages, as M. Estrade proposed
+to do, in a system responding to the requirements of the constructor. His principal object,
+however, has been to construct, under specially favorable conditions, a locomotive, tender,
+and rolling stock adapted to each other, so as to establish a perfect accord between these
+organs when in motion. It is, in fact, a complete train, and not, as sometimes supposed, a
+locomotive only, of an especial type, which has been the object he set before him. Before entering
+into other considerations, we shall first give a description of the stock proposed by M. Estrade.
+The idea of the invention consists in the use of coupled wheels of large diameter and in the
+adoption of a new system of double suspension.
+
+The locomotive and tender we illustrate were constructed by MM. Boulet & Co. The locomotive
+is carried on six driving wheels, 8 feet 3 inches in diameter. The total weight of the engine
+is thus utilized for adhesion. The accompanying table gives the principal dimensions:
+
+TABLE I.
+
+  +---------------------------------------+
+  |                       | ft. in.       |
+  +-----------------------+---------------+
+  |Total length of engine.| 32  8         |
+  +-----------------------+---------------+
+  |Width between frames.  |  4  1         |
+  +-----------------------+---------------+
+  |Wheel base, total.     | 16  9         |
+  +-----------------------+---------------+
+  |Diameter of cylinder.  |  1  6½        |
+  +-----------------------+---------------+
+  |Length of stroke.      |  2  3½        |
+  +-----------------------+---------------+
+  |Grate surface.         | 25 sq. feet.  |
+  +-----------------------+---------------+
+  |Total heating surface. | 1,400 sq. ft. |
+  +-----------------------+---------------+
+  |Weight empty.          | 38 tons.      |
+  +-----------------------+---------------+
+  |Weight full.           | 42 tons.      |
+  +---------------------------------------+
+
+The high speeds--77 to 80 miles an hour--in view of which this stock has been constructed have,
+it will be seen, caused the elements relative to the capacity of the boiler and the heating
+surfaces to be developed as much as possible. It is in this, in fact, that one of the great
+difficulties of the problem lies, the practical limit of stability being fixed by the diameter
+of the driving wheels. Speed can only be obtained by an expenditure of steam which soon becomes
+such as rapidly to exhaust the engine unless the heating surface is very large.
+
+The tender, also fitted with wheels of 8 ft. 3 in. in diameter, offers no particular feature;
+it is simply arranged so as to carry the greatest quantity of coal and water.
+
+M. Estrade has also designed carriages. One has been constructed by MM. Reynaud, Bechade, Gire
+& Co., which has very few points in common with those in general use. Independently of the
+division of the compartments into two stories, wheels 8 ft. 3 in. in diameter are employed,
+and the double system of suspension adopted. Two axles, 16 ft. apart, support, by means of
+plate springs, an iron framing running from end to end over the whole length, its extremities
+being curved toward the ground. Each frame carries in its turn three other plate springs, to
+which the body is suspended by means of iron tie-rods serving to support it. This is then a
+double suspension, which at once appears to be very superior to the systems adopted up to the
+present time. The great diameter of the wheels has necessitated the division into two stories.
+The lower story is formed of three equal parts, lengthened toward the axles by narrow compartments,
+which can be utilized for luggage or converted into lavatories, etc. Above is one single compartment
+with a central passage, which is reached by staircases at the end. All the vehicles of the
+same train are to be united at this level by jointed platforms furnished with hand rails. It
+is sufficient to point out the general disposition, without entering into details which do
+not affect the system, and which must vary for the different classes and according to the requirements
+of the service.
+
+M. Nansouty draws a comparison between the diameters of the driving wheels and cylinders of
+the principal locomotives now in use and those of the Estrade engine as set forth in the following
+table. We only give the figures for coupled engines:
+
+TABLE II.
+
+  +--------------------+------------------+-----------+-------------+
+  |                    |  Diameter of     |  Size of  |             |
+  |                    |  driving wheels. | cylinder. | Position of |
+  |                    |    ft. in.       |  in. in.  | cylinder.   |
+  +--------------------+------------------+-----------+-------------+
+  |Great Eastern       |    7   0         |  18 × 24  | inside      |
+  +--------------------+------------------+-----------+-------------+
+  |South-Eastern       |    7   0         |  19 × 26  |    "        |
+  +--------------------+------------------+-----------+-------------+
+  |Glasgow and         |                  |           |             |
+  |Southwestern        |    6   1         |  18 × 26  |    "        |
+  +--------------------+------------------+-----------+-------------+
+  |Midland, 1884       |    7   0         |  19 × 26  |    "        |
+  +--------------------+------------------+-----------+-------------+
+  |North-Eastern       |    7   0         |  17½ × 24 |    "        |
+  +--------------------+------------------+-----------+-------------+
+  |London and          |                  |           |             |
+  |North-Western       |    6   6         |  17 × 24  |    "        |
+  +--------------------+------------------+-----------+-------------+
+  |Lancashire and      |                  |           |             |
+  |Yorkshire           |    6   0         |  17½ × 26 |    "        |
+  +--------------------+------------------+-----------+-------------+
+  |North British       |    6   4         |  17 × 24  |    "        |
+  +--------------------+------------------+-----------+-------------+
+  |Nord                |    7   0         |  17 × 24  |    "        |
+  +--------------------+------------------+-----------+-------------+
+  |Paris-Orleans, 1884 |    6   8         |  17 × 23½ | outside.    |
+  +--------------------+------------------+-----------+-------------+
+  |Ouest               |    6   0         |  17¼ × 25½|    "        |
+  +-----------------------------------------------------------------+
+
+This table, the examination of which will be found very instructive, shows that there are already
+in use: For locomotives with single drivers, diameters of 9 ft., 8 ft. 1 in., and 8 ft.; (2)
+for locomotives with four coupled wheels, diameters 6 ft. to 7 ft. There is therefore an important
+difference between the diameters of the coupled wheels of 7 ft. and those of 8 ft. 3 in., as
+conceived by M. Estrade. However, the transition is not illogically sudden, and if the conception
+is a bold one, "it cannot," says M. Nansouty, "on the other hand, be qualified as rash."
+
+He goes on to consider, in the first place: Especial types of uncoupled wheels, the diameters
+of which form useful samples for our present case. The engines of the Bristol and Exeter line
+are express tender engines, adopted on the English lines in 1853, some specimens of which are
+still in use.[1] These engines have ten wheels, the single drivers in the center, 9 ft. in
+diameter, and a four-wheeled bogie at each end. The driving wheels have no flanges. The bogie
+wheels are 4 ft. in diameter. The cylinders have a diameter of 16½ in. and a piston stroke
+of 24 in. The boiler contains 180 tubes, and the total weight of the engine is 42 tons. These
+locomotives, constructed for 7 ft. gauge, have attained a speed of seventy-seven miles per hour.
+
+   [Footnote 1: M. Nansouty is mistaken. None of the Bristol and
+   Exeter tank engines with. 9 ft. wheels are in use, so far as we
+   know. ED. E.]
+
+The single driver locomotives of the Great Northern are powerful engines in current use in
+England. The driving wheels carry 17 tons, the heating surface is 1,160 square feet, the diameters
+of the cylinders 18 in., and that of the driving wheels 8 ft. 1 in. We have here, then, a diameter
+very near to that adopted by M. Estrade, and which, together with the previous example, forms
+a precedent of great interest. The locomotive of the Great Northern has a leading four-wheeled
+bogie, which considerably increases the steadiness of the engine, and counterbalances the disturbing
+effect of outside cylinders. Acting on the same principles which have animated M. Estrade,
+that is to say, with the aim of reducing the retarding effects of rolling friction, the constructor
+of the locomotive of the Great Northern has considerably increased the diameter of the wheels
+of the bogie. In this engine all the bearing are inside, while the cylinders are outside and
+horizontal. The tender has six wheels, also of large dimensions. It is capable of containing
+three tons and a half of coal and about 3,000 gallons of water. This type of engine is now
+in current and daily use in England.
+
+M. Nansouty next considers the broad gauge Great Western engines with 8 ft. driving wheels.
+The diameters of their wheels approach those of M. Estrade, and exceed considerably in size
+any lately proposed. M. Nansouty dwells especially upon the boiler power of the Great Western
+railway, because one of the objections made to M. Estrade's locomotive by the learned societies
+has been the difficulty of supplying boiler power enough for high speeds contemplated; and
+he deals at considerable length with a large number of English engines of maximum power, the
+dimensions and performance of which are too well known to our readers to need reproduction here.
+
+Aware that a prominent weak point in M. Estrade's design is that, no matter what size we make
+cylinders and wheels, we have ultimately to depend on the boiler for power, M. Nansouty argues
+that M. Estrade having provided more surface than is to be found in any other engine, must
+be successful. But the total heating surface in the engine, which we illustrate, is but 1,400
+square feet, while that of the Great Western engines, on which he lays such stress, is 2,300
+square feet, and the table which he gives of the heating surface of various English engines
+really means very little. It is quite true that there are no engines working in England with
+much over 1,500 square feet of surface, except those on the broad gauge, but it does not follow
+that because they manage to make an average of 53 miles an hour that an addition of 500 square
+feet would enable them to run at a speed higher by 20 miles an hour. There are engines in France,
+however, which have as much as 1,600 square feet, as, for example, on the Paris-Orleans line,
+but we have never heard that these engines attain a speed of 80 miles an hour.
+
+Leaving the question of boiler power, M. Nansouty goes on to consider the question of adhesion.
+About this he says:
+
+Is the locomotive proposed by M. Estrade under abnormal conditions as to weight and adhesion?
+This appears to have been doubted, especially taking into consideration its height and elegant
+appearance. We shall again reply here by figures, while remarking that the adhesion of locomotives
+increases with the speed, according to laws still unknown or imperfectly understood, and that
+consequently for extreme speeds, ignorance of the value of the coefficiency of adhesion f in
+the formula
+
+                  d 2 I
+    fP = 0.65 p  ------- - R
+                    D
+
+renders it impossible to pronounce upon it before the trials earnestly and justly demanded
+by the author of this new system. In present practice f = 1/7 is admitted. M. Nansouty gives
+in a table a resume of the experience on this subject, and goes on:
+

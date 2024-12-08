@@ -1,0 +1,387 @@
+﻿In this e-book a carat character (^) indicates that the
+      following character(s) is (are) a superscript.
+
+SIR JAMES FITZJAMES STEPHEN
+
+London. Published by Smith Elder & C^o. 15 Waterloo Place.
+
+THE LIFE OF SIR JAMES FITZJAMES STEPHEN, BART., K.C.S.I.
+
+A Judge of the High Court of Justice
+
+by his brother
+
+LESLIE STEPHEN
+
+With Two Portraits
+
+London Smith, Elder, & Co., 15 Waterloo Place 1895
+
+[All rights reserved]
+
+PREFACE
+
+In writing the following pages I have felt very strongly one disqualification for my task.
+The life of my brother, Sir J. F. STEPHEN, was chiefly devoted to work which requires some
+legal knowledge for its full appreciation. I am no lawyer; and I should have considered this
+fact to be a sufficient reason for silence, had it been essential to give any adequate estimate
+of the labours in question. My purpose, however, is a different one. I have wished to describe
+the man rather than to give any history of what he did. What I have said of the value of his
+performances must be taken as mainly a judgment at second hand. But in writing of the man himself
+I have advantages which, from the nature of the case, are not shared by others. For more than
+sixty years he was my elder brother; and a brother in whose character and fortunes I took the
+strongest interest from the earliest period at which I was capable of reflection or observation.
+I think that brothers have generally certain analogies of temperament, intellectual and moral,
+which enable them, however widely they may differ in many respects, to place themselves at
+each other's point of view, and to be so far capable of that sympathetic appreciation which
+is essential to satisfactory biography. I believe that this is true of my brother and myself.
+Moreover, as we were brought up under the same roof, I have an intimate knowledge--now, alas!
+almost peculiar to myself--of the little home circle whose characteristics had a profound influence
+upon his development. I have thought it desirable to give a fuller account of those characteristics,
+and of their origin in previous circumstances, than can well be given by any one but myself.
+This is partly because I recognise the importance of the influence exerted upon him; and partly,
+I will admit, for another reason. My brother took a great interest, and, I may add, an interest
+not unmixed with pride, in our little family history. I confess that I share his feelings,
+and think, at any rate, that two or three of the persons of whom I have spoken deserve a fuller
+notice than has as yet been made public. What I have said may, I hope, serve as a small contribution
+to the history of one of the rivulets which helped to compose the great current of national
+life in the earlier part of this century.
+
+I could not have attempted to write the life of my brother without the approval and the help
+of my sister-in-law, Lady Stephen. She has provided me with materials essential to the narrative,
+and has kindly read what I have written. I am, of course, entirely responsible for everything
+that is here said; and I feel the responsibility all the more because I have had the advantage
+of her suggestions throughout. I have also to thank my brother's children, who have been in
+various ways very helpful. My nephews, in particular, have helped me in regard to various legal
+matters. To my sister, Miss Stephen, I owe a debt of gratitude which--for reasons which she
+will understand--I shall not attempt to discharge by any full acknowledgment.
+
+I have especially to thank Sir H. S. Cunningham and Lady Egerton, Lady Stephen's brother and
+sister, for permitting me to read my brother's letters to them, and for various suggestions.
+Some other correspondence has been placed in my hands, and especially two important collections.
+Lady Grant Duff has been good enough to show me a number of letters written to her, and Lady
+Lytton has communicated letters written to the late Lord Lytton. I have spoken of these letters
+in the text, and have in the last chapter given my reasons for confining my use of them to
+occasional extracts. They have been of material service.
+
+I have acknowledged help received from other persons at the points where it has been turned
+to account. I will, however, offer my best thanks to them in this place, and assure them of
+my sincere gratitude. Mr. Arthur Coleridge, the Rev. Dr. Kitchin, dean of Durham, the Rev.
+H. W. Watson, rector of Berkeswell, Coventry, the Rev. J. Llewelyn Davies, vicar of Kirkby
+Lonsdale, Prof. Sidgwick and Mr. Montagu S. D. Butler, of Pembroke College, Cambridge, have
+given me information in regard to early years. Mr. Franklin Lushington, Mr. Justice Wills,
+Lord Field, Mr. Justice Vaughan Williams, Sir Francis Jeune, Sir Theodore Martin, the Right
+Hon. Joseph Chamberlain, Mr. H. F. Dickens, and the late Captain Parker Snow have given me
+information of various kinds as to the legal career. Sir John Strachey, Sir Robert Egerton,
+and Sir H. S. Cunningham have given me information as to the Indian career. Mr. George Murray
+Smith, Mr. James Knowles, Mr. Frederick Greenwood, and Mr. Longman have given me information
+as to various literary matters. I have also to thank Mrs. Charles Simpson, Mr. F. W. Gibbs,
+Mrs. Russell Gurney, Mr. Horace Smith, Sir F. Pollock, Prof. Maitland, Mr. Voysey, and Mr.
+A. H. Millar, of Dundee, for help on various points.
+
+                                           LESLIE STEPHEN.
+
+   1 MAY, 1895.
+
+CONTENTS
+
+   CHAPTER I
+
+   FAMILY HISTORY
+
+                                                              PAGE
+       I. JAMES STEPHEN, WRITER ON IMPRISONMENT FOR DEBT         1
+      II. JAMES STEPHEN, MASTER IN CHANCERY                      8
+     III. MASTER STEPHEN'S CHILDREN                             25
+      IV. THE VENNS                                             33
+       V. JAMES STEPHEN, COLONIAL UNDER-SECRETARY               41
+
+   CHAPTER II
+
+   EARLY LIFE
+
+       I. CHILDHOOD                                             66
+      II. ETON                                                  77
+     III. KING'S COLLEGE                                        86
+      IV. CAMBRIDGE                                             91
+       V. READING FOR THE BAR                                  114
+
+   CHAPTER III
+
+   THE BAR AND JOURNALISM
+
+       I. INTRODUCTORY                                         131
+      II. FIRST YEARS AT THE BAR                               136
+     III. THE 'SATURDAY REVIEW'                                148
+      IV. EDUCATION COMMISSION AND RECORDERSHIP                165
+       V. PROGRESS AT THE BAR                                  173
+      VI. 'ESSAYS BY A BARRISTER'                              177
+     VII. DEFENCE OF DR. WILLIAMS                              184
+    VIII. 'VIEW OF THE CRIMINAL LAW'                           203
+      IX. THE 'PALL MALL GAZETTE'                              212
+       X. GOVERNOR EYRE                                        227
+      XI. INDIAN APPOINTMENT                                   231
+
+   CHAPTER IV
+
+   INDIA
+
+       I. PERSONAL HISTORY                                     237
+      II. OFFICIAL WORK IN INDIA                               246
+     III. INDIAN IMPRESSIONS                                   282
+      IV. LAST MONTHS IN INDIA                                 291
+
+   CHAPTER V
+
+   LAST YEARS AT THE BAR
+
+       I. FIRST OCCUPATIONS IN ENGLAND                         298
+      II. 'LIBERTY, EQUALITY, FRATERNITY'                      306
+     III. DUNDEE ELECTION                                      340
+      IV. CODIFICATION IN ENGLAND                              351
+       V. THE METAPHYSICAL SOCIETY                             358
+      VI. THE CRIMINAL CODE                                    375
+     VII. ECCLESIASTICAL CASES                                 381
+    VIII. CORRESPONDENCE WITH LORD LYTTON                      386
+      IX. APPOINTMENT TO A JUDGESHIP                           401
+          NOTE ON RESIDENCE IN IRELAND                         405
+
+   CHAPTER VI
+
+   JUDICIAL CAREER
+
+       I. HISTORY OF CRIMINAL LAW                              410
+      II. 'NUNCOMAR AND IMPEY'                                 428
+     III. JUDICIAL CHARACTERISTICS                             437
+      IV. MISCELLANEOUS OCCUPATIONS                            450
+       V. JAMES KENNETH STEPHEN                                468
+      VI. CONCLUSION                                           477
+
+   BIBLIOGRAPHICAL NOTE                                        483
+
+   INDEX                                                       487
+
+       *       *       *       *       *
+
+   ILLUSTRATIONS
+
+   PORTRAIT FROM A DRAWING BY G. F. WATTS, R.A., 1863 Frontispiece
+
+       "     "  PHOTOGRAPH BY BASSANO, 1886         to face p. 410
+
+LIFE
+
+OF
+
+SIR JAMES FITZJAMES STEPHEN
+
+CHAPTER I
+
+FAMILY HISTORY
+
+I. JAMES STEPHEN, WRITER ON IMPRISONMENT FOR DEBT
+
+During the first half of the eighteenth century a James Stephen, the first of the family of
+whom I have any knowledge, was tenant of a small farm in Aberdeenshire, on the borders of Buchan.[1]
+He was also engaged in trade, and, though it is stated that smuggler would be too harsh a name
+to apply to him, he had no insuperable objection to dealing in contraband articles. He was
+considered to belong to the respectable class, and gave his sons a good education. He had nine
+children by his wife, Mary Brown. Seven of these were sons, and were said to be the finest
+young men in the country. Alexander, the eldest, was in business at Glasgow; he died when nearly
+seventy, after falling into distress. William, the second son, studied medicine, and ultimately
+settled at St. Christopher's, in the West Indies, where he was both a physician and a planter.
+He probably began life as a 'surgeon to a Guineaman,' and he afterwards made money by buying
+'refuse' (that is, sickly) negroes from slave ships, and, after curing them of their diseases,
+selling them at an advanced price. He engaged in various speculations, and had made money when
+he died in 1781, in his fiftieth year. His career, as will be seen, was of great importance
+to his relations. The other sons all took to trade, but all died before William. The two sisters,
+Mrs. Nuccoll and Mrs. Calder, married respectably, and lived to a great age. They were able
+to be of some service to nephews and nieces.
+
+My story is chiefly concerned with the third son, James, born about 1733. After studying law
+for a short time at Aberdeen, he was sent abroad, when eighteen years old, to Holland, and
+afterwards to France, with a view to some mercantile business. He was six feet three inches
+in height, and a man of great muscular power. Family traditions tell of his being attacked
+by two footpads, and knocking their heads together till they cried for mercy. Another legend
+asserts that when a friend offered him a pony to carry him home after dinner, he made and won
+a bet that he would carry the pony. In the year 1752 this young giant was sailing as supercargo
+of a ship bound from Bordeaux to Scotland, with wine destined, no doubt, to replenish the 'blessed
+bear of Bradwardine,' and its like. The ship had neared the race of Portland, when a storm
+arose, and she was driven upon the cliffs of Purbeck Island. James Stephen, with four of the
+crew, escaped to the rocks, the rest being drowned. Stephen roped his companions to himself,
+and scaled the rocks in the dark, as Lovel, in the 'Antiquary,' leads the Wardours and Edie
+Ochiltree up the crags of the Halket Head. Next day, the outcasts were hospitably received
+by Mr. Milner, Collector of Customs at Poole. Stephen had to remain for some time on the spot
+to look after the salvage of the cargo. The drowned captain had left some valuable papers in
+a chest. He appeared in a dream to Stephen, and gave information which led to their recovery.
+The news that his ghost was on the look-out had, it is said, a wholesome effect in deterring
+wreckers from interference with the cargo.
+
+Mr. Milner had six children, the youngest of whom, Sibella, was a lovely girl of fifteen. She
+had a fine voice, and had received more than the usual education of the times. She fell in
+love with the gallant young stranger, and before long they were privately married. This event
+was hastened by their desire to anticipate the passage of the Marriage Act (June 1753), which
+was expected to make the consent of parents necessary. The poor girl, however, yielded with
+much compunction, and regarded the evils which afterwards befell her as providential punishments
+for her neglect of filial duty.
+
+James Stephen was a man of many prepossessing qualities, and soon became reconciled to his
+wife's family. He was taken into partnership by one of his brothers-in-law, a William Milner,
+then a merchant at Poole. Here his two eldest children were born, William on October 27, 1756,
+and James on June 30, 1758. Unfortunately the firm became bankrupt; and the bankruptcy led
+to a lifelong quarrel between James Stephen and his elder brother, William, who had taken some
+share in the business. James then managed to start in business in London, and for some time
+was fairly prosperous. Unluckily, while at Poole he had made a great impression upon Sir John
+Webbe, a Roman Catholic baronet, who had large estates in the neighbourhood. Sir John had taken
+up a grand scheme for developing his property at Hamworthy, close to Poole. Stephen, it seems,
+had discovered that there were not only brick earth and pipeclay but mineral springs and coal
+under the barren soil. A town was to be built; a trade started with London; Sir John's timber
+was to be turned into ships; a colliery was to be opened--and, in short, a second Bristol was
+to arise in Dorsetshire. Sir John was to supply the funds, and Stephen's energy and ability
+marked him out as the heaven-sent manager. Stephen accepted the proposals, gave up his London
+business, and set to work with energy. Coal was found, it is said, 'though of too sulphureous
+a kind for use;' but deeper diggings would, no doubt, lay bare a superior seam. After a year
+or two, however, affairs began to look black; Sir John Webbe became cool and then fell out
+with his manager; and the result was that, about 1769, James Stephen found himself confined
+for debt in the King's Bench prison.[2]
+
+Stephen, however, was not a man to submit without knowing the reason why. He rubbed up his
+old legal knowledge, looked into the law-books, and discovered that imprisonment for debt was
+contrary to Magna Charta. This doctrine soon made converts in the King's Bench. Three of his
+fellow prisoners enjoy such immortality as is conferred by admission to biographical dictionaries.
+The best known was the crazy poet, Christopher Smart, famous for having leased himself for
+ninety-nine years to a bookseller, and for the fine 'Song of David,' which Browning made the
+text of one of his later poems.[3] Another was William Jackson, an Irish clergyman, afterwards
+known as a journalist on the popular side, who was convicted of high treason at Dublin in 1795,
+and poisoned himself in the dock.[4] A third was William Thompson, known as 'Blarney,' a painter,
+who had married a rich wife in 1767, but had apparently spent her money by this time.[5] Mrs.
+Stephen condescended to enliven the little society by her musical talents. The prisoners in
+general welcomed Stephen as a champion of liberty. A writ of 'Habeas Corpus' was obtained,
+and Stephen argued his case before Lord Mansfield. The great lawyer was naturally less amenable
+to reason than the prisoners. He was, however, impressed, it is reported, by the manliness
+and energy of the applicant. 'It is a great pity,' he said, 'but the prisoner must be remanded.'
+James Stephen's son, James, a boy of twelve, was by his side in court, and a bystander slipped
+five shillings into his hand; but the father had to go back to his prison. He stuck to his
+point obstinately. He published a pamphlet, setting forth his case. He wrote letters to the
+'Public Advertiser,' to which Junius was then contributing. He again appealed to the courts,
+and finally called a meeting of his fellow prisoners. They resolved to break out in a body,
+and march to Westminster, to remonstrate with the judges. Stephen seized a turnkey, and took
+the keys by force; but, finding his followers unruly, was wise enough to submit. He was sent
+with three others to the 'New Jail.' The prisoners in the King's Bench hereupon rose, and attacked
+the wall with a pickaxe. Soldiers were called in, and the riot finally suppressed.[6]
+
+Stephen, in spite of these proceedings, was treated with great humanity at the 'New Jail;'
+and apparently without much severity at the King's Bench to which he presently returned. 'Blarney'
+Thompson painted his portrait, and I possess an engraving with the inscription, 'Veritas à
+quocunque dicitur à Deo est.' Not long ago a copy of this engraving was given to my brother
+by a friend who had seen it in a shop and recognised the very strong family likeness between
+James and his great-grandson, James Fitzjames.
+
+Stephen soon got out of prison. Sir John Webbe, at whose suit he had been arrested, agreed
+to pay the debts, gave him 500l. and settled an annuity of 40l. upon Mrs. Stephen. I hope that
+I may infer that Sir John felt that his debtor had something to say for himself. The question
+of making a living, however, became pressing. Stephen, on the strength, I presume, of his legal
+studies, resolved to be called to the bar. He entered at the Middle Temple; but had scarcely
+begun to keep his terms when the authorities interfered. His letters to the papers and attacks
+upon Lord Mansfield at the very time when Junius was at the height of his power (I do not,
+I may observe, claim the authorship of the letters for James Stephen) had, no doubt, made him
+a suspicious character. The benchers accordingly informed him that they would not call him
+to the bar, giving as their reasons his 'want of birth, want of fortune, want of education,
+and want of temper.' His friend, William Jackson, hereupon printed a letter,[7] addressing
+the benchers in the true Junius style. He contrasts Stephen with his persecutors. Stephen might
+not know Law Latin, but he had read Bracton and Glanville and Coke; he knew French and had
+read Latin at Aberdeen; he had been educated, it was true, in some 'paltry principles of honour
+and honesty,' while the benchers had learnt 'more useful lessons;' he had written letters to
+Wilkes copied in all the papers; he had read Locke, could 'harangue for hours upon social feelings,
+friendship, and benevolence,' and would trudge miles to save a family from prison, not considering
+that he was thereby robbing the lawyers and jailors of their fees. The benchers, it seems,
+had sworn the peace against him before Sir John Fielding, because he had made a friendly call
+upon a member of the society. They mistook a card of introduction for a challenge. Jackson
+signs himself 'with the profoundest sense of your Masterships' demerits, your Masterships'
+inflexible detestor,' and probably did not improve his friend's position.
+
+Stephen, thus rejected, entered the legal profession by a back door, which, if not reputable,
+was not absolutely closed. He entered into a kind of partnership with a solicitor who was the
+ostensible manager of the business, and could be put forward when personal appearance was necessary.
+Stephen's imposing looks and manner, his acquaintance with commercial circles and his reputation
+as a victim of Mansfield brought him a certain amount of business. He had, however, to undertake
+such business as did not commend itself to the reputable members of the profession. He had
+a hard struggle and was playing a losing game. He became allied with unfortunate adventurers
+prosecuting obscure claims against Government, which, even when admitted, did not repay the
+costs incurred. He had to frequent taverns in order to meet his clients, and took to smoking
+tobacco and possibly to other indulgences. His wife, who was a delicate woman, was put to grievous
+shifts to make both ends meet. Her health broke down, and she died at last on March 21, 1775.
+She had brought him six children, of whom the eldest was nineteen and the youngest still under
+four.[8] I shall speak directly of the two eldest. Two daughters were taken in charge by their
+grandmother Stephen, who was still living in Scotland; while the two little ones remained with
+their father at Stoke Newington, where he now lived, ran about the common and learnt to ride
+pigs. James Stephen himself lived four years more, sinking into deeper difficulties; an execution
+was threatened during his last illness, and he died in 1779, leaving hardly enough to pay his
+debts.[9]
+
+II. JAMES STEPHEN, MASTER IN CHANCERY
+
+I have now to tell the story of the second son, James, my grandfather, born in 1758. His education,
+as may be anticipated, was desultory. When four or five years old, he was sent to a school
+at Vauxhall kept by Peter Annet (1693-1769), the last of the Deists who (in 1763) was imprisoned
+for a blasphemous libel. The elder Stephen was then living at Lambeth, and the choice of a
+schoolmaster seems to show that his opinions were of the free-thinking type. About 1767 the
+boy was sent to a school near his mother's family at Poole. There at the early age of ten he
+fell desperately in love with his schoolmaster's daughter, aged fifteen, and was hurt by the
+levity with which his passion was treated. At the same period he became a poet, composed hymns,
+and wrote an epigram upon one of his father's creditors. He accompanied his father to the King's
+Bench Prison, and there Christopher Smart and others petted the lad, lent him books, and encouraged
+his literary aspirations. During his father's later troubles he managed to keep up a subscription
+to a circulating library and would read two volumes a day, chiefly plays and novels, and, above
+all, the 'Grand Cyrus' and other old-fashioned romances. His mother tried to direct him to
+such solid works as Rapin's History, and he learnt her favourite Young's 'Night Thoughts' by
+heart. He had no schooling after leaving Poole, until, about 1772, he was sent to a day school
+on Kennington Green, kept by a cheesemonger who had failed in business, and whose sole qualifications
+for teaching were a clerical wig and a black coat. Here occurred events which profoundly affected
+his career. A schoolfellow named Thomas Stent, son of a stockbroker, became his warm friend.
+The parent Stents forbade the intimacy with the son of a broken merchant. Young Stephen boldly
+called upon Mrs. Stent to protest against the sentence. She took a liking to the lad and invited
+him to her house, where the precocious youth fell desperately in love with Anne Stent, his
+schoolfellow's sister, who was four months his senior. The attachment was discovered and treated
+with ridicule. The girl, however, returned the boy's affection and the passion ran its course
+after the most approved fashion. The hero was forbidden the house and the heroine confined
+to her room. There were clandestine meetings and clandestine correspondence, in which the schoolboy
+found the advantage of his studies in the 'Grand Cyrus.' At last in 1773 the affair was broken
+off for the time by the despatch of James Stephen to Winchester, where one of his Milner uncles
+boarded him and sent him to the school. His want of preparation prevented him from profiting
+by the teaching, and after the first half year his parents' inability to pay the bills prevented
+him from returning. He wrote again to Miss Stent, but received a cold reply, signifying her
+obedience to parental authority. For the next two years he learnt nothing except from his studies
+at the circulating library. His mother, sinking under her burthens, did what she could to direct
+him, and he repaid her care by the tenderest devotion. Upon her death he thought for a moment
+of suicide. Things were looking black indeed. His elder brother William now took a bold step.
+His uncle and godfather, William, who had quarrelled with the family after the early bankruptcy
+at Poole, was understood to be prospering at St. Christopher's. The younger William, who had
+been employed in a mercantile office, managed to beg a passage to the West Indies, and threw
+himself upon the uncle's protection. The uncle received the boy kindly, promised to take him
+into partnership as a physician, and sent him back by the same ship in order to obtain the
+necessary medical training at Aberdeen. He returned just in time. James had been thinking of
+volunteering under Washington, and had then accepted the offer of a 'book-keeper's' place in
+Jamaica. He afterwards discovered that a 'book-keeper' was an intermediate between the black
+slave-driver and the white overseer, and was doomed to a miserable and degrading life. It was
+now settled that he should go with William to Aberdeen, and study law. He entered at Lincoln's
+Inn, and looked forward to practising at St. Christopher's. The uncle refused to extend his
+liberality to James; but a student could live at Aberdeen for 20l. a year; the funds were somehow
+scraped together; and for the next two sessions, 1775-76 and 1776-77, James was a student at
+the Marischal College. The town, he says, was filthy and unwholesome; but his Scottish cousins
+were cordial and hospitable, the professors were kindly; and though his ignorance of Latin
+and inability even to read the Greek alphabet were hindrances, he picked up a little mathematics
+and heard the lectures of the great Dr. Beattie. His powers of talk and his knowledge of London
+life atoned for his imperfect education. He saw something of Aberdeen society; admired and
+danced with the daughters of baillies, and was even tempted at times to forget his passion
+for Anne Stent, who had sent a chilling answer to a final appeal.
+
+In 1777, Stephen returned to London, and had to take part of his father's dwindling business.
+He thus picked up some scraps of professional knowledge. On the father's death, kind Scottish
+relations took charge of the two youngest children, and his brother William soon sailed for
+St. Christopher's. James was left alone. He appealed to the uncle, George Milner, with whom
+he had lived at Winchester, and who, having married a rich wife, was living in comfort at Comberton,
+near Cambridge. The uncle promised to give him 50l. a year to enable him to finish his legal
+education. He took lodgings on the strength of this promise, and resolved to struggle on, though
+still giving an occasional thought to Washington's army.
+

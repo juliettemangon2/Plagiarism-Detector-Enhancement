@@ -1,0 +1,580 @@
+﻿DRY-FARMING
+
+A SYSTEM OF AGRICULTURE FOR COUNTRIES UNDER LOW RAINFALL
+
+BY JOHN A. WIDTSOE, A.M., Ph. D
+
+PRESIDENT OF THE AGRICULTURAL COLLEGE OF UTAH
+
+NEW YORK
+
+1920
+
+TO
+
+LEAH
+
+THIS BOOK IS INSCRIBED
+
+JUNE 1, 1910
+
+PREFACE
+
+Nearly six tenths of the earth's land surface receive an annual rainfall of less than twenty
+inches, and can be reclaimed for agricultural purposes only by irrigation and dry-farming.
+A perfected world-system of irrigation will convert about one tenth of this vast area into
+an incomparably fruitful garden, leaving about one half of the earth's land surface to be reclaimed,
+if at all, by the methods of dry-farming. The noble system of modern agriculture has been constructed
+almost wholly in countries of abundant rainfall, and its applications are those demanded for
+the agricultural development of humid regions. Until recently irrigation was given scant attention,
+and dry-farming, with its world problem of conquering one half of the earth, was not considered.
+These facts furnish the apology for the writing of this book.
+
+One volume, only, in this world of many books, and that less than a year old, is devoted to
+the exposition of the accepted dry-farm practices of to-day.
+
+The book now offered is the first attempt to assemble and organize the known facts of science
+in their relation to the production of plants, without irrigation, in regions of limited rainfall.
+The needs of the actual farmer, who must understand the principles before his practices can
+be wholly satisfactory, have been kept in view primarily; but it is hoped that the enlarging
+group of dry-farm investigators will also be helped by this presentation of the principles
+of dry-farming. The subject is now growing so rapidly that there will soon be room for two
+classes of treatment: one for the farmer, and one for the technical student.
+
+This book has been written far from large libraries, and the material has been drawn from the
+available sources. Specific references are not given in the text, but the names of investigators
+or institutions are found with nearly all statements of fact. The files of the Experiment Station
+Record and Der Jahresbericht der Agrikultur Chemie have taken the place of the more desirable
+original publications. Free use has been made of the publications of the experiment stations
+and the United States Department of Agriculture. Inspiration and suggestions have been sought
+and found constantly in the works of the princes of American soil investigation, Hilgard of
+California and King of Wisconsin. I am under deep obligation, for assistance rendered, to numerous
+friends in all parts of the country, especially to Professor L. A. Merrill, with whom I have
+collaborated for many years in the study of the possibilities of dry-farming in Western America.
+
+The possibilities of dry-farming are stupendous. In the strength of youth we may have felt
+envious of the great ones of old; of Columbus looking upon the shadow of the greatest continent;
+of Balboa shouting greetings to the resting Pacific; of Father Escalante, pondering upon the
+mystery of the world, alone, near the shores of America's Dead Sea. We need harbor no such
+envyings, for in the conquest of the nonirrigated and nonirrigable desert are offered as fine
+opportunities as the world has known to the makers and shakers of empires. We stand before
+an undiscovered land; through the restless, ascending currents of heated desert air the vision
+comes and goes. With striving eyes the desert is seen covered with blossoming fields, with
+churches and homes and schools, and, in the distance, with the vision is heard the laughter
+of happy children.
+
+The desert will be conquered.
+
+JOHN A. WIDTSOE.
+
+June 1, 1910.
+
+CHAPTER I
+
+INTRODUCTION
+
+DRY-FARMING DEFINED
+
+Dry-farming, as at present understood, is the profitable production of useful crops, without
+irrigation, on lands that receive annually a rainfall of 20 inches or less. In districts of
+torrential rains, high winds, unfavorable distribution of the rainfall, or other water-dissipating
+factors, the term "dry-farming" is also properly applied to farming without irrigation under
+an annual precipitation of 25 or even 30 inches. There is no sharp demarcation between dry-and
+humid-farming.
+
+When the annual precipitation is under 20 inches, the methods of dry-farming are usually indispensable.
+When it is over 30 inches, the methods of humid-farming are employed; in places where the annual
+precipitation is between 20 and 30 inches, the methods to be used depend chiefly on local conditions
+affecting the conservation of soil moisture. Dry-farming, however, always implies farming under
+a comparatively small annual rainfall.
+
+The term "dry-farming" is, of course, a misnomer. In reality it is farming under drier conditions
+than those prevailing in the countries in which scientific agriculture originated. Many suggestions
+for a better name have been made. "Scientific agriculture" has-been proposed, but all agriculture
+should be scientific, and agriculture without irrigation in an arid country has no right to
+lay sole claim to so general a title. "Dry-land agriculture," which has also been suggested,
+is no improvement over "dry-farming," as it is longer and also carries with it the idea of
+dryness. Instead of the name "dry-farming" it would, perhaps, be better to use the names, "arid-farming."
+"semiarid-farming," "humid-farming," and "irrigation-farming," according to the climatic conditions
+prevailing in various parts of the world. However, at the present time the name "dry-farming"
+is in such general use that it would seem unwise to suggest any change. It should be used with
+the distinct understanding that as far as the word "dry" is concerned it is a misnomer. When
+the two words are hyphenated, however, a compound technical term--"dry-farming"--is secured
+which has a meaning of its own, such as we have just defined it to be; and "dry-farming," therefore,
+becomes an addition to the lexicon.
+
+Dry-versus humid-farming
+
+Dry-farming, as a distinct branch of agriculture, has for its purpose the reclamation, for
+the use of man, of the vast unirrigable "desert" or "semi-desert" areas of the world, which
+until recently were considered hopelessly barren. The great underlying principles of agriculture
+are the same the world over, yet the emphasis to be placed on the different agricultural theories
+and practices must be shifted in accordance with regional conditions. The agricultural problem
+of first importance in humid regions is the maintenance of soil fertility; and since modern
+agriculture was developed almost wholly under humid conditions, the system of scientific agriculture
+has for its central idea the maintenance of soil fertility. In arid regions, on the other hand,
+the conservation of the natural water precipitation for crop production is the important problem;
+and a new system of agriculture must therefore be constructed, on the basis of the old principles,
+but with the conservation of the natural precipitation as the central idea. The system of dry-farming
+must marshal and organize all the established facts of science for the better utilization,
+in plant growth, of a limited rainfall. The excellent teachings of humid agriculture respecting
+the maintenance of soil fertility will be of high value in the development of dry-farming,
+and the firm establishment of right methods of conserving and using the natural precipitation
+will undoubtedly have a beneficial effect upon the practice of humid agriculture.
+
+The problems of dry-farming
+
+The dry-farmer, at the outset, should know with comparative accuracy the annual rainfall over
+the area that he intends to cultivate. He must also have a good acquaintance with the nature
+of the soil, not only as regards its plant-food content, but as to its power to receive and
+retain the water from rain and snow. In fact, a knowledge of the soil is indispensable in successful
+dry-farming. Only by such knowledge of the rainfall and the soil is he able to adapt the principles
+outlined in this volume to his special needs.
+
+Since, under dry-farm conditions, water is the limiting factor of production, the primary problem
+of dry-farming is the most effective storage in the soil of the natural precipitation. Only
+the water, safely stored in the soil within reach of the roots, can be used in crop production.
+Of nearly equal importance is the problem of keeping the water in the soil until it is needed
+by plants. During the growing season, water may be lost from the soil by downward drainage
+or by evaporation from the surface. It becomes necessary, therefore, to determine under what
+conditions the natural precipitation stored in the soil moves downward and by what means surface
+evaporation may be prevented or regulated. The soil-water, of real use to plants, is that taken
+up by the roots and finally evaporated from the leaves. A large part of the water stored in
+the soil is thus used. The methods whereby this direct draft of plants on the soil-moisture
+may be regulated are, naturally, of the utmost importance to the dry-farmer, and they constitute
+another vital problem of the science of dry-farming.
+
+The relation of crops to the prevailing conditions of arid lands offers another group of important
+dry-farm problems. Some plants use much less water than others. Some attain maturity quickly,
+and in that way become desirable for dry-farming. Still other crops, grown under humid conditions,
+may easily be adapted to dry-farming conditions, if the correct methods are employed, and in
+a few seasons may be made valuable dry-farm crops. The individual characteristics of each crop
+should be known as they relate themselves to a low rainfall and arid soils.
+
+After a crop has been chosen, skill and knowledge are needed in the proper seeding, tillage,
+and harvesting of the crop. Failures frequently result from the want of adapting the crop treatment
+to arid conditions.
+
+After the crop has been gathered and stored, its proper use is another problem for the dry-farmer.
+The composition of dry-farm crops is different from that of crops grown with an abundance of
+water. Usually, dry-farm crops are much more nutritious and therefore should command a higher
+price in the markets, or should be fed to stock in corresponding proportions and combinations.
+
+The fundamental problems of dry-farming are, then, the storage in the soil of a small annual
+rainfall; the retention in the soil of the moisture until it is needed by plants; the prevention
+of the direct evaporation of soil-moisture during; the growing season; the regulation of the
+amount of water drawn from the soil by plants; the choice of crops suitable for growth under
+arid conditions; the application of suitable crop treatments, and the disposal of dry-farm
+products, based upon the superior composition of plants grown with small amounts of water.
+Around these fundamental problems cluster a host of minor, though also important, problems.
+When the methods of dry-farming are understood and practiced, the practice is always successful;
+but it requires more intelligence, more implicit obedience to nature's laws, and greater vigilance,
+than farming in countries of abundant rainfall.
+
+The chapters that follow will deal almost wholly with the problems above outlined as they present
+themselves in the construction of a rational system of farming without irrigation in countries
+of limited rainfall.
+
+CHAPTER II
+
+THE THEORETICAL BASIS OF DRY-FARMING
+
+The confidence with which scientific investigators, familiar with the arid regions, have attacked
+the problems of dry-farming rests largely on the known relationship of the water requirements
+of plants to the natural precipitation of rain and snow. It is a most elementary fact of plant
+physiology that no plant can live and grow unless it has at its disposal a sufficient amount
+of water.
+
+The water used by plants is almost entirely taken from the soil by the minute root-hairs radiating
+from the roots. The water thus taken into the plants is passed upward through the stem to the
+leaves, where it is finally evaporated. There is, therefore, a more or less constant stream
+of water passing through the plant from the roots to the leaves.
+
+By various methods it is possible to measure the water thus taken from the soil. While this
+process of taking water from the soil is going on within the plant, a certain amount of soil-moisture
+is also lost by direct evaporation from the soil surface. In dry-farm sections, soil-moisture
+is lost only by these two methods; for wherever the rainfall is sufficient to cause drainage
+from deep soils, humid conditions prevail.
+
+Water for one pound dry matter
+
+Many experiments have been conducted to determine the amount of water used in the production
+of one pound of dry plant substance. Generally, the method of the experiments has been to grow
+plants in large pots containing weighed quantities of soil. As needed, weighed amounts of water
+were added to the pots. To determine the loss of water, the pots were weighed at regular intervals
+of three days to one week. At harvest time, the weight of dry matter was carefully determined
+for each pot. Since the water lost by the pots was also known, the pounds of water used for
+the production of every pound of dry matter were readily calculated.
+
+The first reliable experiments of the kind were undertaken under humid conditions in Germany
+and other European countries. From the mass of results, some have been selected and presented
+in the following table. The work was done by the famous German investigators, Wollny, Hellriegel,
+and Sorauer, in the early eighties of the last century. In every case, the numbers in the table
+represent the number of pounds of water used for the production of one pound of ripened dry
+substance:
+
+Pounds Of Water For One Pound Of Dry Matter
+
+           Wollny  Hellreigel  Sorauer
+Wheat              338         459
+Oats       665     376         569
+Barley             310         431
+Rye        774     353         236
+Corn       233
+Buckwheat  646     363
+Peas       416     273
+Horsebeans         282
+Red clover         310
+Sunflowers 490
+Millet     447
+
+It is clear from the above results, obtained in Germany, that the amount of water required
+to produce a pound of dry matter is not the same for all plants, nor is it the same under all
+conditions for the same plant. In fact, as will be shown in a later chapter, the water requirements
+of any crop depend upon numerous factors, more or less controllable. The range of the above
+German results is from 233 to 774 pounds, with an average of about 419 pounds of water for
+each pound of dry matter produced.
+
+During the late eighties and early nineties, King conducted experiments similar to the earlier
+German experiments, to determine the water requirements of crops under Wisconsin conditions.
+A summary of the results of these extensive and carefully conducted experiments is as follows:--
+
+Oats     385 Barley   464 Corn     271 Peas     477 Clover   576 Potatoes 385
+
+The figures in the above table, averaging about 446 pounds, indicate that very nearly the same
+quantity of water is required for the production of crops in Wisconsin as in Germany. The Wisconsin
+results tend to be somewhat higher than those obtained in Europe, but the difference is small.
+
+It is a settled principle of science, as will be more fully discussed later, that the amount
+of water evaporated from the soil and transpired by plant leaves increases materially with
+an increase in the average temperature during the growing season, and is much higher under
+a clear sky and in districts where the atmosphere is dry. Wherever dry-farming is likely to
+be practiced, a moderately high temperature, a cloudless sky, and a dry atmosphere are the
+prevailing conditions. It appeared probable therefore, that in arid countries the amount of
+water required for the production of one pound of dry matter would be higher than in the humid
+regions of Germany and Wisconsin. To secure information on this subject, Widtsoe and Merrill
+undertook, in 1900, a series of experiments in Utah, which were conducted upon the plan of
+the earlier experimenters. An average statement of the results of six years' experimentation
+is given in the subjoined table, showing the number of pounds of water required for one pound
+of dry matter on fertile soils:--
+
+Wheat       1048 Corn        589 Peas        1118 Sugar Beets 630
+
+These Utah findings support strongly the doctrine that the amount of water required for the
+production of each pound of dry matter is very much larger under arid conditions, as in Utah,
+than under humid conditions, as in Germany or Wisconsin. It must be observed, however, that
+in all of these experiments the plants were supplied with water in a somewhat wasteful manner;
+that is, they were given an abundance of water, and used the largest quantity possible under
+the prevailing conditions. No attempt of any kind was made to economize water. The results,
+therefore, represent maximum results and can be safely used as such. Moreover, the methods
+of dry-farming, involving the storage of water in deep soils and systematic cultivation, were
+not employed. The experiments, both in Europe and America, rather represent irrigated conditions.
+There are good reasons for believing that in Germany, Wisconsin, and Utah the amounts above
+given can be materially reduced by the employment of proper cultural methods.
+
+The water in the large bottle would be required to produce the grain in the small bottle.
+
+In view of these findings concerning the water requirements of crops, it cannot be far from
+the truth to say that, under average cultural conditions, approximately 750 pounds of water
+are required in an arid district for the production of one pound of dry matter. Where the aridity
+is intense, this figure may be somewhat low, and in localities of sub-humid conditions, it
+will undoubtedly be too high. As a maximum average, however, for districts interested in dry-farming,
+it can be used with safety.
+
+Crop-producing power of rainfall
+
+If this conclusion, that not more than 750 pounds of water are required under ordinary dry-farm
+conditions for the production of one pound of dry matter, be accepted, certain interesting
+calculations can be made respecting the possibilities of dry-farming. For example, the production
+of one bushel of wheat will require 60 times 750, or 45,000 pounds of water. The wheat kernels,
+however, cannot be produced without a certain amount of straw, which under conditions of dry-farming
+seldom forms quite one half of the weight of the whole plant. Let us say, however, that the
+weights of straw and kernels are equal. Then, to produce one bushel of wheat, with the corresponding
+quantity of straw, would require 2 times 45,000, or 90,000 pounds of water. This is equal to
+45 tons of water for each bushel of wheat. While this is a large figure, yet, in many localities,
+it is undoubtedly well within the truth. In comparison with the amounts of water that fall
+upon the land as rain, it does not seem extraordinarily large.
+
+One inch of water over one acre of land weighs approximately 226,875 pounds. or over 113 tons.
+If this quantity of water could be stored in the soil and used wholly for plant production,
+it would produce, at the rate of 45 tons of water for each bushel, about 2-1/2 bushels of wheat.
+With 10 inches of rainfall, which up to the present seems to be the lower limit of successful
+dry-farming, there is a maximum possibility of producing 25 bushels of wheat annually.
+
+In the subjoined table, constructed on the basis of the discussion of this chapter, the wheat-producing
+powers of various degrees of annual precipitation are shown:--
+
+One acre inch of water will produce 2-1/2 bushels of wheat.
+
+Ten acre inches of water will produce 25 bushels of wheat.
+
+Fifteen acre inches of water will produce 37-1/2 bushels of wheat.
+
+Twenty acre inches of water will produce 50 bushels of wheat.
+
+It must be distinctly remembered, however, that under no known system of tillage can all the
+water that falls upon a soil be brought into the soil and stored there for plant use. Neither
+is it possible to treat a soil so that all the stored soil-moisture may be used for plant production.
+Some moisture, of necessity, will evaporate directly from the soil, and some may be lost in
+many other ways. Yet, even under a rainfall of 12 inches, if only one half of the water can
+be conserved, which experiments have shown to be very feasible, there is a possibility of producing
+30 bushels of wheat per acre every other year, which insures an excellent interest on the money
+and labor invested in the production of the crop.
+
+It is on the grounds outlined in this chapter that students of the subject believe that ultimately
+large areas of the "desert" may be reclaimed by means of dry-farming. The real question before
+the dry-farmer is not, "Is the rainfall sufficient?" but rather, "Is it possible so to conserve
+and use the rainfall as to make it available for the production of profitable crops?"
+
+CHAPTER III
+
+DRY-FARM AREAS--RAINFALL
+
+The annual precipitation of rain and snow determines primarily the location of dry-farm areas.
+As the rainfall varies, the methods of dry-farming must be varied accordingly. Rainfall, alone,
+does not, however, furnish a complete index of the crop-producing possibilities of a country.
+
+The distribution of the rainfall, the amount of snow, the water-holding power of the soil,
+and the various moisture-dissipating causes, such as winds, high temperature, abundant sunshine,
+and low humidity frequently combine to offset the benefits of a large annual precipitation.
+Nevertheless, no one climatic feature represents, on the average, so correctly dry-farming
+possibilities as does the annual rainfall. Experience has already demonstrated that wherever
+the annual precipitation is above 15 inches, there is no need of crop failures, if the soils
+are suitable and the methods of dry-farming are correctly employed. With an annual precipitation
+of 10 to 15 inches, there need be very few failures, if proper cultural precautions are taken.
+With our present methods, the areas that receive less than 10 inches of atmospheric precipitation
+per year are not safe for dry-farm purposes. What the future will show in the reclamation of
+these deserts, without irrigation, is yet conjectural.
+
+Arid, semiarid, and sub-humid
+
+Before proceeding to an examination of the areas in the United States subject to the methods
+of dry-farming it may be well to define somewhat more clearly the terms ordinarily used in
+the description of the great territory involved in the discussion.
+
+The states lying west of the 100th meridian are loosely spoken of as arid, semiarid, or sub-humid
+states. For commercial purposes no state wants to be classed as arid and to suffer under the
+handicap of advertised aridity. The annual rainfall of these states ranges from about 3 to
+over 30 inches.
+
+In order to arrive at greater definiteness, it may be well to assign definite rainfall values
+to the ordinarily used descriptive terms of the region in question. It is proposed, therefore,
+that districts receiving less than 10 inches of atmospheric precipitation annually, be designated
+arid; those receiving between 10 and 20 inches, semiarid; those receiving between 20 and 30
+inches, sub-humid, and those receiving over 30 inches, humid. It is admitted that even such
+a classification is arbitrary, since aridity does not alone depend upon the rainfall, and even
+under such a classification there is an unavoidable overlapping. However, no one factor so
+fully represents varying degrees of aridity as the annual precipitation, and there is a great
+need for concise definitions of the terms used in describing the parts of the country that
+come under dry-farming discussions. In this volume, the terms "arid," "semiarid," "sub-humid"
+and "humid" are used as above defined.
+
+Precipitation over the dry-farm territory
+
+Nearly one half of the United States receives 20 inches or less rainfall annually; and that
+when the strip receiving between 20 and 30 inches is added, the whole area directly subject
+to reclamation by irrigation or dry-farming is considerably more than one half (63 per cent)
+of the whole area of the United States.
+
+Eighteen states are included in this area of low rainfall. The areas of these, as given by
+the Census of 1900, grouped according to the annual precipitation received, are shown below:--
+
+Arid to Semi-arid Group Total Area Land Surface (Sq. Miles)
+
+Arizona     112,920 California  156,172 Colorado    103,645 Idaho        84,290 Nevada    
+109,740 Utah         82,190 Wyoming      97,545 TOTAL       746,532
+
+Semiarid to Sub-Humid Group
+
+Montana     145,310 Nebraska     76,840 New Mexico  112,460 North Dakota 70,195 Oregon    
+94,560 South Dakota 76,850 Washington   66,880 TOTAL       653,095
+
+Sub-Humid to Humid Group
+
+Kansas       81,700 Minnesota    79,205 Oklahoma     38,830 Texas       262,290 TOTAL       462,025
+
+GRAND TOTAL 1,861,652
+
+The territory directly interested in the development of the methods of dry-farming forms 63
+per cent of the whole of the continental United States, not including Alaska, and covers an
+area of 1,861,652 square miles, or 1,191,457,280 acres. If any excuse were needed for the lively
+interest taken in the subject of dry-farming, it is amply furnished by these figures showing
+the vast extent of the country interested in the reclamation of land by the methods of dry-farming.
+As will be shown below, nearly every other large country possesses similar immense areas under
+limited rainfall.
+
+Of the one billion, one hundred and ninety-one million, four hundred and fifty-seven thousand,
+two hundred and eighty acres (1,191,457,280) representing the dry-farm territory of the United
+States, about 22 per cent, or a little more than one fifth, is sub-humid and receives between
+20 and 30 inches of rainfall, annually; 61 per cent, or a little more than three fifths, is
+semiarid and receives between 10 and 20 inches, annually, and about 17 per cent, or a little
+less than one fifth, is arid and receives less than 10 inches of rainfall, annually.
+
+These calculations are based upon the published average rainfall maps of the United States
+Weather Bureau. In the far West, and especially over the so-called "desert" regions, with their
+sparse population, meteorological stations are not numerous, nor is it easy to secure accurate
+data from them. It is strongly probable that as more stations are established, it will be found
+that the area receiving less than 10 inches of rainfall annually is considerably smaller than
+above estimated. In fact, the United States Reclamation Service states that there are only
+70,000,000 acres of desert-like land; that is, land which does not naturally support plants
+suitable for forage. This area is about one third of the lands which, so far as known, at present
+receive less than 10 inches of rainfall, or only about 6 per cent of the total dry-farming
+territory.
+
+In any case, the semiarid area is at present most vitally interested in dry-farming. The sub-humid
+area need seldom suffer from drouth, if ordinary well-known methods are employed; the arid
+area, receiving less than 10 inches of rainfall, in all probability, can be reclaimed without
+irrigation only by the development of more suitable. methods than are known to-day. The semiarid
+area, which is the special consideration of present-day dry-farming represents an area of over
+725,000,000 acres of land. Moreover, it must be remarked that the full certainty of crops in
+the sub-humid regions will come only with the adoption of dry-farming methods; and that results
+already obtained on the edge of the "deserts" lead to the belief that a large portion of the
+area receiving less than 10 inches of rainfall, annually, will ultimately be reclaimed without
+irrigation.
+
+Naturally, not the whole of the vast area just discussed could be brought under cultivation,
+even under the most favorable conditions of rainfall. A very large portion of the territory
+in question is mountainous and often of so rugged a nature that to farm it would be an impossibility.
+It must not be forgotten, however, that some of the best dry-farm lands of the West are found
+in the small mountain valleys, which usually are pockets of most fertile soil, under a good
+supply of rainfall. The foothills of the mountains are almost invariably excellent dry-farm
+lands. Newell estimates that 195,000,000 acres of land in the arid to sub-humid sections are
+covered with a more or less dense growth of timber. This timbered area roughly represents the
+mountainous and therefore the nonarable portions of land. The same authority estimates that
+the desert-like lands cover an area of 70,000,000 acres. Making the most liberal estimates
+for mountainous and desert-like lands, at least one half of the whole area, or about 600,000,000
+acres, is arable land which by proper methods may be reclaimed for agricultural purposes. Irrigation
+when fully developed may reclaim not to exceed 5 per cent of this area. From any point of view,
+therefore, the possibilities involved in dry-farming in the United States are immense.
+
+Dry-farm area of the world
+
+Dry-farming is a world problem. Aridity is a condition met and to be overcome upon every continent.
+McColl estimates that in Australia, which is somewhat larger than the continental United States
+of America, only one third of the whole surface receives above 20 inches of rainfall annually;
+one third receives from 10 to 20 inches, and one third receives less than lO inches. That is,
+about 1,267,000,000 acres in Australia are subject to reclamation by dry-farming methods. This
+condition is not far from that which prevails in the United States, and is representative of
+every continent of the world. The following table gives the proportions of the earth's land
+surface under various degrees of annual precipitations:--
+
+Annual Precipitation  Proportion of Earth's Land Surface Under 10 inches       25.0 per cent
+From 10 to 20 inches  30.0 per cent From 20 to 40 inches  20.0 per cent From 40 to 60 inches
+11.0 per cent From 60 to 80 inches   9.0 per cent From 100 to 120 inches 4.0 per cent From
+120 to 160 inches 0.5 per cent Above 160 inches       0.5 per cent Total                  100
+per cent
+
+Fifty-five per cent, or more than one half of the total land surface of the earth, receives
+an annual precipitation of less than 20 inches, and must be reclaimed, if at all, by dry-farming.
+At least 10 per cent more receives from 20 to 30 inches under conditions that make dry-farming
+methods necessary. A total of about 65 per cent of the earth's land surface is, therefore,
+directly interested in dry-farming. With the future perfected development of irrigation systems
+and practices, not more than 10 per cent will be reclaimed by irrigation. Dry-farming is truly
+a problem to challenge the attention of the race.
+
+CHAPTER IV
+
+DRY-FARM AREAS.--GENERAL CLIMATIC FEATURES
+
+The dry-farm territory of the United States stretches from the Pacific seaboard to the 96th
+parallel of longitude, and from the Canadian to the Mexican boundary, making a total area of
+nearly 1,800,000 square miles. This immense territory is far from being a vast level plain.
+On the extreme east is the Great Plains region of the Mississippi Valley which is a comparatively
+uniform country of rolling hills, but no mountains. At a point about one third of the whole
+distance westward the whole land is lifted skyward by the Rocky Mountains, which cross the
+country from south to northwest. Here are innumerable peaks, canons, high table-lands, roaring
+torrents, and quiet mountain valleys. West of the Rockies is the great depression known as
+the Great Basin, which has no outlet to the ocean. It is essentially a gigantic level lake
+floor traversed in many directions by mountain ranges that are offshoots from the backbone
+of the Rockies. South of the Great Basin are the high plateaus, into which many great chasms
+are cut, the best known and largest of which is the great Canon of the Colorado. North and
+east of the Great Basin is the Columbia River Basin characterized by basaltic rolling plains
+and broken mountain country. To the west, the floor of the Great Basin is lifted up into the
+region of eternal snow by the Sierra Nevada Mountains, which north of Nevada are known as the
+Cascades. On the west, the Sierra Nevadas slope gently, through intervening valleys and minor
+mountain ranges, into the Pacific Ocean. It would be difficult to imagine a more diversified
+topography than is possessed by the dry-farm territory of the United States.
+
+Uniform climatic conditions are not to be expected over such a broken country. The chief determining
+factors of climate--latitude, relative distribution of land and water, elevation, prevailing
+winds--swing between such large extremes that of necessity the climatic conditions of different
+sections are widely divergent. Dry-farming is so intimately related to climate that the typical
+climatic variations must be pointed out.
+
+The total annual precipitation is directly influenced by the land topography, especially by
+the great mountain ranges. On the east of the Rocky Mountains is the sub-humid district, which
+receives from 20 to 30 inches of rainfall annually; over the Rockies themselves, semiarid conditions
+prevail; in the Great Basin, hemmed in by the Rockies on the east and the Sierra Nevadas on
+the west, more arid conditions predominate; to the west, over the Sierras and down to the seacoast,
+semiarid to sub-humid conditions are again found.
+
+Seasonal distribution of rainfall
+
+It is doubtless true that the total annual precipitation is the chief factor in determining
+the success of dry-farming. However, the distribution of the rainfall throughout the year is
+also of great importance, and should be known by the farmer. A small rainfall, coming at the
+most desirable season, will have greater crop-producing power than a very much larger rainfall
+poorly distributed. Moreover, the methods of tillage to be employed where most of the precipitation
+comes in winter must be considerably different from those used where the bulk of the precipitation
+comes in the summer. The successful dry-farmer must know the average annual precipitation,
+and also the average seasonal distribution of the rainfall, over the land which he intends
+to dry-farm before he can safely choose his cultural methods.
+
+With reference to the monthly distribution of the precipitation over the dry-farm territory
+of the United States, Henry of the United States Weather Bureau recognizes five distinct types;
+namely: (1) Pacific, (2) Sub-Pacific, (3) Arizona, (4) the Northern Rocky Mountain and Eastern
+Foothills, and (5) the Plains Type:--
+
+"The Pacific Type.--This type is found in all of the territory west of the Cascade and Sierra
+Nevada ranges, and also obtains in a fringe of country to the eastward of the mountain summits.
+The distinguishing characteristic of the Pacific type is a wet season, extending from October
+to March, and a practically rainless summer, except in northern California and parts of Oregon
+and Washington. About half of the yearly precipitation comes in the months of December, January,
+and February, the remaining half being distributed throughout the seven months--September,
+October, November, March, April, May, and June."
+
+"Sub-Pacific Type.--The term 'Sub-Pacific' has been given to that type of rainfall which obtains
+over eastern Washington, Nevada, and Utah. The influences that control the precipitation of
+this region are much similar to those that prevail west of the Sierra Nevada and Cascade ranges.
+There is not, however, as in the eastern type, a steady diminution in the precipitation with
+the approach of spring, but rather a culmination in the precipitation."
+
+"Arizona Type.--The Arizona Type, so called because it is more fully developed in that territory
+than elsewhere, prevails over Arizona, New Mexico, and a small portion of eastern Utah and
+Nevada. This type differs from all others in the fact that about 35 per cent of the rain falls
+in July and August. May and June are generally the months of least rainfall."
+
+"The Northern Rocky Mountain and Eastern Foothills Type.--This type is closely allied to that
+of the plains to the eastward, and the bulk of the rain falls in the foothills of the region
+in April and May; in Montana, in May and June."
+
+"The Plains Type.--This type embraces the greater part of the Dakotas, Nebraska, Kansas; Oklahoma,
+the Panhandle of Texas, and all the great corn and wheat states of the interior valleys. This
+region is characterized by a scant winter precipitation over the northern states and moderately
+heavy rains during the growing season. The. bulk of the rains comes in May, June, and July."
+
+This classification emphasizes the great variation in distribution of rainfall over the dry-farm
+territory of the country. West of the Rocky Mountains the precipitation comes chiefly in winter
+and spring, leaving the summers rainless; while east of the Rockies, the winters are somewhat
+rainless and the precipitation comes chiefly in spring and summer. The Arizona type stands
+midway between these types. This variation in the distribution of the rainfall requires that
+different methods be employed in storing and conserving the rainfall for crop production. The
+adaptation of cultural methods to the seasonal distribution of rainfall will be discussed hereafter.
+
+Snowfall
+
+Closely related to the distribution of the rainfall and the average annual temperature is the
+snowfall. Wherever a relatively large winter precipitation occurs, the dry-farmer is benefited
+if it comes in the form of snow. The fall-planted seeds are better protected by the snow; the
+evaporation is lower and it appears that the soil is improved by the annual covering of snow.
+In any case, the methods of culture are in a measure dependent upon the amount of snowfall
+and the length of time that it lies upon the ground.
+
+Snow falls over most of the dry-farm territory, excepting the lowlands of California, the immediate
+Pacific coast, and other districts where the average annual temperature is high. The heaviest
+snowfall is in the intermountain district, from the west slope of the Sierra Nevadas to the
+east slope of the Rockies. The degree of snowfall on the agricultural lands is very variable
+and dependent upon local conditions. Snow falls upon all the high mountain ranges.
+
+Temperature
+

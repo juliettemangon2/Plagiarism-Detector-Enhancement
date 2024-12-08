@@ -1,0 +1,143 @@
+﻿Fig. 2 shows the arrangement of the electric lamp. A is the automatic regulator; B, the reflector;
+C, top extension of the reflector; D, small tissue paper screen to prevent the intense arc-rays
+from coming in contact with the sitter; E, stand with sliding rod. This appendage can be wheeled
+about with ease, as it is arranged to run upon four casters.
+
+When the generator is in use it may be placed within easy reach of the operator, so that the
+exposure may be made by lowering the elements in their troughs just for the requisite time,
+and withdrawing immediately the exposure is made; there is no need to fear any inconvenience
+from deleterious fumes as none are given off, so it may be used in any studio or sitting-room
+without any inconvenience from this source, and as far as many trials have gone, it seems to
+meet every requirement demanded by the photographer for the production of portraits by means
+of the electric light.--Photo. News.
+
+       *       *       *       *       *
+
+DESRUELLES'S ELECTRIC LIGHTER
+
+The little apparatus shown in the accompanying cut will certainly find favor with smokers,
+as well as with persons generally who often have need of a fire or light. It forms one of the
+most direct applications of dry piles of all the systems on the Desruelles plan. Instead of
+filling piles with a liquid, this plan contemplates the introduction into them of a sort of
+asbestos sponge saturated with an acid or any suitable solution. In this way there is obtained
+the advantage of having a pile which is in some sort dry, that may be moved, shaken, or upset
+without any outflow of liquid, and which will prove of special value when applied to movable
+apparatus, such as portable lighters, alarms on ships, railroads, etc. It is hardly necessary
+to say that while the introduction of this inert substance diminishes the volume of the liquid,
+the electro-motive force of the pile is thereby in nowise affected, but its internal resistance
+is increased. This, however, is of no consequence in the application under consideration. The
+lighter consists of a small, round, wooden box containing the pile, and surmounted by a spirit
+lamp. A platinum spiral opposite the wick serves for producing the light. The pile is a bichromate
+of potash element, in which there is substituted for the liquid a solution of bichromate identical
+with that used in bottle piles. The zinc is suspended from a small lever, in which it is only
+necessary to press slightly to bring the former in contact with the asbestos paste, when, the
+zinc being attached, a current is set up which traverses the spiral, heats it to redness, and
+lights the spirit. The pile, when once charged, may be used for several hundred lightings.
+When the spiral no longer becomes red hot, it is only necessary to replace the paste--an operation
+of extreme simplicity. When the pressure is removed from the little lever, the zinc, being
+raised, is no longer acted upon by the liquid with which the asbestos is saturated. Mr Desruelles
+is constructing upon the same principle a gas lighter, the pile of which is fixed at the extremity
+of a handle whose length varies with the height of the gas burners to be reached. These little
+domestic apparatus are being exhibited at the Paris Electrical Exhibition.
+
+       *       *       *       *       *
+
+SOLENOID UNDERGROUND WIRES IN PHILADELPHIA.
+
+The Evening Bulletin of the 29th October has the following:
+
+This afternoon a series of experiments were conducted at the Public Buildings which will be
+of great interest to electricians all over the country, and upon which the success of a number
+of underground telegraph projects in different parts of the United States depends. In all projects
+of this kind the problem which has given most trouble to inventors has been to overcome the
+induction. In other words, electric currents will leave their original conductors and pass
+to other conductors which may be near at hand. This interchange of currents may take place
+without seriously hindering ordinary telegraphy, as the indicators are not delicate enough
+to detect the induction. When telephones came into use, however, the induction became a great
+source of trouble to electricians, it often being the case that the sounds and influences from
+without were sufficient to drown out sounds in a telephone. To-day's experiment was conducted
+by Mr. J.F. Shorey, a well-known electrician, who exhibited Dr. Orazio Lugo's cables for electric
+light, telephone, and telegraphic purposes.
+
+A large number of prominent electricians were present, including the following: General J.H.
+Wilson, President of the N.Y. and N.E. Railroad, of Boston; Messrs. Frank L Pope, S.L.M Barlow,
+George B. Post, Charles G. Francklyn, Col. J.F. Casey, W.H. Bradford, and Selim R. Grant, of
+New York; James Gamble, General Manager of the Mutual Union Telegraph Co.; T.E. Cornich and
+W.D. Sargent, of the Bell Telegraph Co.; S.S. Garwood and J.E. Zeublen, of the Western Union,
+and others.
+
+The principal tests were made through the conduits on Market Street, laid by the National Underground
+Electric Company as far as Ninth Street. A cable of five conductors was laid through the conduit.
+Two of these conductors consisted of simple "circuit wires," while the other three were what
+is known as "solenoids." A solenoid wire is a single straight wire, connected at each end with
+and wound closely around by another insulated wire, this forming a complete system, the electric
+currents returning into themselves. Electricians claim that the solenoid effectually overcomes
+all induction, and this afternoon experiments were made for the purpose of proving that assertion.
+In the telephones, connected by the ordinary wires, a constant burr and click could be heard,
+that sound being the induction from the wires on the poles on Market Street, sixty feet overhead.
+With the solenoid the only sound in the telephones was the voices of the persons speaking.
+The faintest whispers could be heard distinctly, and the ease and comfort of conversation was
+in marked contrast to the other telephone on the ground wires. A set of telegraph indicators
+was also attached to the wires in use in the cable. The sounds were transferred from one "ground
+wire" to the other, while the solenoids seemed to resist every influence but that directed
+upon them by the operators. Another interesting test was made. The electric current for a Hauckhousen
+lamp was passed through a long coil of solenoid wire. Separated from this coil by a single
+newspaper, lay a coil of wire attached to telephones, yet not a sound could be heard in the
+telephones but the voices of the persons using them. The current of electricity created by
+a dynamo-electric machine is of necessity a violent one, and in the use of ordinary wires the
+induction would be so great that no other sounds could possibly be heard in the telephones.
+
+       *       *       *       *       *
+
+DR. HERZ'S TELEPHONIC SYSTEMS.
+
+In an article by Count du Moncel, published in SCIENTIFIC AMERICAN SUPPLEMENT, No 274, page
+4364, the author, after describing Dr. Herz's telephonic systems, deferred to another occasion
+the description of a still newer system of the same inventor, because at that time it had not
+been protected by patent. In the current number of La Lumière Electrique, Count Moncel returns
+to the subject to explain the principles of these new apparatus of Dr. Herz, and says:
+
+I will first recall the fact that Dr. Herz's first system was based upon the ingenious use
+(then new) of derivations. The microphone transmitter was placed on a derivation from the current
+going to the earth, taken in on leaving the pile, and the different contacts of the microphone
+were themselves connected directly and individually with the different elements of the pile.
+The telephone receiver was located at the other end of the line, and when this receiver was
+a condenser its armatures were, as a consequence of this arrangement, continuously and preventively
+polarized, thus making it capable of reproducing conversation.
+
+This arrangement evidently presented its advantages; but it likewise possessed its inconveniences,
+one of the most important of these being the necessity of employing rather strong piles and
+consequently of exposing the line to those effects of charge which react in so troublesome
+a manner in electrical transmissions when they occur on somewhat lengthy lines. Now the fact
+should be recalled that Dr. Herz's principal object was the application of the telephone to
+long lines, and he has been applying himself to this problem ever since. He at first thought
+of employing reversed currents, as in telegraphy; but how was such a result to be attained
+with systems based upon the use of sonorously-vibrating transmitters? He might have been able
+to solve the problem with the secondary currents of an induction bobbin, as Messrs. Gray, Edison,
+and others had done; but then he would no longer have been benefited by those amplifications
+which are furnished by the variations of pressure-derivations in microphones, and this led
+him to endeavor to increase the effects of the induced currents themselves by prolonging their
+duration, or rather by combining them in such a way that they should succeed each other, two
+by two, in the same direction; and this is the way he solved the problem in the beginning.
+
+The fact should also be recalled that Dr. Herz had, from his first experiments, recognized
+the efficiency of those microphonic contacts that are obtained by the superposition of carbon
+disks or other semi-conducting substances. He has employed these under different arrangements
+and with very diverse groupings, but, as a general thing, it has been the horizontal arrangement
+which has given him the best effects.
+
+Let us suppose, then, that four systems of contacts of this nature are arranged at the four
+corners of an ebonite plate, C C (Figs. 1 and 2), at A, A¹, B, B¹, and that they are connected
+with each other, as shown in the cuts--that is to say, the upper disks, e, f, g, h, parallel
+with the sides of the plate, and the lower disks, A, A¹, B, B¹, diagonally. Let us admit, further,
+that the plate pivots about an axis, R; that the disks are traversed by small pins fixed in
+the plate; and that small leaden disks rest upon the upper disks. Finally, let us imagine that
+the plate is connected at one end, through a rod T, with a telephone diaphragm. Now it will
+be readily understood that the vibrations produced by the diaphragm will cause the oscillation
+of the plate, C C, and that there will result therefrom, on the part of the disks, two effects
+that will succeed one another. The first will be, for the ascending vibrations, an increase
+of pressure effected between the disks of the left side, by reason of their force of inertia
+being increased by that of the lead disks; and the second will be, for the disks to the right,
+and, for the same reason, a reduction of pressure which will take place through resilience,
+at the moment of change in direction of the vibrating motions.
+

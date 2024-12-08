@@ -1,0 +1,604 @@
+﻿It may readily be understood that an alloy containing four essential elements, namely: iron,
+carbon, tungsten and chromium, is one whose study presents problems of extreme complexity.
+It is possible that complex carbides may be formed, as in chromium steels, and that compounds
+between iron and tungsten exist. Behavior of these combinations on heating and cooling must
+be better known before we are able to explain many peculiarities of tungsten steels.
+
+MOLYBDENUM
+
+Molybdenum steels have been made commercially for twenty-five years, but they have not been
+widely exploited until since the war. Very large resources of molybdenum have been developed
+in America, and the mining companies who are equipped to produce the metal are very active
+in advertising the advantages of molybdenum steels.
+
+It was early found that 1 part molybdenum was the equivalent of from 2 to 2-1/2 parts of tungsten
+in tool steels, and magnet steels. It fell into disrepute as an alloy for high-speed tool steel,
+however, because it was found that the molybdenum was driven out of the surface of the tool
+during forging and heat treating.
+
+Within the last few years it has been found that the presence of less than 1 per cent of molybdenum
+greatly enhances certain properties of heat-treated carbon and alloy steels used for automobiles
+and high-grade machinery.
+
+In general, molybdenum when added to an alloy steel, increases the figure for reduction of
+area, which is considered a good measure of "toughness." Molybdenum steels are also relatively
+insensible to variations in heat treatment; that is to say, a chromium-nickel-molybdenum steel
+after quenching in oil from 1,450°F. may be drawn at any temperature between 900 and 1,100°F.
+with substantially the same result (static tensile properties and hardness).
+
+SILICON
+
+Silicon prevents, to a large extent, defects such as gas bubbles or blow holes forming while
+steel is solidifying. In fact, steel after it has been melted and before it has been refined,
+is "wild" and "gassy." That is to say, if it would be cast into molds it would froth up, and
+boil all over the floor. A judicious amount of silicon added to the metal just before pouring,
+prevents this action--in the words of the steel maker, silicon "kills" the steel. If about
+1.75 per cent metallic silicon remains in a 0.65 carbon steel, it makes excellent springs.
+
+PHOSPHORUS
+
+Phosphorus is one of the impurities in steel, and it has been the object of steel makers for
+years to eliminate it. On cheap grades of steel, not subject to any abnormal strain or stress,
+0.1 per cent phosphorus is not objectionable. High phosphorus makes steel "cold short," i.e.,
+brittle when cold or moderately warm.
+
+SULPHUR
+
+Sulphur is another impurity and high sulphur is even a greater detriment to steel than phosphorus.
+High sulphur up to 0.09 per cent helps machining properties, but has a tendency to make the
+steel "hot short," i.e., subject to opening up cracks and seams at forging or rolling heats.
+Sulphur should never exceed 0.06 per cent nor phosphorus 0.08 per cent.
+
+Steel used for tool purposes should have as low phosphorus and sulphur contents as possible,
+not over 0.02 per cent.
+
+We can sum up the various factors something as follows for ready reference.
+
+The ingredient        Its effect
+
+  Iron            The basis of steel
+  Carbon          The determinative
+  Sulphur         A strength sapper
+  Phosphorus      The weak link
+  Oxygen          A strength destroyer
+  Manganese       For strength
+  Nickel          For strength and toughness
+  Tungsten        Hardener and heat resister
+  Chromium        For resisting shocks
+  Vanadium        Purifier and fatigue resister
+  Silicon         Impurity and hardener
+  Titanium        Removes nitrogen and oxygen
+  Molybdenum      Hardener and heat resister
+  Aluminum        Kills or deoxidizes steel
+
+PROPERTIES OF ALLOY STEELS
+
+The following table shows the percentages of carbon, manganese, nickel, chromium and vanadium
+in typical steel alloys for engineering purposes. It also gives the elastic limit, tensile
+strength, elongation and reduction of area of the various alloys, all being given the same
+heat treatment with a drawing temperature of 1,100°F. (600°C.). The specimens were one inch
+rounds machined after heat treatment.
+
+Tungsten is not shown in the table because it is seldom used in engineering construction steels
+and then usually in combination with chromium. Tungsten is used principally for the magnets
+of magnetos, to some extent in the manufacture of hacksaws, and for special tool steels.
+
+TABLE I.--PROPERTIES OF ALLOY STEELS
+------------------------------------------------------------------------------
+     \Manganese,/    \Chromium,/       |Elastic|Tensile  |Elongation|Reduction
+Carbon,\ per  /Nickel,\ per  /Vanadium,|limit, |Strength,|in 2 in., | of area,
+  per  | cent | per   | cent |per cent |lb. per|lb. per  |per cent  | per cent
+  cent |      | cent  |      |         |sq. in.|sq. in.  |          |
+-------|------|-------|------|---------|-------|---------|----------|---------
+  0.27 | 0.55 |       |      |         | 49,000|  80,000 |    30    |    65
+  0.27 | 0.47 |       |      |  0.26   | 66,000|  98,000 |    25    |    52
+  0.36 | 0.42 |       |      |         | 58,000|  90,000 |    27    |    60
+  0.34 | 0.87 |       |      |  0.13   | 82,500| 103,000 |    22    |    57
+  0.45 | 0.50 |       |      |         | 65,000|  96,000 |    22    |    52
+  0.43 | 0.60 |       |      |  0.32   | 96,000| 122,000 |    21    |    52
+  0.47 | 0.90 |       |      |  0.15   |102,000| 127,500 |    23    |    58
+  0.30 | 0.60 | 3.40  |      |         | 75,000| 105,000 |    25    |    67
+  0.33 | 0.63 | 3.60  |      |  0.25   |118,000| 142,000 |    17    |    57
+  0.30 | 0.49 | 3.60  | 1.70 |         |119,000| 149,500 |    21    |    60
+  0.25 | 0.47 | 3.47  | 1.60 |  0.15   |139,000| 170,000 |    18    |    53
+  0.25 | 0.50 | 2.00  | 1.00 |         |102,000| 124,000 |    25    |    70
+  0.38 | 0.30 | 2.08  | 1.16 |         |120,000| 134,000 |    20    |    57
+  0.42 | 0.22 | 2.14  | 1.27 |  0.26   |145,000| 161,500 |    16    |    53
+  0.36 | 0.61 | 1.46  | 0.64 |         |117,600| 132,500 |    16    |    58
+  0.36 | 0.50 | 1.30  | 0.75 |  0.16   |140,000| 157,500 |    17    |    54
+  0.30 | 0.50 |       | 0.80 |         | 90,000| 105,000 |    20    |    50
+  0.23 | 0.58 |       | 0.82 |  0.17   |106,000| 124,000 |    21    |    66
+  0.26 | 0.48 |       | 0.92 |  0.20   |112,000| 137,000 |    20    |    61
+  0.35 | 0.64 |       | 1.03 |  0.22   |132,500| 149,500 |    16    |    54
+  0.50 | 0.92 |       | 1.02 |  0.20   |170,000| 186,000 |    15    |    45
+------------------------------------------------------------------------------
+
+NON-SHRINKING, OIL-HARDENING STEELS
+
+Certain steels have a very low rate of expansion and contraction in hardening and are very
+desirable for test plugs, gages, punches and dies, for milling cutters, taps, reamers, hard
+steel bushings and similar work.
+
+It is recommended that for forging these steels it be heated slowly and uniformly to a bright
+red, but not in a direct flame or blast. Harden at a dull red heat, about 1,300°F. A clean
+coal or coke fire, or a good muffle-gas furnace will give best results. Fish oil is good for
+quenching although in some cases warm water will give excellent results. The steel should be
+kept moving in the bath until perfectly cold. Heated and cooled in this way the steel is very
+tough, takes a good cutting edge and has very little expansion or contraction which makes it
+desirable for long taps where the accuracy of lead is important.
+
+The composition of these steels is as follows:
+
+               Per cent
+  Manganese  1.40 to 1.60
+  Carbon     0.80 to 0.90
+  Vanadium   0.20 to 0.25
+
+EFFECT OF A SMALL AMOUNT OF COPPER IN MEDIUM-CARBON STEEL
+
+This shows the result of tests by C. R. Hayward and A. B. Johnston on two types of steel: one
+containing 0.30 per cent carbon, 0.012 per cent phosphorus, and 0.860 per cent copper, and
+the other 0.365 per cent carbon, 0.053 per cent phosphorus, and 0.030 per cent copper. The
+accompanying chart in Fig. 13 shows that high-copper steel has decided superiority in tensile
+strength, yield point and ultimate strength, while the ductility is practically the same. Hardness
+tests by both methods show high-copper steel to be harder than low-copper, and the Charpy shock
+tests show high-copper steel also superior to low-copper. The tests confirm those made by Stead,
+showing that the behavior of copper steel resembles that of nickel steel. The high-copper steels
+show finer grain than the low-copper. The quenched and drawn specimens of high-copper steel
+were found to be slightly more martensitic.
+
+HIGH-CHROMIUM OR RUST-PROOF STEEL
+
+High-chromium, or what is called stainless steel containing from 11 to 14 per cent chromium,
+was originally developed for cutlery purposes, but has in the past few years been used to a
+considerable extent for exhaust valves in airplane engines because of its resistance to scaling
+at high temperatures.
+
+                                Percentage
+  Carbon                       0.20 to 0.40
+  Manganese, not to exceed         0.50
+  Phosphorus, not to exceed        0.035
+  Sulphur, not to exceed           0.035
+  Chromium                    11.50 to 14.00
+  Silicon, not to exceed           0.30
+
+The steel should be heated slowly and forged at a temperature above 1,750°F. preferably between
+1,800 and 2,200°F. If forged at temperatures between 1,650 and 1,750°F. there is considerable
+danger of rupturing the steel because of its hardness at red heat. Owing to the air-hardening
+property of the steel, the drop-forgings should be trimmed while hot. Thin forgings should
+be reheated to redness before trimming, as otherwise they are liable to crack.
+
+The forgings will be hard if they are allowed to cool in air. This hardness varies over a range
+of from 250 to 500 Brinell, depending on the original forging temperature.
+
+ANNEALING can be done by heating to temperatures ranging from 1,290 to 1,380°F. and cooling
+in air or quenching in water or oil. After this treatment the forgings will have a hardness
+of about 200 Brinell and a tensile strength of 100,000 to 112,000 lb. per square inch. If softer
+forgings are desired they can be heated to a temperature of from 1,560 to 1,650°F. and cooled
+very slowly. Although softer the forgings will not machine as smoothly as when annealed at
+the lower temperature.
+
+HARDENING.--The forgings can be hardened by cooling in still air or quenching in oil or water
+from a temperature between 1,650 and 1,750°F.
+
+The physical properties do not vary greatly when the carbon is within the range of composition
+given, or when the steel is hardened and tempered in air, oil, or water.
+
+When used for valves the following specification of physical properties have been used:
+
+  Yield point, pounds per square inch       70,000
+  Tensile strength, pounds per square inch  90,000
+  Elongation in 2 in., per cent                 18
+  Reduction of area, per cent                   50
+
+The usual heat treatment is to quench in oil from 1,650°F. and temper or draw at 1,100 to 1,200°F.
+One valve manufacturer stated that valves of this steel are hardened by heating the previously
+annealed valves to 1,650°F. and cooling in still air. This treatment gives a scleroscope hardness
+of about 50.
+
+In addition to use in valves this steel should prove very satisfactory for shafting for water-pumps
+and other automobile parts subject to objectionable corrosion.
+
+      TABLE 2.--COMPARISON OF PHYSICAL PROPERTIES FOR HIGH-CHROMIUM
+                STEELS OF DIFFERENT CARBON CONTENT --------------------------------------------------------------------------
+                                         | C   0.20 | C   0.27 | C   0.50
+                                         | Mn  0.45 | Mn  0.50 |
+                                         | Cr 12.56 | Cr 12.24 | Cr 14.84
+-----------------------------------------|----------|----------|----------
+Quenched in oil from degrees Fahrenheit  |   1,600  |   1,600  |   1,650
+Tempered at degrees Fahrenheit           |   1,160  |   1,080  |   1,100
+Yield point, pounds per square inch      |  78,300  |  75,000  |  91,616
+Tensile strength, pounds per square inch | 104,600  | 104,250  | 123,648
+Elongation in 2 in., per cent            |   25.0   |   23.5   |   14.5
+Reduction of area, per cent              |   52.5   |   51.4   |   33.5
+--------------------------------------------------------------------------
+
+TABLE 3.--COMPARISON OF PHYSICAL PROPERTIES BETWEEN AIR, OIL AND
+          WATER-HARDENED STEEL HAVING CHEMICAL ANALYSIS IN
+          PERCENTAGE OF
+-------------------------------------------------------------------------
+  Carbon       0.24
+  Manganese    0.30
+  Phosphorus   0.035
+  Sulphur      0.035
+  Chromium    12.85
+  Silicon      0.20
+
+-------------------------------------------------------------------------
+         | Hardened |           | Elastic | Tensile |          |
+Hardening|  from,   | Tempered  | limit,  |strength,|Elongation|Reduction
+medium   | degrees  |at, degrees| per lb. |lb.  Per | in 2 in. |of area,
+         |Fahrenheit|Fahrenheit | sq. in. | sq. in. | per cent |per cent
+---------|----------|-----------|---------|---------|----------|---------
+         |          |     930   | 158,815 | 192,415 |   13.0   |  40.5
+         |          |   1,100   |  99,680 | 120,065 |   21.0   |  59.2
+  Air    |  1,650   |   1,300   |  70,785 | 101,250 |   26.0   |  64.6
+         |          |   1,380   |  66,080 |  98,335 |   28.0   |  63.6
+         |          |   1,470   |  70,785 |  96,990 |   27.0   |  64.7
+---------|----------|-----------|---------|---------|----------|---------
+         |          |     930   | 163,070 | 202,720 |    8.0   |  18.2
+  Oil    |  1,650   |   1,100   |  88,255 | 116,480 |   20.0   |  56.9
+         |          |   1,300   |  77,950 | 105,505 |   25.5   |  63.8
+         |          |   1,380   |  88,255 |  98,785 |   27.0   |  66.3
+---------|----------|-----------|---------|---------|----------|---------
+         |          |     930   | 158,815 | 202,050 |   12.0   |  34.2
+  Water  |  1,650   |   1,100   |  90,270 | 120,735 |   22.0   |  59.8
+         |          |   1,300   |  66,080 | 102,590 |   25.8   |  64.8
+         |          |   1,380   |  67,200 |  97,890 |   27.0   |  65.2
+-------------------------------------------------------------------------
+
+This steel can be drawn into wire, rolled into sheets and strips and drawn into seamless tubes.
+
+CORROSION.--This steel like any other steel when distorted by cold working is more sensitive
+to corrosion and will rust. Rough cut surfaces will rust. Surfaces finished with a fine cut
+are less liable to rust. Ground and polished surfaces are practically immune to rust.
+
+When chromium content is increased to 16 to 18 per cent and silicon is added, from 2 to 4 per
+cent, this steel becomes rust proof in its raw state, as soon as the outside surface is removed.
+It does not need to be heat-treated in any way. These compositions are both patented.
+
+S. A. E. STANDARD STEELS
+
+The following steel specifications are considered standard by the Society of Automotive Engineers
+and represents automobile practice in this country. These tables give the S. A. E. number,
+the composition of the steel and the heat treatment. These are referred to by letter--the heat
+treatments being given in detail on pages 134 to 137 in Chap. 8. It should be noted that the
+percentage of the different ingredients desired is the mean, or halfway between the minimum
+and maximum.
+
+LIBERTY MOTOR CONNECTING RODS
+
+The requirements for materials for the Liberty motor connecting rods are so severe that the
+methods of securing the desired qualities will be of value in other lines. The original specifications
+called for chrome-nickel but the losses due to the difficulty of handling caused the Lincoln
+Motor Company to suggest the substitution of chrome-vanadium steel, and this was accepted by
+the Signal Corps. The rods were accordingly made from chromium-vanadium steel, containing carbon,
+0.30 to 0.40 per cent; manganese, 0.50 to 0.80 per cent; phosphorus, not over 0.04 per cent;
+sulphur, not over 0.04 per cent; chromium, 0.80 to 1.10 per cent; vanadium, not less than 0.15
+per cent. This steel is ordinarily known in the trade as 0.35 carbon steel, S. A. E., specification
+6,135, which provides a first-rate quality steel for structural parts that are to be heat-treated.
+The fatigue resisting or endurance qualities of this material are excellent. It has a tensile
+strength of 150,000 lb. minimum per square inch; elastic limit, 115,000 lb. minimum per square
+inch; elongation, 5 per cent minimum in 2 in.; and minimum reduction in area, 25 per cent.
+
+The original production system as outlined for the manufacturers had called for a heat treatment
+in the rough-forged state for the connecting rods, and then semi-machining the rod forgings
+before giving them the final treatment. The Lincoln Motor Company insisted from the first that
+the proper method would be a complete heat treatment of the forging in the rough state, and
+machining the rod after the heat treatment. After a number of trial lots, the Signal Corps
+acceded to the request and production was immediately increased and quality benefited by the
+change. This method was later included in a revised specification issued to all producers.
+
+The original system was one that required a great deal of labor per unit output. The Lincoln
+organization developed a method of handling connecting rods whereby five workmen accomplished
+the same result that would have required about 30 or 32 by the original method. Even after
+revising the specification so as to allow complete heat treatments in the rough-forged state,
+the ordinary methods employed in heat-treating would have required 12 to 15 men. With the fixtures
+employed, five men could handle 1,300 connecting rods, half of which are plain and half, forked,
+in a working period of little over 7 hr.
+
+The increase in production was gained by devising fixtures which enabled fewer men to handle
+a greater quantity of parts with less effort and in less time.
+
+In heat-treating the forgings were laid on a rack or loop A, Fig. 14, made of 1-1/4-in. double
+extra-heavy pipe, bent up with parallel sides about 9 in. apart, one end being bent straight
+across and the other end being bent upward so as to afford an easy grasp for the hook. Fifteen
+rods were laid on each loop, there being four loops of rods charged into a furnace with a hearth
+area of 36 by 66 in. The rods were charged at a temperature of approximately 900°F. They were
+heated for refining over a period of 3 hr. to 1,625°F., soaked 15 min, at this degree of heat
+and quenched in soluble quenching oil.
+
+In pulling the heat to quench the rods, the furnace door was raised and the operator pulls
+one of the loops A, Fig. 15 forward to the shelf of the furnace, supporting the straight end
+of the loop by means of the porter bar B. They swung the loop of rods around from the furnace
+shelf and set the straight end of the loop on the edge of the quenching tank, then raise the
+curved end C, by means of their hook D so that all the rods on the loop slide into the oil bath.
+
+Before the rods cooled entirely, the baskets in the quenching tank were raised and the oil
+allowed to partly drain off the forgings, and they were stacked on curved-end loops or racks
+and charged into the furnace for the second or hardening heat. The temperature of the furnace
+was raised in 1-1/2 hr. to 1,550°F., the rods soaked for 15 min. at this degree of heat and
+quenched in the same manner as above.
+
+They were again drained while yet warm, placed on loops and charged into the furnace for the
+third or tempering heat. The temperature of the furnace was brought to 1,100°F. in 1 hr., and
+the rods soaked at this degree of heat for 1 hr. They were then removed from the furnace the
+same as for quenching, but were dumped onto steel platforms instead of into the quenching oil,
+and allowed to cool on these steel platforms down to the room temperature.
+
+PICKLING THE FORGINGS
+
+The forgings were then pickled in a hot solution of either niter cake or sulphuric acid and
+water at a temperature of 170°F., and using a solution of about 25 per cent. The solution was
+maintained at a constant point by taking hydrometer readings two or three times a day, maintaining
+a reading of about 1.175. Sixty forked or one hundred single rods were placed in wooden racks
+and immersed in a lead-lined vat 30 by 30 by 5 ft. long. The rack was lowered or lifted by
+means of an air hoist and the rods were allowed to stay in solution from 1/2 to 1 hr., depending
+on the amount of scale. The rods were then swung and lowered in the rack into running hot water
+until all trace of the acid was removed.
+
+The rod was finally subjected to Brinell test. This shows whether or not the rod has been heat-treated
+to the proper hardness. If the rods did not read between 241 and 277, they were re-treated
+until the proper hardness is obtained.
+
+CHAPTER IV
+
+APPLICATION OF LIBERTY ENGINE MATERIALS TO THE AUTOMOTIVE INDUSTRY[1]
+
+[Footnote 1: Paper presented at the summer meeting of the S. A. E. at Ottawa Beach in June, 1919.]
+
+The success of the Liberty engine program was an engineering achievement in which the science
+of metallurgy played an important part. The reasons for the use of certain materials and certain
+treatments for each part are given with recommendations for their application to the problems
+of automotive industry.
+
+The most important items to be taken into consideration in the selection of material for parts
+of this type are uniformity and machineability. It has been demonstrated many times that the
+ordinary grades of bessemer screw stock are unsatisfactory for aviation purposes, due to the
+presence of excessive amounts of unevenly distributed phosphorus and sulphide segregations.
+For this reason, material finished by the basic open hearth process was selected, in accordance
+with the following specifications: Carbon, 0.150 to 0.250 per cent; manganese, 0.500 to 0.800
+per cent; phosphorus, 0.045 maximum per cent; sulphur, 0.060 to 0.090 per cent.
+
+This material in the cold-drawn condition will show: Elastic limit, 50,000 lb. per square inch,
+elongation in 2 in., 10 per cent, reduction of area, 35 per cent.
+
+This material gave as uniform physical properties as S. A. E. No. 1020 steel and at the same
+time was sufficiently free cutting to produce a smooth thread and enable the screw-machine
+manufacturers to produce, to the same thread limits, approximately 75 per cent as many parts
+as from bessemer screw stock.
+
+There are but seven carbon-steel carbonized parts on the Liberty engine. The most important
+are the camshaft, the camshaft rocker lever roller and the tappet. The material used for parts
+of this type was S. A. E. No. 1,020 steel, which is of the following chemical analysis: Carbon
+0.150 to 0.250 per cent; manganese, 0.300 to 0.600 per cent; phosphorus, 0.045 maximum per
+cent; sulphur, 0.050 maximum per cent.
+
+The heat treatment consisted in carbonizing at a temperature of from 1,650 to 1,700°F. for
+a sufficient length of time to secure the proper depth of case, cool slowly or quench; then
+reheat to a temperature of 1,380 to 1,430°F. to refine the grain of the case, and quench in
+water. The only thing that should limit the rate of cooling from the carbonizing heat is distortion.
+Camshaft rocker lever rollers and tappets, as well as gear pins, were quenched directly from
+the carbonizing heat in water and then case-refined and rehardened by quenching in water from
+a temperature of from 1,380 to 1,430°F.
+
+The advantage of direct quenching from the carbonizing heat is doubtless one of economy, and
+in many cases will save the cost of a reheating. Specifications for case hardening, issued
+by the Society of Automotive Engineers, have lately been revised; whereas they formerly called
+for a slow cooling, they now permit a quenching from the pot. Doubtless this is a step in advance.
+Warpage caused by quenching can be reduced to a minimum by thoroughly annealing the stock before
+any machine work is done on it.
+
+Another advantage obtained from rapid cooling from the carbonizing heat is the retaining of
+the majority of the excess cementite in solution which produces a less brittle case and by
+so doing reduces the liability of grinding checks and chipping of the case in actual service.
+
+In the case of the camshaft, it is not possible to quench directly from the carbonizing heat
+because of distortion and therefore excessive breakage during straightening operations. All
+Liberty camshafts were cooled slowly from carbonizing heat and hardened by a single reheating
+to a temperature of from 1,380 to 1,430°F. and quenching in water.
+
+Considerable trouble has always been experienced in obtaining uniform hardness on finished
+camshafts. This is caused by insufficient water circulation in the quenching tank, which allows
+the formation of steam pockets to take place, or by decarbonization of the case during heating
+by the use of an overoxidizing flame. Another cause, which is very often overlooked, is due
+to the case being ground off one side of cam more than the other and is caused by the roughing
+master cam being slightly different from the finishing master cam. Great care should be taken
+to see that this condition does not occur, especially when the depth of case is between 1/32
+and 3/64 in.
+
+CARBON-STEEL FORGINGS
+
+Low-stressed, carbon-steel forgings include such parts as carbureter control levers, etc. The
+important criterion for parts of this type is ease of fabrication and freedom from over-heated
+and burned forgings.
+
+Forgings subjected to this heat treatment are free from hard spots and will show a Brinell
+hardness of 177 to 217, which is proper for all ordinary machining operations. Great care should
+be taken not to use steel for parts of this type containing less than 0.25 per cent carbon,
+because the lower the carbon the greater the liability of hard spots, and the more difficult
+it becomes to eliminate them. The only satisfactory method so far in commercial use for the
+elimination of hard spots is to give forgings a very severe quench from a high temperature
+followed by a proper tempering heat to secure good machine ability as outlined above.
+
+To obtain these physical properties, the forgings were quenched in water from a temperature
+of 1,500 to 1,550°F., followed by tempering to meet proper Brinell requirements by heating
+to a temperature of 1,150 to 1,200°F. and cooled slowly or quenched. No trouble of any kind
+was ever experienced with parts of this type.
+
+The principal carbon-steel pressed parts used on the Liberty engine were the water jackets
+and the exhaust manifolds. The material used for parts of this type was S. A. E. No. 1,010
+steel, which is of the following chemical composition: Carbon, 0.05 to 0.15 per cent; manganese,
+0.30 to 0.60 per cent; phosphorus, 0.045 maximum per cent; sulphur, 0.045 maximum per cent.
+
+No trouble was experienced in the production of any parts from this material with the exception
+of the water jacket. Due to the particular design of the Liberty cylinder assembly, many failures
+occurred in the early days, due to the top of the jacket cracking with a brittle fracture.
+It was found that these failures were caused primarily from the use of jackets which showed
+small scratches or die marks at this joint and secondarily by improper annealing of the jackets
+themselves between the different forming operations. By a careful inspection for die marks
+and by giving the jackets 1,400°F. annealing before the last forming operation, it was possible
+to completely eliminate the trouble encountered.
+
+HIGHLY STRESSED PARTS
+
+The highly stressed parts on the Liberty engine consisted of the connecting-rod bolt, the main-bearing
+bolt, the propeller-hub key, etc. The material used for parts of this type was selected at
+the option of the manufacturer from standard S. A. E. steels, the composition of which are
+given in Table 11.
+
+TABLE 11.--COMPOSITION OF S. A. E. STEELS Nos.
+
+The heat treatment employed to obtain these physical properties consisted in quenching from
+a temperature of 1,525 to 1,575°F., in oil, followed by tempering at a temperature of from
+925 to 975°F.
+
+Due to the extremely fine limits used on all threaded parts for the Liberty engine, a large
+percentage of rejection was due to warpage and scaling of parts. To eliminate this objection,
+many of the Liberty engine builders adopted the use of heat-treated and cold-drawn alloy steel
+for their highly stressed parts. On all sizes up to and including 3/8 in. in diameter, the
+physical properties were secured by merely normalizing the hot-rolled bars by heating to a
+temperature of from 1,525 to 1,575°F., and cooling in air, followed by the usual cold-drawing
+reductions. For parts requiring stock over 3/8 in. in diameter, the physical properties desired
+were obtained by quenching and tempering the hot-rolled bars before cold-drawing. It is the
+opinion that the use of heat-treated and cold-drawn bars is very good practice, provided proper
+inspection is made to guarantee the uniformity of heat treatment and, therefore, the uniformity
+of the physical properties of the finished parts.
+
+The question has been asked many times by different manufacturers, as to which alloy steel
+offers the best machineability when heat-treated to a given Brinell hardness. The general consensus
+of opinion among the screw-machine manufacturers is that S. A. E. No. 6,130 steel gives the
+best machineability and that S. A. E. No. 2,330 steel would receive second choice of the three
+specified.
+
+In the finishing of highly stressed parts for aviation engines, extreme care must be taken
+to see that all tool marks are eliminated, unless they are parallel to the axis of strain,
+and that proper radii are maintained at all changes of section. This is of the utmost importance
+to give proper fatigue resistance to the part in question.
+
+GEARS
+
+The material used for all gears on the Liberty engine was selected at the option of the manufacturer
+from the following standard S. A. E. steels, the composition of which are given in Table 12,
+
+TABLE 12.--COMPOSITION OF STEELS NOS. X-3,340 AND 6,140
+
+  Steel No              X-3,340   6,140
+  Carbon, minimum        0.350    0.350
+  Carbon, maximum        0.450    0.450
+  Manganese, minimum     0.450    0.500
+  Manganese, maximum     0.750    0.800
+  Phosphorus, maximum    0.040    0.040
+  Sulphur, maximum       0.045    0.045
+  Nickel, minimum        2.750
+  Nickel, maximum        3.250
+  Chromium, minimum      0.700    0.800
+  Chromium, maximum      0.950    1.100
+  Vanadium, minimum               0.150
+
+All gears were heat-treated to a scleroscope hardness of from 55 to 55. The heat treatment
+used to secure this hardness consisted in quenching the forgings from a temperature of 1,550
+to 1,600°F. in oil and annealing for good machineability at a temperature of from 1,300 to
+1,350°F. Forgings treated in this manner showed a Brinell hardness of from 177 to 217.
+
+RATE OF COOLING
+
+At the option of the manufacturer, the above treatment of gear forgings could be substituted
+by normalizing the forgings at a temperature of from 1,550 to 1,600°F. The most important criterion
+for proper normalizing, consisted in allowing the forgings to cool through the critical temperature
+of the steel, at a rate not to exceed 50°F. per hour. For the two standard steels used, this
+consisted in cooling from the normalizing temperature down to a temperature of 1,100°F., at
+the rate indicated. Forgings normalized in this manner will show a Brinell hardness of from
+177 to 217. The question has been repeatedly asked as to which treatment will produce the higher
+quality finished part. In answer to this I will state that on simple forgings of comparatively
+small section, the normalizing treatment will produce a finished part which is of equal quality
+to that of the quenched and annealed forgings. However, in the case of complex forgings, or
+those of large section, more uniform physical properties of the finished part will be obtained
+by quenching and annealing the forgings in the place of normalizing.
+
+The heat treatment of the finished gears consisted of quenching in oil from a temperature of
+from 1,420 to 1,440°F. for the No. X-3,340 steel, or from a temperature of from 1,500 to 1,540°F.
+for No. 6,140 steel, followed by tempering in saltpeter or in an electric furnace at a temperature
+of from 650 to 700°F.
+
+The question has been asked by many engineers, why is the comparatively low scleroscope hardness
+specified for gears? The reason for this is that at best the life of an aviation engine is
+short, as compared with that of an automobile, truck or tractor, and that shock resistance
+is of vital importance. A sclerescope hardness of from 55 to 65 will give sufficient resistance
+to wear to prevent replacements during the life of an aviation engine, while at the same time
+this hardness produces approximately 50 per cent greater shock-resisting properties to the
+gear. In the case of the automobile, truck or tractor, resistance to wear is the main criterion
+and for that reason the higher hardness is specified.
+
+Great care should be taken in the design of an aviation engine gear to eliminate sharp corners
+at the bottom of teeth as well as in keyways. Any change of section in any stressed part of
+an aviation engine must have a radius of at least 1/32 in. to give proper shock and fatigue
+resistance. This fact has been demonstrated many times during the Liberty engine program.
+
+TABLE 13.--COMPOSITION OF STEELS NOS.
+
+The heat treatment used to secure these physical properties consisted in normalizing the forgings
+at a temperature of from 1,550 to 1,600°F., followed by cooling in the furnace or in air. The
+forgings were then quenched in oil from a temperature of from 1,420 to 1,440°F. for the No.
+X-3,335 steel, or from a temperature of from 1,500 to 1,525°F. for No. 6,135 steel, followed
+by tempering at a temperature of from 1,075 to 1,150°F. At the option of the manufacturer,
+the normalizing treatment could be substituted by quenching the forgings from a temperature
+of from 1,550 to 1,600°F., in oil, and annealing for the best machineability at a temperature
+of from 1,300 to 1,350°F. The double quench, however, did not prove satisfactory on No. X-3,335
+steel, due to the fact that it was necessary to remove forgings from the quenching bath while
+still at a temperature of from 300 to 500°F. to eliminate any possibility of cracking. In view
+of the fact that this practice is difficult to carry out in the average heat-treating plant,
+considerable trouble was experienced.
+
+The most important criterion in the production of aviation engine connecting rods is the elimination
+of burned or severely overheated forgings. Due to the particular design of the forked rod,
+considerable trouble was experienced in this respect because of the necessity of reheating
+the forgings before they are completely forged. As a means of elimination of burned forgings,
+test lugs were forged on the channel section as well as on the top end of fork. After the finish
+heat treatment, these test lugs were nicked and broken and the fracture of the steel carefully
+examined. This precaution made it possible to eliminate burned forgings as the test lugs were
+placed on sections which would be most likely to become burned.
+
+There is a great difference of opinion among engineers as to what physical properties an aviation
+engine connecting rod should have. Many of the most prominent engineers contend that a connecting
+rod should be as stiff as possible. To produce rods in this manner in any quantity, it is necessary
+for the final heat treatment to be made on the semi-machined rod. This practice would make
+it necessary for a larger percentage of the semi-machined rods to be cold-straightened after
+the finish heat treatment. The cold-straightening operation on a part having important functions
+to perform as a connecting rod is extremely dangerous.
+
+In view of the fact that a connecting rod functions as a strut, it is considered that this
+part should be only stiff enough to prevent any whipping action during the running of the engine.
+The greater the fatigue-resisting property that one can put into the rod after this stiffness
+is reached, the longer the life of the rod will be. This is the reason for the Brinell limits
+mentioned being specified.
+
+In connection with the connecting rod, emphasis must be laid on the importance of proper radii
+at all changes of section. The connecting rods for the first few Liberty engines were machined
+with sharp corners at the point where the connecting-rod bolt-head fits on assembly. On the
+first long endurance test of a Liberty engine equipped with rods of this type, failure resulted
+from fatigue starting at this point. It is interesting to note that every rod on the engine
+which did not completely fail at this point had started to crack. The adoption of a 1/32-in.
+radius at this point completely eliminated fatigue failures on Liberty rods.
+
+CRANKSHAFT
+
+The crankshaft was the most highly stressed part of the entire Liberty engine, and, therefore,
+every metallurgical precaution was taken to guarantee the quality of this part.
+
+For every increase of 4,000 lb. per square inch in the elastic limit above 116,000 lb. per
+square inch, the minimum Izod impact required was reduced 1 ft.-lb.
+
+A prolongation of not less than the diameter of the forging bearing was forged on one end of
+each crankshaft. This was removed from the shaft after the finish heat treatment, and physical
+tests were made on test specimens which were cut from it at a point half way between the center
+and the surface. One tensile test and one impact test were made on each crankshaft, and the
+results obtained were recorded against the serial number of the shaft in question. This serial
+number was carried through all machining operations and stamped on the cheek of the finished
+shaft. In addition to the above tensile and impact tests, at least two Brinell hardness determinations
+were made on each shaft.
+
+All straightening operations on the Liberty crankshaft which were performed below a temperature
+of 500°F. were followed by retempering at a temperature of approximately 200°F. below the original
+tempering temperature.
+

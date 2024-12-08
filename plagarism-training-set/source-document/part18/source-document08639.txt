@@ -1,0 +1,467 @@
+﻿  A tree with sparse gray-green foliage, growing in small groves on the
+  foot-hills of the Sierra Nevada and Coast Ranges of California. Its
+  three leaves and the uniform color of the nut distinguish it from
+  P. Torreyana. From P. Coulteri it differs in the length of the
+  membranous portion of the seed-wing and in its gray-green leaves.
+
+    Plate XXXVIII.
+
+    Fig. 326, Cone. Fig. 327, Seed, nut and wing. Fig. 328, Magnified
+    leaf-section.
+
+66. PINUS COULTERI
+
+    1837 P. Coulteri D. Don in Trans. Linn. Soc. xvii. 440.
+    1840 P. macrocarpa Lindley in Bot. Reg. xxvi. Misc. 62.
+
+Spring-shoots multinodal, pruinose. Leaves in fascicles of 3, from 15 to 30 cm. long, very
+stout; resin-ducts medial, or with an occasional internal duct, hypoderm multiform and of many
+cells. Conelet very large, the scales tapering to a long sharp point. Cones from 25 to 35 cm.
+long, reflexed, ovate or oblong-ovate, somewhat oblique, persistent; apophyses sublustrous
+tawny yellow, very protuberant, with a narrow shoulder from which springs the umbo in the form
+of a large stout curved talon; seed-wing nearly equally divided between the very thick base
+and the membranous apex.
+
+  Remarkable among Pines for the size and weight of its cones, many
+  times heavier than the longer cones of P. Lambertiana, illustrating
+  the great change that the cone-tissues undergo in the gradual
+  evolution of the species. It is a tree with dark-green foliage,
+  growing from northern Lower California over the mountains of southern
+  California to the Santa Lucia range and to Mt. Diablo. It is of no
+  value except for fuel and for its large nuts. It is best recognized by
+  its seed. The cone differs from the others of this group in its yellow
+  color, not unlike that of boxwood.
+
+    Plate XXXIX.
+
+    Fig. 329, Cone of small size. Fig. 330, Seed, nut and wing. Fig.
+    331, Magnified leaf-section. Fig. 332, Conelet.
+
+INDEX
+
+  Adnate wing, 16
+  Apinus, Neck.--Pinus, 24
+  Apophysis of cone, 10
+  Armature of conelet, 7
+  Articulate wing, 16
+  Australes-Group, 62
+
+  Balfourianae-Group, 42
+  Bark, 18
+  Bases of bracts decurrent and non-decurrent, 1
+  Bast-tissue of cone, 14
+  Biform hypoderm, 6
+  Bloom on branchlet, 2
+  Bracts, bases of, 1
+  Branchlet, multinodal, 2
+    uninodal, 2
+  Bud, latent, 2
+    leaf, 1
+    staminate, 1
+
+  Caryopitys, Small = Pinus, 24
+  Caryopitys edulis Small = Pinus cembroides, 38
+  Cembra, Opiz = Pinus, 24
+  Cembra-Subsection, 26
+  Cembrae-Group, 26
+  Cembroides-Group, 38
+  Characters of the genus, 1
+  Classification of species, 22
+  Color of cone, 8
+  Cone, apophysis of, 10
+    bast tissues of, 14
+    color of, 8
+    dimensions of, 8
+    oblique, 10
+    peduncle of, 8
+    persistent, 8
+    phyllotaxis of, 12
+    serotinous, 14
+    symmetrical, 10
+  Conelet, lateral, 7
+    pseudolateral, 7
+    subterminal, 7
+  Conspectus of Sections &c., 25
+  Connective of pollen-sacs, 7
+  Cotyledons, 1
+
+  Decurrent bases, 1
+  Definite phyllotaxis, 12
+  Dermal tissue of leaf, 4
+  Dimensions of cone, 8
+    leaf, 4
+  Diploxylon-Section, 44
+  Dorsal umbo, 8
+
+  Endoderm, 8
+  Evolutional characters, 20
+  External resin-ducts, 6
+
+  Fibro-vascular bundle, 6
+  Flexiles-Group, 28
+  Flowers, lateral, 7
+    pistillate, 7
+    staminate, 7
+    subterminal, 7
+
+  Generic characters, 18
+  Genus, characters of, 1
+  Geographical distribution, 24
+  Gerardianae-Group, 40
+  Green tissue of leaf, 6
+
+  Haploxylon-Section, 26
+  Hypoderm, biform, 6
+    multiform, 6
+    uniform, 6
+
+  Indefinite phyllotaxis, 12
+  Insignes-Group, 76
+  Internal resin-ducts, 6
+
+  Lariciones-Group, 51
+  Latent buds, 2
+  Lateral flowers, 7
+    conelet, 7
+  Leaf, dermal tissues of, 4
+    dimensions of, 4
+    fibro-vascular bundle of, 6
+    green tissue of, 6
+    persistence of, 4
+    primary, 1
+    resin-ducts of, 6
+    secondary, 2
+    stelar tissues of, 6
+    stomata of, 4
+    tissues of, 4
+  Leiophyllae-Group, 44
+  Longifoliae-Group, 46
+
+  Macrocarpae-Group, 90
+  Medial resin-ducts, 6
+  Multiform hypoderm, 6
+  Multinodal branchlet, 2
+    spring-shoot, 2
+
+  Non-decurrent bases, 1
+
+  Oblique cone, 10
+
+  Paracembra-Subsection, 36
+  Parapinaster-Subsection, 44
+  Peduncle of cone, 8
+  Persistence of leaf, 4
+  Persistent cone, 8
+  Phyllotaxis, of cone, 12
+    definite, 12
+    indefinite, 12
+  Pinaster-Subsection, 50
+  Pineae-Group, 48
+  Pinus, 24
+  Pinus abasica Carr. = halepensis, 78
+    alba-canadensis Prov. = strobus, 36
+    albicaulis Engelm., 27
+    Altamirani Shaw = Lawsonii, 68
+    apacheca Lemm. = ponderosa, 66
+    apulcensis Lindl. = pseudostrobus, 62
+    arabica Sieb. = halepensis, 78
+    aristata Engelm., 44
+    arizonica Engelm. = ponderosa, 66
+    Armandi Franch., 30
+    armena Koch = sylvestris, 54
+    attenuata Lemm., 88
+    australis Michx. = palustris, 70
+    austriaca Höss = nigra, 58
+    ayacahuite Ehrenb., 30
+    bahamensis Grise. = caribaea, 70
+    Balfouriana Balf., 42
+    Balfouriana Wats. = aristata, 44
+    Banksiana Lamb., 84
+    Beardsleyi Murr. = ponderosa, 66
+    Benthamiana Hartw. = ponderosa, 66
+    Bolanderi Parl. = contorta, 84
+    Bonapartea Roezl = ayacahuite, 30
+    Boursieri Carr. = contorta, 84
+    brachyptera Engelm. = ponderosa, 66
+    brutia Ten. = halepensis, 78
+    Bungeana Zucc., 40
+    californica Hartw. = attenuata, 88
+    canaliculata Miq. = Massoniana, 52
+    canariensis Smith, 48
+    caribaea Mor., 70
+    carica Don = halepensis, 78
+    cembra L., 27
+    cembra Thunb. = parviflora, 32
+    cembroides Gord. = Pinceana, 38
+    cembroides Newb. = albicaulis, 27
+    cembroides Zucc., 38
+    chihuahuana Engelm. = leiophylla, 44
+    clausa Vasey, 80
+    contorta Dougl., 84
+    coronans Litv. = cembra, 27
+    Coulteri D. Don, 93
+    Craigana Murr. = ponderosa, 66
+    cubensis Grise. = occidentalis, 70
+    cubensis Sarg. = caribaea, 70
+    dalmatica Vis. = nigra, 58
+    deflexa Torr. = ponderosa, 66
+    densata Mast. = sinensis, 60
+    densiflora Sieb. & Zucc., 52
+    Devoniana Lindl. = Montezumae, 64
+    divaricata Dum. Cours. = Banksiana, 84
+    Donnell-Smithii Mast. = Montezumae, 64
+    echinata Mill., 74
+    Edgariana Hartw. = muricata, 86
+    edulis Engelm. = cembroides, 38
+    Ehrenbergii Endl. = Montezumae, 64
+    eldarica Medw. = halepensis, 78
+    Elliottii Engelm. = caribaea, 70
+    Engelmanni Carr. = ponderosa, 66
+    escarena Riss. = pinaster, 80
+    excelsa Hook. = peuce, 34
+    excelsa Wall., 34
+    filifolia Lindl. = Montezumae, 64
+    Finlaysoniana Wall. = Merkusii, 58
+    flexilis James, 28
+    flexilis Balf. = albicaulis, 27
+    formosana Hay. = parviflora, 32
+    Fremontiana Endl. = cembroides, 38
+    Frieseana Wich. = sylvestris, 54
+    funebris Kom. = sinensis, 60
+    Gerardiana Wall., 42
+    glabra Walt., 72
+    Gordoniana Hartw. = Montezumae, 64
+    Greggii Engelm., 86
+    Grenvilleae Gord. = Montezumae, 64
+    Griffithii McClell. = excelsa, 34
+    halepensis Bieb. = nigra, 58
+    halepensis Mill., 78
+    Hamiltonii Ten. = pinaster, 80
+    Hartwegii Lindl. = Montezumae, 64
+    Heldreichii Chr. = nigra, 58
+    Henryi Mast. = sinensis, 60
+    heterophylla Small = taeda, 72
+    heterophylla Sudw. = caribaea, 70
+    hispanica Cook = halepensis, 78
+    hudsonia Poir. = Banksiana, 84
+    humilis Link = sylvestris, 54
+    inops Ait. = virginiana, 80
+    inops Bong. = contorta, 84
+    insignis Dougl. = radiata, 88
+    insularis Endl., 60
+    Jeffreyi Balf. = ponderosa, 66
+    kasya Royle = insularis, 60
+    khasiana Griff. = insularis, 60
+    Kochiana Klotzsch = sylvestris, 54
+    koraiensis Mast. = Armandi, 30
+    koraiensis Sieb. & Zucc., 26
+    Lambertiana Dougl., 32
+    lapponica Mayr = sylvestris, 54
+    laricio Poir. = nigra, 58
+    laricio Savi = pinaster, 80
+    latifolia Sarg. = ponderosa, 66
+    latisquama Engelm. = Pinceana, 38
+    latteri Mason = Merkusii, 58
+    Lawsonii Roezl., 68
+    leiophylla Schl. & Cham., 44
+    Lemoniana Benth. = pinaster, 80
+    leucodermis Ant. = nigra, 58
+    leucosperma Max. = sinensis, 60
+    Lindleyana Gord. = Montezumae, 64
+    Llaveana Schiede = cembroides, 38
+    Loiseleuriana Carr. = halepensis, 78
+    longifolia Roxb., 46
+    lophosperma Lindl. = Torreyana, 90
+    Loudoniana Gord. = ayacahuite, 30
+    luchuensis Mayr, 56
+    Lumholtzii Rob. & Fern., 46
+    lutea Walt. = taeda, 72
+    macrocarpa Lindl. = Coulteri, 93
+    macrophylla Engelm. = ponderosa, 66
+    macrophylla Lindl. = Montezumae, 64
+    maderiensis Ten. = pinea, 48
+    mandschurica Laws. = cembra, 27
+    mandschurica Rupr. = koraiensis, 26
+    maritima Ait. = nigra, 58
+    maritima Lamb. = halepensis, 78
+    maritima Poir. = pinaster, 80
+    Massoniana Lamb., 52
+    Massoniana Sieb. & Zucc. = Thunbergii, 56
+    Mastersiana Hay. = Armandi, 30
+    Mayriana Sudw. = ponderosa, 66
+    Merkusii De Vriese, 58
+    mitis Michx. = echinata, 74
+    monophylla Torr. = cembroides, 38
+    montana Lam. = cembra, 27
+    montana Mill., 54
+    montana Noll = pungens, 84
+    Montezumae Lamb., 64
+    monticola Dougl., 34
+    morrisonicola Hay. = parviflora, 32
+    mugho Poir. = montana, 54
+    mughus Jacq. = sylvestris, 54
+    mughus Scop. = montana, 54
+    muricata D. Don, 86
+    Murrayana Balf. = contorta, 84
+    Nelsonii Shaw, 40
+    nepalensis De Chamb. = excelsa, 34
+    nigra Arnold, 58
+    nigricans Host = nigra, 58
+    nivea Booth = strobus, 36
+    obliqua Saut. = montana, 54
+    occidentalis H. B. K. = Montezumae, 64
+    occidentalis Swartz, 70
+    oocarpa Schiede, 78
+    oocarpoides Lindl. = oocarpa, 78
+    orizabae Gord. = pseudostrobus, 62
+    osteosperma Engelm. = cembroides, 38
+    Pallasiana Lamb. = nigra, 58
+    palustris Miller, 70
+    Parolinii Vis. = halepensis, 78
+    Parryana Engelm. = cembroides, 38
+    Parryana Gord. = ponderosa, 66
+    parviflora Sieb. Zucc., 32
+    patula Schl. & Cham., 86
+    peninsularis Lemm. = ponderosa, 66
+    pentaphylla Mayr = parviflora, 32
+    persica Strangw. = halepensis, 78
+    peuce Grise., 34
+    pinaster Ait., 80
+    pinaster Bess. = nigra, 58
+    Pinceana Gord., 38
+    pindica Form. = nigra, 58
+    pinea Linn., 48
+    pityusa Stev. = halepensis, 78
+    ponderosa Dougl., 66
+    pontica Koch = sylvestris, 54
+    porphyrocarpa Laws. = monticola, 34
+    Pringlei Shaw, 76
+    prominens Mast. = sinensis, 60
+    pseudostrobus Lindl., 62
+    pumila Regel = cembra, 27
+    pumilio Haenke = montana, 54
+    pungens Lamb., 84
+    pyrenaica David = halepensis, 78
+    pyrenaica Lap. = nigra, 58
+    quadrifolia Sudw. = cembroides, 38
+    radiata D. Don, 88
+    radiata Hook. & Arn. = Montezumae, 64
+    recurvata Rowl. = caribaea, 70
+    reflexa Engelm. = flexilis, 28
+    resinosa Ait., 51
+    resinosa Loise. = halepensis, 78
+    resinosa Savi = sylvestris, 54
+    rigida Mill., 82
+    rotundata Link = montana, 54
+    Roxburghii Sarg. = longifolia, 46
+    Royleana Jam. = echinata, 74
+    rubra Michx.= resinosa, 51
+    rubra Mill. = sylvestris, 54
+    rudis Endl. = Montezumae, 64
+    rupestris Michx. = Banksiana, 84
+    Russelliana Lindl. = Montezumae, 64
+    Sabiniana Dougl., 90
+    Salzmanni Dun. = nigra, 58
+    sanguinea Lap. = montana, 54
+    sativa Lam. = pinea, 48
+    scipioniformis Mast. = Armandi, 30
+    scopifera Miq. = densiflora, 52
+    scopulorum Lemm. = ponderosa, 66
+    serotina Long = rigida, 82
+    serotina Michx., 82
+    shasta Carr. = albicaulis, 27
+    sibirica Mayr = cembra, 27
+    Sinclairii Hook. & Arn. = Montezumae, 64
+                            = radiata, 88
+    sinensis Lamb., 60
+    squarrosa Walt. = echinata, 74
+    strobiformis Engelm. = ayacahuite, 30
+    strobiformis Sarg. = flexilis 28
+    strobus Linn., 36
+    strobus Thunb. = koraiensis, 26
+    sylvestris Baumg. = nigra, 58
+    sylvestris Gouan = halepensis, 78
+    sylvestris Linn., 54
+    sylvestris Lour. = Merkusii, 58
+    sylvestris Mill. = pinaster, 80
+    sylvestris Thunb. = Thunbergii, 56
+    tabulaeformis Carr. = sinensis, 60
+    taeda Blanco = insularis, 60
+    taeda Lamb. = pungens, 84
+    taeda Linn., 72
+    tamrac Murr. = contorta, 84
+    tatarica Mill. = sylvestris, 54
+    tenuifolia Benth. = pseudostrobus, 62
+    tenuis Lemm. = contorta, 84
+    teocote Schl. & Cham., 68
+    terthrocarpa Shaw = tropicalis, 52
+    Thunbergii Parl., 56
+    Torreyana Parry, 90
+    tropicalis Mor., 52
+    tuberculata D. Don = radiata, 88
+    tuberculata Gord. = attenuata, 88
+    uliginosa Neum. = montana, 54
+    uncinata Ram. = montana, 54
+    variabilis Lamb. = echinata, 74
+    Veitchii Roezl = ayacahuite, 30
+    virginiana Mill., 80
+    Wilsonii Shaw = sinensis, 60
+    Wincesteriana Gord. = Montezumae, 64
+    Wrightii Engelm. = occidentalis, 70
+    yunnanensis Franch. = sinensis, 60
+  Pistillate flower, 7
+  Primary leaf, 1
+  Pseudolateral conelet, 7
+
+  Resin-ducts of the leaf external, 6
+    internal, 6
+    medial, 6
+    septal, 6
+
+  Secondary leaf, 2
+  Sectional characters, 18
+  Seed, wing of, 16
+    winged, 16
+    wingless, 16
+  Septal resin-ducts, 6
+  Serotinous cone, 14
+  Species, classification of, 22
+  Specific characters, 20
+  Spring-shoot, 2
+  Staminate flowers, 7
+  Stelar tissues of leaf, 6
+  Stomata of leaf, 4
+  Strobi-Group, 30
+  Strobus, Opiz = Pinus, 24
+  Strobus strobus Small = Pinus strobus, 36
+  Subsectional characters, 20
+  Subterminal conelet, 7
+    flower, 7
+  Symmetrical cone, 10
+
+  Terminal umbo, 8
+  Tissues of the cone, 12
+    leaf, 4
+    wood, 17
+
+  Umbo of the cone dorsal, 8
+    terminal, 8
+  Uninodal branchlet, 2
+    spring-shoot, 2
+  Uniform hypoderm, 6
+
+  Variation, 21
+
+  Wing of seed, adnate, 16
+    articulate, 16
+  Winged seed, 16
+  Wingless seed, 16
+  Wood, 17
+  Wood-strands of the cone, 14
+  Wood-tissues, 17
+
+1. The position of Plates was changed to the end of the section
+   referencing each.
+
+2. Species names appear to be Capitalized when they are names of persons
+   or places in this book, as in other material of this period.

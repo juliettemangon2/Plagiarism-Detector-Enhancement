@@ -1,0 +1,2357 @@
+﻿~Formic acid~ (H·CHO{2}). The name "formic" is derived from the Latin formica, signifying ant.
+This name was given to the acid because it was formerly obtained from a certain kind of ants.
+It is a colorless liquid and occurs in many plants such as the stinging nettles. The inflammation
+caused by the sting of the bee is due to formic acid.
+
+~Acetic acid~ (H·C{2}H{3}O{2}). Acetic acid is the acid present in vinegar, the sour taste
+being due to it. It can be prepared by either of the following methods.
+
+1. Acetic fermentation. This consists in the change of alcohol into acetic acid through the
+agency of a minute organism commonly called mother of vinegar. The change is represented by
+the following equation:
+
+    C{2}H{5}OH + 2O = HC{2}H{3}O{2} + H{2}O.
+
+The various kinds of vinegars are all made by this process. In the manufacture of cider vinegar
+the sugar present in the cider first undergoes alcoholic fermentation; the resulting alcohol
+then undergoes acetic fermentation. The amount of acetic acid present in vinegars varies from
+3 to 6%.
+
+2. From the distillation of wood. The liquid obtained by heating wood in the absence of air
+contains a large amount of acetic acid, and this can be separated readily in a pure state.
+This is the most economical method for the preparation of the concentrated acid.
+
+Acetic acid is a colorless liquid and has a strong pungent odor. Many of its salts are well-known
+compounds. Lead acetate (Pb(C{2}H{3}O{2}){2}) is the ordinary sugar of lead. Sodium acetate
+(NaC{2}H{3}O{2}) is a white solid largely used in making chemical analyses. Copper acetate
+(Cu(C{2}H{3}O{2}){2}) is a blue solid. When copper is acted upon by acetic acid in the presence
+of air a green basic acetate of copper is formed. This is commonly known as verdigris. All
+acetates are soluble in water.
+
+~Butyric acid~ (H·C{4}H{7}O{2}). Derivatives of butyric acid are present in butter and impart
+to it its characteristic flavor.
+
+~Palmitic and stearic acids.~ Ordinary fats consist principally of derivatives of palmitic
+and stearic acids. When the fats are heated with sodium hydroxide the sodium salts of these
+acids are formed. If hydrochloric acid is added to a solution of the sodium salts, the free
+palmitic and stearic acids are precipitated. They are white solids, insoluble in water. Stearic
+acid is often used in making candles.
+
+~Acids belonging to other series.~ In addition to members of the fatty-acid series, mention
+may be made of the following well-known acids.
+
+~Oxalic acid~ (H{2}C{2}O{4}). This is a white solid which occurs in nature in many plants,
+such as the sorrels. Its ammonium salt ((NH{4}){2}C{2}O{4}) is used as a reagent for the detection
+of calcium. When added to a solution of a calcium compound the white, insoluble calcium oxalate
+(CaC{2}O{4}) precipitates.
+
+~Tartaric acid~ (H{2}·C{4}H{4}O{6}). This compound occurs either in a free state or in the
+form of its salts in many fruits. The potassium acid salt (KHC{4}H{4}O{6}) occurs in the juice
+of grapes. When the juice ferments in the manufacture of wine, this salt, being insoluble in
+alcohol, separates out on the sides of the cask and in this form is known as argol. This is
+more or less colored by the coloring matter of the grape. When purified it forms a white solid
+and is sold under the name of cream of tartar. The following are also well-known salts of tartaric
+acid: potassium sodium tartrate (Rochelle salt) (KNaC{4}H{4}O{6}), potassium antimonyl tartrate
+(tartar emetic) (KSbOC{4}H{4}O{6}).
+
+     ~Cream of tartar baking powders.~ The so-called cream of tartar
+     baking powders consist of a mixture of cream of tartar,
+     bicarbonate of soda, and some starch or flour.
+
+     The carbon dioxide evolved escapes through the dough, thus
+     making it light and porous.
+
+~Citric acid~ (H{3}·C{6}H{5}O{7}). This acid occurs in many fruits, especially in lemons. It
+is a white solid, soluble in water, and is often used as a substitute for lemons in making
+lemonade.
+
+~Lactic acid~ (H·C{3}H{5}O{3}). This is a liquid which is formed in the souring of milk.
+
+~Oleic acid~ (H·C{18}H{33}O{2}). The derivatives of this acid constitute the principal part
+of many oils and liquid fats. The acid itself is an oily liquid.
+
+ETHEREAL SALTS
+
+When acids are brought in contact with alcohols under certain conditions a reaction takes place
+similar to that which takes place between acids and bases. The following equations will serve
+as illustrations:
+
+    KOH + HNO{3} = KNO{3} + H{2}O,
+
+    CH{3}OH + HNO{3} = CH{3}NO{3} + H{2}O.
+
+The resulting compounds of which methyl nitrate (CH{3}NO{3}) may be taken as the type belong
+to the class known as ethereal salts, the name having been given them because some of them
+possess pleasant ethereal odors. It will be seen that the ethereal salts differ from ordinary
+salts in that they contain a hydrocarbon radical, such as CH{3}, C{2}H{5}, C{3}H{5}, in place
+of a metal.
+
+~The nitrates of glycerin~ (nitroglycerin). Nitric acid reacts with glycerin in the same way
+that it reacts with a base containing three hydroxyl groups such as Fe(OH){3}:
+
+    Fe(OH){3} + 3HNO{3} = Fe(NO{3}){3} + 3H{2}O,
+
+    C{3}H{5}(OH){3} + 3HNO{3} = C{3}H{5}(NO{3}){3} + 3H{2}O.
+
+The resulting nitrate (C{3}H{5}(NO{3}){3}) is the main constituent of nitroglycerin, a slightly
+yellowish oil characterized by its explosive properties. Dynamite consists of porous earth
+which has absorbed nitroglycerin, and its strength depends on the amount present. It is used
+much more largely than nitroglycerin itself, since it does not explode so readily by concussion
+and hence can be transported with safety.
+
+~The fats.~ These are largely mixtures of the ethereal salts known respectively as olein, palmitin,
+and stearin. These salts may be regarded as derived from oleic, palmitic, and stearic acids
+respectively, by replacing the hydrogen of the acid with the glycerin radical C{3}H{5}. Since
+this radical is trivalent and oleic, palmitic, and stearic acids contain only one replaceable
+hydrogen atom to the molecule, it is evident that three molecules of each acid must enter into
+each molecule of the ethereal salt. The formulas for the acids and the ethereal salts derived
+from each are as follows:
+
+    HC{18}H{33}O{2}                 (oleic acid)
+    C{8}H{6}(C{18}H{33}O{2}){3}, (olein)
+
+    HC{16}H{31}O{2}                (palmitic acid)
+    C{3}H{5}(C{16}H{31}0{2}){3} (palmitin)
+
+    HC{18}H{35}O{2}                (stearic acid)
+    C{3}H{5}(C{18}H{35}O{2}){3} (stearin)
+
+Olein is a liquid and is the main constituent of liquid fats. Palmitin and stearin are solids.
+
+~Butter fat and oleomargarine.~ Butter fat consists principally of olein, palmitin, and stearin.
+The flavor of the fat is due to the presence of a small amount of butyrin, which is an ethereal
+salt of butyric acid. Oleomargarine differs from butter mainly in the fact that a smaller amount
+of butyrin is present. It is made from the fats obtained from cattle and hogs. This fat is
+churned up with milk, or a small amount of butter is added, in order to furnish sufficient
+butyrin to impart the butter flavor.
+
+~Saponification.~ When an ethereal salt is heated with an alkali a reaction expressed by the
+following equation takes place:
+
+    C{2}H{5}NO{3} + KOH = C{2}H{5}OH + KNO{3}.
+
+This process is known as saponification, since it is the one which takes place in the manufacture
+of soaps. The ordinary soaps are made by heating fats with a solution of sodium hydroxide.
+The reactions involved may be illustrated by the following equation representing the reaction
+between palmitin and sodium hydroxide:
+
+    C{3}H{5}(C{16}H{31}O{2}){3} + 3 NaOH
+         = 3 NaC{16}H{31}O{2} + C{3}H{5}(OH){3}.
+
+In accordance with this equation the ethereal salts in the fats are converted into glycerin
+and the sodium salts of the corresponding acids. The sodium salts are separated and constitute
+the soaps. These salts are soluble in water. When added to water containing calcium salts the
+insoluble calcium palmitate and stearate are precipitated. Magnesium salts act in a similar
+way. It is because of these facts that soap is used up by hard waters.
+
+ETHERS
+
+When ethyl alcohol is heated to 140° with sulphuric acid the reaction expressed by the following
+equation takes place:
+
+    2C{2}H{5}OH = (C{2}H{5}){2}O + H{2}O.
+
+The resulting compound, (C{2}H{5}){2}O, is ordinary ether and is the most important member
+of the class of compounds called ethers. Ordinarily ether is a light, very inflammable liquid
+boiling at 35°. It is used as a solvent for organic substances and as an anæsthetic in surgical
+operations.
+
+KETONES
+
+The most common member of this group is acetone (C{3}H{6}O), a colorless liquid obtained when
+wood is heated in the absence of air. It is used in the preparation of other organic compounds,
+especially chloroform.
+
+ORGANIC BASES
+
+This group includes a number of compounds, all of which contain nitrogen as well as carbon.
+They are characterized by combining directly with acids to form salts, and in this respect
+they resemble ammonia. They may, indeed, be regarded as derived from ammonia by displacing
+a part or all of the hydrogen present in ammonia by hydrocarbon radicals. Among the simplest
+of these compounds may be mentioned methylamine (CH{3}NH{2}) and ethylamine (C{2}H{5}NH{2}).
+These two compounds are gases and are formed in the distillation of wood and bones. Pyridine
+(C{5}H{6}N) and quinoline (C{9}H{7}N) are liquids present in small amounts in coal tar, and
+also in the liquid obtained by the distillation of bones. Most of the compounds now classified
+under the general name of alkaloids (which see) also belong to this group.
+
+CARBOHYDRATES
+
+The term "carbohydrate" is applied to a class of compounds which includes the sugars, starch,
+and allied bodies These compounds contain carbon, hydrogen, and oxygen the last two elements
+generally being present in the proportion in which they combine to form water. The most important
+members of this class are the following:
+
+    Cane sugar      C{12}H{22}O{11}.
+    Milk sugar      C{12}H{22}O{11}.
+    Dextrose        C{6}H{12}O{6}.
+    Levulose        C{6}H{12}O{6}.
+    Cellulose       C{6}H{10}O{5}.
+    Starch          C{6}H{10}0{5}.
+
+~Cane sugar~ (C{12}H{22}O{11}). This is the well-known substance commonly called sugar. It
+occurs in many plants especially in the sugar cane and sugar beet. It was formerly obtained
+almost entirely from the sugar cane, but at present the greatest amount of it comes from the
+sugar beet. The juice from the cane or beet contains the sugar in solution along with many
+impurities. These impurities are removed, and the resulting solution is then evaporated until
+the sugar crystallizes out. The evaporation is conducted in closed vessels from which the air
+is partially exhausted. In this way the boiling point of the solution is lowered and the charring
+of the sugar is prevented. It is impossible to remove all the sugar from the solution. In preparing
+sugar from sugar cane the liquors left after separating as much of it as possible from the
+juice of the cane constitute ordinary molasses. Maple sugar is made by the evaporation of the
+sap obtained from a species of the maple tree. Its sweetness is due to the presence of cane
+sugar, other products present in the maple sap imparting the distinctive flavor.
+
+This same change is brought about by the action of an enzyme present in the yeast plant. When
+yeast is added to a solution of cane sugar fermentation is set up. The cane sugar, however,
+does not ferment directly: the enzyme in the yeast first transforms the sugar into dextrose
+and levulose, and these sugars then undergo alcoholic fermentation.
+
+When heated to 160° cane sugar melts; if the temperature is increased to about 215°, a partial
+decomposition takes place and a brown substance known as caramel forms. This is used largely
+as a coloring matter.
+
+~Milk sugar~ (C{12}H{22}O{11}). This sugar is present in the milk of all mammals. The average
+composition of cow's milk is as follows:
+
+    Water                        87.17%
+    Casein (nitrogenous matter)   3.56
+    Butter fat                    3.64
+    Milk sugar                    4.88
+    Mineral matter                0.75
+
+When rennin, an enzyme obtained from the stomach of calves, is added to milk, the casein separates
+and is used in the manufacture of cheese. The remaining liquid contains the milk sugar which
+separates on evaporation; it resembles cane sugar in appearance but is not so sweet or soluble.
+The souring of milk is due to the fact that the milk sugar present undergoes lactic fermentation
+in accordance with the equation
+
+    C{12}H{22}O{11} + H{2}O = 4C{3}H{6}O{3}.
+
+The lactic acid formed causes the separation of the casein, thus giving the well-known appearance
+of sour milk.
+
+~Isomeric compounds.~ It will be observed that cane sugar and milk sugar have the same formulas.
+Their difference in properties is due to the different arrangement of the atoms in the molecule.
+Such compounds are said to be isomeric. Dextrose and levulose are also isomeric.
+
+~Dextrose~ (grape sugar, glucose) (C{6}H{12}O{6}). This sugar is present in many fruits and
+is commonly called grape sugar because of its presence in grape juice. It can be obtained by
+heating cane sugar with dilute acids, as explained above; also by heating starch with dilute
+acids, the change being as follows:
+
+    C{6}H{10}6{5} + H{2}O = C{6}H{12}O{6}.
+
+Pure dextrose is a white crystalline solid, readily soluble in water, and is not so sweet as
+cane sugar. In the presence of yeast it undergoes alcoholic fermentation. It is prepared from
+starch in large quantities, and being less expensive than cane sugar, is used as a substitute
+for it in the manufacture of jellies, jams, molasses, candy, and other sweets. The product
+commonly sold under the name of glucose contains about 45% of dextrose.
+
+~Levulose~ (fruit sugar)(C{6}H{12}O{6}). This sugar is a white solid which occurs along with
+dextrose in fruits and honey. It undergoes alcoholic fermentation in the presence of yeast.
+
+~Cellulose~ (C{6}H{10}O{5}). This forms the basis of all woody fibers. Cotton and linen are
+nearly pure cellulose. It is insoluble in water, alcohol, and dilute acids. Sulphuric acid
+slowly converts it into dextrose. Nitric acid forms nitrates similar to nitroglycerin in composition
+and explosive properties. These nitrates are variously known as nitrocellulose, pyroxylin,
+and gun cotton. When exploded they yield only colorless gases; hence they are used especially
+in the manufacture of smokeless gunpowder. Collodion is a solution of nitrocellulose in a mixture
+of alcohol and ether. Celluloid is a mixture of nitrocellulose and camphor. Paper consists
+mainly of cellulose, the finer grades being made from linen and cotton rags, and the cheaper
+grades from straw and wood.
+
+~Starch~ (C{6}H{10}O{5}). This is by far the most abundant carbohydrate found in nature, being
+present especially in seeds and tubers. In the United States it is obtained chiefly from corn,
+nearly 80% of which is starch. In Europe it is obtained principally from the potato. It consists
+of minute granules and is practically insoluble in cold water. These granules differ somewhat
+in appearance, according to the source of the starch, so that it is often possible to determine
+from what plant the starch was obtained. When heated with water the granules burst and the
+starch partially dissolves. Dilute acids, as well as certain enzymes, convert it into dextrose
+or similar sugars. When seeds germinate the starch present is converted into soluble sugars,
+which are used as food for the growing plant.
+
+~Chemical changes in bread making.~ The average composition of wheat flour is as follows:
+
+    Water.                           13.8%
+    Protein (nitrogenous matter)      7.9
+    Fats                              1.4
+    Starch                           76.4
+    Mineral matter                    0.5
+
+In making bread the flour is mixed with water and yeast, and the resulting dough set aside
+in a warm place for a few hours. The yeast first converts a portion of the starch into dextrose
+or a similar sugar, which then undergoes alcoholic fermentation. The carbon dioxide formed
+escapes through the dough, making it light and porous. The yeast plant thrives best at about
+30°; hence the necessity for having the dough in a warm place. If the temperature rises above
+50°, the vitality of the yeast is destroyed and fermentation ceases. In baking the bread, the
+heat expels the alcohol and also expands the bubbles of carbon dioxide caught in the dough,
+thus increasing its lightness.
+
+SOME DERIVATIVES OF BENZENE
+
+Attention has been called to the complex nature of coal tar. Among the compounds present are
+the hydrocarbons, benzene, toluene, naphthalene, and anthracene. These compounds are not only
+useful in themselves but serve for the preparation of many other important compounds known
+under the general name of coal-tar products.
+
+~Nitrobenzene~ (oil of myrbane) (C{6}H{5}NO{2}). It is a slightly yellowish poisonous liquid,
+with a characteristic odor. Its main use is in the manufacture of aniline.
+
+~Aniline~ (C{6}H{5}NH{2}). When nitrobenzene is heated with iron and hydrochloric acid the
+hydrogen evolved by the action of the iron upon the acid reduces the nitrobenzene in accordance
+with the following equation:
+
+    C{6}H{5}NO{2} + 6H = C{6}H{5}NH{2} + 2H{2}O.
+
+The resulting compound is known as aniline, a liquid boiling at 182°. When first prepared it
+is colorless, but darkens on standing. Large quantities of it are used in the manufacture of
+the aniline or coal-tar dyes, which include many important compounds.
+
+~Carbolic acid~ (C{6}H{5}OH). This compound, sometimes known as phenol, occurs in coal tar,
+and is also prepared from benzene. It forms colorless crystals which are very soluble in water.
+It is strongly corrosive and very poisonous.
+
+~Naphthalene and anthracene.~ These are hydrocarbons occurring along with benzene in coal tar.
+They are white solids, insoluble in water. The well-known moth balls are made of naphthalene.
+Large quantities of naphthalene are used in the preparation of indigo, a dye formerly obtained
+from the indigo plant, but now largely prepared by laboratory methods. Similarly anthracene
+is used in the preparation of the dye alizarin, which was formerly obtained from the madder root.
+
+THE ALKALOIDS
+
+This term is applied to a group of compounds found in many plants and trees. They all contain
+nitrogen, and most of them are characterized by their power to combine with acids to form salts.
+This property is indicated by the name alkaloids, which signifies alkali-like. The salts are
+soluble in water, and on this account are more largely used than the free alkaloids, which
+are insoluble in water. Many of the alkaloids are used in medicine, some of the more important
+ones being given below.
+
+~Quinine.~ This alkaloid occurs along with a number of others in the bark of certain trees
+which grow in districts in South America and also in Java and other tropical islands. It is
+a white solid, and its sulphate is used in medicine in the treatment of fevers.
+
+~Morphine.~ When incisions are made in the unripe capsules of one of the varieties of the poppy
+plant, a milky juice exudes which soon thickens. This is removed and partially dried. The resulting
+substance is the ordinary opium which contains a number of alkaloids, the principal one being
+morphine. This alkaloid is a white solid and is of great service in medicine.
+
+Among the other alkaloids may be mentioned the following: Nicotine, a very poisonous liquid,
+the salts of which occur in the leaves of the tobacco plant; cocaine, a crystalline solid present
+in coca leaves and used in medicine as a local anæsthetic; atropine, a solid present in the
+berry of the deadly nightshade, and used in the treatment of diseases of the eye; strychnine,
+a white, intensely poisonous solid present in the seeds of the members of the Strychnos family.
+
+INDEX
+
+Acetaldehyde 405
+
+Acetic acid 406
+
+Acetone 411
+
+Acetylene 203
+  series 399
+
+Acids 106
+  binary 113
+  characteristics 106
+  definition 107
+  dibasic 159
+  familiar 106
+  monobasic 159
+  nomenclature 113
+  organic 405
+  preparation 141
+  strength 111
+  ternary 113
+  undissociated 107
+
+Acker furnace, 279
+
+Agate 260
+
+Air 83
+  a mechanical mixture 89
+  carbon dioxide in 87
+  changes in composition 87
+  liquid 91
+  nitrogen in 87
+  oxygen in 85
+  poisonous effects of exhaled 88
+  properties 90
+  quantitative analysis of 85
+  regarded as an element 83
+  standard for density 229
+  water vapor in 87
+
+Alabaster 308
+
+Alchemists 9
+
+Alchemy 9
+
+Alcohol, common 402
+  denatured 404
+  ethyl 402
+  methyl 402
+  wood 402
+
+Alcohols 401
+
+Aldehydes 405
+
+Alizarin 418
+
+Alkali 107, 274
+  family 274
+
+Alkaline-earth family 300
+
+Alkaloids 418
+
+Allotropic forms 22
+
+Alloys 252
+
+Alum 333
+  ammonium 334
+  ammonium chrome 384
+  ammonium iron 352
+  baking powders 335
+  potassium 333
+  potassium chrome 384
+  potassium iron 352
+
+Aluminates 332
+
+Aluminium 327
+  bronze 330, 359
+  chloride 333
+  family 327
+  hydroxide 332
+  metallurgy 328
+  occurrence 327
+  oxide 331
+  preparation 328
+  properties 329
+  silicates 335
+  uses 330
+
+Amalgam 362
+
+Amethyst 260, 331
+
+Ammonia 123
+  composition 127
+  preparation 123
+  properties 124
+  uses 125
+
+Ammonium 126
+  acid carbonate 295
+  carbonate 295
+  chloride 294
+  compounds 294
+
+Ammonium hydrosulphide 296
+  hydroxide 126
+  molybdate 388
+  oxalate 407
+  sulphate 295
+  sulphide 295
+  sulphide, yellow 296
+
+Analysis 40
+
+Anhydride 135
+  carbonic 206
+  chromic 387
+  nitric 135
+  nitrous 135
+  phosphoric 243
+  sulphuric 153
+
+Anhydrite 288
+
+Aniline 417
+
+Anion 106
+
+Anode 99
+
+Anthracene 418
+
+Antimony 250
+  acids 251
+  alloys 253
+  chloride 252
+  metallic properties 252
+  occurrence 251
+  oxides 251
+  preparation 251
+  properties 251
+  sulphides 251
+
+Apatite 175, 239, 311
+
+Aqua ammonia 124
+
+Aqua regia 185
+
+Aqueous tension 25
+
+Argon 80
+
+Arsenic 246
+  acids 250
+  antidote 250
+  Marsh's test 248
+  occurrence 246
+  oxides 249
+  preparation 246
+  properties 247
+  sulphides 250
+  white 249
+
+Arsenopyrites 246
+
+Arsine 247
+
+Asbestos 321, 336
+
+Atmosphere 83
+  constituents 83
+  function of constituents 84
+
+Atomic hypothesis 61
+  theory 59
+    and laws of matter 63
+    and radium 314
+  weights, 65
+    accurate determination 231
+    and general properties 167
+    and specific heats 233
+    calculation of 231
+    Dalton's method 223
+    direct determination 233
+    from molecular weights 230
+    relation to equivalent 224
+    standard for 66
+    steps in determining 224
+
+Atoms 62
+  size 65
+
+Atropine 419
+
+Aurates 396
+
+Avogadro's hypothesis 226
+  and chemical calculations 235
+  and molecular weights 227
+
+Azote 78
+
+Azurite 357
+
+Babbitt metal 253
+
+Bacteria 85
+  decomposition of organic matter by 122
+  nitrifying 85
+
+Baking powders 285, 408
+  alum 335
+  soda 285
+
+Barium 312
+  chloride 313
+  nitrate 313
+  oxides 312
+  sulphate 313
+
+Barytes 312
+
+Bases 107
+  characteristics 107
+  definition 108
+  familiar 107
+  nomenclature 113
+  organic 412
+  strength 113
+  undissociated 108
+
+Basic lining process 346
+
+Bauxite 332
+
+Beer 404
+
+Benzene 417
+  derivatives 417
+  series 399
+
+Benzine 400
+
+Bessemer process 345
+
+Bismuth 253
+  basic salts 255
+  chloride 253
+  nitrate 253
+  occurrence 253
+  oxides 254
+  preparation 253
+  salts, hydrolysis of 254
+  subnitrate 256
+  uses 253
+
+Bismuthyl chloride 256
+
+Blast furnace 341
+  lamp 38
+
+Bleaching powder 306
+
+Bleaching by chlorine 181
+  by sulphurous acid 152
+
+Boiler scale 320
+
+Bone ash 311
+
+Bone black 200
+
+Borax 265
+  bead 266
+
+Bornite 357
+
+Boron 257, 264
+  acids 265
+  fluoride 264
+  hydride 264
+  occurrence 264
+  oxides 264
+  preparation 264
+  properties 264
+
+Brass 323
+
+Bread making 416
+
+Bromides 190
+
+Bromine 187
+  occurrence 187
+ oxygen compounds 190
+  preparation 187
+  properties 188
+
+Bronze 359
+  aluminium 330, 359
+
+Butter fat 410
+
+Butyric acid 407
+
+By-product 284
+
+Cadmium 325
+  compounds 326
+
+Cæsium 294
+
+Calamine 321
+
+Calcite 305
+
+Calcium 301
+  carbide 203, 310
+  carbonate 305
+  chloride 306
+  fluoride 308
+  hydroxide 303
+  occurrence 301
+  oxide 302
+  phosphate 246, 311
+  preparation 302
+  sulphate 308
+
+Calomel 363
+
+Calorie 76
+
+Caramel 414
+
+Carbohydrates 413
+
+Carbolic acid 417
+
+Carbon 196
+  allotropic forms 196
+  amorphous 198
+  compounds 196
+  crystalline forms 197
+  cycle in nature 88
+  dioxide 204
+    and bases 206
+    and plant life 88
+    in air 87
+    occurrence 204
+    preparation 204
+    properties 204
+    solid 204
+  disulphide 160, 210
+  family 196
+  hydrogen compounds 201
+  monoxide 208
+  occurrence 196
+  oxides 203
+  properties 200
+  pure 198
+  retort 199
+  uses 200
+
+Carbonates 207
+  acid 207
+
+Carbonic acid 206
+
+Carborundum 259
+
+Carnallite 288
+
+Casein 414
+
+Cassiterite 370
+
+Catalysis 153
+
+Catalyzers 153
+
+Cathode 99
+
+Cation 106
+
+Caustic potash 288
+  soda 278
+
+Celestite 312
+
+Celluloid 415
+
+Cellulose 415
+
+Cement 304
+
+Ceramic industries 336
+
+Cerium 377
+
+Chalcedony 260
+
+Chalcocite 357
+
+Chalcopyrite 357
+
+Chalk 305
+
+Chamber acid 157
+
+Changes, physical and chemical 2
+
+Charcoal 199
+
+Chemical affinity 12
+  changes 2
+  compounds 7
+  equilibrium 128
+  properties 3
+
+Chemistry, definition 4
+
+Chili saltpeter 191, 285
+
+Chinaware 336
+
+Chloric acid 187
+
+Chlorides 186
+
+Chlorine 177
+  bleaching action 181
+  chemical properties 180
+  family 174
+  historical 177
+  occurrence 178
+  oxides 187
+  oxygen acids 187
+  preparation 178
+  properties 179
+
+Chloroform 401
+
+Chloroplatinic acid 393
+
+Chlorous acid 187
+
+Chromates 385
+
+Chrome alum 384
+
+Chromic acid 388
+  anhydride 387
+  chloride 383
+  hydroxide 383
+  sulphate 384
+  sulphide 384
+
+Chromite 383
+
+Chromium 383
+  a base-forming element 383
+  an acid-forming element 385
+  occurrence 383
+
+Cinnabar 363
+
+Citric acid 408
+
+Clay 336
+
+Coal 199
+  gas 217
+  products 400
+  tar 218
+
+Cobalt 354
+  compounds 354
+
+Cocaine 419
+
+Coke 199
+
+Collodion 415
+
+Colemanite 265
+
+Combining weights 225
+
+Combustion 17
+  broad sense 20
+  in air 19
+  phlogiston theory 19
+  products 18
+  spontaneous 20
+  supporters 213
+
+Compounds, chemical 7
+  isomeric 414
+  of metals, preparation 265
+  structure of 118
+
+Conservation of energy 4
+  of matter 5
+
+Contact process 154
+
+Converter, Bessemer 345
+
+Copper 357
+  acetate 407
+  alloys of 359
+  family 356
+  hydroxide 360
+  metallurgy 357
+  occurrence 357
+  ores 357
+  oxide 360
+  properties 358
+  refining 358
+  sulphate 361
+  sulphide 361
+  uses 359
+
+Copperas 350
+
+Coral 305
+
+Corrosive sublimate 363
+
+Corundum 331
+
+Cream of tartar 408
+
+Crocoisite 383
+
+Cryolite 175, 328
+
+Crystallization 98
+  water of 54, 75
+
+Crystallography 161
+
+Crystals 161
+  axes of 161
+  systems 162
+
+Cupric compounds 360
+
+Cuprite 360
+
+Cuprous compounds 360
+  chloride 360
+  oxide 360
+
+Cyanides 210
+  solutions are alkaline 210
+
+Dalton's atomic hypothesis 61
+
+Decay 21
+
+Decomposition of organic matter 122
+
+Decrepitation 55
+
+Deliquescence 55
+
+Density of gases 230
+
+Desiccating agents 55
+
+Developers 367
+
+Dewar bulb 91
+
+Dextrose 414
+
+Diamond 197
+
+Dichromates 385
+
+Dichromic acid 385
+
+Dimorphous substances 163
+
+Dissociation 99
+  and boiling point 101
+  and freezing point 101
+  equations of 112
+  extent of 113
+
+Distillation 50
+
+Dogtooth spar 306
+
+Dolomite 319
+
+Double decomposition 71
+
+Drummond light 38
+
+Dyeing  333
+
+Dynamite 409
+
+Earth metals 327
+
+Efflorescence 54
+
+Electric furnace 221
+
+Electro-chemical industries 269
+
+Electrode 99
+
+Electrolysis 99
+  of sodium chloride 102
+  of sodium sulphate 103
+  of water 41, 102
+
+Electrolytes 99
+
+Electrolytic dissociation 99
+
+Electroplating 366
+
+Electrotyping 359
+
+Elements, definition 8
+  atomic weights 232
+  earlier classification 165
+  names 11
+  natural groups 165
+  number of 9
+  occurrence 10
+  periodic division 166
+  physical state 10
+  symbols of 11
+
+Emery 331
+
+Energy 4
+  and plant life 89
+  chemical 5
+  conservation of 4
+  transformation of 5
+
+Enzyme 405
+
+Epsom salts 320
+
+Equations 68
+  are quantitative 72
+  knowledge requisite for 69
+  not algebraic 74
+  reading of 69
+
+Equilibrium 138
+  chemical 138
+  in solution 139
+  point of 138
+
+Equivalent 224
+  determination of 224
+  elements with more than one 225
+  relation to atomic weight 224
+
+Etching 177
+
+Ether 411
+
+Ethereal salts 409
+
+Ethers 411
+
+Ethylamine 412
+
+Ethylene series 399
+
+Eudiometer 43
+
+Evaporation  11
+
+Families in periodic groups 170
+  triads 165
+
+Family resemblances 170
+
+Fats 409
+
+Fatty acid series 405
+
+Feldspar 261, 335
+
+Fermentation 404
+  acetic 406
+  alcoholic 404, 405
+  lactic 414
+
+Ferric chloride 352
+  hydroxide 352
+  salts 351
+    reduction 353
+  sulphate 352
+
+Ferrochromium, 383
+
+Ferromanganese 343
+
+Ferrosilicon 259
+
+Ferrous carbonate 351
+  salts 350
+    oxidation of 353
+  sulphate 350
+  sulphide 350
+
+Fertilizers 245
+
+Filtration 6, 51
+  beds 52
+
+Fire damp 202
+
+Flames 213
+  appearance 214
+  blowpipe 216
+  Bunsen 214
+  conditions for 213
+  hydrogen 34
+  luminosity 216
+  oxidizing 214
+  oxyhydrogen 37
+  reactions 296
+  reducing 214
+  structure 214
+
+Flash lights 317
+
+Flint 260
+
+Fluorides 177
+
+Fluorine 175
+
+Fluorspar 175, 308
+
+Fluosilicic acid 259
+
+Flux 340
+
+Fool's gold 351
+
+Formaldehyde 405
+
+Formalin 405
+
+Formic acid 406
+
+Formulas 68
+  how determined 234
+  structural 119
+
+Fractional distillation 51
+
+Franklinite 321
+
+Fuels 220
+
+Furnace, arc 221
+  electric 221
+  resistance 221
+
+Fusion methods 271
+
+Galena 373
+
+Gallium 327
+
+Galvanized iron 323
+
+Gas, collection of 15
+  coal 217
+  fuel 217
+  illuminating 217
+  measurement of 23
+  natural 219
+  purification of 218
+  water 219
+
+Gases, table 220
+
+Gasoline 400
+
+German silver 323, 359
+
+Germanium 370
+
+Germs, effect of cold on 53
+  in air 84
+  in water 52
+
+Glass 262
+  coloring of 263
+  etching of 177
+  molding of 263
+  nature of 263
+  varieties 263
+
+Glauber's salt 281
+
+Glazing 336
+
+Glucose 414
+
+Glycerin 405
+  nitrates of 409
+
+Gold 393
+  alloys 396
+  chloride 396
+  coin 359
+  extraction of 394
+  in copper 358
+  mining 394
+  occurrence 393
+  properties 396
+  refining of 395
+  telluride 394
+
+Goldschmidt method 269, 330
+
+Gram-molecular weight 236
+
+Granite 336
+
+Graphite 198
+
+Gun cotton 415
+  metal 359
+  powder 292
+
+Gypsite 308
+
+Gypsum 308
+
+Halogens 174
+
+Hard water 309
+
+Heat of reaction 75
+
+Helium 80, 314
+
+Hematite 339, 349
+
+Homologous series 398
+
+Hydriodic acid 193
+
+Hydrobromic acid 189
+
+Hydrocarbons 201, 398
+  properties 400
+  series 398
+  substitution products 401
+
+Hydrochloric acid 182
+  composition 183
+  oxidation of 185
+  preparation 182
+  properties 184
+  salts 186
+
+Hydrocyanic acid 210
+
+Hydrofluoric acid 176
+  etching by 177
+  salts of 177
+
+Hydrogen 28
+  dioxide 56
+  explosive with oxygen 35
+  occurrence 28
+  preparation from acids 30
+  preparation from water 28
+  properties 32
+  standard for atomic weights 66
+  standard for molecular weights 227
+  sulphide 146
+  uses 38
+
+Hydrolysis 254
+  conditions affecting 255
+  partial 255
+
+Hydrosulphuric acid 146
+
+Hydroxyl radical 112
+
+Hypochlorous acid 187
+
+Hypothesis 61
+  Avogadro's 226
+  Dalton's 61
+
+Ice manufacture 125
+
+Iceland spar 305
+
+Indigo 418
+
+Indium 327
+
+Insoluble compounds 272
+
+Iodic acid 194
+
+Iodides 193
+
+Iodine 190
+  oxygen compounds 193
+  preparation 191
+  properties 192
+  tincture 192
+
+Iodoform 192, 401
+
+Ions 100
+  and electrolytes 104
+
+Iridium 393
+
+Iron 339
+  alum 352
+  cast 343
+  compounds 349
+  cyanides 352
+  disulphide 351
+  family 338
+  metallurgy 339
+  occurrence 339
+  ores 339
+  oxides 349
+  pure 348
+  varieties 342, 347
+  wrought 343
+
+Jasper 260
+
+Kainite 288
+
+Kaolin 261, 335
+
+Kerosene 400
+
+Ketones 411
+
+Kieserite 288
+
+Kindling temperature 17
+
+Krypton 80
+
+Lactic acid 408
+
+Lampblack 200
+
+Laughing gas 132
+
+Law, definition 61
+  of Boyle 24
+  of Charles 23
+  of combining volumes 194
+  of conservation of energy 4
+  of conservation of matter 5, 59
+  of definite composition 59
+  of Dulong and Petit 233
+  of Gay-Lussac 194
+  of multiple proportion 60
+  of Raoult 233
+  periodic 169
+
+Lead 373
+  acetate 375, 407
+  alloys 375
+  basic carbonate 376
+  carbonate 376
+  chloride 377
+  chromate 377
+  insoluble compounds 376
+  metallurgy 373
+  nitrate 375
+  occurrence 373
+  oxides 375
+  peroxide 375
+  properties 374
+  red 375
+  soluble salts 375
+  sugar of 375
+  sulphate 377
+  sulphide 377
+  white 376
+
+Le Blanc soda process 282
+
+Levulose 415
+
+Lime 302
+  air-slaked 303
+  hypochlorite 307
+  kilns 303
+  slaked 303
+
+Lime light 38
+
+Limestone 305
+
+Limewater 303
+
+Limonite 339
+
+Litharge 375
+
+Lithium 294
+
+Luminosity of flames 216
+
+Lunar caustic 366
+
+Magnesia 318
+  alba 319
+  usta 318
+
+Magnesite 318
+
+Magnesium 317
+  basic carbonate 319
+  carbonate 318
+  cement 318
+  chloride 319
+  family 316
+  hydroxide 318
+  oxide 318
+  silicates 321
+  sulphate 320
+
+Magnetite 339, 349
+
+Malachite 357
+
+Manganates 381
+
+Manganese 379
+  a base-forming element 380
+  an acid-forming element 381
+  in glass 263
+  occurrence 379
+  oxides 380
+
+Manganic acid 381
+
+Manganous salts 380
+
+Marble 305
+
+Marl 305
+
+Marsh gas 202
+
+Matches 242
+
+Matte 358
+
+Matter, classification 6
+  conservation 5
+  definition 5
+  kinds 9
+
+Measurement of gases 23
+
+Mechanical mixtures 6
+
+Meerschaum 321, 336
+
+Mercuric chloride 363
+  iodide 364
+  oxide 14, 362
+  sulphide 363
+
+Mercurous chloride 363
+
+Mercury 361
+  iodides 364
+  metallurgy 361
+  occurrence 361
+  oxides 362
+  uses 362
+
+Metaboric acid 265
+
+Metallurgy 268
+
+Metals 165, 267
+  action on salts 271
+  definition 267
+  extraction 268
+  occurrence 267
+  preparation of compounds 269
+  reduction from ores 268
+
+Metaphosphoric acid 245
+
+Metarsenic acid 250
+
+Metasilicic acid 261
+
+Metastannic acid 371
+
+Methane 202, 399
+
+Methylamine 412
+
+Mexican onyx 305
+
+Mica 261, 336
+
+Microcosmic salt 244
+
+Milk 414
+
+Minerals 267
+
+Minium 375
+
+Mixed salts 244
+
+Molasses 413
+
+Molecular weights 226
+  boiling-point method 233
+  compared with oxygen 228
+  determination 226
+  freezing-point method 233
+  oxygen standard 227
+  of elements 232
+  vapor-density method 229
+
+Molecule 62
+
+Molybdenum 388
+
+Molybdic acid 388
+
+Monazite sand 377
+
+Mordants 333
+
+Morphine 418
+
+Mortar 304
+
+Moth balls 418
+
+Muriatic acid 182
+
+Naphthalene 418
+
+Naphthas 400
+
+Nascent state 182
+
+Natural gas 219
+  sciences 1
+
+Neon 80
+
+Neutralization 108
+  a definite act 109
+  definition 109
+  heat of 109
+  partial 111
+
+Niagara Falls 269, 329
+
+Nickel 354
+  coin 359
+  compounds 354
+  plating 354
+
+Nicotine 419
+
+Nitrates 131
+
+Nitric acid, 128
+  action on metals 130
+  decomposition 129
+  oxidizing action 130
+  preparation 128, 140
+  properties 129
+  salts 131
+
+Nitric oxide 133
+
+Nitrites 132
+
+Nitrobenzene 417
+
+Nitrocellulose 415
+
+Nitrogen 78
+  compounds 122
+  in air 87
+  occurrence 78, 122
+  oxides 132
+  preparation 78
+  properties 80
+
+Nitroglycerin 409
+
+Nitrosulphuric acid 155
+
+Nitrous acid 132
+  oxide 132
+
+Non-metals 165
+
+Oil of myrbane 417
+  of vitriol 154
+
+Oleic acid 408
+
+Olein 409
+
+Oleomargarine 410
+
+Onyx 260
+
+Opal 260
+
+Open-hearth process 346
+
+Opium 418
+
+Ores 267
+
+Organic bases 412
+  chemistry 201, 397
+  matter, decomposition 122
+
+Orpiment 246
+
+Orthoarsenic acid 250
+
+Orthophosphates 244
+
+Orthophosphoric acid 244
+
+Orthosilicic acid 261
+
+Osmic acid 393
+
+Osmium 393
+  tetroxide 393
+
+Oxalic acid 407
+
+Oxidation 17, 353
+  definition 18
+
+Oxidizing agent 37
+
+Oxygen 13
+  and ozone 22
+  commercial preparation 16
+  history 13
+  importance 21
+  in air estimation, 85
+  in air function, 84
+  occurrence 13
+  preparation 13
+  properties 16
+  standard  for  atomic weights 66
+  two atoms in molecule 227
+
+Oxyhydrogen blowpipe 37
+
+Ozone 21, 137
+
+Palladium 390
+
+Palmitic acid 407
+
+Palmitin 409
+
+Paraffin 400
+
+Paris green 250
+
+Parkes's method for silver 364
+
+Pearls 305
+
+Perchloric acid 187
+
+Periodic acid 194
+
+Periodic division 166
+  groups 167
+  law 169
+  law, imperfections 172
+  law, value 171
+  table 168
+  table, arrangement 166
+
+Permanent hardness 310
+
+Permanganates 381
+
+Permanganic acid 381
+
+Peroxides 278
+
+Petroleum 399
+
+Pewter 372
+
+Phenol 417
+
+Philosopher's stone 9
+
+Phlogiston 19
+
+Phosphates 245
+
+Phosphine 242
+
+Phosphonium compounds 243
+
+Phosphoric acid 244
+
+Phosphorite 239
+
+Phosphorous acid 244
+
+Phosphorus 239
+  acids 243
+  family 238
+  hydrogen compounds 242
+  occurrence 239
+  oxides 243
+  preparation 239
+  properties 240
+  red 241
+  yellow 240
+
+Photography 367
+
+Physical changes 2
+  properties 3
+  properties and periodic groups 171
+  state 3
+
+Physics 1, 4
+
+Pitchblende 314
+
+Plaster of Paris 308
+
+Platinic chloride 393
+
+Platinized asbestos 391
+
+Platinous chloride 393
+
+Platinum 391
+  a catalytic agent 152, 392
+
+Pneumatic trough 16
+
+Polyboric acid 265
+
+Polyhalite 288
+
+Polysilicic acids 261
+
+Porcelain 336
+
+Portland cement 304
+
+Potash 293
+
+Potassium 287
+  acid carbonate 294
+  acid sulphate 294
+  acid sulphite 294
+  alum, aluminium 334
+  alum, chrome 384
+  alum, iron 352
+  and plant life 287
+  aurate 396
+  bromide 290
+  carbonate 293
+  chlorate 291
+  chloride 290
+  chromate 385
+  cyanide 293
+  dichromate 386
+  ferricyanide 352
+  ferrocyanide 352
+  hydroxide 288
+  hydroxide, action of halogens 289
+  hypochlorite 289
+  iodide 290
+  manganate 381
+  nitrate 291
+  occurrence 287
+  permanganate 381
+  preparation 288
+  sulphate 294
+
+Precipitated chalk 306
+
+Precipitation 140
+
+Properties, chemical 3
+  physical 3
+
+Prussic acid 210
+
+Puddling 343
+  furnace 344
+
+Pyridine 412
+
+Pyrites 351
+
+Pyrolusite 380
+
+Pyrophosphoric acid 245
+
+Quantitative equations 72
+
+Quartz 260
+
+Quicklime 302
+
+Quinine 418
+
+Quinoline 412
+
+Radical 112
+
+Radium 313
+
+Reaction, classes 70
+  addition 70
+  completed 139
+  heat of 75
+  of decomposition 70
+  of double decomposition 71
+  of substitution 70
+  reversible 137
+  steps in 131
+
+Realgar 246
+
+Red lead 375
+  phosphorus 241
+
+Reducing agent 37
+
+Reduction 36, 354
+
+Rennin 414
+
+Resemblances, family 170
+
+Respiration 87
+
+Rhodium 390
+
+Rochelle salts 408
+
+Rouge 349
+
+Rubidium 294
+
+Ruby 331
+
+Ruthenium 390
+
+Rutile 264
+
+Safety lamp 202
+
+Sal ammoniac 294
+  soda 282
+
+Salt 280
+
+Saltpeter 291
+  Chili 285
+
+Salts, 109
+  acid, 112
+
+Salts basic 111
+  binary 114
+  characteristics 109
+  definition 109
+  insoluble 272
+  mixed 244
+  nomenclature 113
+  normal 112
+  preparation  by  precipitation 270
+
+Sand 260
+
+Sandstone 260
+
+Saponification 410
+
+Sapphire 331
+
+Satinspar 308
+
+Scale 320
+
+Schönite 288
+
+Selenite 308
+
+Selenium 161
+
+Serpentine 320, 336
+
+Shot 247, 375
+
+Siderite 339
+
+Silica 260
+
+Silicates 261
+
+Silicic acids 261
+
+Silicides 259
+
+Silicon 258
+  acids 261
+  dioxide 260
+  fluoride 258
+  hydride 258
+
+Silver 364
+  amalgamation process 364
+  bromide 367
+  chloride 367
+  coin 359
+  German 359
+  in copper ores 358
+  iodide 367
+  metallurgy 364
+  nitrate 366
+  oxide 366
+  parting of 365
+  refining 365
+  sulphide 366
+
+Slag 340
+
+Smalt 355
+
+Smithsonite 321
+
+Smokeless powder 293
+
+Soaps 410
+
+Soda ash 284
+
+Soda lime 202
+
+Sodium 276
+  acetate 407
+  bicarbonate 285
+  carbonate 282
+  carbonate, historical 284
+  chloride 280
+  chromates 386
+  hydrogen carbonate 285
+  hydroxide 278
+  hyposulphite 282
+  iodate 191
+  nitrate 285
+  occurrence 276
+  peroxide 277
+  phosphates 286
+  preparation 276
+  properties 277
+  sulphate 281
+  sulphite 281
+  tetraborate 287
+  thiosulphate 282
+
+Solder 372, 375
+
+Solubility of gases 95
+  of solids 96
+
+Solution 94
+  and chemical action 53
+  boiling point 98
+  classes 94
+  distribution of solids in 98
+  electrolysis of 99
+  freezing point 99
+  of gases in liquids 94
+  of solids in liquids 96
+  properties 98
+  saturated 97
+  supersaturated 98
+
+Solvay soda process 283
+
+Sombrerite 239
+
+Spectroscope 296
+
+Sphalerite 325
+
+Spiegel iron 343
+
+Spinel 332
+
+Spontaneous combustion 20
+
+Stalactites 305
+
+Stalagmites 305
+
+Standard conditions 23
+
+Stannates 372
+
+Stannic acid 372
+  chloride 372
+  oxide 372
+
+Stannous chloride 372
+
+Starch 415
+
+Stassfurt salts 287
+
+Stearic acid 407
+
+Stearin 409
+
+Steel 345
+  alloys 348
+  properties 347
+  tempering of 348
+  tool 347
+
+Stibine 251
+
+Stibnite 250
+
+Stoneware 336
+
+Strontianite 312
+
+Strontium 312
+  hydroxide 312
+  nitrate 312
+
+Structural formulas 119
+
+Structure of compounds 119
+
+Strychnine 419
+
+Substitution 70
+
+Sugars 412
+  cane 412
+  fruit 415
+  grape 414
+  milk 414
+
+Sulphates 159
+
+Sulphides 148
+
+Sulphites 152
+  action of acids on 150
+
+Sulphur 143
+  allotropic forms 144
+  chemical properties 145
+  comparison with oxygen 161
+  dioxide 149
+    preparation 149
+    properties 150
+  extraction 143
+  flowers of 143
+  occurrence 143
+  oxides 149
+  physical properties 144
+  trioxide 152
+  uses 146
+  varieties 144
+
+Sulphuric acid 154
+  action as an acid 157
+  action on metals 157
+  action on organic matter 158
+  action on salts 158
+  action on water 158
+  fuming 155
+  manufacture 154
+  oxidizing action 157
+  plant 156
+  properties 157
+  salts 159
+
+Sulphuric anhydride 153
+
+Sulphurous acid 151
+
+Superphosphate of lime 246
+
+Sylvine 288
+
+Symbols 11
+
+Synthesis 40
+
+Table, alkali metals 274
+  alkaline-earth metals 300
+  alloys of copper 359
+  aqueous tension Appendix B
+  atomic weights Appendix A
+  chlorine family 174
+  composition of earth's crust 10
+  composition of fuel gases 220
+  constants of elements Appendix B
+  copper family 356
+  elements Appendix A
+  gold and platinum metals 390
+  hydrocarbons 399
+  magnesium family 316
+  manganese and chromium 379
+  periodic arrangement 168
+  phosphorus family 238
+  silicon family 257
+  solubility of gases in water 95
+  solubility of salts 96
+  solubility of salts at different temperatures 97
+  tin and lead 370
+  weights of gases Appendix B
+
+Talc 321, 336
+
+Tartar emetic 408
+
+Tartaric acid 408
+
+Tellurium 161
+
+Temporary hardness 309
+
+Ternary acids 113
+  salts 114
+
+Tetraboric acid 265
+
+Thallium 327
+
+Theory, atomic 61
+  definition 64
+  value of 64
+
+Thermite 331
+
+Thio compounds 282
+
+Thiosulphates 159
+
+Thiosulphuric acid 159
+
+Thorium 377
+
+Tin 370
+  block 371
+  compounds 372
+  crystals 372
+  family 370
+  foil 371
+  metallurgy 370
+  plate 371
+  properties 371
+  uses 371
+
+Titanium 257, 264
+
+Topaz 331
+
+Triad families 166
+
+Tungsten 388
+
+Type metal 253, 375
+
+Uranium 388
+
+Valence 116
+  a numerical property 116
+  and combining ratios 118
+  and equations 120
+  and formulas 120
+  and periodic groups 162
+  and structure 118
+  definition 116
+  indirectly determined 117
+  measure of 117
+  variable 117
+
+Vaseline 400
+
+Venetian red 349
+
+Verdigris 407
+
+Vermilion 363
+
+Vinegar 406
+
+Vitriol, blue 361
+  green 350
+  oil of 154
+  white 324
+
+Volume and aqueous tension 25
+  and pressure 24
+  and temperature 23
+  of combining gases 194
+
+Water 40
+  a compound 40
+  and disease 49
+  catalytic action of 154
+  chalybeate 351
+  chemical properties 53
+  composition 47
+  composition by volume 44
+  composition by weight 47
+  dissociation of 210
+  distillation of 50
+  electrolysis of 41, 103
+  filtration of 51
+  gas 219
+  hard 309
+  historical 40
+  impurities in 48
+  in air 87
+  mineral 49
+  occurrence 48
+  of crystallization 54, 75
+  physical properties 53
+  purification of 50
+  qualitative analysis 41
+  quantitative analysis 42
+  river 49
+  sanitary analysis 50
+  self-purification 53
+  softening of 310
+  standard substance 55
+  synthesis 43
+  uses of 55
+
+Weights, atomic 65
+
+Welsbach mantles 219, 377
+
+Whisky 404
+
+Wine 404
+
+Witherite 312
+
+Wood alcohol 402
+  distillation 402
+
+Wood's metal 254
+
+Xenon 80
+
+Yeast 403
+
+Zinc 321
+  alloys of 323
+  blende 321
+  chloride 325
+  flowers of 322
+  metallurgy 321
+  occurrence 321
+  oxide 324
+  sulphate 324
+  sulphide 325
+  white 324
+
+Zymase, 403
+
+ANNOUNCEMENTS
+
+AN ELEMENTARY STUDY OF CHEMISTRY
+
+By WILLIAM McPHERSON, Professor of Chemistry in Ohio State University, and WILLIAM E. HENDERSON,
+Associate Professor of Chemistry in Ohio State University.
+
+12mo. Cloth. 434 pages. Illustrated. List price, $1.25; mailing price, $1.40
+
+This book is the outgrowth of many years of experience in the teaching of elementary chemistry.
+In its preparation the authors have steadfastly kept in mind the limitations of the student
+to whom chemistry is a new science. They have endeavored to present the subject in a clear,
+well-graded way, passing in a natural and logical manner from principles which are readily
+understood to those which are more difficult to grasp. The language is simple and as free as
+possible from unusual and technical phrases. Those which are unavoidable are carefully defined.
+The outline is made very plain, and the paragraphing is designed to be of real assistance to
+the student in his reading.
+
+The book is in no way radical, either in the subject-matter selected or in the method of treatment.
+At the same time it is in thorough harmony with the most recent developments in chemistry,
+both in respect to theory and discovery. Great care has been taken in the theoretical portions
+to make the treatment simple and well within the reach of the ability of an elementary student.
+The most recent discoveries have been touched upon where they come within the scope of an elementary
+text. Especial attention has been given to the practical applications of chemistry, and to
+the description of the manufacturing processes in use at the present time.
+
+EXERCISES IN CHEMISTRY. By WILLIAM McPHERSON and WILLIAM E. HENDERSON. (In press.)
+
+GINN & COMPANY PUBLISHERS
+
+A FIRST COURSE IN PHYSICS
+
+By ROBERT A. MILLIKAN, Associate Professor of Physics, and HENRY G. GALE, Assistant Professor
+of Physics in The University of Chicago
+
+12mo, cloth, 488 pages, illustrated, $1.25
+
+A LABORATORY COURSE IN PHYSICS
+
+FOR SECONDARY SCHOOLS
+
+By ROBERT A. MILLIKAN and HENRY G. GALE 12mo, flexible cloth, 134 pages, illustrated, 40 cents
+
+This one-year course in physics has grown out of the experience of the authors in developing
+the work in physics at the School of Education of The University of Chicago, and in dealing
+with the physics instruction in affiliated high schools and academies.
+
+The book is a simple, objective presentation of the subject as opposed to a formal and mathematical
+one. It is intended for the third-year high-school pupils and is therefore adapted in style
+and method of treatment to the needs of students between the ages of fifteen and eighteen.
+It especially emphasizes the historical and practical aspects of the subject and connects the
+study very intimately with facts of daily observation and experience.
+
+The authors have made a careful distinction between the class of experiments which are essentially
+laboratory problems and those which belong more properly to the classroom and the lecture table.
+The former are grouped into a Laboratory Manual which is designed for use in connection with
+the text. The two books are not, however, organically connected, each being complete in itself.
+
+All the experiments included in the work have been carefully chosen with
+reference to their usefulness as effective classroom demonstrations.     Graphite         2.15            --
+  "     Charcoal         1.80            --
+Chromium                 7.30          3000
+Cobalt                   8.55          1800
+Copper                   8.89          1084
+Gold                    19.30          1064
+Iridium                 22.42          1950
+Iron                     7.93          1800
+Lead                    11.38           327
+Lithium                  0.59           186
+Magnesium                1.75           750
+Manganese                8.01          1900
+Mercury                 13.596          -39.5
+Nickel                   8.9           1600
+Osmium                  22.47            --
+Palladium               11.80          1500
+Phosphorus               1.80            45
+Platinum                21.50          1779
+Potassium                0.87            62.5
+Rhodium                 12.10            --
+Rubidium                 1.52            38.5
+Ruthenium               12.26            --
+Silicon                  2.35            --
+Silver                  10.5            960
+Sodium                   0.97            97.6
+Strontium                2.50            --
+Sulphur                  2.00           114.8
+Tin                      7.35           235
+Titanium                 3.50            --
+Zinc                     7.00           420

@@ -1,0 +1,478 @@
+﻿By July, growth on some species had slowed to a crawl and they looked a little gnarly. Wondering
+if a hidden cause of what appeared to be moisture stress might actually be nutrient deficiencies,
+I tried spraying liquid fertilizer directly on these gnarly leaves, a practice called foliar
+feeding. It helped greatly because, I reasoned, most fertility is located in the topsoil, and
+when it gets dry the plants draw on subsoil moisture, so surface nutrients, though still present
+in the dry soil, become unobtainable. That being so, I reasoned that some of these species
+might do even better if they had just a little fertilized water. So I improvised a simple drip
+system and metered out 4 or 5 gallons of liquid fertilizer to some of the plants in late July
+and four gallons more in August. To some species, extra fertilized water (what I call "fertigation")
+hardly made any difference at all. But unirrigated winter squash vines, which were small and
+scraggly and yielded about 15 pounds of food, grew more lushly when given a few 5-gallon, fertilizer-fortified
+assists and yielded 50 pounds. Thirty-five pounds of squash for 25 extra gallons of water and
+a bit of extra nutrition is a pretty good exchange in my book.
+
+The next year I integrated all this new information into just one garden. Water-loving species
+like lettuce and celery were grown through the summer on a large, thoroughly irrigated raised
+bed. The rest of the garden was given no irrigation at all or minimally metered-out fertigations.
+Some unirrigated crops were foliar fed weekly.
+
+Everything worked in 1991! And I found still other species that I could grow surprisingly well
+on surprisingly small amounts of water[--]or none at all. So, the next year, 1992, I set up
+a sprinkler system to water the intensive raised bed and used the overspray to support species
+that grew better with some moisture supplementation; I continued using my improvised drip system
+to help still others, while keeping a large section of the garden entirely unwatered. And at
+the end of that summer I wrote this book.
+
+What follows is not mere theory, not something I read about or saw others do. These techniques
+are tested and workable. The next-to-last chapter of this book contains a complete plan of
+my 1992 garden with explanations and discussion of the reasoning behind it.
+
+In Water-Wise Vegetables I assume that my readers already are growing food (probably on raised
+beds), already know how to adjust their gardening to this region's climate, and know how to
+garden with irrigation. If you don't have this background I suggest you read my other garden
+book, Growing Vegetables West of the Cascades, (Sasquatch Books, 1989).
+
+Steve Solomon
+
+Chapter 1
+
+Predictably Rainless Summers
+
+In the eastern United States, summertime rainfall can support gardens without irrigation but
+is just irregular enough to be worrisome. West of the Cascades we go into the summer growing
+season certain we must water regularly.
+
+My own many-times-revised book Growing Vegetables West of the Cascades correctly emphasized
+that moisture-stressed vegetables suffer greatly. Because I had not yet noticed how plant spacing
+affects soil moisture loss, in that book I stated a half-truth as law: Soil moisture loss averages
+1-1/2 inches per week during summer.
+
+This figure is generally true for raised-bed gardens west of the Cascades, so I recommended
+adding 1 1/2 inches of water each week and even more during really hot weather.
+
+  Summertime Rainfall West of the Cascades (in inches)*
+
+  Location         April    May    June    July    Aug.    Sept.    Oct.
+
+  Eureka, CA        3.0     2.1     0.7     0.1     0.3     0.7     3.2
+  Medford, OR       1.0     1.4     0.98    0.3     0.3     0.6     2.1
+  Eugene, OR        2.3     2.1     1.3     0.3     0.6     1.3     4.0
+  Portland, OR      2.2     2.1     1.6     0.5     0.8     1.6     3.6
+  Astoria, OR       4.6     2.7     2.5     1.0     1.5     2.8     6.8
+  Olympia, WA       3.1     1.9     1.6     0.7     1.2     2.1     5.3
+  Seattle, WA       2.4     1.7     1.6     0.8     1.0     2.1     4.0
+  Bellingham, WA    2.3     1.8     1.9     1.0     1.1     2.0     3.7
+  Vancouver, BC     3.3     2.8     2.5     1.2     1.7     3.6     5.8
+  Victoria, BC      1.2     1.0     0.9     0.4     0.6     1.5     2.8
+
+  *Source: Van der Leeden et al., The Water Encyclopedia, 2nd ed.,
+  (Chelsea, Mich.: Lewis Publishers, 1990).
+
+Defined scientifically, drought is not lack of rain. It is a dry soil condition in which plant
+growth slows or stops and plant survival may be threatened. The earth loses water when wind
+blows, when sun shines, when air temperature is high, and when humidity is low. Of all these
+factors, air temperature most affects soil moisture loss.
+
+  Daily Maximum Temperature (F)*
+
+  July/August     Average
+
+  Eureka, CA        61
+  Medford, OR       89
+  Eugene, OR        82
+  Astoria, OR       68
+  Olympia, WA       78
+  Seattle, WA       75
+  Bellingham, WA    74
+  Vancouver, BC     73
+  Victoria, BC      68
+
+  *Source: The Water Encyclopedia.
+
+The kind of vegetation growing on a particular plot and its density have even more to do with
+soil moisture loss than temperature or humidity or wind speed. And, surprising as it might
+seem, bare soil may not lose much moisture at all. I now know it is next to impossible to anticipate
+moisture loss from soil without first specifying the vegetation there. Evaporation from a large
+body of water, however, is mainly determined by weather, so reservoir evaporation measurements
+serve as a rough gauge of anticipated soil moisture loss.
+
+  Evaporation from Reservoirs (inches per month)*
+
+  Location        April    May    June    July    Aug.    Sept.    Oct.
+
+  Seattle, WA      2.1     2.7     3.4     3.9     3.4     2.6     1.6
+  Baker, OR        2.5     3.4     4.4     6.9     7.3     4.9     2.9
+  Sacramento, CA   3.6     5.0     7.1     8.9     8.6     7.1     4.8
+
+  *Source: The Water Encyclopedia
+
+From May through September during a normal year, a reservoir near Seattle loses about 16 inches
+of water by evaporation. The next chart shows how much water farmers expect to use to support
+conventional agriculture in various parts of the West. Comparing this data for Seattle with
+the estimates based on reservoir evaporation shows pretty good agreement. I include data for
+Umatilla and Yakima to show that much larger quantities of irrigation water are needed in really
+hot, arid places like Baker or Sacramento.
+
+  Estimated Irrigation Requirements:
+  During Entire Growing Season (in inches)*
+
+  Location                            Duration         Amount
+
+  Umatilla/Yakama Valley              April-October      30
+  Willamette Valley                   May-September      16
+  Puget Sound                         May-September      14
+  Upper Rogue/Upper Umpqua Valley     March-September    18
+  Lower Rogue/Lower Coquille Valley   May-September      11
+  NW California                       April-October      17
+
+  *Source: The Water Encyclopedia
+
+In our region, gardens lose far more water than they get from rainfall during the summer growing
+season. At first glance, it seems impossible to garden without irrigation west of the Cascades.
+But there is water already present in the soil when the gardening season begins. By creatively
+using and conserving this moisture, some maritime Northwest gardeners can go through an entire
+summer without irrigating very much, and with some crops, irrigating not at all.
+
+Chapter 2
+
+Water-Wise Gardening Science
+
+Plants Are Water
+
+Like all other carbon-based life forms on earth, plants conduct their chemical processes in
+a water solution. Every substance that plants transport is dissolved in water. When insoluble
+starches and oils are required for plant energy, enzymes change them back into water-soluble
+sugars for movement to other locations. Even cellulose and lignin, insoluble structural materials
+that plants cannot convert back into soluble materials, are made from molecules that once were
+in solution.
+
+Water is so essential that when a plant can no longer absorb as much water as it is losing,
+it wilts in self-defense. The drooping leaves transpire (evaporate) less moisture because the
+sun glances off them. Some weeds can wilt temporarily and resume vigorous growth as soon as
+their water balance is restored. But most vegetable species aren't as tough-moisture stressed
+vegetables may survive, but once stressed, the quality of their yield usually drops markedly.
+
+Yet in deep, open soil west of the Cascades, most vegetable species may be grown quite successfully
+with very little or no supplementary irrigation and without mulching, because they're capable
+of being supplied entirely by water already stored in the soil.
+
+Soil's Water-Holding Capacity
+
+Soil is capable of holding on to quite a bit of water, mostly by
+adhesion. For example, I'm sure that at one time or another you have
+picked up a wet stone from a river or by the sea. A thin film of
+water clings to its surface. This is adhesion. The more surface area
+there is, the greater the amount of moisture that can be held by
+adhesion. If we crushed that stone into dust, we would greatly
+increase the amount of water that could adhere to the original
+material. Clay particles, it should be noted, are so small that
+clay's ability to hold water is not as great as its mathematically
+computed surface area would indicate.
+          (New York: John Wylie & Sons, 1990).
+
+This direct relationship between particle size, surface area, and water-holding capacity is
+so essential to understanding plant growth that the surface areas presented by various sizes
+of soil particles have been calculated. Soils are not composed of a single size of particle.
+If the mix is primarily sand, we call it a sandy soil. If the mix is primarily clay, we call
+it a clay soil. If the soil is a relatively equal mix of all three, containing no more than
+35 percent clay, we call it a loam.
+
+  Available Moisture (inches of water per foot of soil)
+
+  Soil Texture     Average Amount
+
+  Very coarse sand      0.5
+  Coarse sand           0.7
+  Sandy                 1.0
+  Sandy loam            1.4
+  Loam                  2.0
+  Clay loam             2.3
+  Silty clay            2.5
+  Clay                  2.7
+
+  Source: Fundamentals of Soil Science.
+
+Adhering water films can vary greatly in thickness. But if the water molecules adhering to
+a soil particle become too thick, the force of adhesion becomes too weak to resist the force
+of gravity, and some water flows deeper into the soil. When water films are relatively thick
+the soil feels wet and plant roots can easily absorb moisture. "Field capacity" is the term
+describing soil particles holding all the water they can against the force of gravity.
+
+At the other extreme, the thinner the water films become, the more tightly they adhere and
+the drier the earth feels. At some degree of desiccation, roots are no longer forceful enough
+to draw on soil moisture as fast as the plants are transpiring. This condition is called the
+"wilting point." The term "available moisture" refers to the difference between field capacity
+and the amount of moisture left after the plants have died.
+
+Clayey soil can provide plants with three times as much available water as sand, six times
+as much as a very coarse sandy soil. It might seem logical to conclude that a clayey garden
+would be the most drought resistant. But there's more to it. For some crops, deep sandy loams
+can provide just about as much usable moisture as clays. Sandy soils usually allow more extensive
+root development, so a plant with a naturally aggressive and deep root system may be able to
+occupy a much larger volume of sandy loam, ultimately coming up with more moisture than it
+could obtain from a heavy, airless clay. And sandy loams often have a clayey, moisture-rich
+subsoil.
+
+Because of this interplay of factors, how much available water your own unique garden soil
+is actually capable of providing and how much you will have to supplement it with irrigation
+can only be discovered by trial.
+
+How Soil Loses Water
+
+Suppose we tilled a plot about April 1 and then measured soil moisture loss until October.
+Because plants growing around the edge might extend roots into our test plot and extract moisture,
+we'll make our tilled area 50 feet by 50 feet and make all our measurements in the center.
+And let's locate this imaginary plot in full sun on flat, uniform soil. And let's plant absolutely
+nothing in this bare earth. And all season let's rigorously hoe out every weed while it is
+still very tiny.
+
+Let's also suppose it's been a typical maritime Northwest rainy winter, so on April 1 the soil
+is at field capacity, holding all the moisture it can. From early April until well into September
+the hot sun will beat down on this bare plot. Our summer rains generally come in insignificant
+installments and do not penetrate deeply; all of the rain quickly evaporates from the surface
+few inches without recharging deeper layers. Most readers would reason that a soil moisture
+measurement taken 6 inches down on September 1, should show very little water left. One foot
+down seems like it should be just as dry, and in fact, most gardeners would expect that there
+would be very little water found in the soil until we got down quite a few feet if there were
+several feet of soil.
+
+But that is not what happens! The hot sun does dry out the surface inches, but if we dig down
+6 inches or so there will be almost as much water present in September as there was in April.
+Bare earth does not lose much water at all. Once a thin surface layer is completely desiccated,
+be it loose or compacted, virtually no further loss of moisture can occur.
+
+The only soils that continue to dry out when bare are certain kinds of very heavy clays that
+form deep cracks. These ever-deepening openings allow atmospheric air to freely evaporate additional
+moisture. But if the cracks are filled with dust by surface cultivation, even this soil type
+ceases to lose water.
+
+Soil functions as our bank account, holding available water in storage. In our climate soil
+is inevitably charged to capacity by winter rains, and then all summer growing plants make
+heavy withdrawals. But hot sun and wind working directly on soil don't remove much water; that
+is caused by hot sun and wind working on plant leaves, making them transpire moisture drawn
+from the earth through their root systems. Plants desiccate soil to the ultimate depth and
+lateral extent of their rooting ability, and then some. The size of vegetable root systems
+is greater than most gardeners would think. The amount of moisture potentially available to
+sustain vegetable growth is also greater than most gardeners think.
+
+Rain and irrigation are not the only ways to replace soil moisture. If the soil body is deep,
+water will gradually come up from below the root zone by capillarity. Capillarity works by
+the very same force of adhesion that makes moisture stick to a soil particle. A column of water
+in a vertical tube (like a thin straw) adheres to the tube's inner surfaces. This adhesion
+tends to lift the edges of the column of water. As the tube's diameter becomes smaller the
+amount of lift becomes greater. Soil particles form interconnected pores that allow an inefficient
+capillary flow, recharging dry soil above. However, the drier soil becomes, the less effective
+capillary flow becomes. That is why a thoroughly desiccated surface layer only a few inches
+thick acts as a powerful mulch.
+
+Industrial farming and modern gardening tend to discount the replacement of surface moisture
+by capillarity, considering this flow an insignificant factor compared with the moisture needs
+of crops. But conventional agriculture focuses on maximized yields through high plant densities.
+Capillarity is too slow to support dense crop stands where numerous root systems are competing,
+but when a single plant can, without any competition, occupy a large enough area, moisture
+replacement by capillarity becomes significant.
+
+How Plants Obtain Water
+
+Most gardeners know that plants acquire water and minerals through their root systems, and
+leave it at that. But the process is not quite that simple. The actively growing, tender root
+tips and almost microscopic root hairs close to the tip absorb most of the plant's moisture
+as they occupy new territory. As the root continues to extend, parts behind the tip cease to
+be effective because, as soil particles in direct contact with these tips and hairs dry out,
+the older roots thicken and develop a bark, while most of the absorbent hairs slough off. This
+rotation from being actively foraging tissue to becoming more passive conductive and supportive
+tissue is probably a survival adaptation, because the slow capillary movement of soil moisture
+fails to replace what the plant used as fast as the plant might like. The plant is far better
+off to aggressively seek new water in unoccupied soil than to wait for the soil its roots already
+occupy to be recharged.
+
+A simple bit of old research magnificently illustrated the significance of this. A scientist
+named Dittmer observed in 1937 that a single potted ryegrass plant allocated only 1 cubic foot
+of soil to grow in made about 3 miles of new roots and root hairs every day. (Ryegrasses are
+known to make more roots than most plants.) I calculate that a cubic foot of silty soil offers
+about 30,000 square feet of surface area to plant roots. If 3 miles of microscopic root tips
+and hairs (roughly 16,000 lineal feet) draws water only from a few millimeters of surrounding
+soil, then that single rye plant should be able to continue ramifying into a cubic foot of
+silty soil and find enough water for quite a few days before wilting. These arithmetical estimates
+agree with my observations in the garden, and with my experiences raising transplants in pots.
+
+Lowered Plant Density: The Key to Water-Wise Gardening
+
+I always think my latest try at writing a near-perfect garden book is quite a bit better than
+the last. Growing Vegetables West of the Cascades, recommended somewhat wider spacings on raised
+beds than I did in 1980 because I'd repeatedly noticed that once a leaf canopy forms, plant
+growth slows markedly. Adding a little more fertilizer helps after plants "bump," but still
+the rate of growth never equals that of younger plants. For years I assumed crowded plants
+stopped producing as much because competition developed for light. But now I see that unseen
+competition for root room also slows them down. Even if moisture is regularly recharged by
+irrigation, and although nutrients are replaced, once a bit of earth has been occupied by the
+roots of one plant it is not so readily available to the roots of another. So allocating more
+elbow room allows vegetables to get larger and yield longer and allows the gardener to reduce
+the frequency of irrigations.
+
+Though hot, baking sun and wind can desiccate the few inches of surface soil, withdrawals of
+moisture from greater depths are made by growing plants transpiring moisture through their
+leaf surfaces. The amount of water a growing crop will transpire is determined first by the
+nature of the species itself, then by the amount of leaf exposed to sun, air temperature, humidity,
+and wind. In these respects, the crop is like an automobile radiator. With cars, the more metal
+surfaces, the colder the ambient air, and the higher the wind speed, the better the radiator
+can cool; in the garden, the more leaf surfaces, the faster, warmer, and drier the wind, and
+the brighter the sunlight, the more water is lost through transpiration.
+
+Dealing with a Surprise Water Shortage
+
+Suppose you are growing a conventional, irrigated garden and something unanticipated interrupts
+your ability to water. Perhaps you are homesteading and your well begins to dry up. Perhaps
+you're a backyard gardener and the municipality temporarily restricts usage. What to do?
+
+First, if at all possible before the restrictions take effect, water very heavily and long
+to ensure there is maximum subsoil moisture. Then eliminate all newly started interplantings
+and ruthlessly hoe out at least 75 percent of the remaining immature plants and about half
+of those about two weeks away from harvest.
+
+For example, suppose you've got a a 4-foot-wide intensive bed holding seven rows of broccoli
+on 12 inch centers, or about 21 plants. Remove at least every other row and every other plant
+in the three or four remaining rows. Try to bring plant density down to those described in
+Chapter 5, "How to Grow It: A-Z"
+
+Then shallowly hoe the soil every day or two to encourage the surface inches to dry out and
+form a dust mulch. You water-wise person--you're already dry gardening--now start fertigating.
+
+How long available soil water will sustain a crop is determined by how many plants are drawing
+on the reserve, how extensively their root systems develop, and how many leaves are transpiring
+the moisture. If there are no plants, most of the water will stay unused in the barren soil
+through the entire growing season. If a crop canopy is established midway through the growing
+season, the rate of water loss will approximate that listed in the table in Chapter 1 "Estimated
+Irrigation Requirement." If by very close planting the crop canopy is established as early
+as possible and maintained by successive interplantings, as is recommended by most advocates
+of raised-bed gardening, water losses will greatly exceed this rate.
+
+Many vegetable species become mildly stressed when soil moisture has dropped about half the
+way from capacity to the wilting point. On very closely planted beds a crop can get in serious
+trouble without irrigation in a matter of days. But if that same crop were planted less densely,
+it might grow a few weeks without irrigation. And if that crop were planted even farther apart
+so that no crop canopy ever developed and a considerable amount of bare, dry earth were showing,
+this apparent waste of growing space would result in an even slower rate of soil moisture depletion.
+On deep, open soil the crop might yield a respectable amount without needing any irrigation at all.
+
+West of the Cascades we expect a rainless summer; the surprise comes that rare rainy year when
+the soil stays moist and we gather bucketfuls of chanterelle mushrooms in early October. Though
+the majority of maritime Northwest gardeners do not enjoy deep, open, moisture-retentive soils,
+all except those with the shallowest soil can increase their use of the free moisture nature
+provides and lengthen the time between irrigations. The next chapter discusses making the most
+of whatever soil depth you have. Most of our region's gardens can yield abundantly without
+any rain at all if only we reduce competition for available soil moisture, judiciously fertigate
+some vegetable species, and practice a few other water-wise tricks.
+
+Would lowering plant density as much as this book suggests equally lower the yield of the plot?
+Surprisingly, the amount harvested does not drop proportionately. In most cases having a plant
+density one-eighth of that recommended by intensive gardening advocates will result in a yield
+about half as great as on closely planted raised beds.
+
+Internet Readers: In the print copy of this book are color pictures of my own "irrigationless"
+garden. Looking at them about here in the book would add reality to these ideas.
+
+Chapter 3
+
+Helping Plants to Need Less Irrigation
+
+Dry though the maritime Northwest summer is, we enter the growing season with our full depth
+of soil at field capacity. Except on clayey soils in extraordinarily frosty, high-elevation
+locations, we usually can till and plant before the soil has had a chance to lose much moisture.
+
+There are a number of things we can do to make soil moisture more available to our summer vegetables.
+The most obvious step is thorough weeding. Next, we can keep the surface fluffed up with a
+rotary tiller or hoe during April and May, to break its capillary connection with deeper soil
+and accelerate the formation of a dry dust mulch. Usually, weeding forces us to do this anyway.
+Also, if it should rain during summer, we can hoe or rotary till a day or two later and again
+help a new dust mulch to develop.
+
+Building Bigger Root Systems
+
+Without irrigation, most of the plant's water supply is obtained by expansion into new earth
+that hasn't been desiccated by other competing roots. Eliminating any obstacles to rapid growth
+of root systems is the key to success. So, keep in mind a few facts about how roots grow and
+prosper.
+
+The air supply in soil limits or allows root growth. Unlike the leaves, roots do not perform
+photosynthesis, breaking down carbon dioxide gas into atmospheric oxygen and carbon. Yet root
+cells must breathe oxygen. This is obtained from the air held in spaces between soil particles.
+Many other soil-dwelling life forms from bacteria to moles compete for this same oxygen. Consequently,
+soil oxygen levels are lower than in the atmosphere. A slow exchange of gases does occur between
+soil air and free atmosphere, but deeper in the soil there will inevitably be less oxygen.
+Different plant species have varying degrees of root tolerance for lack of oxygen, but they
+all stop growing at some depth. Moisture reserves below the roots' maximum depth become relatively
+inaccessible.
+
+Soil compaction reduces the overall supply and exchange of soil air. Compacted soil also acts
+as a mechanical barrier to root system expansion. When gardening with unlimited irrigation
+or where rain falls frequently, it is quite possible to have satisfactory growth when only
+the surface 6 or 7 inches of soil facilitates root development. When gardening with limited
+water, China's the limit, because if soil conditions permit, many vegetable species are capable
+of reaching 4, 5, and 8 eight feet down to find moisture and nutrition.
+
+Evaluating Potential Rooting Ability
+
+One of the most instructive things a water-wise gardener can do is to rent or borrow a hand-operated
+fence post auger and bore a 3-foot-deep hole. It can be even more educational to buy a short
+section of ordinary water pipe to extend the auger's reach another 2 or 3 feet down. In soil
+free of stones, using an auger is more instructive than using a conventional posthole digger
+or shoveling out a small pit, because where soil is loose, the hole deepens rapidly. Where
+any layer is even slightly compacted, one turns and turns the bit without much effect. Augers
+also lift the materials more or less as they are stratified. If your soil is somewhat stony
+(like much upland soil north of Centralia left by the Vashon Glacier), the more usual fence-post
+digger or common shovel works better.
+
+If you find more than 4 feet of soil, the site holds a dry-gardening potential that increases
+with the additional depth. Some soils along the floodplains of rivers or in broad valleys like
+the Willamette or Skagit can be over 20 feet deep, and hold far more water than the deepest
+roots could draw or capillary flow could raise during an entire growing season. Gently sloping
+land can often carry 5 to 7 feet of open, usable soil. However, soils on steep hillsides become
+increasingly thin and fragile with increasing slope.
+
+Whether an urban, suburban, or rural gardener, you should make no assumptions about the depth
+and openness of the soil at your disposal. Dig a test hole. If you find less than 2 unfortunate
+feet of open earth before hitting an impermeable obstacle such as rock or gravel, not much
+water storage can occur and the only use this book will hold for you is to guide your move
+to a more likely gardening location or encourage the house hunter to seek further. Of course,
+you can still garden quite successfully on thin soil in the conventional, irrigated manner.
+Growing Vegetables West of the Cascades will be an excellent guide for this type of situation.
+
+Eliminating Plowpan
+
+Deep though the soil may be, any restriction of root expansion greatly limits the ability of
+plants to aggressively find water. A compacted subsoil or even a thin compressed layer such
+as plowpan may function as such a barrier. Though moisture will still rise slowly by capillarity
+and recharge soil above plowpan, plants obtain much more water by rooting into unoccupied,
+damp soil. Soils close to rivers or on floodplains may appear loose and infinitely deep but
+may hide subsoil streaks of droughty gravel that effectively stops root growth. Some of these
+conditions are correctable and some are not.
+
+Plowpan is very commonly encountered by homesteaders on farm soils and may be found in suburbia
+too, but fortunately it is the easiest obstacle to remedy. Traditionally, American croplands
+have been tilled with the moldboard plow. As this implement first cuts and then flips a 6-or
+7-inch-deep slice of soil over, the sole--the part supporting the plow's weight--presses heavily
+on the earth about 7 inches below the surface. With each subsequent plowing the plow sole rides
+at the same 7-inch depth and an even more compacted layer develops. Once formed plowpan prevents
+the crop from rooting into the subsoil. Since winter rains leach nutrients from the topsoil
+and deposit them in the subsoil, plowpan prevents access to these nutrients and effectively
+impoverishes the field. So wise farmers periodically use a subsoil plow to fracture the pan.
+
+Plowpan can seem as firm as a rammed-earth house; once established, it can last a long, long
+time. My own garden land is part of what was once an old wheat farm, one of the first homesteads
+of the Oregon Territory. From about 1860 through the 1930s, the field produced small grains.
+After wheat became unprofitable, probably because of changing market conditions and soil exhaustion,
+the field became an unplowed pasture. Then in the 1970s it grew daffodil bulbs, occasioning
+more plowing. All through the '80s my soil again rested under grass. In 1987, when I began
+using the land, there was still a 2-inch-thick, very hard layer starting about 7 inches down.
+Below 9 inches the open earth is soft as butter as far as I've ever dug.
+
+On a garden-sized plot, plowpan or compacted subsoil is easily opened with a spading fork or
+a very sharp common shovel. After normal rotary tilling, either tool can fairly easily be wiggled
+12 inches into the earth and small bites of plowpan loosened. Once this laborious chore is
+accomplished the first time, deep tillage will be far easier. In fact, it becomes so easy that
+I've been looking for a custom-made fork with longer tines.
+
+Curing Clayey Soils
+

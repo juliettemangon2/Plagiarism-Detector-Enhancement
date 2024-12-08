@@ -1,0 +1,138 @@
+﻿In order to add them, the object for which these forty numbers are here presented in two notations,
+it is not necessary to know just why the figures on the right are equal to those on the left,
+or to know anything more than the order in which the different forms are to be taken, and the
+fact that any one has twice the value of one in the column next succeeding it on the right.
+The addition may be made from the printed page, first covering over the answer with a paper
+held fast by a weight, to have a place for the figures of the new answer as successively obtained.
+The fingers will be found a great assistance, especially if one of each hand be used, to point
+off similar marks in twos, or threes, or fours--as many together as can be certainly comprehended
+in a glance of the eye. Counting by fours, if it can be done safely, is preferable because
+most rapid. The eye can catch the marks for even powers more easily in going up and those for
+odd powers (the l and r curves) in going down the columns. Beginning at the lower right hand
+corner, we count the right hand column of small circles, or degree marks, upward; they are
+twenty-three in number. Half of twenty-three is eleven and one over; one of these marks has
+therefore to be entered as part of the answer, and eleven carried to the next column, the first
+one of l-curves. But since the curves are most advantageously added downward, it is best, when
+the first column is finished, simply to remember the remainder from it, and not to set down
+anything until the bottom is reached in the addition of the second column, when the remainders,
+if any, from both columns can be set down together. In this case, starting with the eleven
+carried and counting the number of the l-curves, we find ourselves at the bottom with twenty-four--twelve
+to carry, and nothing to set down except the degree mark from the first column. With the twelve
+we go up the adjoining loop column, and the sum must be even, as this place is vacant in the
+answer; the r-curve column next, downward, and then another row of degree marks. The succession
+must be obvious by this time. When the last column, the one in loops to the extreme left, is
+added, the sum has to be reduced to unity by successive halvings. Here we seem to have eleven;
+hence we enter one loop, and carry five to the next place, which, it must be remembered, is
+of r-curves. Halving five we express the remainder by entering one of these curves, and carry
+the quotient, two, to the degree mark place. Halving again gives one in the next place, that
+of l-curves; and the work is complete.
+
+It is recommended that this work be gone over several times for practice, until the appearance
+and order of the characters and the details of the method become familiar; that, when the work
+can be done mechanically and without hesitation, the time occupied in a complete addition of
+the example, and the mistakes made in it, be carefully noted; that this be done several times,
+with an interval of some days between the trials, and the result of each trial kept separate;
+that the time and mistakes by the ordinary figures in the same example, in several trials,
+be observed for comparison. Please pay particular attention to the difference in the kind of
+work required by the two methods in its bearing on two questions--which of them would be easier
+to work by for hours together, supposing both equally well learned? and in which of them could
+a reasonable degree of skill be more readily acquired by a beginner? The answer to these questions,
+if the comparison be a fair one, is as little to be doubted as is their high importance.
+
+Example in addition by two notations
+
+   77,823,876
+   14,348,907
+    8,654,912
+    5,764,801
+    4,635,857
+    1,594,323
+    6,417,728
+    4,782,969
+   83,886,075
+   34,012,224
+    2,903,111
+   48,828,125
+    1,724,826
+    7,529,536
+   43,344,817
+   10,000,000
+    8,334,712
+    1,953,125
+   11,308,417
+      759,375
+   21,180,840
+    9,765,625
+   18,643,788
+    1,000,000
+   44,739,243
+    1,889,568
+    2,517,471
+   40,353,607
+    4,438,414
+    1,679,616
+   23,708,715
+   11,890,625
+      945,754
+      823,543
+   15,308,805
+   60,466,176
+   30,685,377
+   10,077,696
+   19,416,381
+   43,046,721
+  ===========
+  740,685,681
+
+Eight volunteer observers to whom this example has already been submitted showed wide difference
+in arithmetical skill. One of them took but a few seconds over two minutes, in the best of
+six trials, to add by the usual figures, and set down the sum, but one figure in all the six
+additions being wrong; another added once in ten minutes fifty-seven seconds, and once in eleven
+minutes seven seconds, with half the figures wrong each time. The last-mentioned observer had
+had very little training in arithmetical work, but perhaps that gave a fairer comparison. In
+the binary figures she made three additions in between seven and eight minutes, with but one
+place wrong in the three. With four of the observers the binary notation required nearly double
+the time. These observers were all well practiced in computation. Their best record, five minutes
+eighteen seconds, was made by one whose best record was two minutes forty seconds in ordinary
+figures. The author's own best results were two minutes thirty-eight seconds binary, and three
+minutes twenty-three seconds usual. He thus proved himself inferior to the last observer, as
+an adder, by a system in which both were equally well trained; but a greater familiarity (extending
+over a few weeks instead of a few hours) with methods in binary addition enabled him to work
+twice as fast with them. Of the author's nine additions by the usual figures, four were wrong
+in one figure each; of his thirty-two additions by different forms of binary notation, five
+were wrong, one of them in two places. One observer found that he required one minute thirty-three
+seconds to add a single column (average of five tried) by the usual figures, and fifteen seconds
+to count the characters in one (average of six tried) by the binary. Though these additions
+were rather slow, the results are interesting. They show, making allowance for the greater
+number of columns (three and a third times as many) required by the binary plan, a saving of
+nearly half; but they also illustrate the necessity of practice. This observer succeeded with
+the binary arithmetic by avoiding the sources of delay that particularly embarrass the beginner,
+by contenting himself with counting only, and not stopping to divide by two, to set down an
+unfamiliar character, or to recognize the mark by which he must distinguish his next column.
+One well-known member of the Washington Philosophical Society and of the American Association
+for the Advancement of Science, who declined the actual trial as too severe a task, estimated
+his probable time with ordinary figures at twenty minutes, with strong chances of a wrong result,
+after all.
+
+These statistics prove the existence of a class of persons who can do faster and more reliable
+work by the binary reckoning. But too much should not be made of them. Let them serve as specimens
+of facts of which a great many more are to be desired, bearing on a question of grave importance.
+Is it not worth our while to know, if we can, by impartial tests, whether the tax imposed on
+our working brains by the system of arithmetic in daily use is the necessary price of a blessing
+enjoyed, or an oppression? If the strain produced by greater complexity and intensity of mental
+labor is compensated by a correspondingly greater rapidity in dealing with figures, the former
+may be the case. If, on the contrary, a little practice suffices to turn the balance of rapidity,
+for all but a small body of highly drilled experts, in favor of an easier system, the latter
+must be. This is the question that the readers of Science are invited to help in deciding.
+The difficulties attending a complete revolution in the prevalent system of reckoning are confessedly
+stupendous; but they do not render undesirable the knowledge that experiment alone can give,
+whether or not the cost of that system is unreasonably high; nor should they prevent those
+who accord them the fullest recognition from assisting to furnish the necessary facts.
+
+Those who are willing to undertake the addition on the plan proposed or on any better plan,
+or who will submit it to such acquaintances, skilled or unskilled, as may be persuaded to take
+the trouble to learn the mechanism of binary adding, will confer a great favor by informing
+the writer of the time occupied, and number of mistakes made, in each addition. All observations
+and suggestions relating to the subject will be most gratefully received.
+
+Henry Farquhar.

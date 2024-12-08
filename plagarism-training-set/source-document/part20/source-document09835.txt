@@ -1,0 +1,156 @@
+﻿  +-----------------+---------------------+-------------------+
+  | Time of growth, | summer.             | Pholiota,         |
+  |                 |                     | Inocybe,          |
+  |                 |                     | Naucoria.         |
+  |                 +---------------------+-------------------+
+  |                 | autumn.             | Inocybe,          |
+  |                 |                     | Flammula,         |
+  |                 |                     | Pholiota,         |
+  |                 |                     | Galera,           |
+  |                 |                     | Hebeloma,         |
+  |                 |                     | Crepedotus,       |
+  |                 |                     | Naucoria,         |
+  |                 |                     | Cortinarius.      |
+  +---------+-------+---------------------+-------------------+
+  | Habitat | In woods, in uncultivated   | Inocybe,          |
+  |         |   places, on ground.        | Pholiota,[1]      |
+  |         |                             | Hebeloma,         |
+  |         |                             | Flammula,         |
+  |         |                             | Paxillus,         |
+  |         |                             | Cortinarius,      |
+  |         |                             | Naucoria,         |
+  |         |                             | Galera.           |
+  |         +-----------------------------+-------------------+
+  |         | In grass and fields,        | Cortinarius.      |
+  |         |   on ground.                |                   |
+  |         +-----------------------------+-------------------+
+  |         | On other plants--epiphytal. | Naucoria.         |
+  |         +-----------------------------+-------------------+
+  |         | On stumps.                  | Pholiota,         |
+  |         |                             | Paxillus.         |
+  |         +-----------------------------+-------------------+
+  |         | On wood.                    | Claudopus,        |
+  |         |                             | Flammula,         |
+  |         |                             | Crepidotus,       |
+  |         |                             | Naucoria.         |
+  +---------+-----------------------------+-------------------+
+  | Gills,  | free.                       | Naucoria.         |
+  |         +-----------------------------+-------------------+
+  |         | adnate.                     | Naucoria,         |
+  |         |                             | Pholiota,[2]      |
+  |         |                             | Flammula,         |
+  |         |                             | Cortinarius,      |
+  |         |                             | Hebeloma.         |
+  |         +-----------------------------+-------------------+
+  |         | decurrent.                  | Flammula,         |
+  |         |                             | Paxillus.         |
+  |         +-----------------------------+-------------------+
+  |         | sinuous.                    | Hebeloma.         |
+  +---------+-----------------------------+-------------------+
+  | Veil adhering to margin of cap.       | Hebeloma,         |
+  |                                       | Cortinarius,      |
+  |                                       | Inocybe.          |
+  +---------------------------------------+-------------------+
+  | Ring.                                 | Pholiota,         |
+  |                                       | Cortinarius.[3]   |
+  +---------+-----------------------------+-------------------+
+  | Stem,   | cartilaginous.              | Tubaria,          |
+  |         |                             | Naucoria,         |
+  |         |                             | Galera.           |
+  |         +-----------------------------+-------------------+
+  |         | lateral, or excentric.      | Crepidotus.       |
+  |         +-----------------------------+-------------------+
+  |         | none.                       | Crepidotus.       |
+  +---------+-----------------------------+-------------------+
+  | Pileus, | scaly or warted.            | Flammula,         |
+  |         |                             | Inocybe.          |
+  |         +-----------------------------+-------------------+
+  |         | campanulate.                | Galera,           |
+  |         |                             | Pluteolus.        |
+  |         +-----------------------------+-------------------+
+  |         | silky, cracked or           | Inocybe.          |
+  |         |    fibrillose.              |                   |
+  |         +-----------------------------+-------------------+
+  |         | umbonate.                   | Inocybe.          |
+  |         +-----------------------------+-------------------+
+  |         | striate.                    | Pluteolus,        |
+  |         |                             | Galera.           |
+  +---------+-----------------------------+-------------------+
+
+    [Footnote 1: Damp ground.]
+    [Footnote 2: Somewhat free.]
+    [Footnote 3: Some with rings.]
+
+Table IV.--Dark Purple and Black Spores.
+
+  +---------------------------------------+-------------------+
+  | Size of plants, small.                | Psathyrella.      |
+  +---------------------------------------+-------------------+
+  | Plants deliquescent.                  | Coprinus,         |
+  |                                       | Bolbitius.        |
+  +-----------------+---------------------+-------------------+
+  | Time of growth, | summer.             | Coprinus,         |
+  |                 |                     | Stropharia,       |
+  |                 |                     | Panaeolus.        |
+  |                 +---------------------+-------------------+
+  |                 | autumn.             | Coprinus,         |
+  |                 |                     | Psaliota,         |
+  |                 |                     | Panaeolus,        |
+  |                 |                     | Hypholoma.        |
+  +---------+-------+---------------------+-------------------+
+  | Habitat | In woods, in uncultivated   | Stropharia,       |
+  |         |   places, on ground.        | Psathyra.         |
+  |         +-----------------------------+-------------------+
+  |         | In grass and fields,        | Psaliota.         |
+  |         |   on ground.                |                   |
+  |         +-----------------------------+-------------------+
+  |         | On other plants--epiphytal. | Stropharia.       |
+  |         +-----------------------------+-------------------+
+  |         | On stumps.                  | Hypholoma,        |
+  |         |                             | Psathyra.         |
+  |         +-----------------------------+-------------------+
+  |         | On wood.                    | Psathyra,[1]      |
+  |         |                             | Hypholoma.        |
+  |         +-----------------------------+-------------------+
+  |         | On manure.                  | Stropharia,       |
+  |         |                             | Panaeolus,        |
+  |         |                             | Psathyrella,      |
+  |         |                             | Coprinus,         |
+  |         |                             | Bolbitius.        |
+  +---------+-----------------------------+-------------------+
+  | Gills,  | free.                       | Chetonia,         |
+  |         |                             | Psalliota,        |
+  |         |                             | Psathyrella,      |
+  |         |                             | Coprinus,         |
+  |         |                             | Bolbitius.        |
+  |         +-----------------------------+-------------------+
+  |         | adnate.                     | Stropharia,       |
+  |         |                             | Hypholoma,        |
+  |         |                             | Psathyrella.      |
+  |         +-----------------------------+-------------------+
+  |         | decurrent.                  | Gomphidius.       |
+  |         +-----------------------------+-------------------+
+  |         | sinuous.                    | Hypholoma.        |
+  +---------+-----------------------------+-------------------+
+  | Veil adhering to margin.              | Hypholoma.        |
+  +---------------------------------------+-------------------+
+  | Ring.                                 | Stropharia        |
+  |                                       | Psalliota,        |
+  |                                       | Gomphidius.[2]    |
+  +---------+-----------------------------+-------------------+
+  | Stem,   | cartilaginous.              | Psathyra,         |
+  |         |                             | Psilocybe.        |
+  +---------+-----------------------------+-------------------+
+  | Pileus, | campanulate.                | Psathyra,         |
+  |         |                             | Psathyrella,[3]   |
+  |         |                             | Coprinus,         |
+  |         |                             | Gomphidius.[4]    |
+  |         +-----------------------------+-------------------+
+  |         | striate.                    | Psathyra,         |
+  |         |                             | Psathyrella.      |
+  +---------+-----------------------------+-------------------+
+
+    [Footnote 1: On rotten wood.]
+    [Footnote 2: A floccose ring.]
+    [Footnote 3: At first, adpressed to stem.]
+    [Footnote 4: Top shaped.]

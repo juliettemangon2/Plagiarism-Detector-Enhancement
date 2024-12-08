@@ -1,0 +1,625 @@
+﻿Under ordinary conditions the gas burns with a very smoky flame; in burners constructed so
+as to secure a large amount of oxygen it burns with a very brilliant white light, and hence
+is used as an illuminant.
+
+~Laboratory preparation.~ The gas can be prepared readily in a generator such as is shown in
+Fig. 60. The inner tube contains fragments of calcium carbide, while the outer one is filled
+with water. As long as the stopcock is closed the water cannot rise in the inner tube. When
+the stopcock is open the water rises, and, coming into contact with the carbide in the inner
+tube, generates acetylene. This escapes through the stopcock, and after the air has been expelled
+may be lighted as it issues from the burner.
+
+Carbon forms two oxides, namely, carbon dioxide (CO{2}) and carbon monoxide (CO).
+
+~Carbon dioxide~ (CO{2}). Carbon dioxide is present in the air to the extent of about 3 parts
+in 10,000, and this apparently small amount is of fundamental importance in nature. In some
+localities it escapes from the earth in great quantities, and many spring waters carry large
+amounts of it in solution. When these highly charged spring waters reach the surface of the
+earth, and the pressure on them is removed, the carbon dioxide escapes with effervescence.
+It is a product of the oxidation of all organic matter, and is therefore formed in fires as
+well as in the process of decay. It is thrown off from the lungs of all animals in respiration,
+and is a product of many fermentation processes such as vinegar making and brewing. Combined
+with metallic oxides it forms vast deposits of carbonates in nature.
+
+~Preparation.~ In the laboratory carbon dioxide is always prepared by the action of an acid
+upon a carbonate, usually calcium carbonate, the apparatus shown in Fig. 39 serving the purpose
+very well. This reaction might be expected to produce carbonic acid, thus:
+
+    CaCO{3} + 2HCl = CaCl{2} + H{2}CO{3}.
+
+Carbonic acid is very unstable, however, and decomposes into its anhydride, CO{2}, and water, thus:
+
+    H{2}CO{3} = H{2}O + CO{2}.
+
+The complete reaction is represented by the equation
+
+    CaCO{3} + 2HCl = CaCl{2} + CO{2} + H{2}O.
+
+~Physical properties.~ Carbon dioxide is a colorless, practically odorless gas whose density
+is 1.5. Its weight may be inferred from the fact that it can be siphoned, or poured like water,
+from one vessel downward into another. At 15° and under ordinary pressure it dissolves in its
+own volume of water and imparts a somewhat biting, pungent taste to it. It is easily condensed,
+and is now prepared commercially in this form by pumping the gas into steel cylinders (see
+Fig. 6) which are kept cold during the process. When the liquid is permitted to escape into
+the air part of it instantly evaporates, and in so doing absorbs so much heat that another
+portion is solidified, the solid form strikingly resembling snow in appearance. This snow is
+very cold and mercury can easily be frozen with it.
+
+~Solid carbon dioxide.~ Cylinders of liquid carbon dioxide are inexpensive, and should be available
+in every school. To demonstrate the properties of solid carbon dioxide, the cylinder should
+be placed across the table and supported in such a way that the stopcock end is several inches
+lower than the other end. A loose bag is made by holding the corners of a handkerchief around
+the neck of the stopcock, and the cock is then turned on so that the gas rushes out in large
+quantities. Very quickly a considerable quantity of the snow collects in the handkerchief.
+To freeze mercury, press a piece of filter paper into a small evaporating dish and pour the
+mercury upon it. Coil a flat spiral upon the end of a wire, and dip the spiral into the mercury.
+Place a quantity of solid carbon dioxide upon the mercury and pour 10 cc.-15 cc. of ether over
+it. In a minute or two the mercury will solidify and may be removed from the dish by the wire
+serving as a handle. The filter paper is to prevent the mercury from sticking to the dish;
+the ether dissolves the solid carbon dioxide and promotes its rapid conversion into gas.
+
+~Chemical properties.~ Carbon dioxide is incombustible, since it is, like water, a product
+of combustion. It does not support combustion, as does nitrogen peroxide, because the oxygen
+in it is held in very firm chemical union with the carbon. Very strong reducing agents, such
+as highly heated carbon, can take away half of its oxygen:
+
+    CO{2} + C = 2CO.
+
+~Uses.~ The relation of carbon dioxide to plant life has been discussed in a previous chapter.
+Water highly charged with carbon dioxide is used for making soda water and similar beverages.
+Since it is a non-supporter of combustion and can be generated readily, carbon dioxide is also
+used as a fire extinguisher. Some of the portable fire extinguishers are simply devices for
+generating large amounts of the gas. It is not necessary that all the oxygen should be kept
+away from the fire in order to smother it. A burning candle is extinguished in air which contains
+only 2.5% of carbon dioxide.
+
+~Carbonic acid~ (H{2}CO{3}). Like most of the oxides of the non-metallic elements, carbon dioxide
+is an acid anhydride. It combines with water to form an acid of the formula H{2}CO{3}, called
+carbonic acid:
+
+    H{2}O + CO{2} = H{2}CO{3}.
+
+The acid is, however, very unstable and cannot be isolated. Only a very small amount of it
+is actually formed when carbon dioxide is passed into water, as is evident from the small solubility
+of the gas. If, however, a base is present in the water, salts of carbonic acid are formed,
+and these are quite stable:
+
+    2NaOH + H{2}O + CO{2} = Na{2}CO{3} + 2H{2}O.
+
+~Action of carbon dioxide on bases.~ This conduct is explained by the principles of reversible
+reactions. The equation
+
+    H{2}O +CO{2} <--> H{2}CO{3}
+
+is a reversible equation, and the extent to which the reaction progresses depends upon the
+relative concentrations of each of the three factors in it. Equilibrium is ordinarily reached
+when very little H{2}CO{3} is formed. If a base is present in the water to combine with the
+H{2}CO{3} as fast as it is formed, all of the CO{2} is converted into H{2}CO{3}, and thence
+into a carbonate.
+
+~Salts of carbonic acid,--carbonates.~ The carbonates form a very important class of salts.
+They are found in large quantities in nature, and are often used in chemical processes. Only
+the carbonates of sodium, potassium, and ammonium are soluble, and these can be made by the
+action of carbon dioxide on solutions of the bases, as has just been explained.
+
+The insoluble carbonates are formed as precipitates when soluble salts are treated with a solution
+of a soluble carbonate. Thus the insoluble calcium carbonate can be made by bringing together
+solutions of calcium chloride and sodium carbonate:
+
+    CaCl{2} + Na{2}CO{3} = CaCO{3} + 2NaCl.
+
+Most of the carbonates are decomposed by heat, yielding an oxide of the metal and carbon dioxide.
+Thus lime (calcium oxide) is made by strongly heating calcium carbonate:
+
+    CaCO{3} = CaO + CO{2}.
+
+~Acid carbonates.~ Like all acids containing two acid hydrogen atoms, carbonic acid can form
+both normal and acid salts. The acid carbonates are made by treating a normal carbonate with
+an excess of carbonic acid. With few exceptions they are very unstable, heat decomposing them
+even when in solution.
+
+~Action of carbon dioxide on calcium hydroxide.~ If carbon dioxide is passed into clear lime
+water, calcium carbonate is at first precipitated:
+
+    H{2}O + CO{2} = H{2}CO{3},
+
+    Ca(OH){2} + H{2}CO{3} = CaCO{3} + 2H{2}O.
+
+Advantage is taken of this reaction in testing for the presence of carbon dioxide, as already
+explained in the chapter on the atmosphere. If the current of carbon dioxide is continued,
+the precipitate soon dissolves, because the excess of carbonic acid forms calcium acid carbonate
+which is soluble:
+
+    CaCO{3} + H{2}CO{3} = Ca(HCO{3}){2}.
+
+If now the solution is heated, the acid carbonate is decomposed and calcium carbonate once
+more precipitated:
+
+    Ca(HCO{3}){2} = CaCO{3} + H{2}CO{3}.
+
+~Carbon monoxide (CO).~ Carbon monoxide can be made in a number of ways, the most important
+of which are the three following:
+
+1. By the partial oxidation of carbon. If a slow current of air is conducted over highly heated
+carbon, the monoxide is formed, thus:
+
+    C + O = CO
+
+It is therefore often formed in stoves when the air draught is insufficient. Water gas, which
+contains large amounts of carbon monoxide, is made by partially oxidizing carbon with steam:
+
+    C + H{2}O = CO + 2H.
+
+2. By the partial reduction of carbon dioxide. When carbon dioxide is conducted over highly
+heated carbon it is reduced to carbon monoxide by the excess of carbon:
+
+    CO{2} + C = 2CO.
+
+When coal is burning in a stove or grate carbon dioxide is at first formed in the free supply
+of air, but as the hot gas rises through the glowing coal it is reduced to carbon monoxide.
+When the carbon monoxide reaches the free air above the coal it takes up oxygen to form carbon
+dioxide, burning with the blue flame so familiar above a bed of coals, especially in the case
+of hard coals.
+
+3. By the decomposition of oxalic acid. In the laboratory carbon monoxide is usually prepared
+by the action of concentrated sulphuric acid upon oxalic acid. The latter substance has the
+formula C{2}H{2}O{4}. The sulphuric acid, owing to its affinity for water, decomposes the oxalic
+acid, as represented in the equation
+
+    C{2}H{2}O{4} + (H{2}SO{4}) = (H{2}SO{4}) + H{2}O + CO{2} + CO.
+
+~Properties.~ Carbon monoxide is a light, colorless, almost odorless gas, very difficult to
+liquefy. Chemically it is very active, combining directly with a great many substances. It
+has a great affinity for oxygen and is therefore combustible and a good reducing agent. Thus,
+if carbon monoxide is passed over hot copper oxide, the copper is reduced to the metallic state:
+
+    CuO + CO = Cu + CO{2}.
+
+When inhaled it combines with the red coloring matter of the blood and in this way prevents
+the absorption of oxygen, so that even a small quantity of the gas may prove fatal.
+
+     ~The reducing power of carbon monoxide.~ Fig. 61 illustrates a
+     method of showing the reducing power of carbon monoxide. The
+     gas is generated by gently heating 7 or 8 g. of oxalic acid
+     with 25 cc. of concentrated sulphuric acid in a 200 cc. flask
+     A. The bottle B contains a solution of sodium hydroxide,
+     which removes the carbon dioxide formed along with the
+     monoxide. C contains a solution of calcium hydroxide to show
+     that the carbon dioxide is completely removed. E is a
+     hard-glass tube containing 1 or 2 g. of copper oxide, which is
+     heated by a burner. The black copper oxide is reduced to
+     reddish metallic copper by the carbon monoxide, which is
+     thereby changed to carbon dioxide. The presence of the carbon
+     dioxide is shown by the precipitate in the calcium hydroxide
+     solution in D. Any unchanged carbon monoxide is collected
+     over water in F.
+
+~Carbon disulphide~ (CS{2}). Just as carbon combines with oxygen to form carbon dioxide, so
+it combines with sulphur to form carbon disulphide (CS{2}). This compound has been described
+in the chapter on sulphur.
+
+~Hydrocyanic acid~ (prussic acid)(HCN). Under the proper conditions carbon unites with nitrogen
+and hydrogen to form the acid HCN, called hydrocyanic acid. It is a weak, volatile acid, and
+is therefore easily prepared by treating its salts with sulphuric acid:
+
+    KCN + H{2}SO{4} = KHSO{4} + HCN.
+
+It is most familiar as a gas, though it condenses to a colorless liquid boiling at 26°. It
+has a peculiar odor, suggesting bitter almonds, and is extremely poisonous either when inhaled
+or when taken into the stomach. A single drop may cause death. It dissolves readily in water,
+its solution being commonly called prussic acid.
+
+The salts of hydrocyanic acid are called cyanides, the cyanides of sodium and potassium being
+the best known. These are white solids and are extremely poisonous.
+
+~Solutions of potassium cyanide are alkaline.~ A solution of potassium cyanide turns red litmus
+blue, and must therefore contain hydroxyl ions. The presence of these ions is accounted for
+in the following way.
+
+Although water is so little dissociated into its ions H^{+} and OH^{-} that for most purposes
+we may neglect the dissociation, it is nevertheless measurably dissociated. Hydrocyanic acid
+is one of the weakest of acids, and dissociates to an extremely slight extent. When a cyanide
+such as potassium cyanide dissolves it freely dissociates, and the CN^{-} ions must come to
+an equilibrium with the H^{+} ions derived from the water:
+
+    H^{+} + CN^{-} <--> HCN.
+
+The result of this equilibrium is that quite a number of H^{+} ions from the water are converted
+into undissociated HCN molecules. But for every H^{+} ion so removed an OH^{-} ion remains
+free, and this will give the solution alkaline properties.
+
+EXERCISES
+
+1. How can you prove that the composition of the different allotropic forms of carbon is the same?
+
+2. Are lampblack and bone black allotropic forms of carbon? Will equal amounts of heat be liberated
+in the combustion of 1 g. of each?
+
+3. How could you judge of the relative purity of different forms of carbon?
+
+4. Apart from its color, why should carbon be useful in the preparation of inks and paints?
+
+5. Could asbestos fibers be used to replace the wire in a safety lamp?
+
+6. Why do most acids decompose carbonates?
+
+7. What effect would doubling the pressure have upon the solubility of carbon dioxide in water?
+
+8. What compound would be formed by passing carbon dioxide into a solution of ammonium hydroxide?
+Write the equation.
+
+9. Write equations for the preparation of K{2}CO{3}; of BaCO{3}; of MgCO{3}.
+
+10. In what respects are carbonic and sulphurous acids similar?
+
+11. Give three reasons why the reaction which takes place when a solution of calcium acid carbonate
+is heated, completes itself.
+
+12. How could you distinguish between carbonates and sulphites?
+
+13. How could you distinguish between oxygen, hydrogen, nitrogen, nitrous oxide, and carbon
+dioxide?
+
+14. Could a solution of sodium hydroxide be substituted for the solution of calcium hydroxide
+in testing for carbon dioxide?
+
+15. What weight of sodium hydroxide is necessary to neutralize the carbonic acid formed by
+the action of hydrochloric acid on 100 g. of calcium carbonate?
+
+16. What weight of calcium carbonate would be necessary to prepare sufficient carbon dioxide
+to saturate 10 l. of water at 15° and under ordinary pressure?
+
+17. On the supposition that calcium carbide costs 12 cents a kilogram, what would be the cost
+of an amount sufficient to generate 100 l. of acetylene measured at 20° and 740 mm.?
+
+18. How would the volume of a definite amount of carbon monoxide compare with the volume of
+carbon dioxide formed by its combustion, the measurements being made under the same conditions?
+
+CHAPTER XVIII
+
+FLAMES,--ILLUMINANTS
+
+~Conditions necessary for flames.~ It has been seen that when two substances unite chemically,
+with the production of light and heat, the act of union is called combustion. When one of the
+substances undergoing combustion remains solid at the temperature occasioned by the combustion,
+light may be given off, but there is no flame. Thus iron wire burning in oxygen throws off
+a shower of sparks and is brilliantly incandescent, but no flame is seen. When, however, both
+of the substances are gases or vapors at the temperature reached in the combustion, the act
+of union is accompanied by a flame.
+
+~Flames from burning liquids or solids.~ Many substances which are liquids or solids at ordinary
+temperatures burn with a flame because the heat of combustion vaporizes them slowly, and the
+flame is due to the union of this vapor with the gas supporting the combustion.
+
+~Supporter of combustion.~ That gas which surrounds the flame and constitutes the atmosphere
+in which the combustion occurs is said to support the combustion. The other gas which issues
+into this atmosphere is said to be the combustible gas. Thus, in the ordinary combustion of
+coal gas in the air the coal gas is said to be combustible, while the air is regarded as the
+supporter of combustion. These terms are entirely relative, however, for a jet of air issuing
+into an atmosphere of coal gas will burn when ignited, the coal gas supporting the combustion.
+Ordinarily, when we say that a gas is combustible we mean that it is combustible in an atmosphere
+of air.
+
+~Either gas may be the supporter of combustion.~ That the terms combustible and supporter of
+combustion are merely relative may be shown in the following way: A lamp chimney A is fitted
+with a cork and glass tubes, as shown in Fig. 62. The tube C should have a diameter of from
+12 to 15 mm. A thin sheet of asbestos in which is cut a circular opening about 2 cm. in diameter
+is placed over the top of the chimney. The opening in the asbestos is closed with the palm
+of the hand, and gas is admitted to the chimney through the tube B. The air in the chimney
+is soon expelled through the tube C, and the gas itself is then lighted at the lower end of
+this tube. The hand is now removed from the opening in the asbestos, when the flame at the
+end of the tube at once rises and appears at the end within the chimney, as shown in the figure.
+The excess of coal gas now escapes from the opening in the asbestos and may be lighted. The
+flame at the top of the asbestos board is due to the combustion of coal gas in air, while the
+flame within the chimney is due to the combustion of air in coal gas, the air being drawn up
+through the tube by the escaping gas.
+
+~Appearance of flames.~ The flame caused by the union of hydrogen and oxygen is almost colorless
+and invisible. Chlorine and hydrogen combine with a pale violet flame, carbon monoxide burns
+in oxygen with a blue flame, while ammonia burns with a deep yellow flame. The color and appearance
+of flames are therefore often quite characteristic of the particular combustion which occasions
+them.
+
+~Structure of flames.~ When the gas undergoing combustion issues from a round opening into
+an atmosphere of the gas supporting combustion, as is the case with the burning Bunsen burner
+(Fig. 63), the flame is generally conical in outline. It consists of several distinct cones,
+one within the other, the boundary between them being marked by differences of color or luminosity.
+In the simplest flame, of which hydrogen burning in oxygen is a good example, these cones are
+two in number,--an inner one, formed by unburned gas, and an outer one, usually more or less
+luminous, consisting of the combining gases. This outer one is in turn surrounded by a third
+envelope of the products of combustion; this envelope is sometimes invisible, as in the present
+case, but is sometimes faintly luminous. The lower part of the inner cone of the flame is quite
+cool and consists of unburned gas. Toward the top of the inner cone the gas has become heated
+to a high temperature by the burning envelope surrounding it. On reaching the supporter of
+combustion on the outside it is far above its kindling temperature, and combustion follows
+with the evolution of much heat. The region of combustion just outside the inner cone is therefore
+the hottest part of the flame.
+
+~Oxidizing and reducing flames.~ Since the tip of the outside cone consists of very hot products
+of combustion mixed with oxygen from the air, a substance capable of oxidation placed in this
+part of the flame becomes very hot and is easily oxidized. The oxygen with which it combines
+comes, of course, from the atmosphere, and not from the products of combustion. This outer
+tip of the flame is called the oxidizing flame.
+
+At the tip of the inner cone the conditions are quite different. This region consists of a
+highly heated combustible gas, which has not yet reached a supply of oxygen.
+
+If a substance rich in oxygen, such as a metallic oxide, is placed in this region of the flame,
+the heated gases combine with its oxygen and the substance is reduced. This part of the flame
+is called the reducing flame. These flames are used in testing certain substances, especially
+minerals. For this purpose they are produced by blowing into a small luminous Bunsen flame
+from one side through a blowpipe. This is a tube of the shape shown in Fig. 64. The flame is
+directed in any desired way and has the oxidizing and reducing regions very clearly marked
+(Fig. 65). It is non-luminous from the same causes which render the open Bunsen burner flame
+non-luminous, the gases from the lungs serving to furnish oxygen and to dilute the combustible gas.
+
+~Luminosity of flames.~ The luminosity of flames is due to a number of distinct causes, and
+may therefore be increased or diminished in several ways.
+
+1. Presence of solid matter. The most obvious of these causes is the presence in the flame
+of incandescent solid matter. Thus chalk dust sifted into a non-luminous flame renders it luminous.
+When hydrocarbons form a part of the combustible gas, as they do in nearly all illuminating
+gases and oils, some carbon is usually set free in the process of combustion. This is made
+very hot by the flame and becomes incandescent, giving out light. In a well-regulated flame
+it is afterward burned up, but when the supply of oxygen is insufficient it escapes from the
+flame as lampblack or soot. That it is temporarily present in a well-burning luminous flame
+may be demonstrated by holding a cold object, such as a small evaporating dish, in the flame
+for a few seconds. This cold object cools the carbon below its kindling temperature, and it
+is deposited on the object as soot.
+
+2. Pressure. A second factor in the luminosity of flames is the pressure under which the gases
+are burning. Under increased pressure there is more matter in a given volume of a gas, and
+the chemical action is more energetic than when the gases are rarefied. Consequently there
+is more heat and light. A candle burning on a high mountain gives less light than when it burns
+at the sea level.
+
+If the gas is diluted with a non-combustible gas, the effect is the same as if it is rarefied,
+for under these conditions there is less combustible gas in a given volume.
+
+3. Temperature. The luminosity also depends upon the temperature attained in the combustion.
+In general the hotter the flame the greater the luminosity; hence cooling the gases before
+combustion diminishes the luminosity of the flame they will make, because it diminishes the
+temperature attained in the combustion. Thus the luminosity of the Bunsen flame is largely
+diminished by the air drawn up with the gas. This is due in part to the fact that the burning
+gas is diluted and cooled by the air drawn in. The oxygen thus introduced into the flame also
+causes the combustion of the hot particles of carbon which would otherwise tend to make the
+flame luminous.
+
+~Illuminating and fuel gases.~ A number of mixtures of combustible gases, consisting largely
+of carbon compounds and hydrogen, find extensive use for the production of light and heat.
+The three chief varieties are coal gas, water gas, and natural gas. The use of acetylene gas
+has already been referred to.
+
+~Coal gas.~ Coal gas is made by heating bituminous coal in large retorts out of contact with
+the air. Soft or bituminous coal contains, in addition to large amounts of carbon, considerable
+quantities of compounds of hydrogen, oxygen, nitrogen, and sulphur. When distilled the nitrogen
+is liberated partly in the form of ammonia and cyanides and partly as free nitrogen gas; the
+sulphur is converted into hydrogen sulphide, carbon disulphide, and oxides of sulphur; the
+oxygen into water and oxides of carbon. The remaining hydrogen is set free partly as hydrogen
+and partly in combination with carbon in the form of hydrocarbons. The most important of these
+is methane, with smaller quantities of many others, some of which are liquids or solids at
+ordinary temperatures. The great bulk of the carbon remains behind as coke and retort carbon.
+
+~The manufacture of coal gas.~ In the manufacture of coal gas it is necessary to separate from
+the volatile constituents formed by the heating of the coal all those substances which are
+either solid or liquid at ordinary temperature, since these would clog the gas pipes. Certain
+gaseous constituents, such as hydrogen sulphide and ammonia, must also be removed. The method
+used to accomplish this is shown in Fig. 66. The coal is heated in air-tight retorts illustrated
+by A. The volatile products escape through the pipe X and bubble into the tarry liquid in the
+large pipe B, known as the hydraulic main, which runs at right angles to the retorts. Here
+is deposited the greater portion of the solid and liquid products, forming a tarry mass known
+as coal tar. Much of the ammonia also remains dissolved in this liquid. The partially purified
+gas then passes into the pipes C, which serve to cool it and further remove the solid and liquid
+matter. The gas then passes into D, which is filled with coke over which a jet of water is
+sprayed. The water still further cools the gas and at the same time partially removes such
+gaseous products as hydrogen sulphide and ammonia, which are soluble in water. In E the gas
+passes over some material such as lime, which removes the last portions of the sulphur compounds
+as well as much of the carbon dioxide present. From E the gas passes into the large gas holder
+F, from which it is distributed through pipes to the places where it is burned.
+
+     One ton of good gas coal yields approximately 10,000 cu. ft. of
+     gas, 1400 lb. of coke, 120 lb. of tar, and 20 gal. of
+     ammoniacal liquor.
+
+     Not only is the ammonia obtained in the manufacture of the gas
+     of great importance, but the coal tar also serves as the source
+     of many very useful substances, as will be explained in Chapter
+     XXXII.
+
+~Water gas.~ Water gas is essentially a mixture of carbon monoxide and hydrogen. It is made
+by passing steam over very hot anthracite coal, when the reaction shown in the following equation
+takes place:
+
+    C + H{2}O = CO + 2H.
+
+When required merely to produce heat the gas is at once ready for use. When made for illuminating
+purposes it must be enriched, that is, illuminants must be added, since both carbon monoxide
+and hydrogen burn with non-luminous flames. This is accomplished by passing it into heaters
+containing highly heated petroleum oils. The gas takes up hydrocarbon gases formed in the decomposition
+of the petroleum oils, which make it burn with a luminous flame.
+
+Water gas is very effective as a fuel, since both carbon monoxide and hydrogen burn with very
+hot flames. It has little odor and is very poisonous. Its use is therefore attended with some
+risk, since leaks in pipes are very likely to escape notice.
+
+~Natural gas.~ This substance, so abundant in many localities, varies much in composition,
+but is composed principally of methane. When used for lighting purposes it is usually burned
+in a burner resembling an open Bunsen, the illumination being furnished by an incandescent
+mantle. This is the case in the familiar Welsbach burner. Contrary to statements frequently
+made, natural gas contains no free hydrogen.
+
+TABLE SHOWING COMPOSITION OF GASES
+
+=====================+================+========+========+==========
+                     |  PENNSYLVANIA  |  COAL  | WATER  | ENRICHED
+                     |    NATURAL     |   GAS  |  GAS   |  WATER
+                     |      GAS       |        |        |   GAS
+---------------------+----------------+--------+--------+----------
+Hydrogen             |                |  41.3  | 52.88  |  30.00
+Methane              |    90.64       |  43.6  |  2.16  |  24.00
+Illuminants          |                |   3.9  |        |  12.05
+Carbon monoxide      |                |   6.4  | 36.80  |  29.00
+Carbon dioxide       |     0.30       |   2.0  |  3.47  |   0.30
+Nitrogen             |     9.06       |   1.2  |  4.69  |   2.50
+Oxygen               |                |   0.3  |        |   1.50
+Hydrocarbon vapors   |                |   1.5  |        |   1.50
+=====================+================+========+========+==========
+
+     These are analyses of actual samples, and may be taken as about
+     the average for the various kinds of gases. Any one of these
+     may vary considerably. The nitrogen and oxygen in most cases is
+     due to a slight admixture of air which is difficult to exclude
+     entirely in the manufacture and handling of gases.
+
+~Fuels.~ A variety of substances are used as fuels, the most important of them being wood,
+coal, and the various gases mentioned above. Wood consists mainly of compounds of carbon, hydrogen,
+and oxygen. The composition of coal and the fuel gases has been given. Since these fuels are
+composed principally of carbon and hydrogen or their compounds, the chief products of combustion
+are carbon dioxide and water. The practice of heating rooms with portable gas or oil stoves
+with no provision for removing the products of combustion is to be condemned, since the carbon
+dioxide is generated in sufficient quantities to render the air unfit for breathing. Rooms
+so heated also become very damp from the large amount of water vapor formed in the combustion,
+and which in cold weather condenses on the window glass, causing the glass to "sweat." Both
+coal and wood contain a certain amount of mineral substances which constitute the ashes.
+
+~The electric furnace.~ In recent years electric furnaces have come into wide use in operations
+requiring a very high temperature. Temperatures as high as 3500° can be easily reached, whereas
+the hottest oxyhydrogen flame is not much above 2000°. These furnaces are constructed on one
+of two general principles.
+
+1. Arc furnaces. In the one type the source of heat is an electric arc formed between carbon
+electrodes separated a little from each other, as shown in Fig. 67. The substance to be heated
+is placed in a vessel, usually a graphite crucible, just below the arc. The electrodes and
+crucible are surrounded by materials which fuse with great difficulty, such as magnesium oxide,
+the walls of the furnace being so shaped as to reflect the heat downwards upon the contents
+of the crucible.
+
+2. Resistance furnaces. In the other type of furnace the heat is generated by the resistance
+offered to the current in its passage through the furnace. In its simplest form it may be represented
+by Fig. 68. The furnace is merely a rectangular box built up of loose bricks. The electrodes
+E, each consisting of a bundle of carbon rods, are introduced through the sides of the furnace.
+The materials to be heated, C, are filled into the furnace up to the electrodes, and a layer
+of broken coke is arranged so as to extend from one electrode to the other. More of the charge
+is then placed on top of the coke. In passing through the broken coke the electrical current
+encounters great resistance. This generates great heat, and the charge surrounding the coke
+is brought to a very high temperature. The advantage of this type of furnace is that the temperature
+can be regulated to any desired intensity.
+
+EXERCISES
+
+1. Why does charcoal usually burn with no flame? How do you account for the flame sometimes
+observed when it burns?
+
+2. How do you account for the fact that a candle burns with a flame?
+
+3. What two properties must the mantle used in the Welsbach lamp possess?
+
+4. (a) In what respects does the use of the Welsbach mantle resemble that of lime in the calcium
+light? (b) If the mantle were made of carbon, would it serve the same purpose?
+
+5. Would anthracite coal be suitable for the manufacture of coal gas?
+
+6. How could you prove the formation of carbon dioxide and water in the combustion of illuminating
+gases?
+
+7. Suggest a probable way in which natural gas has been formed.
+
+8. Coal frequently contains a sulphide of iron. (a) What two sulphur compounds are likely to
+be formed when gas is made from such coal? (b) Suggest some suitable method for the removal
+of these compounds.
+
+9. Why does the use of the bellows on the blacksmith's forge cause a more intense heat?
+
+10. What volume of oxygen is necessary to burn 100 l. of marsh gas and what volume of carbon
+dioxide would be formed, all of the gases being measured under standard conditions?
+
+11. Suppose a cubic meter of Pennsylvania natural gas, measured under standard conditions,
+were to be burned. How much water by weight would result?
+
+CHAPTER XIX
+
+MOLECULAR WEIGHTS, ATOMIC WEIGHTS, FORMULAS
+
+~Introduction.~ In the chapter on The Atomic Theory, it was shown that if it were true that
+two elements uniting to form a compound always combined in the ratio of one atom of one element
+to one atom of the other element, it would be a very easy matter to decide upon figures which
+would represent the relative weights of the different atoms. It would only be necessary to
+select some one element as a standard and determine the weight of every element which combines
+with a definite weight (say 1 g.) of the standard element. The figures so obtained would evidently
+represent the relative weights of the atoms.
+
+But the law of multiple proportion at once reminds us that two elements may unite in several
+proportions; and there is no simple way to determine the number of atoms present in the molecule
+of any compound. Consequently the problem of deciding upon the relative atomic weights is not
+an easy one. To the solution of this problem we must now turn.
+
+~Dalton's method of determining atomic weights.~ When Dalton first advanced the atomic theory
+he attempted to solve this problem by very simple methods. He thought that when only one compound
+of two elements is known it is reasonable to suppose that it contains one atom of each element.
+He therefore gave the formula HO to water, and HN to ammonia. When more than two compounds
+were known he assumed that the most familiar or the most stable one had the simple formula.
+He then determined the atomic weight as explained above. The results he obtained were contradictory
+and very far from satisfactory, and it was soon seen that some other method, resting on much
+more scientific grounds, must be found to decide what compounds, if any, have a single atom
+of each element present.
+
+~Determination of atomic weights.~ Three distinct steps are involved in the determination of
+the atomic weight of an element: (1) determination of the equivalent, (2) determination of
+molecular weights of its compounds, and (3) deduction of the exact atomic weight from the equivalent
+and molecular weights.
+
+~1. Determination of the equivalent.~ By the equivalent of an element is meant the weight of
+the element which will combine with a fixed weight of some other element chosen as a standard.
+It has already been explained that oxygen has been selected as the standard element for atomic
+weights, with a weight of 16. This same standard will serve very well as a standard for equivalents.
+The equivalent of an element is the weight of the element which will combine with 16 g. of
+oxygen. Thus 16 g. of oxygen combines with 16.03 g. of sulphur, 65.4 g. of zinc, 215.86 g.
+of silver, 70.9 g. of chlorine. These figures, therefore, represent the equivalent weights
+of these elements.
+
+~Relation of atomic weights to equivalents.~ According to the atomic theory combination always
+takes place between whole numbers of atoms. Thus one atom unites with one other, or with two
+or three; or two atoms may unite with three, or three with five, and so on.
+
+When oxygen combines with zinc the combination must be between definite numbers of the two
+kinds of atoms. Experiment shows that these two elements combine in the ratio of 16 g. of oxygen
+to 65.4 g. of zinc. If one atom of oxygen combines with one atom of zinc, then this ratio must
+be the ratio between the weights of the two atoms. If one atom of oxygen combines with two
+atoms of zinc, then the ratio between the weights of the two atoms will be 16: 32.7. If two
+atoms of oxygen combine with one atom of zinc, the ratio by weight between the two atoms will
+be 8: 65.4. It is evident, therefore, that the real atomic weight of an element must be some
+multiple or submultiple of the equivalent; in other words, the equivalent multiplied by 1/2,
+1, 2, or 3 will give the atomic weight.
+
+~Combining weights.~ A very interesting relation holds good between the equivalents of the
+various elements. We have just seen that the figures 16.03, 65.4, 215.86, and 70.9 are the
+equivalents respectively of sulphur, zinc, silver, and chlorine. These same figures represent
+the ratios by weight in which these elements combine among themselves. Thus 215.86 g. of silver
+combine with 70.9 g. of chlorine and with 2 × 16.03 g. of sulphur. 65.4 g. of zinc combine
+with 70.9 g. of chlorine and 2 × 16.03 g. of sulphur.
+
+By taking the equivalent or some multiple of it a value can be obtained for each element which
+will represent its combining value, and for this reason is called its combining weight. It
+is important to notice that the fact that a combining weight can be obtained for each element
+is not a part of a theory, but is the direct result of experiment.
+
+~Elements with more than one equivalent.~ It will be remembered that oxygen combines with hydrogen
+in two ratios. In one case 16 g. of oxygen combine with 2.016 g. of hydrogen to form water;
+in the other 16 g. of oxygen combine with 1.008 g. of hydrogen to form hydrogen dioxide. The
+equivalents of hydrogen are therefore 2.016 and 1.008. Barium combines with oxygen in two proportions:
+in barium oxide the proportion is 16 g. of oxygen to 137.4 g. of barium; in barium dioxide
+the proportion is 16 g. of oxygen to 68.7 g. of barium.
+
+In each case one equivalent is a simple multiple of the other, so the fact that there may be
+two equivalents does not add to the uncertainty. All we knew before was that the true atomic
+weight is some multiple of the equivalent.
+
+~2. The determination of molecular weights.~ To decide the question as to which multiple of
+the equivalent correctly represents the atomic weight of an element, it has been found necessary
+to devise a method of determining the molecular weights of compounds containing the element
+in question. Since the molecular weight of a compound is merely the sum of the weights of all
+the atoms present in it, it would seem to be impossible to determine the molecular weight of
+a compound without first knowing the atomic weights of the constituent atoms, and how many
+atoms of each element are present in the molecule. But certain facts have been discovered which
+suggest a way in which this can be done.
+

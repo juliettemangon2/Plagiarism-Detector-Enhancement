@@ -1,0 +1,251 @@
+﻿Los Angeles-      Southern San Bernardino    San Andreas    8.3             2-5           High
+
+San Francisco     Northern Bay Area          San Andreas    8.3             1             Moderate
+
+San Francisco Bay Area          Hayward        7.4             1             Moderate
+
+Los Angeles       Newport-                                     Moderate
+                  Inglewood      7.5             0.1           -Low
+
+San Diego         Rose Canyon    7.0             0.01          Low
+
+Riverside                                                      Moderate- San Bernardino   
+Cucamonga      6.8             0.1           Low
+
+Los Angeles       Santa Monica   6.7             0.01          Low
+-------------------------------------------------------------------------
+   [1] This is the estimated largest magnitude earthquake expected
+   at a reasonable level of probability. The main shock can be
+   expected to be followed by large aftershocks over a period of
+   weeks or longer. Each large aftershock would be capable of
+   producing additional significant damage and hampering disaster
+   assistance operations.
+-------------------------------------------------------------------------
+
+These earthquake scenarios represent the largest magnitude events estimated on the basis of
+a variety of geologic assumptions. The appropriateness of these assumptions depends on the
+intent of the analysis and the state of geologic knowledge. Therefore, the resulting estimates
+may not be appropriate for other purposes, such as the development of seismic design criteria
+for a specific site. The development of such criteria commonly requires detailed analyses of
+the site and its immediate geologic environment beyond the scope of this report. Consequently,
+detailed site analyses may require modification of the conclusions reached in this report,
+particularly fault systems other than the San Andreas and Hayward faults.
+
+B. GEOLOGIC EVIDENCE
+
+Some of the possible earthquakes listed are repeat occurrences of historical events, others
+are not, but geologic evidence indicates that earthquakes occurred on these faults before settlement
+of the region. Based on available data, the postulated earthquake magnitudes would be the largest
+events that could be expected at a reasonable level of probability. They represent a selection
+of events useful for planning purposes, but are by no means the only such events likely to
+occur either on these or other fault systems.
+
+The historic record of seismicity in California is too short to determine confidently how often
+large earthquakes reoccur. Information on past earthquakes must be gleaned from the geologic
+record and therefore, presents a picture of past seismicity that is incomplete and not yet
+fully deciphered. Current knowledge about the recurrence of large earthquakes on specific faults
+is rudimentary. The probabilities of occurrence shown above are order-of-magnitude estimates
+and subject to considerable uncertainty, especially for the less probable events.
+
+C. DESCRIPTION OF EVENTS
+
+Following are brief descriptions of postulated events. Figure 1 gives their geographic location.
+
+   1. Los Angeles-San Bernardino/Southern San Andreas Fault
+      (Magnitude 8.3)
+
+      For the past several thousand years, great earthquakes have been
+occurring over a 300 km length of the San Andreas fault approximately
+every 100 to 200 years, 140 years on the average. The last such event
+took place in 1857. The fault skirts the
+edge of the Los Angeles-San Bernardino metropolitan region, thus most
+of the urbanized area lies further than 20 miles from the source of
+strong shaking. Because of the distance, shaking would be more
+hazardous for large structures than for one- to two-story houses. The
+long duration of shaking could trigger numerous slides on steep
+slopes and cause liquefaction in isolated areas.
+
+   2. San Francisco Bay Area/Northern San Andreas Fault
+      (Magnitude 8.3)
+
+      A repeat occurrence of the 1906 earthquake, in which the San
+Andreas fault broke over 400 km of its length, would cause severe
+damage to structures throughout the Bay Area and adjacent regions. The
+extensive urban development on lowlands and landfill around San
+Francisco Bay would be especially hard hit and liquefaction in many of
+these areas would intensify the damage to structures erected on them.
+
+   3. San Francisco Bay Area/Hayward Fault (Magnitude 7.4)
+
+      The last large events to occur on this fault were in 1836 and
+1868. Should a major earthquake occur, severe ground shaking and
+liquefaction is expected to cause damage throughout the entire
+circum-bay area nearly as severe as that resulting from a 1906-type
+earthquake on the San Andreas fault. This earthquake would be of
+particular concern because of the many dams located along or near the
+fault.
+
+   4. Los Angeles/Newport-Inglewood Fault (Magnitude 7.5)
+
+      This earthquake would be a serious threat to the nearby,
+densely-populated areas of Los Angeles. Shaking would cause extensive
+structural damage throughout the Los Angeles Basin and liquefaction
+near the coast would add still more destruction.
+
+   5. San Diego Area/Rose Canyon Fault (Magnitude 7.0)
+
+      This fault--a segment of an active zone of faults extending from
+the Newport-Inglewood fault to Northern Mexico--would present the
+greatest earthquake risk to the San Diego area. Severe damage due to
+shaking and liquefaction could be expected in the coastal areas.
+Because of unstable sea-bed sediments in the offshore area, local
+tsunamis (tidal waves) are possible.
+
+   6. Los Angeles/Santa Monica Fault (Magnitude 6.7 and 7.0) and
+      Riverside/San Bernardino/Cucamonga Fault (Magnitude 6.8)
+
+      These faults are part of a system of east-west tending faults
+bordering the northern edge of the Los Angeles basin. This fault
+system caused the 1971 San Fernando earthquake and is geologically
+similar to the system that generated the large 1952 Kern County
+earthquake. Although smaller in magnitude than the earthquakes
+previously described, these postulated events are potentially quite
+dangerous because of their vicinity to high population densities in
+Southern California.
+
+D. EARTHQUAKE EFFECTS
+
+Detailed maps were prepared for each event showing qualitative estimates of ground shaking
+intensity resulting from each earthquake. These estimates are indicative of the general severity
+of damage to ordinary structures. Empirical formulae providing quantitative estimates of peak
+ground motion at various distances from the postulated earthquakes were developed for use in
+the effects of severe ground shaking on individual structures or critical facilities. No estimates
+were made of localized effects, such as ground failures related to liquefaction (the complete
+failure or loss of strength, of a saturated soil due to shaking), landslides, and fault rupture.
+These effects can be far more destructive than ground shaking alone.
+
+CHAPTER III
+
+ASSESSMENT OF LOSSES FOR SELECTED POTENTIAL CALIFORNIA EARTHQUAKES
+
+A. INTRODUCTION
+
+As part of a program that FEMA and its predecessor agencies have had underway for a number
+of years, property loss and casualty estimates were prepared in 1972 and 1973 for a number
+of potential maximum credible earthquakes that could impact on the San Francisco and the Los
+Angeles areas--North San Andreas (Richter magnitude 8.3), Hayward (Richter magnitude 7.4),
+South San Andreas (Richter magnitude 8.3), and Newport-Inglewood (Richter magnitude 7.5). These
+estimates have now been updated as part of the current assessment.
+
+Estimates of property loss and casualties are based on the expected type and distribution of
+damage for each postulated earthquake as determined by the size and location of the earthquake
+and the distribution and character of the buildings and structures within the affected area.
+Methodologies for estimates of this type are approximate at best. Consequently, the figures
+shown below may vary upward or downward by as much as a factor of two or three. This degree
+of uncertainty does not affect the validity of the conclusions of this report, however, since
+there are greater uncertainties in all other aspects of emergency response planning.
+
+B. PROPERTY LOSS ESTIMATES
+
+The property loss estimates were obtained by first estimating the total replacement dollar
+value of buildings and their contents, multiplying them by percentage loss factors (inferred
+from the anticipated strength of shaking in each county), and then summing to obtain the aggregate
+loss. Included in the estimates are private as well as Federal, State, and local government
+buildings, insured and uninsured. Excluded from consideration is the replacement value of transportation
+and communication facilities, dams, utility installations, and special purpose structures (e.g.,
+convention centers and sports arenas). Also excluded is the potential damage resulting from
+a major dam failure or the indirect dollar losses due to such factors as higher unemployment,
+lower tax revenue, reduced productivity, and stoppage of industrial production. Experience
+indicates that indirect losses could be approximately equal to the dollar amounts lost in buildings
+and their contents. The property loss estimates for four postulated earthquakes on the faults
+listed below are as follows.
+
+TABLE 2
+
+ESTIMATES OF PROPERTY LOSSES FOR REPRESENTATIVE EARTHQUAKES[1]
+
+--------------------------------------------------------------------------
+                            Loss to          Loss of
+                            Building         Contents         Total Loss
+Fault                   ($ in Billions)  ($ in Billions)  ($ in Billions)
+--------------------------------------------------------------------------
+Northern San Andreas          25               13               38
+Hayward                       29               15               44
+Newport-Inglewood             45               24               69
+Southern San Andreas          11                6               17
+----------
+   [1] Uncertain by a possible factor of two to three. Consequently, the number of fatalities will be strongly
+influenced by the number of persons within high-occupancy buildings,
+capable of collapsing, or by failure of other critical facilities such
+as dams. Additional imponderables are the degree of saturation of the
+ground at the time of the event and the possibility of weather
+conditions conducive to the spread of fire. A conflagration such as
+occurred in the 1906 San Francisco earthquake, is not considered
+likely to occur in any of the analyzed events, however, because of
+improvements in fire resistance of construction and firefighting
+techniques. Nonetheless, numerous smaller fires must be anticipated in
+any of the analyzed events and a "Santa Ana type" wind could cause
+serious problems.
+
+An additional element of uncertainty in estimating casualties from earthquake stems from not
+knowing where most of the population will be at the time of the earthquake. In the early morning
+(i.e., 2:30 a.m.) most people are at home, by far the safest environment during a seismic emergency.
+At 2:00 in the afternoon, on the other hand, the majority of people are at their places of
+employment and therefore vulnerable to collapse of office buildings. Around 4:30 p.m. many
+more people are in the streets and thus subject to injury due to falling debris or failures
+of transportation systems. Consequently, depending on the time of day, wide variations in the
+number of casualties can be expected.
+
+Following are estimates of dead and injured (requiring hospitalization) for each of the four
+representative faults and for the three time periods just discussed.
+
+   [2] Injuries not requiring hospitalization are estimated to be
+   from 15 to 30 times the number of deaths.
+-------------------------------------------------------------------
+
+D. OVERVIEW OF OTHER TYPES OF DAMAGE
+
+For this assessment, estimates of damage to substantial numbers of different type facilities
+essential to the immediate response capability were updated. Earthquakes associated with the
+same four major fault systems identified earlier in this chapter were used as a basis for these
+estimates. The types of facilities analyzed included hospitals, medical supply storages, blood
+banks, and custodial care homes, together with their essential services and personnel resources.
+Although newer hospitals in California are being built according to substantially improved
+seismic safety standards and practices, older hospital facilities can be expected to be poorly
+resistant to earthquakes.
+
+Among residential buildings, single family homes are expected to suffer structural damage and
+loss of contents. Damage to multifamily dwellings--particularly older buildings--would, in
+all likelihood, be more extensive. Analysis of expected damage indicates that temporary housing
+for as many as 200,000 families might be needed--a requirement calling for careful planning
+and exceptional management skills.
+
+Schools are judged to be among the safest facilities exposed to the earthquakes. Since passage
+of the Field Act in 1933, after the Long Beach earthquake, school buildings in California have
+been continuously improved to withstand seismic hazards.
+
+As a result of continuing and substantial upgrading of design and construction practices in
+the past 10 years, dams and reservoirs can be expected to show an improved performance in an
+earthquake. Nonetheless, on a contingency basis, one dam failure might be assumed for each
+planning effort.
+
+Realizing the fact that 84 key communications facilities, earth stations, Department of Defense
+voice and data switches, commercial transoceanic cable heads, Federal Telecommunications System
+switches, and major direct distance dial switches are located within 55 miles of either Los
+Angeles or San Francisco, damage must be expected to occur. With this realization, priorities
+have been assigned to all critical circuits transiting the key facilities, based on established
+criteria of criticality of service continuity. National warning systems circuitry, command
+and control circuits, and circuits supporting diplomatic negotiations (of which a high concentration
+exists in California) are examples of those circuits carrying high-restoration priority.
+
+In the civil sector there would be 24 to 72 hours of minimal communications, with a possible
+blackout of telephonic communications in the area immediately following an earthquake. The
+commercial carriers would institute network control procedures to regain control of the situation
+as fast as possible.
+
+The impact on transportation facilities in any of the four hypothesized earthquakes could be
+massive. Since the magnitude and severity is unprecedented in recent years, conclusions regarding
+losses must be accepted as tentative. As in the case of hospitals, however, the lessons learned
+in earthquakes during the past 10 years are being incorporated in the design and construction
+of new facilities.
+

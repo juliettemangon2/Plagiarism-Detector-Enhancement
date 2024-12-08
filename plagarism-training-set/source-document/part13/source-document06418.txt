@@ -1,0 +1,531 @@
+﻿~Physical properties.~ Hydrochloric acid is a colorless gas which has an irritating effect
+when inhaled, and possesses a sour, biting taste, but no marked odor. It is heavier than air
+(density = 1.26) and is very soluble in water. Under standard conditions 1 volume of water
+dissolves about 500 volumes of the gas. On warming such a solution the gas escapes, until at
+the boiling point the solution contains about 20% by weight of HCl. Further boiling will not
+drive out any more acid, but the solution will distill with unchanged concentration. A more
+dilute solution than this will lose water on boiling until it has reached the same concentration,
+20%, and will then distill unchanged. Under high pressure the gas can be liquefied, 28 atmospheres
+being required at 0°. Under these conditions it forms a colorless liquid which is not very
+active chemically. It boils at -80° and solidifies at -113°. The solution of the gas in water
+is used almost entirely in the place of the gas itself, since it is not only far more convenient
+but also more active.
+
+~Chemical properties.~ The most important chemical properties of hydrochloric acid are the
+following:
+
+1. Action as an acid. In aqueous solution hydrochloric acid has very strong acid properties;
+indeed, it is one of the strongest acids. It acts upon oxides and hydroxides, converting them
+into salts:
+
+    NaOH + HCl = NaCl + H{2}O,
+    CuO + 2HCl = CuCl{2} + H{2}O.
+
+It acts upon many metals, forming chlorides and liberating hydrogen:
+
+    Zn + 2HCl = ZnCl{2} + 2H,
+    Al + 3HCl = AlCl{3} + 3H.
+
+Unlike nitric and sulphuric acids it has no oxidizing action, so that when it acts on metals
+hydrogen is always given off.
+
+2. Relation to combustion. Hydrochloric acid gas is not readily decomposed, and is therefore
+neither combustible nor a supporter of combustion.
+
+3. Action on oxidizing agents. Although hydrochloric acid is incombustible, it can be oxidized
+under some circumstances, in which case the hydrogen combines with oxygen, while the chlorine
+is set free. Thus, when a solution of hydrochloric acid acts upon manganese dioxide part of
+the chlorine is set free:
+
+    MnO{2} + 4HCl = MnCl{2} + 2H{2}O + 2Cl.
+
+~Aqua regia.~ It has been seen that when nitric acid acts as an oxidizing agent it usually
+decomposes, as represented in the equation
+
+    2HNO{3} = H{2}O + 2NO + 3O.
+
+The oxygen so set free may act on hydrochloric acid:
+
+    6HCl + 3O = 3H{2}O + 6Cl.
+
+The complete equation therefore is
+
+    2HNO{3} + 6HCl = 4H{2}O + 2NO + 6Cl.
+
+When concentrated nitric and hydrochloric acids are mixed this reaction goes on slowly, chlorine
+and some other substances not represented in the equation being formed. The mixture is known
+as aqua regia and is commonly prepared by adding one volume of nitric acid to three volumes
+of hydrochloric acid. It acts more powerfully upon metals and other substances than either
+of the acids separately, and owes its strength not to acid properties but to the action of
+the nascent chlorine which it liberates. Consequently, when it acts upon metals such as gold
+it converts them into chlorides, and the reaction can be represented by such equations as
+
+    Au + 3Cl = AuCl{3}.
+
+~Salts of hydrochloric acid,--chlorides.~ The chlorides of all the metals are known and many
+of them are very important compounds. Some of them are found in nature, and all can be prepared
+by the general method of preparing salts. Silver chloride, lead chloride, and mercurous chloride
+are insoluble in water and acids, and can be prepared by adding hydrochloric acid to solutions
+of compounds of the respective elements. While the chlorides have formulas similar to the fluorides,
+their properties are often quite different. This is seen in the solubility of the salts. Those
+metals whose chlorides are insoluble form soluble fluorides, while many of the metals which
+form soluble chlorides form insoluble fluorides.
+
+~Compounds of chlorine with oxygen and hydrogen.~ Chlorine combines with oxygen and hydrogen
+to form four different acids. They are all quite unstable, and most of them cannot be prepared
+in pure form; their salts can easily be made, however, and some of them will be met with in
+the study of the metals. The formulas and names of these acids are as follows:
+
+    HClO       hypochlorous acid.
+
+    HClO{2}   chlorous acid.
+
+    HClO{3}   chloric acid.
+
+    HClO{4}   perchloric acid.
+
+~Oxides of chlorine.~ Two oxides are known, having the formulas Cl{2}O and ClO{2}. They decompose
+very easily and are good oxidizing agents.
+
+BROMINE
+
+~Historical.~ Bromine was discovered in 1826 by the French chemist Ballard, who isolated it
+from sea salt. He named it bromine (stench) because of its unbearable fumes.
+
+~Occurrence.~ Bromine occurs almost entirely in the form of bromides, especially as sodium
+bromide and magnesium bromide, which are found in many salt springs and salt deposits. The
+Stassfurt deposits in Germany and the salt waters of Ohio and Michigan are especially rich
+in bromides.
+
+~Preparation of bromine.~ The laboratory method of preparing bromine is essentially different
+from the commercial method.
+
+1. Laboratory method. As in the case of chlorine, bromine can be prepared by the action of
+hydrobromic acid (HBr) on manganese dioxide. Since hydrobromic acid is not an article of commerce,
+a mixture of sulphuric acid and a bromide is commonly substituted for it. The materials are
+placed in a retort arranged as shown in Fig. 55. The end of the retort just touches the surface
+of the water in the test tube. On heating, the bromine distills over and is collected in the
+cold receiver. The equation is
+
+    2NaBr + 2H{2}SO{4} + MnO{2} = Na{2}SO{4} + MnSO{4}
+      + 2H{2}O + 2Br.
+
+2. Commercial method. Bromine is prepared commercially from the waters of salt wells which
+are especially rich in bromides. On passing a current of electricity through such waters the
+bromine is first liberated. Any chlorine liberated, however, will assist in the reaction, since
+free chlorine decomposes bromides, as shown in the equation
+
+    NaBr + Cl = NaCl + Br.
+
+When the water containing the bromine is heated, the liberated bromine distills over into the
+receiver.
+
+~Physical properties.~ Bromine is a dark red liquid about three times as heavy as water. Its
+vapor has a very offensive odor and is most irritating to the eyes and throat. The liquid boils
+at 59° and solidifies at -7°; but even at ordinary temperatures it evaporates rapidly, forming
+a reddish-brown gas very similar to nitrogen peroxide in appearance. Bromine is somewhat soluble
+in water, 100 volumes of water under ordinary conditions dissolving 1 volume of the liquid.
+It is readily soluble in carbon disulphide, forming a yellow solution.
+
+~Chemical properties and uses.~ In chemical action bromine is very similar to chlorine. It
+combines directly with many of the same elements with which chlorine unites, but with less
+energy. It combines with hydrogen and takes away the latter element from some of its compounds,
+but not so readily as does chlorine. Its bleaching properties are also less marked.
+
+Bromine finds many uses in the manufacture of organic drugs and dyestuffs and in the preparation
+of bromides.
+
+~Hydrobromic acid (HBr).~ When sulphuric acid acts upon a bromide hydrobromic acid is set free:
+
+    2NaBr + H{2}SO{4} = Na{2}SO{4} + 2HBr.
+
+At the same time some bromine is set free, as may be seen from the red fumes which appear,
+and from the odor. The explanation of this is found in the fact that hydrobromic acid is much
+less stable than hydrochloric acid, and is therefore more easily oxidized. Concentrated sulphuric
+acid is a good oxidizing agent, and oxidizes a part of the hydrobromic acid, liberating bromine:
+
+    H{2}SO{4} + 2HBr = 2H{2}O + SO{2} + 2Br.
+
+     ~Preparation of pure hydrobromic acid.~ A convenient way to make
+     pure hydrobromic acid is by the action of bromine upon moist
+     red phosphorus. This can be done with the apparatus shown in
+     Fig. 56. Bromine is put into the dropping funnel A, and red
+     phosphorus, together with enough water to cover it, is placed
+     in the flask B. By means of the stopcock the bromine is
+     allowed to flow drop by drop into the flask, the reaction
+     taking place without the application of heat. The equations are
+
+    (1) P + 3Br = PBr{3},
+
+    (2) PBr{3} + 3H{2}O = P(OH){3} + 3HBr.
+
+     The U-tube C contains glass beads which have been moistened
+     with water and rubbed in red phosphorus. Any bromine escaping
+     action in the flask acts upon the phosphorus in the U-tube. The
+     hydrobromic acid is collected in the same way as hydrochloric
+     acid.
+
+~Properties.~ Hydrobromic acid very strikingly resembles hydrochloric acid in physical and
+chemical properties. Chemically, the chief point in which it differs from hydrochloric acid
+is in the fact that it is much more easily oxidized, so that bromine is more readily set free
+from it than chlorine is from hydrochloric acid.
+
+~Salts of hydrobromic acid,--bromides.~ The bromides are very similar to the chlorides in their
+properties. Chlorine acts upon both bromides and free hydrobromic acid, liberating bromine
+from them:
+
+    KBr + Cl = KCl + Br,
+
+    HBr + Cl = HCl + Br.
+
+Silver bromide is extensively used in photography, and the bromides of sodium and potassium
+are used as drugs.
+
+     ~Oxygen compounds.~ No oxides of bromine are surely known, and
+     bromine does not form so many oxygen acids as chlorine does.
+     Salts of hypobromous acid (HBrO) and bromic acid (HBrO{3}) are
+     known.
+
+IODINE
+
+~Historical.~ Iodine was discovered in 1812 by Courtois in the ashes of certain sea plants.
+Its presence was revealed by its beautiful violet vapor, and this suggested the name iodine
+(from the Greek for violet appearance).
+
+~Occurrence.~ In the combined state iodine occurs in very small quantities in sea water, from
+which it is absorbed by certain sea plants, so that it is found in their ashes. It occurs along
+with bromine in salt springs and beds, and is also found in Chili saltpeter.
+
+~Preparation.~ Iodine may be prepared in a number of ways, the principal methods being the
+following:
+
+1. Laboratory method. Iodine can readily be prepared in the laboratory from an iodide by the
+method used in preparing bromine, except that sodium iodide is substituted for sodium bromide.
+It can also be made by passing chlorine into a solution of an iodide.
+
+2. Commercial method. Commercially iodine was formerly prepared from seaweed (kelp), but is
+now obtained almost entirely from the deposits of Chili saltpeter. The crude saltpeter is dissolved
+in water and the solution evaporated until the saltpeter crystallizes. The remaining liquors,
+known as the "mother liquors," contain sodium iodate (NaIO{3}), in which form the iodine is
+present in the saltpeter. The chemical reaction by which the iodine is liberated from this
+compound is a complicated one, depending on the fact that sulphurous acid acts upon iodic acid,
+setting iodine free. This reaction is shown as follows:
+
+    2HIO{3} + 5H{2}SO{3} = 5H{2}SO{4} + H{2}O + 2I.
+
+     ~Purification of iodine.~ Iodine can be purified very
+     conveniently in the following way. The crude iodine is placed
+     in an evaporating dish E (Fig. 57), and the dish is set upon
+     the sand bath S. The iodine is covered with the inverted
+     funnel F, and the sand bath is gently heated with a Bunsen
+     burner. As the dish becomes warm the iodine rapidly evaporates
+     and condenses again on the cold surface of the funnel in
+     shining crystals.
+
+     This process, in which a solid is converted into a vapor and is
+     again condensed into a solid without passing through the liquid
+     state, is called sublimation.
+
+~Physical properties.~ Iodine is a purplish-black, shining, heavy solid which crystallizes
+in brilliant plates. Even at ordinary temperatures it gives off a beautiful violet vapor, which
+increases in amount as heat is applied. It melts at 107° and boils at 175°. It is slightly
+soluble in water, but readily dissolves in alcohol, forming a brown solution (tincture of iodine),
+and in carbon disulphide, forming a violet solution. The element has a strong, unpleasant odor,
+though by no means as irritating as that of chlorine and bromine.
+
+~Chemical properties.~ Chemically iodine is quite similar to chlorine and bromine, but is still
+less active than bromine. It combines directly with many elements at ordinary temperatures.
+At elevated temperatures it combines with hydrogen, but the reaction is reversible and the
+compound formed is quite easily decomposed. Both chlorine and bromine displace it from its salts:
+
+    KI + Br = KBr + I,
+
+    KI + Cl = KCl + I.
+
+When even minute traces of iodine are added to thin starch paste a very intense blue color
+develops, and this reaction forms a delicate test for iodine. Iodine is extensively used in
+medicine, especially in the form of a tincture. It is also largely used in the preparation
+of dyes and organic drugs, iodoform, a substance used as an antiseptic, has the formula CHI{3}.
+
+~Hydriodic acid (HI).~ This acid cannot be prepared in pure condition by the action of sulphuric
+acid upon an iodide, since the hydriodic acid set free is oxidized by the sulphuric acid just
+as in the case of hydrobromic acid, but to a much greater extent. It can be prepared in exactly
+the same way as hydrobromic acid, iodine being substituted for bromine. It can also be prepared
+by passing hydrosulphuric acid into water in which iodine is suspended. The equation is
+
+    H{2}S + 2I = 2HI + S.
+
+The hydriodic acid formed in this way dissolves in the water. It is, however, more unstable
+than either hydrochloric or hydrobromic acids, and on exposure to the air it gradually decomposes
+in accordance with the equation
+
+    2HI + O = H{2}O + 2I.
+
+Owing to the slight affinity between iodine and hydrogen the acid easily gives up its hydrogen
+and is therefore a strong reducing agent. This is seen in its action on sulphuric acid.
+
+The salts of hydriodic acid, the iodides, are, in general, similar to the chlorides and bromides.
+Potassium iodide (KI) is the most familiar of the iodides and is largely used in medicine.
+
+     ~Oxygen compounds.~ Iodine has a much greater affinity for oxygen
+     than has either chlorine or bromine. When heated with nitric
+     acid it forms a stable oxide (I{2}O{5}). Salts of iodic acid
+     (HIO{3}) and periodic acid (HIO{4}) are easily prepared, and
+     the free acids are much more stable than the corresponding
+     acids of the other members of this family. With bromine and iodine similar
+combining ratios hold good. These facts recall the simple volume
+relations already noted in the study of the composition of steam and
+ammonia. These relations may be represented graphically in the following
+way:
+
+              +---+   +----+    +------+    +------+
+              | H | + | Cl | =  | H Cl |  + | H Cl |
+              +---+   +----+    +------+    +------+
+
+       +---+  +---+   +---+    +--------+   +--------+
+       | H |  | H | + | O |  = | H{2}O | + | H{2}O |
+       +---+  +---+   +---+    +--------+   +--------+
+
++---+  +---+  +---+   +---+    +--------+   +--------+ | H |  | H |  | H | + | N |  = | NH{3}
+| + | NH{3} | +---+  +---+  +---+   +---+    +--------+   +--------+
+
+In the early part of the past century Gay-Lussac, a distinguished French chemist, studied the
+volume relations of many combining gases, and concluded that similar relations always hold.
+His observations are summed up in the following law: When two gases combine chemically there
+is always a simple ratio between their volumes, and between the volume of either one of them
+and that of the product, provided it is a gas. By a simple ratio is meant of course the ratio
+of small whole numbers, as 1 : 2, 2 : 3.
+
+EXERCISES
+
+1. How do we account for the fact that liquid hydrofluoric acid is not an electrolyte?
+
+2. Why does sulphuric acid liberate hydrofluoric acid from its salts?
+
+3. In the preparation of chlorine, what advantages are there in treating manganese dioxide
+with a mixture of sodium chloride and sulphuric acid rather than with hydrochloric acid?
+
+4. Why must chlorine water be kept in the dark?
+
+5. What is the derivation of the word nascent?
+
+6. What substances studied are used as bleaching agents? To what is the bleaching action due
+in each case?
+
+7. What substances studied are used as disinfecting agents?
+
+8. What is meant by the statement that hydrochloric acid is one of the strongest acids?
+
+9. What is the meaning of the phrase aqua regia?
+
+10. Cl{2}O is the anhydride of what acid?
+
+11. A solution of hydriodic acid on standing turns brown. How is this accounted for?
+
+12. How can bromine vapor and nitrogen peroxide be distinguished from each other?
+
+13. Write the equations for the reaction taking place when hydriodic acid is prepared from
+iodine, phosphorus, and water.
+
+14. From their behavior toward sulphuric acid, to what class of agents do hydrobromic and hydriodic
+acids belong?
+
+15. Give the derivation of the names of the elements of the chlorine family.
+
+16. Write the names and formulas for the binary acids of the group in the order of the stability
+of the acids.
+
+17. What is formed when a metal dissolves in each of the following? nitric acid; dilute sulphuric
+acid; concentrated sulphuric acid; hydrochloric acid; aqua regia.
+
+18. How could you distinguish between a chloride, a bromide, and an iodide?
+
+19. What weight of sodium chloride is necessary to prepare sufficient hydrochloric acid to
+saturate 1 l. of water under standard conditions?
+
+20. On decomposition 100 l. of hydrochloric acid would yield how many liters of hydrogen and
+chlorine respectively, the gases being measured under the same conditions? Are your results
+in accord with the experimental facts?
+
+CHAPTER XVII
+
+CARBON AND SOME OF ITS SIMPLER COMPOUNDS
+
+~The family.~ Carbon stands at the head of a family of elements in the fourth group in the
+periodic table. The resemblances between the elements of this family, while quite marked, are
+not so striking as in the case of the elements of the chlorine family. With the exception of
+carbon, these elements are comparatively rare, and need not be taken up in detail in this chapter.
+Titanium will be referred to again in connection with silicon which it very closely resembles.
+
+~Occurrence.~ Carbon is found in nature in the uncombined state in several forms. The diamond
+is practically pure carbon, while graphite and coal are largely carbon, but contain small amounts
+of other substances. Its natural compounds are exceedingly numerous and occur as gases, liquids,
+and solids. Carbon dioxide is its most familiar gaseous compound. Natural gas and petroleum
+are largely compounds of carbon with hydrogen. The carbonates, especially calcium carbonate,
+constitute great strata of rocks, and are found in almost every locality. All living organisms,
+both plant and animal, contain a large percentage of this element, and the number of its compounds
+which go to make up all the vast variety of animate nature is almost limitless. Over one hundred
+thousand definite compounds containing carbon have been prepared. In the free state carbon
+occurs in three allotropic forms, two of which are crystalline and one amorphous.
+
+~Crystalline carbon.~ Crystalline carbon occurs in two forms,--diamond and graphite.
+
+1. Diamond. Diamonds are found in considerable quantities in several localities, especially
+in South Africa, the East Indies, and Brazil. The crystals belong to the regular system, but
+the natural stones do not show this very clearly. When found they are usually covered with
+a rough coating which is removed in the process of cutting. Diamond cutting is carried on most
+extensively in Holland.
+
+The density of the diamond is 3.5, and, though brittle, it is one of the hardest of substances.
+Black diamonds, as well as broken and imperfect stones which are valueless as gems, are used
+for grinding hard substances. Few chemical reagents have any action on the diamond, but when
+heated in oxygen or the air it blackens and burns, forming carbon dioxide.
+
+Lavoisier first showed that carbon dioxide is formed by the combustion of the diamond; and
+Sir Humphry Davy in 1814 showed that this is the only product of combustion, and that the diamond
+is pure carbon.
+
+     ~The diamond as a gem.~ The pure diamond is perfectly transparent
+     and colorless, but many are tinted a variety of colors by
+     traces of foreign substances. Usually the colorless ones are
+     the most highly prized, although in some instances the color
+     adds to the value; thus the famous Hope diamond is a beautiful
+     blue. Light passing through a diamond is very much refracted,
+     and to this fact the stone owes its brilliancy and sparkle.
+
+     ~Artificial preparation of diamonds.~ Many attempts have been
+     made to produce diamonds artificially, but for a long time
+     these always ended in failure, graphite and not diamonds being
+     the product obtained. The French chemist Moissan, in his
+     extended study of chemistry at high temperatures, finally
+     succeeded (1893) in making some small ones. He accomplished
+     this by dissolving carbon in boiling iron and plunging the
+     crucible containing the mixture into water, as shown in Fig.
+     58. Under these conditions the carbon crystallized in the iron
+     in the form of the diamond. The diamonds were then obtained by
+     dissolving away the iron in hydrochloric acid.
+
+2. Graphite. This form of carbon is found in large quantities, especially in Ceylon, Siberia,
+and in some localities of the United States and Canada. It is a shining black substance, very
+soft and greasy to the touch. Its density is about 2.15. It varies somewhat in properties according
+to the locality in which it is found, and is more easily attacked by reagents than is the diamond.
+It is also manufactured by heating carbon with a small amount of iron (3%) in an electric furnace.
+It is used in the manufacture of lead pencils and crucibles, as a lubricant, and as a protective
+covering for iron in the form of a polish or a paint.
+
+~Amorphous carbon.~ Although there are many varieties of amorphous carbon known, they are not
+true allotropic modifications. They differ merely in their degree of purity, their fineness
+of division, and in their mode of preparation. These substances are of the greatest importance,
+owing to their many uses in the arts and industries. As they occur in nature, or are made artificially,
+they are nearly all impure carbon, the impurity depending on the particular substance in question.
+
+1. Pure carbon. Pure amorphous carbon is best prepared by charring sugar. This is a substance
+consisting of carbon, hydrogen, and oxygen, the latter two elements being present in the ratio
+of one oxygen atom to two of hydrogen. When sugar is strongly heated the oxygen and hydrogen
+are driven off in the form of water and pure carbon is left behind. Prepared in this way it
+is a soft, lustrous, very bulky, black powder.
+
+2. Coal and coke. Coals of various kinds were probably formed from vast accumulations of vegetable
+matter in former ages, which became covered over with earthy material and were thus protected
+from rapid decay. Under various natural agencies the organic matter was slowly changed into
+coal. In anthracite these changes have gone the farthest, and this variety of coal is nearly
+pure carbon. Soft or bituminous coals contain considerable organic matter besides carbon and
+mineral substances. When heated strongly out of contact with air the organic matter is decomposed
+and the resulting volatile matter is driven off in the form of gases and vapors, and only the
+mineral matter and carbon remain behind. The gaseous product is chiefly illuminating gas and
+the solid residue is coke. Some of the coke is found as a dense cake on the sides and roof
+of the retort. This is called retort carbon and is quite pure.
+
+3. Charcoal. This is prepared from wood in the same way that coke is made from coal. When the
+process is carried on in retorts the products expelled by the heat are saved. Among these are
+many valuable substances such as wood alcohol and acetic acid. Where timber is abundant the
+process is carried out in a wasteful way, by merely covering piles of wood with sod and setting
+the wood on fire. Some wood burns and the heat from this decomposes the wood not burned, forming
+charcoal from it. The charcoal, of course, contains the mineral part of the wood from which
+it is formed.
+
+4. Bone black. This is sometimes called animal charcoal, and is made by charring bones and
+animal refuse. The organic part of the materials is thus decomposed and carbon is left in a
+very finely divided state, scattered through the mineral part which consists largely of calcium
+phosphate. For some uses this mineral part is removed by treatment with hydrochloric acid and
+prolonged washing.
+
+5. Lampblack. Lampblack and soot are products of imperfect combustion of oil and coal, and
+are deposited from a smoky flame on a cold surface. The carbon in this form is very finely
+divided and usually contains various oily materials.
+
+~Properties.~ While the various forms of carbon differ in many properties, especially in color
+and hardness, yet they are all odorless, tasteless solids, insoluble in water and characterized
+by their stability towards heat. Only in the intense heat of the electric arc does carbon volatilize,
+passing directly from the solid state into a vapor. Owing to this fact the inside surface of
+an incandescent light bulb after being used for some time becomes coated with a dark film of
+carbon. It is not acted on at ordinary temperatures by most reagents, but at a higher temperature
+it combines directly with many of the elements, forming compounds called carbides. When heated
+in the presence of sufficient oxygen it burns, forming carbon dioxide.
+
+~Uses of carbon.~ The chief use of amorphous carbon is for fuel to furnish heat and power for
+all the uses of civilization. An enormous quantity of carbon in the form of the purer coals,
+coke, and charcoal is used as a reducing agent in the manufacture of the various metals, especially
+in the metallurgy of iron. Most of the metals are found in nature as oxides, or in forms which
+can readily be converted into oxides. When these oxides are heated with carbon the oxygen is
+abstracted, leaving the metal. Retort carbon and coke are used to make electric light carbons
+and battery plates, while lampblack is used for indelible inks, printer's ink, and black varnishes.
+Bone black and charcoal have the property of absorbing large volumes of certain gases, as well
+as smaller amounts of organic matter; hence they are used in filters to remove noxious gases
+and objectionable colors and odors from water. Bone black is used extensively in the sugar
+refineries to remove coloring matter from the impure sugars.
+
+~Chemistry of carbon compounds.~ Carbon is remarkable for the very large number of compounds
+which it forms with the other elements, especially with oxygen and hydrogen. Compounds containing
+carbon are more numerous than all others put together, and the chemistry of these substances
+presents peculiarities not met with in the study of other substances. For these reasons the
+systematic study of carbon compounds, or of organic chemistry as it is usually called, must
+be deferred until the student has gained some knowledge of the chemistry of other elements.
+An acquaintance with a few of the most familiar carbon compounds is, however, essential for
+the understanding of the general principles of chemistry.
+
+~Compounds of carbon with hydrogen,--the hydrocarbons.~ Carbon unites with hydrogen to form
+a very large number of compounds called hydrocarbons. Petroleum and natural gas are essentially
+mixtures of a great variety of these hydrocarbons. Many others are found in living plants,
+and still others are produced by the decay of organic matter in the absence of air. Only two
+of them, methane and acetylene, will be discussed here.
+
+~Methane~ (marsh gas) (CH{4}). This is one of the most important of these hydrocarbons, and
+constitutes about nine tenths of natural gas. As its name suggests, it is formed in marshes
+by the decay of vegetable matter under water, and bubbles of the gas are often seen to rise
+when the dead leaves on the bottom of pools are stirred. It also collects in mines, and, when
+mixed with air, is called fire damp by the miners because of its great inflammability, damp
+being an old name for a gas. It is formed when organic matter, such as coal or wood, is heated
+in closed vessels, and is therefore a principal constituent of coal gas.
+
+~Preparation.~ Methane is prepared in the laboratory by heating sodium or calcium acetate with
+soda-lime. Equal weights of fused sodium acetate and soda-lime are thoroughly dried, then mixed
+and placed in a good-sized, hard-glass test tube fitted with a one-holed stopper and delivery
+tube. The mixture is gradually heated, and when the air has been displaced from the tube the
+gas is collected in bottles by displacement of water. Soda-lime is a mixture of sodium and
+calcium hydroxides. Regarding it as sodium hydroxide alone, the equation is
+
+    NaC{2}H{3}O{2} + NaOH = Na{2}CO{3} + CH{4}.
+
+~Properties.~ Methane is a colorless, odorless gas whose density is 0.55. It is difficult to
+liquefy, boiling at -155° under standard pressure, and is almost insoluble in water. It burns
+with a pale blue flame, liberating much heat, and when mixed with oxygen is very explosive.
+
+~Davy's safety lamp.~ In 1815 Sir Humphry Davy invented a lamp for the use of miners, to prevent
+the dreadful mine explosions then common, due to methane mixed with air. The invention consisted
+in surrounding the upper part of the common miner's lamp with a mantle of wire gauze and the
+lower part with glass (Fig. 59). It has been seen that two gases will not combine until raised
+to their kindling temperature, and if while combining they are cooled below this point, the
+combination ceases. A flame will not pass through a wire gauze because the metal, being a good
+conductor of heat, takes away so much heat from the flame that the gases are cooled below the
+kindling temperature. When a lamp so protected is brought into an explosive mixture the gases
+inside the wire mantle burn in a series of little explosions, giving warning to the miner that
+the air is unsafe.
+
+~Acetylene~ (C{2}H{2}). This is a colorless gas usually having a disagreeable odor due to impurities.
+It is now made in large quantities from calcium carbide (CaC{2}). This substance is formed
+when coal and lime are heated together in an electric furnace. When treated with water the
+carbide is decomposed, yielding acetylene:
+
+    CaC{2} + 2H{2}O = C{2}H{2} + Ca(OH){2}.
+

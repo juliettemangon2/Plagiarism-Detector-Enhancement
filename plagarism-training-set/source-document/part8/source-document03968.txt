@@ -1,0 +1,438 @@
+﻿A
+                    SYSTEM OF INSTRUCTION
+                            IN
+                     THE PRACTICAL USE
+                            OF
+                       THE BLOWPIPE.
+
+   BEING A GRADUATED COURSE OF ANALYSIS FOR THE USE OF STUDENTS
+      AND ALL THOSE ENGAGED IN THE EXAMINATION OF METALLIC
+                       COMBINATIONS.
+
+                        NEW YORK:
+               H. BAILLIÈRE, 290 BROADWAY,
+              AND 219 REGENT STREET, LONDON.
+
+      PARIS: J.B. BAILLIÈRE ET FILS, RUE HAUTEFEUILLE.
+      MADRID: C. BAILLY-BAILLIÈRE, CALLE DEL PRINCIPE.
+                          1858.
+
+       *       *       *       *       *
+
+TABLE OF CONTENTS.
+
+PART I.
+
+Preface,                                                             7
+The Use of the Blowpipe,                                             9
+Utensils--The Blowpipe,                                             12
+The Oil Lamp,                                                       22
+The Spirit Lamp,                                                    23
+Charcoal Support,                                                   24
+Platinum Supports,                                                  26
+Iron Spoons,                                                        28
+Glass Tubes,                                                        28
+Other Apparatus necessary,                                          31
+THE REAGENTS,                                                       34
+  Reagents of General Use,                                          34
+  Carbonate of Soda,                                                34
+  Hydrate of Baryta,                                                35
+  Bi-sulphate of Potassa,                                           35
+  Oxalate of Potassa,                                               36
+  Cyanide of Potassium,                                             36
+Nitrate of Potassa,                                                 37
+  Borax,                                                            38
+  Microcosmic Salt,                                                 39
+  Nitrate of Cobalt,                                                40
+  Tin,                                                              41
+  Silica,                                                           42
+  Test Papers,                                                      42
+ESPECIAL REAGENTS,                                                  43
+  Boracic Acid,                                                     43
+  Fluorspar,                                                        43
+  Oxalate of Nickel,                                                43
+  Oxide of Copper,                                                  43
+  Antimoniate of Potassa,                                           44
+  Silver Foil,                                                      44
+  Nitroprusside of Sodium,                                          44
+
+PART II.
+
+Initiatory Analysis,                                                47
+Examination with the Glass Bulb,                                    47
+      "     in the Open Tube,                                       52
+      "     upon Charcoal,                                          55
+      "     in the Platinum Forceps,                                61
+      "     in the Borax Bead,                                      69
+      "     in Microcosmic Salt,                                    72
+Table I.--Colors of Beads of Borax and Microcosmic Salt,            75
+Table II.--Behavior of Metallic Oxydes with Borax and
+  Microcosmic Salt,                                                 85
+Examinations with Carbonate of Soda,                               103
+
+PART III.
+
+Special Reactions,                                                 109
+A.--METALLIC OXIDES:
+  First Group.--The Alkalies: Potassa, Soda, Ammonia, and Lithia,  110
+  Second Group.--The Alkaline Earths: Baryta, Strontia, Lime,
+    and Magnesia,                                                  115
+  Third Group.--The Earths: Alumina, Glucina, Yttria, Thorina,
+    and Zirconia,                                                  121
+  Fourth Group.--Cerium, Lanthanium, Didymium, Columbium,
+    Niobium, Pelopium, Titanium, Uranium, Vanadium, Chromium,
+    Manganese,                                                     124
+  Fifth Group.--Iron, Cobalt, Nickel,                              135
+  Sixth Group.--Zinc, Cadmium, Antimony, Tellurium,                140
+  Seventh Group.--Lead, Bismuth, Tin,                              149
+  Eighth Group.--Mercury, Arsenic,                                 157
+  Ninth Group.--Copper, Silver, Gold,                              161
+  Tenth Group.--Molybdenum, Osmium,                                165
+  Eleventh Group.--Platinum, Palladium, Iridium, Rhodium,
+    Ruthenium,                                                     167
+
+Non-Metallic Substances,                                           168
+
+Tabular Statement of the Reactions of Minerals before
+    the Blowpipe,                                                  178
+  Carbon and Organic Minerals,                                     181
+  Potassa,                                                         184
+  Soda,                                                            186
+  Baryta and Strontia,                                             190
+  Lime,                                                            192
+  Magnesia,                                                        196
+  Alumina,                                                         200
+  Silicates,                                                       204
+  Uranium,                                                         212
+  Iron,                                                            214
+  Manganese,                                                       222
+  Nickel and Cobalt,                                               226
+  Zinc,                                                            232
+  Bismuth,                                                         234
+  Lead,                                                            238
+  Copper,                                                          248
+  Antimony,                                                        256
+  Arsenic,                                                         260
+  Mercury,                                                         262
+  Silver,                                                          264
+
+       *       *       *       *       *
+
+PREFACE.
+
+It is believed the arrangement of the present work is superior to that of many of its predecessors,
+as a vehicle for the facilitation of the student's progress. While it does not pretend to any
+other rank than as an introduction to the larger works, it is hoped that the arrangement of
+its matter is such that the beginner may more readily comprehend the entire subject of Blowpipe
+Analysis than if he were to begin his studies by the perusal of the more copious works of Berzelius
+and Plattner.
+
+When the student shall have gone through these pages, and repeated the various reactions described,
+then he will be fully prepared to enter upon the study of the larger works. To progress through
+them will then be but a comparatively easy task.
+
+The arrangement of this little work has been such as the author and his friends have considered
+the best that could be devised for the purpose of facilitating the progress of the student.
+Whether we have succeeded is left for the public to decide. The author is indebted to several
+of his friends for valuable contributions and suggestions.
+
+S.
+
+CINCINNATI, June, 1857.
+
+*       *       *       *       *
+
+         THE BLOWPIPE.
+
+*       *       *       *       *
+
+Part First.
+
+THE USE OF THE BLOWPIPE.
+
+Perhaps during the last fifty years, no department of chemistry has been so enriched as that
+relating to analysis by means of the Blowpipe.
+
+Through the unwearied exertions of men of science, the use of this instrument has arrived to
+such a degree of perfection, that we have a right to term its use, "Analysis in the dry way,"
+in contradistinction to analysis "in the wet way." The manipulations are so simple and expeditious,
+and the results so clear and characteristic, that the Blowpipe analysis not only verifies and
+completes the results of analysis in the wet way, but it gives in many cases direct evidences
+of the presence or absence of many substances, which would not be otherwise detected, but through
+a troublesome and tedious process, involving both prolixity and time; for instance, the detection
+of manganese in minerals.
+
+Many substances have to go through Blowpipe manipulations before they can be submitted to an
+analysis in the wet way. The apparatus and reagents employed are compendious and small in number,
+so that they can be carried easily while on scientific excursions, a considerable advantage
+for mineralogists and metallurgists.
+
+The principal operations with the Blowpipe may be explained briefly as follows:
+
+(a.) By Ignition is meant the exposure of a substance to such a degree of heat, that it glows
+or emits light, or becomes red-hot. Its greatest value is in the separation of a volatile substance
+from one less volatile, or one which is entirely fixed at the temperature of the flame. In
+this case we only take cognizance of the latter or fixed substance, although in many instances
+we make use of ignition for the purpose of changing the conditions of a substance, for example,
+the sesquioxide of chromium (Cr^{2}O^{3}) in its insoluble modification; and as a preliminary
+examination for the purpose of ascertaining whether the subject of inquiry be a combination
+of an organic or inorganic nature.
+
+The apparatus used for this purpose are crucibles of platinum or silver, platinum foil, a platinum
+spoon, platinum wire or tongs, charcoal, glass tubes, and iron spoons.
+
+(b.) Sublimation is that process by which we convert a solid substance into vapor by means
+of a strong heat. These vapors are condensed by refrigeration into the solid form. It may be
+termed a distillation of a solid substance. Sublimation is of great consequence in the detection
+of many substances; for instance, arsenic, antimony, mercury, etc.
+
+The apparatus used for the purposes of sublimation consist of glass tubes closed at one end.
+
+(c.) Fusion.--Many substances when exposed to a certain degree of heat lose their solid form,
+and are converted into a liquid. Those substances which do not become converted into the liquid
+state by heat, are said to be infusible. It is a convenient classification to arrange substances
+into those which are fusible with difficulty, and those which are easily fusible. Very often
+we resort to fusion for the purpose of decomposing a substance, or to cause it to enter into
+other combinations, by which means it is the more readily detected. If insoluble substances
+are fused with others more fusible (reagents) for the purpose of causing a combination which
+is soluble in water and acids, the operation is termed unclosing. These substances are particularly
+the silicates and the sulphates of the alkaline earths. The usual reagents resorted to for
+this purpose are carbonate of soda (NaO, CO^{2}), carbonate of potash (KO, CO^{2}), or still
+better, a mixture of the two in equal parts. In some cases we use the hydrate of barytes (BaO,
+HO) and the bisulphate of potash (KO, 2SO^{3}). The platinum spoon is generally used for this
+manipulation.
+
+Substances are exposed to fusion for the purpose of getting a new combination which has such
+distinctive characteristics that we can class it under a certain group; or for the purpose
+of ascertaining at once what the substance may be. The reagents used for this purpose are borax
+(NaO, 2BrO^{3}) and the microcosmic salt (NaO, NH^{4}O, PO^{5}, HO). Charcoal and the platinum
+wire are used as supports for this kind of operation.
+
+(d.) Oxidation.--The chemical combination of any substance with oxygen is termed oxidation,
+and the products are termed oxides. As these oxides have qualities differing from those which
+are non-oxidized, it therefore frequently becomes necessary to convert substances into oxides;
+or, if they are such, of a lower degree, to convert them into a higher degree of oxidation.
+These different states of oxidation frequently present characteristic marks of identity sufficient
+to enable us to draw conclusions in relation to the substance under examination. For instance,
+the oxidation of manganese, of arsenic, etc. The conditions necessary for oxidation, are high
+temperature and the free admission of air to the substance.
+
+If the oxidation is effected through the addition of a substance containing oxygen (for instance,
+the nitrate or chlorate of potash) and the heating is accompanied by a lively deflagration
+and crackling noise, it is termed detonation. By this process we frequently effect the oxidation
+of a substance, and thus we prove the presence or the absence of a certain class of substances.
+For instance, if we detonate (as it is termed by the German chemists) the sulphide of antimony,
+or the sulphide of arsenic with nitrate of potash, we get the nitrate of antimony, or the nitrate
+of arsenic. The salts of nitric or chloric acid are determined by fusing them with the cyanide
+of potassium, because the salts of these acids detonate.
+
+(e.) Reduction.--If we deprive an oxidized substance of its oxygen, we term the process reduction.
+This is effected by fusing the substance under examination with another which possesses a greater
+affinity for oxygen. The agents used for reduction are hydrogen, charcoal, soda, cyanide of
+potassium, etc. Substances generally, when in the unoxidized state, have such characteristic
+qualities, that they cannot very readily be mistaken for others. For this reason, reduction
+is a very excellent expedient for the purpose of discerning and classifying many substances.
+
+B. UTENSILS.
+
+We shall give here a brief description of the most necessary apparatus used for analysis in
+the dry way, and of their use.
+
+The Blowpipe is a small instrument, made generally out of brass, silver, or German silver,
+and was principally used in earlier times for the purpose of soldering small pieces of metals
+together. It is generally made in the form of a tube, bent at a right angle, but without a
+sharp corner. The largest one is about seven inches long, and the smallest about two inches.
+The latter one terminates with a small point, with a small orifice. The first use of the blowpipe
+that we have recorded is that of a Swedish mining officer, who used it in the year 1738 for
+chemical purposes, but we have the most meagre accounts of his operations. In 1758 another
+Swedish mining officer, by the name of Cronstedt, published his "Use of the Blowpipe in Chemistry
+and Mineralogy," translated into English, in 1770, by Van Engestroem. Bergman extended its
+use, and after him Ghan and the venerable Berzelius (1821). The blowpipe most generally used
+in chemical examinations is composed of the following parts: (Fig. 1.) A is a little reservoir
+made air-tight by grinding the part B into it. This reservoir serves the purpose of retaining
+the moisture with which the air from the mouth is charged. A small conical tube is fitted to
+this reservoir. This tube terminates in a fine orifice. As this small point is liable to get
+clogged up with soot, etc., it is better that it should be made of platinum, so that it may
+be ignited. Two of these platinum tubes should be supplied, differing in the size of the orifice,
+by which a stronger or lighter current of flame may be projected from it. Metals, such as brass
+or German silver, are very liable to become dirty through oxidation, and when placed between
+the lips are liable to impart a disagreeable taste. To avoid this, the top of the tube must
+be supplied with a mouthpiece of ivory or horn C. The blowpipe here represented is the one
+used by Ghan, and approved by Berzelius. The trumpet mouthpiece was adopted by Plattner; it
+is pressed upon the lips while blowing, which is less tiresome than holding the mouthpiece
+between the lips, although many prefer the latter mode.
+
+Dr. Black's blowpipe is as good an instrument and cheaper. It consists of two tubes, soldered
+at a right angle; the larger one, into which the air is blown, is of sufficient capacity to
+serve as a reservoir.
+
+A chemist can, with a blowpipe and a piece of charcoal, determine many substances without any
+reagents, thus enabling him, even when travelling, to make useful investigations with means
+which are always at his disposal. There are pocket blowpipes as portable as a pencil case,
+such as Wollaston's and Mitscherlich's; these are objectionable for continued use as their
+construction requires the use of a metallic mouthpiece. Mr. Casamajor, of New York, has made
+one lately which has an ivory mouthpiece, and which, when in use, is like Dr. Black's.
+
+The length of the blowpipe is generally seven or eight inches, but this depends very much upon
+the visual angle of the operators. A short-sighted person, of course, would require an instrument
+of less length than would suit a far-sighted person.
+
+The purpose required of the blowpipe is to introduce a fine current of air into the flame of
+a candle or lamp, by which a higher degree of heat is induced, and consequently combustion
+is more rapidly accomplished.
+
+By inspecting the flame of a candle burning under usual circumstances, we perceive at the bottom
+of the flame a portion which is of a light blue color (a b), Fig. 2, which gradually diminishes
+in size as it recedes from the wick, and disappears when it reaches the perpendicular side
+of the flame. In the midst of the flame there is a dark nucleus with a conical form (c). This
+is enveloped by the illuminating portion of the flame (d). At the exterior edge of the part
+d we perceive a thin, scarcely visible veil, a, e, e, which is broader near the apex of the
+flame. The action of the burning candle may be thus explained. The radiant heat from the flame
+melts the tallow or wax, which then passes up into the texture of the wick by capillary attraction
+until it reaches the glowing wick, where the heat decomposes the combustible matter into carbonated
+hydrogen (C^{4}H^{4}), and into carbonic oxide (CO).
+
+While these gases are rising in hot condition, the air comes in contact with them and effects
+their combustion. The dark portion, c, of the flame is where the carbon and gases have not
+a sufficiency of air for their thorough combustion; but gradually they become mixed with air,
+although not then sufficient for complete combustion. The hydrogen is first oxidized or burnt,
+and then the carbon is attacked by the air, although particles of carbon are separated, and
+it is these, in a state of intense ignition, which produce the illumination. By bringing any
+oxidizable substance into this portion of the flame, it oxidizes very quickly in consequence
+of the high temperature and the free access of air. For that reason this part of the flame
+is termed the oxidizing flame, while the illuminating portion, by its tendency to abstract
+oxygen for the purpose of complete combustion, easily reduces oxidated substances brought into
+it, and it is, therefore, called the flame of reduction. In the oxidizing flame, on the contrary,
+all the carbon which exists in the interior of the flame is oxidized into carbonic acid (CO^{2})
+and carbonic oxide (CO), while the blue color of the cone of the flame is caused by the complete
+combustion of the carbonic oxide. These two portions of the flame--the oxidizing and the reducing--are
+the principal agents of blowpipe analysis.
+
+If we introduce a fine current of air into a flame, we notice the following: The air strikes
+first the dark nucleus, and forcing the gases beyond it, mixes with them, by which oxygen is
+mingled freely with them. This effects the complete combustion of the gases at a certain distance
+from the point of the blowpipe. At this place the flame has the highest temperature, forming
+there the point of a blue cone. The illuminated or reducing portion of the flame is enveloped
+outside and inside by a very hot flame, whereby its own temperature is so much increased that
+in this reduction-flame many substances will undergo fusion which would prove perfectly refractory
+in a common flame. The exterior scarcely visible part loses its form, is diminished, and pressed
+more to a point, by which its heating power is greatly increased.
+
+The Blast of Air.--By using the blowpipe for chemical purposes, the effect intended to be produced
+is an uninterrupted steady stream of air for many minutes together, if necessary, without an
+instant's cessation. Therefore, the blowing can only be effected with the muscles of the cheeks,
+and not by the exertion of the lungs. It is only by this means that a steady constant stream
+of air can be kept up, while the lungs will not be injured by the deprival of air. The details
+of the proper manner of using the blowpipe are really more difficult to describe than to acquire
+by practice; therefore the pupil is requested to apply himself at once to its practice, by
+which he will soon learn to produce a steady current of air, and to distinguish the different
+flames from each other. We would simply say that the tongue must be applied to the roof of
+the mouth, so as to interrupt the communication between the passage of the nostrils and the
+mouth. The operator now fills his mouth with air, which is to be passed through the pipe by
+compressing the muscles of the cheeks, while he breathes through the nostrils, and uses the
+palate as a valve. When the mouth becomes nearly empty, it is replenished by the lungs in an
+instant, while the tongue is momentarily withdrawn from the roof of the mouth. The stream of
+air can be continued for a long time, without the least fatigue or injury to the lungs. The
+easiest way for the student to accustom himself to the use of the blowpipe, is first to learn
+to fill the mouth with air, and while the lips are kept firmly closed to breathe freely through
+the nostrils. Having effected this much, he may introduce the mouthpiece of the blowpipe between
+his lips. By inflating the cheeks, and breathing through the nostrils, he will soon learn to
+use the instrument without the least fatigue. The air is forced through the tube against the
+flame by the action of the muscles of the cheeks, while he continues to breathe without interruption
+through the nostrils. Having become acquainted with this process, it only requires some practice
+to produce a steady jet of flame. A defect in the nature of the combustible used, as bad oil,
+such as fish oil, or oil thickened by long standing or by dirt, dirty cotton wick, or an untrimmed
+one, or a dirty wickholder, or a want of steadiness of the hand that holds the blowpipe, will
+prevent a steady jet of flame. But frequently the fault lies in the orifice of the jet, or
+too small a hole, or its partial stoppage by dirt, which will prevent a steady jet of air,
+and lead to difficulty. With a good blowpipe the air projects the entire flame, forming a horizontal,
+blue cone of flame, which converges to a point at about an inch from the wick, with a larger,
+longer, and more luminous flame enveloping it, and terminating to a point beyond that of the
+blue flame.
+
+To produce an efficient flame of oxidation, put the point of the blowpipe into the flame about
+one third the diameter of the wick, and about one twelfth of an inch above it. This, however,
+depends upon the size of the flame used. Blow strong enough to keep the flame straight and
+horizontal, using the largest orifice for the purpose. Upon examining the flame thus produced,
+we will observe a long, blue flame, a b, Fig. 3, which letters correspond with the same letters
+in Fig. 2. But this flame has changed its form, and contains all the combustible gases. It
+forms now a thin, blue cone, which converges to a point about an inch from the wick. This point
+of the flame possesses the highest intensity of temperature, for there the combustion of the
+gases is the most complete. In the original flame, the hottest part forms the external envelope,
+but here it is compressed more into a point, forming the cone of the blue flame, and likewise
+an envelope of flame surrounding the blue one, extending beyond it from a to c, and presenting
+a light bluish or brownish color. The external flame has the highest temperature at d, but
+this decreases from d to c.
+
+If there is a very high temperature, the oxidation is not effected so readily in many cases,
+unless the substance is removed a little from the flame; but if the heat be not too high, it
+is readily oxidized in the flame, or near its cone. If the current of air is blown too freely
+or violently into the flame, more air is forced there than is sufficient to consume the gases.
+This superfluous air only acts detrimentally, by cooling the flame.
+
+In general the operation proceeds best when the substance is kept at a dull red heat. The blue
+cone must be kept free from straggling rays of the yellow or reduction flame. If the analysis
+be effected on charcoal, the blast should not be too strong, as a part of the coal would be
+converted into carbonic oxide, which would act antagonistically to the oxidation. The oxidation
+flame requires a steady current of air, for the purpose of keeping the blue cone constantly
+of the same length. For the purpose of acquiring practice, the following may be done: Melt
+a little molybdenic acid with some borax, upon a platinum wire, about the sixteenth of an inch
+from the point of the blue cone. In the pure oxidation flame, a clear yellowish glass is formed;
+but as soon as the reduction flame reaches it, or the point of the blue cone touches it, the
+color of the bead changes to a brown, which, finally, after a little longer blowing, becomes
+quite dark, and loses its transparency. The cause of this is, that the molybdenic acid is very
+easily reduced to a lower degree of oxidation, or to the oxide of molybdenum. The flame of
+oxidation will again convert this oxide into the acid, and this conversion is a good test of
+the progress of the student in the use of the blowpipe. In cases where we have to separate
+a more oxidizable substance from a less one, we use with success the blue cone, particularly
+if we wish to determine whether a substance has the quality, when submitted to heat in the
+blue cone, of coloring the external flame.
+
+A good reduction flame can be obtained by the use of a small orifice at the point of the blowpipe.
+In order to produce such a flame, hold the point of the blowpipe higher above the wick, while
+the nozzle must not enter the flame so far as in the production of the oxidation flame. The
+point of the blowpipe should only touch the flame, while the current of air blown into it must
+be stronger than into the oxidation flame. If we project a stream, in the manner mentioned,
+into the flame, from the smaller side of the wick to the middle, we shall perceive the flame
+changed to a long, narrow, luminous cone, a b, Fig. 4, the end a of which is enveloped by the
+same dimly visible blueish colored portion of the flame a, c, which we perceive in the original
+flame, with its point at c. The portion close above the wick, presenting the dull appearance,
+is occasioned by the rising gases which have not supplied to them enough oxygen to consume
+them entirely. The hydrogen is consumed, while the carbon is separated in a state of bright
+ignition, and forms the internal flame.
+
+Directly above the wick, the combustion of the gases is least complete, and forms there likewise,
+as is the case in the free flame, a dark blue nucleus d.
+
+If the oxide of a metal is brought into the luminous portion of the flame produced as above,
+so that the flame envelopes the substance perfectly, the access of air is prevented. The partially
+consumed gases have now a strong affinity for oxygen, under the influence of the intense heat
+of that part of the flame. The substance is thus deprived of a part, or the whole, of its oxygen,
+and becomes reduced according to the strength of the affinity which the substance itself has
+for oxygen. If the reduction of a substance is undertaken on platinum, by fusion with a flux,
+and if the oxide is difficult to reduce, the reduction will be completely effected only in
+the luminous part of the flame. But if a substance be reduced on charcoal, the reduction will
+take place in the blue part of the flame, as long as the access of air is cut off; but it is
+the luminous part of the flame which really possesses the greatest reducing power.
+
+The following should be observed in order to procure a good reduction flame:
+
+    The wick should not be too long, that it may make a smoke, nor
+    too short, otherwise the flame will be too small to produce a
+    heat strong enough for reduction.
+
+    The wick must be free from all loose threads, and from
+    charcoal.
+
+    The blast should be continued for a considerable time without
+    intermission, otherwise reduction cannot be effected.
+
+For the purpose of acquiring practice, the student may fuse the oxide of manganese with borax,
+upon a platinum wire, in the oxidation flame, when a violet-red glass will be obtained; or
+if too much of the oxide be used, a glass of a dark color and opaque will be obtained. By submitting
+this glass to the reduction flame, it will become colorless in correspondence to the perfection
+with which the flame is produced. Or a piece of tin may be fused upon charcoal, and kept in
+that state for a considerable time, while it presents the appearance of a bright metal on the
+surface. This will require dexterity in the operator; for, if the oxidation flame should chance
+to touch the bright metal only for a moment, it is coated with an infusible oxide.
+

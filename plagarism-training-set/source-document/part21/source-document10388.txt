@@ -1,0 +1,624 @@
+﻿When the caissons had been sealed the iron material shafts were removed. This left holes 5
+ft.×6 ft. extending from the roof of the caisson up to Mean H.W. which were filled with concrete.
+These shaft holes were 80 ft. deep on the South caisson and 100 ft. deep on the North caisson.
+They were partially filled with water and the concrete had to be placed with considerable care.
+Wooden chutes were used on the South caisson; they rested on the caisson roof, were filled
+with concrete and then raised allowing concrete to flow out at the bottom. The shaft holes
+were too deep on the North caisson for chutes and 20 cu. ft. bottom dump buckets were used.
+They had to be lowered to bottom of shaft each trip before dumping, a slow operation, which
+greatly added to the cost. Proportion for concrete 1-2.5-6.
+
+The proportion for concrete in working chamber was the same as for all other concrete. The
+specifications called for 6 in. of mortar, of 1 part of cement to 2½ parts of sand, between
+the concrete and all bearing areas; that is, under the cutting edge and directly under the
+roof of the working chamber. The concrete was mixed in the cubical mixer and dumped on the
+bottom door of the material lock, the top door of the lock was then closed, the bottom door
+opened and the concrete fell through the shaft to the working chamber. It was then shoveled
+by the sand hogs into place. A 6-in. space was left below all bearing surfaces into which damp
+mortar was tightly rammed. Concreting the South caisson took 10¼ working days of 24 hours,
+the gangs working night and day in twelve 2-hour shifts; 1,566 cu. yds. of concrete and mortar
+were placed, or at the rate of 140 cu. yds. per 24 hours. The gross time including Sundays
+was 14½ days. The sand hogs worked in shifts of 2 hours each and received $3.50 for the two
+hours work. The twelve foremen received 1 dollar more: the average gang consisted of 12 sand hogs.
+
+On the North caisson the organization was much better, owing to the experience gained on the
+first caisson; and in spite of the fact that the sand hogs, on account of the increased depth,
+received $4.00 for 1½ hours' work, or an increase of $22.00 per man per 24 hrs. over that on
+the South caisson, the work was done for less money. There were placed 1,566 cu. yds. of concrete
+in 7 working days of 24 hrs., or at the rate of 224 cu. yds. per day. The gross time was 11½
+days including Sundays. The average number of men in the sand hog gangs was 18, with one foreman,
+who received $5 for 1½ hours work.
+
+TABLE XVII.--ITEMIZED COST OF CONCRETING SOUTH CAISSON FOR BROOKLYN TOWER OF THE WILLIAMSBURG
+BRIDGE: COST OF CONCRETING CAISSONS ABOVE ROOF.
+
+                    South Caisson (3,827 cu. yds.).
+    Materials.                     Quantity.        Rate.       Amount.
+Cement                           4,480 bbls.        $1.57     $7,034.00
+Sand                             1,288 cu. yds.       .60        773.00
+Broken stone                     3,421 cu. yds.      1.50      5,132.00
+Water                                                             36.00
+                                 -------            ------    ---------
+    Total                        3,827 cu. yds.     $3.39    $12,975.00
+
+    Labor.
+Mixing and placing               3,827 cu. yds.     $0.90     $3,432.00
+Plant charges                                                  2,280.00
+Plant labor                                                      742.00
+                                 -------           ------     ---------
+    Total plant                  3,827 cu. yds.     $0.79     $3,022.00
+                                 -------           ------     ---------
+    Total cost                   3,827 cu. yds.     $5.08    $19,429.00
+General expenses, 10%            3,827 cu. yds.       .51      1,943.00
+                                 -------           ------     ---------
+    Grand total                  3,827 cu. yds.     $5.59    $21,372.00
+
+                  COST OF CONCRETING SHAFTS.
+                                            South Caisson.
+    Materials.                     Quantity.        Rate.       Amount.
+Concrete                          612½ bbls.        $1.57       $962.00
+Sand                              193  cu. yds.       .40         77.00
+Stone                             493  cu. yds.      1.10        542.00
+                                 -------          ------      ---------
+    Total                         541  cu. yds.     $2.92     $1,581.00
+    Labor.
+Handling, mixing and placing      541  cu. yds.     $0.96       $519.00
+Plant charges, etc.               541  cu. yds.      1.06        576.00
+                                 -------           ------     ---------
+    Total                         541  cu. yds.     $4.94     $2,676.00
+General expenses, 10%             541  cu. yds.       .49        267.00
+                                 -------          ------      ---------
+   Grand total                    541  cu. yds.     $5.43     $2,943.00
+
+              COST OF CONCRETE IN WORKING CHAMBERS.
+                                   South Caisson. (1,435 cu. yds.)
+    Materials.                     Quantity.        Rate.       Amount.
+Cement for concrete              1,666 bbls.        $1.57     $2,615.00
+Cement for mortar                  459 bbls.         1.57        720.00
+Sand for both                      670 cu. yds.       .40        268.00
+Broken stone                     1,181 cu. yds.      1.10      1,299.00
+                                 -------           ------     ---------
+    Total materials              1,435 cu. yds.     $3.42     $4,902.00
+    Labor.
+Top labor, mixing and placing    1,435 cu. yds.     $1.09     $1,575.00
+Pneumatic labor                  1,435 cu. yds.      4.93      7,117.00
+Compressor house labor           1,435 cu. yds.       .19        275.00
+                                 -------           ------     ---------
+    Total labor                  1,435 cu. yds.     $6.21     $8,967.00
+
+    Plant.
+Coal at $2.40 per ton            1,435 cu. yds.       .10        140.00
+Concrete plant                   1,435 cu. yds.       .79      1,145.00
+Pneumatic plant                  1.435 cu. yds.      1.05      1,522.00
+                                --------           ------      ---------
+    Total plant                  1,435 cu. yds.     $1.94     $2,807.00
+    Totals                       1,435 cu. yds.    $11.57    $16,676.00
+General expenses, 10%            1,435 cu. yds.      1.16      1,667.00
+                                --------          -------    ----------
+    Grand total                  1,435 cu. yds.    $12.73    $18,343.00
+
+TABLE XVIII.--ITEMIZED COST OF CONCRETING NORTH CAISSON FOR BROOKLYN TOWER OF THE WILLIAMSBURG
+BRIDGE:
+
+   COST OF CONCRETING CAISSON ABOVE ROOF (5,692 cu. yds.)
+
+    Materials.                     Quantity.        Rate.       Amount.
+Cement                           6,707½ bbls.      $1.57     $10,531.00
+Sand                             2,133  cu. yds.     .40         845.00
+Broken stone                     4,938  cu. yds.    1.10       5,432.00
+Water                                                             51.00
+                                 -------           ------     ---------
+    Total                        5,692  cu. yds.    $2.96    $16,859.00
+    Labor.
+Mixing and placing               5,692  cu. yds.    $0.73     $4,159.00
+Plant charges                                                  2,952.00
+Plant labor                                                      517.00
+                                 -------           ------     ---------
+    Total                        5,692  cu. yds.    $0.61     $3,469.00
+    Total cost                   5,692  cu. yds.    $4.30    $24,487.00
+General expenses, 10%            5,692  cu. yds.      .43      2,448.00
+    Grand total                  5,692  cu. yds.    $4.73    $26,935.00
+
+                                        COST OF CONCRETING SHAFTS.
+
+    Materials.                     Quantity.        Rate.       Amount.
+Cement                           614½ bbls.         $1.57       $965.00
+Sand                             204  cu. yds.        .40         82.00
+Stone                            521  cu. yds.       1.10        574.00
+                                 -------            ------    ---------
+    Total                        576  cu. yds.      $2.82     $1,621.00
+    Labor.
+Mixing and placing               576  cu. yds.       1.70        982.00
+Plant charges, etc.              576  cu. yds.       1.36        795.00
+                                 -------           ------     ---------
+    Total                        576  cu. yds.      $5.88     $3,398.00
+General expenses, 10%            576  cu. yds.        .59        339.00
+                                 -------           ------     ---------
+    Grand total                  576  cu. yds.       $1.51     $2,446.00
+Cement for mortar                  442  bbls.        1.51       $694.00
+Sand for both                      630  cu. yds.      .40        252.00
+Broken stone                     1,380  cu. yds.     1.10      1,518.00
+                                 -------           ------     ---------
+    Total                        1.566  cu. yds.    $3.14     $4,910.00
+    Labor.
+Top labor, mixing and placing    1,566  cu. yds.    $0.78     $1,198.00
+Pneumatic labor                  1,566  cu. yds.     4.91      7,694.00
+Compressor house labor           1,566  cu. yds.      .11        180.00
+                                 -------           ------     ---------
+    Total labor                  1,566  cu. yds.    $5.80     $9,072.00
+
+    Plant.
+Coal at $2.40 per ton            1,566  cu. yds.      .06         87.00
+Concrete plant                   1,566  cu. yds.      .86      1,352.00
+Pneumatic plant                  1,566  cu. yds.      .81      1,272.00
+                                 -------           ------     ---------
+    Total plant                  1,566  cu. yds.    $1.73     $2,711.00
+                                 -------           ------     ---------
+    Totals                       1,566  cu. yds.   $10.67    $16,693.00
+                                 -------           ------     ---------
+General expenses, 10%            1,566  cu. yds.     1.06      1,669.00
+                                 -------           ------     ---------
+    Grand total                  1,566  cu. yds.   $11.73    $18,362.00
+
+~COST OF FILLING PIER CYLINDERS.~--The following costs were obtained in mixing and placing
+concrete in steel cylinder piers. The sand and gravel were wheeled 100 ft. to the mixing board
+at the foot of the cylinder, mixed and shoveled into wooden skips, hoisted 20 ft. by horsepower
+and dumped into the cylinder. The foreman worked on the mixing board and the men worked with
+great energy. The costs were as follows:
+
+  Item--                                      Per day.    Per cu. yd.
+6 men wheeling materials and mixing at 15
+  cts. per hour                                 9.00         $0.45
+2 men dumping skips and ramming at 15 cts.
+  per hour                                      3.00          0.15
+1 team and driver at 40 cts. per hour           4.00          0.20
+1 foreman at 30 cts. per hour                   3.00          0.15
+                                               -----          ----
+    Totals                                    $19.00         $0.95
+
+~PIERS, CALF KILLER RIVER BRIDGE.~--The following methods and costs of building two new piers
+and extending three old piers with concrete are given by Mr. J. Guy Huff. The work was done
+by the railway company's masonry gangs. Figure 94 shows the arrangement of the several piers
+and the character of the work on each and Fig. 95 gives the detail dimensions of the three
+main piers.
+
+The sand and aggregate, consisting of blast furnace slag, were unloaded from cars to platforms
+on a level with the top of rail, placed about 100 ft. south from the south end of the bridge.
+A cubical 1/6 cu. yd. mixer was used. This was operated by a gasoline engine, and was located
+on a platform about 50 ft. south of the south end pier. A tank near the mixer to supply water
+was elevated enough to get the desired head, and was kept filled by a pump run by another gasoline
+engine located down by the river bank. The cement house was located between the mixer platform
+and slag pile.
+
+Slag and sand were delivered to the mixer by means of wheelbarrows. The mixer was so placed
+that it would dump onto a platform, and the concrete could then be shoveled into a specially
+designed narrow-gage car. This car ran on one rail of the main track and an extra rail outside.
+A turnout for clearing passing trains was provided at both ends of the bridge. The track over
+the bridge from the mixer had a descending grade of about 1 per cent., so that with a little
+start the concrete car would roll alone down to the required points on the bridge. Only in
+returning the empty cars to the mixer was it necessary to push them by hand, and then only
+for a distance of never more than 400 ft.
+
+Over the piers on the bridge in the center of the concrete car track openings were sawed to
+let the concrete pass to the forms below. To get the concrete into the forms, there were used
+zig-zag chutes with arms about 10 ft. long, which sections were removed as the concrete in
+the forms was increased. These chutes were a convenience by their ends alternating from one
+side to the other as the arms were removed in coming up.
+
+The cost of the concrete work was as follows:
+
+                 Unloading Material.
+                       Rate    Total days      Per cu. yd.
+                    per day.   worked. Total.   concrete.
+Foreman             $3.40         5    $17.00   $0.04
+11 laborers          1.36-8/10   52    71.14      .15
+                                                -----
+   Total for unloading material                 $0.19
+                 Building Forms, Bins, Etc.
+Foreman              $3.40     18         $61.20   $0.14
+9 carpenters          2.25    166         373.50     .81
+New lumber, 23.7 M. ft.
+  at $17.80                               421.86     .92
+Old lumber, 6 M. ft. at
+  $8.33                                    49.98     .11
+                                                   -----
+    Total for building forms, bins, etc.           $1.98
+
+              Cofferdam Excavation (45 cu. yds.)
+Foreman                 $3.40        8    $27.20   $0.06
+9 laborers               1.15 6/10  74½    86.12     .19
+                                                   -----
+       Total for cofferdam excavation              $0.25
+               Cofferdam Concrete (37 cu. yds.)
+Foreman                 $3.40        8    $27.20   $0.06
+11 laborers              1.36 3/10  79    107.68     .23
+Cofferdam lumber, 2.25
+  M. ft. at $20.00                         45.00     .09
+                                                    ----
+      Total for cofferdam concrete                 $0.38
+                Concrete Mixing and Placing.
+Foreman                 $3.40       30   $102.00   $0.22
+9 laborers               1.15 6/10 282    325.99     .71
+Cement, 452 bbls. at
+  $1.55                                   701.00    1.52
+Slag, 437 cu. yds. at $0.20                87.40     .19
+Sand, 220 cu. yds. at
+  $0.30                                    66.00     .14
+                                                   -----
+       Total for mixing and placing                $2.78
+           Taking Down Forms and Clearing Up.
+Foreman                 $3.40       13    $44.20   $0.09
+11 laborers              1.17     1.43    107.31     .36
+                                                   -----
+       Total for taking down forms, etc. $200.00   $0.45
+Engineering and supervision                          .43
+                                                   -----
+       Grand total, 460 cu. yds. concrete          $6.46
+
+The wages given are the average wages. The men worked a 10-hour day. The concrete was a 1-3-6
+mixture. The cofferdam work was done in connection with the construction of the fourth pier,
+this pier being the only one coming in the bed of the river to be built entirely new. The work
+on this was started in water about 6 ft. deep. The 37 cu. yds. of concrete is included in the
+total of 460 cu. yds. in the above tabulation. By itself the cost of the cofferdam work, not
+including cost of cement, sand and slag was as follows:
+
+                                             Per cu. yd.
+                                    Total.     Concrete.
+Lumber                            $ 45.00       $1.21
+Labor, excavating                  113.32        3.06
+Labor, concrete                    134.88        3.64
+                                                -----
+     Total 37 cu. yds. concrete                 $7.91
+
+~METHOD AND COST OF CONSTRUCTING 21 BRIDGE PIERS.~--The following account of the methods and
+cost of constructing 21 concrete piers for a railway bridge consisting of 20 50-ft. plate girder
+spans has been compiled from records kept by Mr. W. W. Colpitts, Assistant Chief Engineer,
+Kansas City, Mexico & Orient Ry. The shape and dimensions of the piers are shown by Fig. 96
+and Fig. 97 shows the construction of the forms. Sheet pile cofferdams to solid rock were used
+for constructing the foundations.
+
+The 1-3-5 concrete was mixed in a Smith mixer having a batch capacity of 9 cu. ft. The mixer
+was located on the slope of the embankment approach, with the main track at its rear and facing
+a temporary material track. This temporary track turned out from the main track about 500 ft.
+beyond the mixer and extended diagonally down the embankment approach on a 3 per cent. grade
+and across the river bottom alongside the pier sites. The portion of the track in the river
+bottom was supported on bents of spliced ties, jetted to the rock, and wired to the cofferdam
+to avoid the danger of loss in case of high water. The sand and crushed rock were delivered
+by cars from the main line track, immediately above the mixer, and the cement was stored in
+a shanty at one side of the mixer. The concrete materials and machinery were, in this manner,
+very conveniently located for rapid work and well above the high water line. The concrete was
+transported to the pier sites in improvised dump boxes, set on push cars. These dump boxes
+were hinged longitudinally and discharged directly into the cofferdams. The grade of the temporary
+track carried the push cars by gravity to the cofferdams and they were returned by teams, for
+which purpose a straw and brush road had been built paralleling the track. As the work progressed
+farther into the stream, more cars were added properly to balance the work. While the concrete
+in the base was still fresh, a number of steel reinforcing bars, 8 ft. in length, were set
+in place along each end to insure a good bond between the base and shaft.
+
+In general, the work of putting in the bases was organized so that about the same time was
+required in filling a cofferdam with concrete, in excavating the sand from the next, and in
+driving the sheet piling for the third. These three operations were thus carried on simultaneously
+and, although interruptions in one part of the work or the other occurred frequently, the gangs
+were interchangeable and no appreciable loss was suffered, except in time, because of such delays.
+
+In piers 19 and 20, where the rock was from 17 to 19 ft. below the surface, some difficulty
+was encountered due to the presence of fissures in the rock, from which it was necessary to
+remove the sand to fill with concrete. In such cases, the larger leaks were stopped as much
+as possible by driving sheet piles against the outside face of the cofferdam and into the fissures,
+and the smaller leaks by manure in canvas bags rammed into the openings.
+
+Upon the completion of all the bases, the forms for several shafts were set in position and
+the work of filling with concrete proceeded as in the case of the bases, except that a derrick
+erected on a flat car and stationed at the pier was utilized to raise the dump boxes in depositing
+the concrete in the forms. As soon as the concrete in one shaft had set sufficiently to permit
+of it, the forms were removed and placed on the pier ahead. Four sets of forms were used for
+the shafts.
+
+The following are the average prices paid for materials and labor:
+
+Materials.--Lumber for forms, etc., $16.50 per M. ft., B. M.; cement, Kansas Portland, $1.50
+per bbl.; broken limestone, 45c per cu. yd.; sand, Arkansas River, 15c per ton.
+
+Labor.--General foreman, $110 per month; assistant foreman, $75 per month; timekeeper, $60
+per month; riveters, 35c per hour; blacksmith, 30c per hour; blacksmith assistant, 20c per
+hour; carpenters, 22½c and 25c per hour; enginemen, 25c per hour; firemen, 20c per hour; night
+watchman, 20c per hour; laborers, 17½c and 20c per hour; team (including driver), 40c per hour.
+The prices quoted for lumber, cement, limestone and sand are prices f. o. b., Louisiana, Iola,
+Kan., El Dorado, Kan., and Wichita, Kan.
+
+The total and unit cost of constructing the concrete piers and abutments and of erecting the
+steel superstructure are given in the following tabulation. Altogether there was about 2,300
+cu. yds. of concrete in the substructure, most of which, as stated above, was a 1-3-5 mixture.
+
+  Machinery and Supplies.
+Concrete mixer, 20% of cost                          $ 152.10
+Supplies, freight, hauling, setting up                 505.04
+                                                     --------
+      Total                                          $ 657.14
+Centrifugal sand pump, 20% of cost                   $  27.00
+Supplies, freight, hauling, setting up                 277.50
+Rent of traction engine to operate                      83.25
+                                                     --------
+      Total                                          $ 387.75
+Water pump and pipe, 20% of cost                     $  29.00
+Supplies, freight, hauling, setting up                 177.32
+                                                     --------
+      Total                                          $ 206.32
+Pile driver engine, 20% of cost                      $ 100.00
+Supplies, freight, hauling, setting up                 243.65
+                                                     --------
+      Total                                          $ 343.65
+                                                     --------
+      Grand total                                   $1,594.86
+  Cofferdams.
+Materials, lumber and nails                         $1,285.26
+Freight and train haul                                 306.33
+Labor making piles                                     696.82
+Labor driving piles                                  1,384.05
+                                                    ---------
+      Total                                         $3,672.46
+
+The sheet piling took 63,500 ft. B. M. of lumber; the cost per 1,000 ft. B. M. for the sheet
+piling was then:
+
+Materials, lumber and nails                         $  20.08
+Freight and haulage                                     4.82
+Labor making piles                                     10.97
+Labor driving piles                                    21.80
+                                                    --------
+Total                                               $  57.67
+
+  Forms, Platforms and Runways.
+Lumber, hardware, etc.                             $  224.59
+Freight and train haul.                                40.20
+Labor making, removing and placing.                   556.51
+                                                   ---------
+     Total                                         $  821.30
+  Concrete Materials.
+Cement, freight, unloading and storing.            $4,617.48
+Sand, freight, unloading, etc.                      1,336.05
+Broken stone, freight, unloading, etc.              2,026.92
+                                                   ---------
+     Total                                         $7,980.45
+
+This gives us for 2,300 cu. yds. of concrete a cost of $3.47 per cu. yd. for materials, including
+freight, storage, and unloading charges of all kinds. A line on the proportion of the cost
+contributed by these latter items may be got by taking the prices of the materials f. o. b.
+at the places of production and assuming the proportions for a 1-3-5 concrete. According to
+tables in Chapter II, a 1-3-5 broken stone concrete requires per cubic yard 1.13 bbls. cement,
+0.48 cu. yd. sand and 0.80 cu. yd. broken stone. We have then:
+
+1.13 bbls. cement, at $1.50       $1.69
+0.48 cu. yd. sand, at 20c           .10
+0.80 cu. yd. stone, at 45c          .36
+                                  -----
+      Total                       $2.15
+
+This leaves a charge of $1.32 per cubic yard of concrete for freight and handling materials.
+The cost of mixing concrete and placing it in the forms was $3,490.87, or $1.52 per cu. yd.
+We have then:
+
+Cost of concrete materials per cu. yd.       $3.47
+Cost of mixing and placing concrete.          1.52
+                                             -----
+      Total.                                 $4.99
+
+The miscellaneous expenses of the work comprised:
+
+Watchman, tools, telephone, etc.            $  722.48
+Shanties, furnishings, supplies, etc.          829.04
+                                            ---------
+      Total.                                $1,551.52
+
+To this has to be added $1,134.28, the cost of excavating the cofferdams. The total and unit
+costs of the different items of the concrete substructure work can now be summarized as follows:
+
+  Item.                           Total.     Per cu. yd. These figures
+are of particular interest, for the variation in prices of materials
+during the two-year period while work was in progress and as giving the
+average cost of the work on the whole line as well as for individual
+structures. The culverts were all box culverts with wing walls and the
+abutments were for girder bridges. Walls and abutments were of L section
+with triangular or trapezoidal counterforts at the back between base
+slab and coping. The form work was thus rather complex.
+
+All work was reinforced concrete, and was done by contract under the following conditions:
+The work of preparing foundations, including excavation, pile driving, diversions of streams,
+etc., was done by the railroad company, which also bore one-half the cost of keeping foundations
+dry while forms were being built and concrete placed. The railroad company also furnished the
+reinforcing bars at the site of each opening. The concrete work was let at $9 per cu. yd.,
+which figure covered all the labor and materials necessary to complete the work, other than
+the exceptions mentioned. The concrete proportions were 1-3-5. The cement used was Iola Portland
+and Atlas Portland. The sand was obtained from the bed of the Kansas River in Kansas City.
+The rock used was crushed limestone, passing a 2-in. ring and freed from dust by screening.
+Corrugated reinforcing bars, having an elastic limit of from 50,000 to 60,000 lbs. per sq.
+in., manufactured by the Expanded Metal & Corrugated Bar Co. of St. Louis, Mo., were used exclusively.
+The concrete in the smaller structures was mixed by hand, in the larger by a No. 1 Smith mixer.
+In the first structures built 2-in. form lumber was used, with 2 by 6-in. studs placed 3 ft.
+on centers. This was abandoned later for 1-in. lumber with 2 by 6-in. studs, 12 ins. on centers,
+and was found to be more satisfactory in producing a better face. The structures were built
+in the period from April, 1905, to May, 1907.
+
+The cost of materials and the wages paid labor were as follows:
+
+  Cement--
+Per barrel at structure, April, 1905              $1.25
+Per barrel at structure, April, 1907               1.92
+Average cost per barrel at mill                    1.42
+Freight per barrel                                 0.21
+Hauling 1½ miles and storage                       0.12
+Average cost at structure                          1.75
+Average cost per cu. yd. concrete (1.1 bbls.)      1.93
+  Sand--
+Per cu. yd. at structure, April, 1905             $0.625
+Per cu. yd. at structure, April, 1907              0.75
+Average cost per cu. yd., river bank               0.30
+Freight per cu. yd                                 0.22
+Hauling 1½ miles                                   0.20
+Average cost at structure                          0.72
+Average cost per cu. yd. concrete (½ cu. yd.)      0.36
+  Stone--
+Per cu. yd. at structure, April, 1905            $1.10
+Per cu. yd. at structure, April, 1907             1.75
+Average cost per cu. yd. at crusher               0.65
+Hauling 4 miles                                   0.84
+Average cost at structure                         1.49
+Average cost per cu. yd. concrete (0.9 cu. yd.)   1.34
+
+Lumber--
+
+Per M. ft. at structure, April, 1905            $15.00 Per M. ft. at structure, April, 1907
+22.50 Average cost per M. at structure                 19.00 Average cost per cu. yd. concrete
+0.49
+
+Labor--                                    Max.   Min.
+
+Common labor, cts. per hour                  20     17 Carpenters, cts. per hour          
+40     30
+
+With these prices and wages the average cost of concrete work for the whole line was:
+
+Item.                                   Per cu. yd.
+Form building and removing                    $1.98
+Mixing and placing concrete                    0.74
+Placing reinforcement                          0.10
+Wire, nails, water, etc.                       0.20
+1.1 bbls. cement at $1.75                      1.93
+½ cu. yd. sand at $0.72                        0.36
+0.9 cu. yd. stone at $1.49                     1.34
+Lumber for forms                               0.49
+                                             ------
+Total                                         $7.14
+
+The following are the costs of specific structures built at different times:
+
+Example I.--Indian Creek Culvert. 14×15 ft., 250 long, completed November, 1905:
+
+                              Per cu. yd.
+Cement                              $1.37
+Sand                                  .34
+Stone                                1.10
+Labor                                2.48
+Lumber                                .76
+Miscellaneous                         .18
+
+Total                               $6.23
+
+Example II.--Third Street Abutments and Retaining Wall. Completed November, 1906:
+
+                               Per cu. yd.
+Cement                               $1.78
+Sand                                   .35
+Stone                                 1.35
+Lumber                                 .74
+Labor                                 2.75
+Miscellaneous                          .16
+                                     -----
+Total                                $7.13
+
+Example III.--Abutments, Overhead Crossing with Union Pacific and Rock Island. Completed May, 1907:
+
+                               Per cu. yd.
+Cement                               $1.92
+Sand                                   .32
+Stone                                 1.74
+Lumber                                 .98
+Labor                                 2.96
+Miscellaneous                          .16
+                                     -----
+Total                                $8.08
+
+~COST OF PLATE GIRDER BRIDGE ABUTMENTS.~--The following record of the construction of 20 abutments
+for 10 four-track plate girder bridges over streets in Chicago, Ill., are given by Mr. W. A.
+Rogers. The work was done between May 1 and Oct. 1, 1898, in which time 8,400 cu. yds. of concrete
+were placed, all the work being done by company labor. The forms were made of 2-in. plank and
+6×6-in. posts bolted together at the top and bottom with ¾-in. rods. The lumber was used over
+and over again. When the dressed plank became too poor for the face it was used for the back.
+The concrete was 1 Portland cement, 3 gravel and 4 to 4½ limestone (crusher run up to 3-in.
+size). A mortar face 1½ ins. thick was built up with the rest of the concrete. The concrete
+was made quite wet, and each man ramming averaged 18 cu. yds. a day rammed. The concrete was
+mixed by a machine of the Ransome type, operated by a 12-HP. portable gasoline engine. The
+load was very light for the engine, and 8 HP. would have been sufficient. The engine made 235
+revolutions per minute, and the pulley wheels were proportioned so that the mixer made 12 revs,
+per minute. One gallon of gasoline was used per hour, and the mixing was carried on day and
+night so as not to give the concrete time to set. The time required for each batch was 2 to
+3 mins., and about ½ cu. yd. of concrete was delivered per batch. The average output was 70
+cu. yds. per 10-hr, shift, with a crew of 28 men; but as high as 96 cu. yds. were mixed in
+10 hrs. The concrete was far superior to hand mixed concrete. The water for the concrete was
+measured in an upright tank and discharged by a pipe into the mixer. The sand and stone were
+delivered to the mixer in wheelbarrows, and the concrete was taken away in wheelbarrows. No
+derricks were used at all. Each wheelbarrow of concrete was raised by a rope passing over a
+pulley at the top of a gallows frame, one horse and a driver serving for this raising. A small
+gasoline hoisting engine would have been more satisfactory than the horse which was worked
+to its full capacity. After the barrows were raised (12 ft.), they were wheeled to the abutment
+forms and dumped. The empty wheelbarrows were lowered by hand, by means of a rope passing over
+a sheave and provided with a counterweight to check the descent of the barrow. The cost of
+the concrete (built by company labor) was as follows:
+
+                                         Per cu. yd.
+
+Cement, gravel and stone delivered            $3.28
+Material in forms (used many time)              .11
+Carpenters building and taking down forms       .34
+Labor                                          1.18
+                                              -----
+Total per cu. yd                              $4.91
+
+The labor cost includes moving plant from one bridge to the next, building runways, gasoline
+for engine, oil for lights at night and unloading materials, as well as mixing, transporting
+and placing concrete. Wages were $1.75 per 10-hour day for laborers and $2.50 for carpenters.
+
+~COST OF ABUTMENTS AND PIERS, LONESOME VALLEY VIADUCT.~--Mr. Gustave R. Tuska gives the following
+on the concrete substructure of the Lonesome Valley Viaduct, near Knoxville, Tenn. There were
+two U-shaped abutments and 36 concrete piers made of a light limestone that deteriorates rapidly
+when used for masonry. Derricks were not needed as would have been the case with masonry piers,
+and colored labor at $1 for 11 hrs. could be used. The piers were made 4 ft. square on top,
+from 5 to 16 ft. high, and with a batter of 1 in. to the foot. The abutments average 26 ft.
+high, 26 ft. long on the face, with wing walls 27 ft. long; the wall at the bridge seat is
+5 ft. thick, and the wing walls are 3½ ft. wide on top. Batters are 1 in. to the foot.
+
+The forms were made of 2-in. tongued and grooved plank, braced by posts of 2×10-in. plank placed
+3 ft. c. to c. for the abutments, and at each corner for the piers. At the corners one side
+was dapped into the other, so as to prevent leakage of cement. The posts were braced by batter
+posts from the earth. For the piers a square frame was dropped over the forms and spiked to
+the posts. The abutment forms were built up as the concreting progressed. The north abutment
+forms were made in sections 6 ft. high, held by ¾-in. bolts buried in the concrete. The lower
+sections were removed and used again on the upper part of the work, thus saving plank. The
+inside of forms was painted with a thin coat of crude black oil. The same form was used for
+several piers.
+
+The concrete was 1-2-5, the barrel being the unit of measure, making about ¾ cu. yd. of concrete
+per batch. The mortar was mixed with hoes, but shovels were used to mix in the stone. By passing
+the blade of a shovel between the form and the concrete, the stone was forced back and a smooth
+mortar face was secured. Rammers weighing 30 to 40 lbs. were used for tamping. Two days after
+the completion of a pier the forms were removed. The concrete was protected from the sun by
+twigs, and was watered twice a day for a week. It was found by actual measurement that 1 cu.
+yd. Of concrete (1-2-5), the ingredients being measured in barrels, consisted of 1¼ bbls. of
+Atlas cement, 10 cu. ft. of sand, and 26½ cu. ft. of stone. The total amount of concrete was
+926 cu. yds. of which two-thirds was in the two abutments. The work was done (in 1894) by contract,
+for $7 per cu. yd., cement costing $2.80 per bbl., sand 30 cts. per cu. yd., and wages $1 a
+day. A slight profit was made at this price. A gang of 15 men and a foreman would mix and lay
+about 40 cu. yds. in 11 hrs. when not delayed by lack of materials. The cost of making the
+concrete, with wages at $1 a day, was:
+
+                                                 Cts. per cu. yd.
+1 man filling sand barrels and handling water        2.7
+2 men filling rock barrels                           5.4
+4 men mixing sand and cement                        10.6
+4 men mixing stone and mortar                       10.6
+2 men wheeling concrete                              5.3
+1 man spreading concrete                             2.7
+1 man tamping                                        2.7
+1 foreman                                            5.0
+                                                    ----
+Total labor                                         45.0
+
+~COST OF HAND MIXING AND WHEELBARROW WORK FOR FOUR BRIDGE PIERS.~--The following figures of
+the cost of hand-mixed concrete for bridge piers and abutments are given by Mr. Fred R. Charles
+of Richmond, Ind. The figures cover three jobs. All concrete was mixed by hand and with one
+exception noted below was moved to place in wheelbarrows. The concrete was a 1-2½-5½ mixture.
+In this connection it is well to note that in one or two of the jobs where the proportion of
+the aggregate seems too small for the yardage of concrete the difference is accounted for by
+the fact that large stones were placed in the foundations, these stone being on the ground
+and costing nothing but the labor to throw them in.
+

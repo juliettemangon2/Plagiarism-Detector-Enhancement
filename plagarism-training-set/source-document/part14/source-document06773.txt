@@ -1,0 +1,282 @@
+﻿In spite of all these theoretical--and some practical--advantages the four-stroke cycle engine
+was universally adopted for aircraft work; owing to the practical equality of the two principles
+of operation, so far as thermal efficiency and friction losses are concerned, there is no doubt
+that the simplicity of design (in theory) and high power output to weight ratio (also in theory)
+ought to have given the 'two-stroke' a place on the aeroplane. But this engine has to be developed
+so as to overcome its inherent drawbacks; better scavenging methods have yet to be devised--for
+this is the principal drawback--before the two-stroke can come to its own as a prime mover
+for aircraft.
+
+Mr Dugald Clerk's original two-stroke cycle engine is indicated roughly, as regards principle,
+by the accompanying diagram, from which it will be seen that the elimination of the ordinary
+inlet and exhaust valves of the four-stroke type is more than compensated by a separate cylinder
+which, having a piston worked from the connecting-rod of the power cylinder, was used to charging,
+drawing the mixture from the carburettor past the valve in the top of the charging cylinder,
+and then forcing it through the connecting pipe into the power cylinder. The inlet valves both
+on the charging and the power cylinders are automatic; when the power piston is near the bottom
+of its stroke the piston in the charging cylinder is compressing the carburetted air, so that
+as soon as the pressure within the power cylinder is relieved by the exit of the burnt gases
+through the exhaust ports the pressure in the charging cylinder causes the valve in the head
+of the power cylinder to open, and fresh mixture flows into the cylinder, replacing the exhaust
+gases. After the piston has again covered the exhaust ports the mixture begins to be compressed,
+thus automatically closing the inlet valve. Ignition occurs near the end of the compression
+stroke, and the working stroke immediately follows, thus giving an impulse to the crankshaft
+on every down stroke of the piston. If the scavenging of the cylinder were complete, and the
+cylinder were to receive a full charge of fresh mixture for every stroke, the same mean effective
+pressure as is obtained with four-stroke cycle engines ought to be realised, and at an equal
+speed of rotation this engine should give twice the power obtainable from a four-stroke cycle
+engine of equal dimensions. This result was not achieved, and, with the improvements in construction
+brought about by experiment up to 1912, the output was found to be only about fifty per cent
+more than that of a four-stroke cycle engine of the same size, so that, when the charging cylinder
+is included, this engine has a greater weight per horse-power, while the lowest rate of fuel
+consumption recorded was 0.68 lb. per horse-power per hour.
+
+In 1891 Mr Day invented a two-stroke cycle engine which used the crank case as a scavenging
+chamber, and a very large number of these engines have been built for industrial purposes.
+The charge of carburetted air is drawn through a non-return valve into the crank chamber during
+the upstroke of the piston, and compressed to about 4 lbs. pressure per square inch on the
+down stroke. When the piston approaches the bottom end of its stroke the upper edge first overruns
+an exhaust port, and almost immediately after uncovers an inlet port on the opposite side of
+the cylinder and in communication with the crank chamber; the entering charge, being under
+pressure, assists in expelling the exhaust gases from the cylinder. On the next upstroke the
+charge is compressed into the combustion space of the cylinder, a further charge simultaneously
+entering the crank case to be compressed after the ignition for the working stroke. To prevent
+the incoming charge escaping through the exhaust ports of the cylinder a deflector is formed
+on the top of the piston, causing the fresh gas to travel in an upward direction, thus avoiding
+as far as possible escape of the mixture to the atmosphere. From experiments conducted in 1910
+by Professor Watson and Mr Fleming it was found that the proportion of fresh gases which escaped
+unburnt through the exhaust ports diminished with increase of speed; at 600 revolutions per
+minute about 36 per cent of the fresh charge was lost; at 1,200 revolutions per minute this
+was reduced to 20 per cent, and at 1,500 revolutions it was still farther reduced to 6 per cent.
+
+So much for the early designs. With regard to engines of this type specially constructed for
+use with aircraft, three designs call for special mention. Messrs A. Gobe and H. Diard, Parisian
+engineers, produced an eight-cylindered two-stroke cycle engine of rotary design, the cylinders
+being co-axial. Each pair of opposite pistons was secured together by a rigid connecting rod,
+connected to a pin on a rotating crankshaft which was mounted eccentrically to the axis of
+rotation of the cylinders. The crankshaft carried a pinion gearing with an internally toothed
+wheel on the transmission shaft which carried the air-screw. The combustible mixture, emanating
+from a common supply pipe, was led through conduits to the front ends of the cylinders, in
+which the charges were compressed before being transferred to the working spaces through ports
+in tubular extensions carried by the pistons. These extensions had also exhaust ports, registering
+with ports in the cylinder which communicated with the outer air, and the extensions slid over
+depending cylinder heads attached to the crank case by long studs. The pump charge was compressed
+in one end of each cylinder, and the pump spaces each delivered into their corresponding adjacent
+combustion spaces. The charges entered the pump spaces during the suction period through passages
+which communicated with a central stationary supply passage at one end of the crank case, communication
+being cut off when the inlet orifice to the passage passed out of register with the port in
+the stationary member. The exhaust ports at the outer end of the combustion space opened just
+before and closed a little later than the air ports, and the incoming charge assisted in expelling
+the exhaust gases in a manner similar to that of the earlier types of two-stroke cycle engine;
+The accompanying rough diagram assists in showing the working of this engine.
+
+Exhibited in the Paris Aero Exhibition of 1912, the Laviator two-stroke cycle engine, six-cylindered,
+could be operated either as a radial or as a rotary engine, all its pistons acting on a single
+crank. Cylinder dimensions of this engine were 3.94 inches bore by 5.12 inches stroke, and
+a power output of 50 horse-power was obtained when working at a rate of 1,200 revolutions per
+minute. Used as a radial engine, it developed 65 horse-power at the same rate of revolution,
+and, as the total weight was about 198 lbs., the weight of about 3 lbs. per horse-power was
+attained in radial use. Stepped pistons were employed, the annular space between the smaller
+or power piston and the walls of the larger cylinder being used as a charging pump for the
+power cylinder situated 120 degrees in rear of it. The charging cylinders were connected by
+short pipes to ports in the crank case which communicated with the hollow crankshaft through
+which the fresh gas was supplied, and once in each revolution each port in the case registered
+with the port in the hollow shaft. The mixture which then entered the charging cylinder was
+transferred to the corresponding working cylinder when the piston of that cylinder had reached
+the end of its power stroke, and immediately before this the exhaust ports diametrically opposite
+the inlet ports were uncovered; scavenging was thus assisted in the usual way. The very desirable
+feature of being entirely valveless was accomplished with this engine, which is also noteworthy
+for exceedingly compact design.
+
+The Lamplough six-cylinder two-stroke cycle rotary, shown at the Aero Exhibition at Olympia
+in 1911, had several innovations, including a charging pump of rotary blower type. With the
+six cylinders, six power impulses at regular intervals were given on each rotation; otherwise,
+the cycle of operations was carried out much as in other two-stroke cycle engines. The pump
+supplied the mixture under slight pressure to an inlet port in each cylinder, which was opened
+at the same time as the exhaust port, the period of opening being controlled by the piston.
+The rotary blower sucked the mixture from the carburettor and delivered it to a passage communicating
+with the inlet ports in the cylinder walls. A mechanically-operated exhaust valve was placed
+in the centre of each cylinder head, and towards the end of the working stroke this valve opened,
+allowing part of the burnt gases to escape to the atmosphere; the remainder was pushed out
+by the fresh mixture going in through the ports at the bottom end of the cylinder. In practice,
+one or other of the cylinders was always taking fresh mixture while working, therefore the
+delivery from the pump was continuous and the mixture had not to be stored under pressure.
+
+The piston of this engine was long enough to keep the ports covered when it was at the top
+of the stroke, and a bottom ring was provided to prevent the mixture from entering the crank
+case. In addition to preventing leakage, this ring no doubt prevented an excess of oil working
+up the piston into the cylinder. As the cylinder fired with every revolution, the valve gear
+was of the simplest construction, a fixed cam lifting each valve as the cylinder came into
+position. The spring of the exhaust valve was not placed round the stem in the usual way, but
+at the end of a short lever, away from the heat of the exhaust gases. The cylinders were of
+cast steel, the crank case of aluminium, and ball-bearings were fitted to the crankshaft, crank
+pins, and the rotary blower pump. Ignition was by means of a high-tension magneto of the two-spark
+pattern, and with a total weight of 300 lbs. the maximum output was 102 brake horse-power,
+giving a weight of just under 3 lbs. per horse-power.
+
+One of the most successful of the two-stroke cycle engines was that designed by Mr G. F. Mort
+and constructed by the New Engine Company. With four cylinders of 3.69 inches bore by 4.5 inches
+stroke, and running at 1,250 revolutions per minute, this engine developed 50 brake horse-power;
+the total weight of the engine was 155 lbs., thus giving a weight of 3.1 lbs. per horse-power.
+A scavenging pump of the rotary type was employed, driven by means of gearing from the engine
+crankshaft, and in order to reduce weight to a minimum the vanes were of aluminium. This engine
+was tried on a biplane, and gave very satisfactory results.
+
+American design yields two apparently successful two-stroke cycle aero engines. A rotary called
+the Fredericson engine was said to give an output of 70 brake horse-power with five cylinders
+4.5 inches diameter by 4.75 inches stroke, running at 1,000 revolutions per minute. Another,
+the Roberts two-stroke cycle engine, yielded 100 brake horse-power from six cylinders of the
+stepped piston design; two carburettors, each supplying three cylinders, were fitted to this
+engine. Ignition was by means of the usual high-tension magneto, gear-driven from the crankshaft,
+and the engine, which was water-cooled, was of compact design.
+
+It may thus be seen that the two-stroke cycle type got as far as actual experiment in air work,
+and that with considerable success. So far, however, the greater reliability of the four-stroke
+cycle has rendered it practically the only aircraft engine, and the two-stroke has yet some
+way to travel before it becomes a formidable competitor, in spite of its admitted theoretical
+and questioned practical advantages.
+
+VII. ENGINES OF THE WAR PERIOD
+
+The principal engines of British, French, and American design used in the war period and since
+are briefly described under the four distinct types of aero engine; such notable examples as
+the Rolls-Royce, Sunbeam, and Napier engines have been given special mention, as they embodied--and
+still embody--all that is best in aero engine practice. So far, however, little has been said
+about the development of German aero engine design, apart from the early Daimler and other
+pioneer makes.
+
+At the outbreak of hostilities in 1914, thanks to subsidies to contractors and prizes to aircraft
+pilots, the German aeroplane industry was in a comparatively flourishing condition. There were
+about twenty-two establishments making different types of heavier-than-air machines, monoplane
+and biplane, engined for the most part with the four-cylinder Argus or the six-cylinder Mercedes
+vertical type engines, each of these being of 100 horse-power--it was not till war brought
+increasing demands on aircraft that the limit of power began to rise. Contemporary with the
+Argus and Mercedes were the Austro-Daimler, Benz, and N.A.G., in vertical design, while as
+far as rotary types were concerned there were two, the Oberursel and the Stahlhertz; of these
+the former was by far the most promising, and it came to virtual monopoly of the rotary-engined
+plane as soon as the war demand began. It was practically a copy of the famous Gnome rotary,
+and thus deserves little description.
+
+Germany, from the outbreak of war, practically, concentrated on the development of the Mercedes
+engine; and it is noteworthy that, with one exception, increase of power corresponding with
+the increased demand for power was attained without increasing the number of cylinders. The
+various models ranged between 75 and 260 horse-power, the latter being the most recent production
+of this type. The exception to the rule was the eight-cylinder 240 horse-power, which was replaced
+by the 260 horse-power six-cylinder model, the latter being more reliable and but very slightly
+heavier. Of the other engines, the 120 horsepower Argus and the 160 and 225 horse-power Benz
+were the most used, the Oberursel being very largely discarded after the Fokker monoplane had
+had its day, and the N.A.G. and Austro-Daimler Daimler also falling to comparative disuse.
+It may be said that the development of the Mercedes engine contributed very largely to such
+success as was achieved in the war period by German aircraft, and, in developing the engine,
+the builders were careful to make alterations in such a way as to effect the least possible
+change in the design of aeroplane to which they were to be fitted. Thus the engine base of
+the 175 horse-power model coincided precisely with that of the 150 horse-power model, and the
+200 and 240 horse-power models retained the same base dimensions. It was estimated, in 1918,
+that well over eighty per cent of German aircraft was engined with the Mercedes type.
+
+In design and construction, there was nothing abnormal about the Mercedes engine, the keynote
+throughout being extreme reliability and such simplification of design as would permit of mass
+production in different factories. Even before the war, the long list of records set up by
+this engine formed practical application of the wisdom of this policy; Bohn's flight of 24
+hours 10 minutes, accomplished on July 10th and 11th, 1914, 9is an instance of this--the flight
+was accomplished on an Albatross biplane with a 75 horsepower Mercedes engine. The radial type,
+instanced in other countries by the Salmson and Anzani makes, was not developed in Germany;
+two radial engines were made in that country before the war, but the Germans seemed to lose
+faith in the type under war conditions, or it may have been that insistence on standardisation
+ruled out all but the proved examples of engine.
+
+Details of one of the middle sizes of Mercedes motor, the 176 horse-power type, apply very
+generally to the whole range; this size was in use up to and beyond the conclusion of hostilities,
+and it may still be regarded as characteristic of modern (1920) German practice. The engine
+is of the fixed vertical type, has six cylinders in line, not off-set, and is water-cooled.
+The cam shaft is carried in a special bronze casing, seated on the immediate top of the cylinders,
+and a vertical shaft is interposed between crankshaft and camshaft, the latter being driven
+by bevel gearing.
+
+On this vertical connecting-shaft the water pump is located, serving to steady the motion of
+the shaft. Extending immediately below the camshaft is another vertical shaft, driven by bevel
+gears from the crank-shaft, and terminating in a worm which drives the multiple piston oil pumps.
+
+The cylinders are made from steel forgings, as are the valve chamber elbows, which are machined
+all over and welded together. A jacket of light steel is welded over the valve elbows and attached
+to a flange on the cylinders, forming a water-cooling space with a section of about 7/16 of
+an inch. The cylinder bore is 5.5 inches, and the stroke 6.29 inches. The cylinders are attached
+to the crank case by means of dogs and long through bolts, which have shoulders near their
+lower ends and are bolted to the lower half of the crank chamber. A very light and rigid structure
+is thus obtained, and the method of construction won the flattery of imitation by makers of
+other nationality.
+
+The cooling system for the cylinders is extremely efficient. After leaving the water pump,
+the water enters the top of the front cylinders and passes successively through each of the
+six cylinders of the row; short tubes, welded to the tops of the cylinders, serve as connecting
+links in the system. The Panhard car engines for years were fitted with a similar cooling system,
+and the White and Poppe lorry engines were also similarly fitted; the system gives excellent
+cooling effect where it is most needed, round the valve chambers and the cylinder heads.
+
+The pistons are built up from two pieces; a dropped forged steel piston head, from which depend
+the piston pin bosses, is combined with a cast-iron skirt, into which the steel head is screwed.
+Four rings are fitted, three at the upper and one at the lower end of the piston skirt, and
+two lubricating oil grooves are cut in the skirt, in addition to the ring grooves. Two small
+rivets retain the steel head on the piston skirt after it has been screwed into position, and
+it is also welded at two points. The coefficient of friction between the cast-iron and steel
+is considerably less than that which would exist between two steel parts, and there is less
+tendency for the skirt to score the cylinder walls than would be the case if all steel were
+used--so noticeable is this that many makers, after giving steel pistons a trial, discarded
+them in favour of cast-iron; the Gnome is an example of this, being originally fitted with
+a steel piston carrying a brass ring, discarded in favour of a cast-iron piston with a percentage
+of steel in the metal mixture. In the Le Rhone engine the difficulty is overcome by a cast-iron
+liner to the cylinders.
+
+The piston pin of the Mercedes is of chrome nickel steel, and is retained in the piston by
+means of a set screw and cotter pin. The connecting rods, of I section, are very short and
+rigid, carrying floating bronze bushes which fit the piston pins at the small end, and carrying
+an oil tube on each for conveying oil from the crank pin to the piston pin.
+
+The crankshaft is of chrome nickel steel, carried on seven bearings. Holes are drilled through
+each of the crank pins and main bearings, for half the diameter of the shaft, and these are
+plugged with pressed brass studs. Small holes, drilled through the crank cheeks, serve to convey
+lubricant from the main bearings to the crank pins. The propeller thrust is taken by a simple
+ball thrust bearing at the propeller end of the crankshaft, this thrust bearing being seated
+in a steel retainer which is clamped between the two halves of the crank case. At the forward
+end of the crankshaft there is mounted a master bevel gear on six splines; this bevel floats
+on the splines against a ball thrust bearing, and, in turn, the thrust is taken by the crank
+case cover. A stuffing box prevents the loss of lubricant out of the front end of the crank
+chamber, and an oil thrower ring serves a similar purpose at the propeller end of the crank
+chamber.
+
+With a motor speed of 1,450 r.p.m., the vertical shaft at the forward end of the motor turns
+at 2,175 r.p.m., this being the speed of the two magnetos and the water pump. The lower vertical
+shaft bevel gear and the magneto driving gear are made integral with the vertical driving shaft,
+which is carried in plain bearings in an aluminium housing. This housing is clamped to the
+upper half of the crank case by means of three studs. The cam-shaft carries eighteen cams,
+these being the inlet and exhaust cams, and a set of half compression cams which are formed
+with the exhaust cams and are put into action when required by means of a lever at the forward
+end of the cam-shaft. The cam-shaft is hollow, and serves as a channel for the conveyance of
+lubricating oil to each of the camshaft bearings. At the forward end of this shaft there is
+also mounted an air pump for maintaining pressure on the fuel supply tank, and a bevel gear
+tachometer drive.
+
+Lubrication of the engine is carried out by a full pressure system. The oil is pumped through
+a single manifold, with seven branches to the crankshaft main bearings, and then in turn through
+the hollow crankshaft to the connecting-rod big ends and thence through small tubes, already
+noted, to the small end bearings. The oil pump has four pistons and two double valves driven
+from a single eccentric shaft on which are mounted four eccentrics. The pump is continuously
+submerged in oil; in order to avoid great variations in pressure in the oil lines there is
+a piston operated pressure regulator, cut in between the pump and the oil lines. The two small
+pistons of the pump take fresh oil from a tank located in the fuselage of the machine; one
+of these delivers oil to the cam shaft, and one delivers to the crankshaft; this fresh oil
+mixes with the used oil, returns to the base, and back to the main large oil pump cylinders.
+By means of these small pump pistons a constant quantity of oil is kept in the motor, and the
+oil is continually being freshened by means of the new oil coming in. All the oil pipes are
+very securely fastened to the lower half of the crank case, and some cooling of the oil is
+effected by air passing through channels cast in the crank case on its way to the carburettor.
+
+A light steel manifold serves to connect the exhaust ports of the cylinders to the main exhaust
+pipe, which is inclined about 25 degrees from vertical and is arranged to give on to the atmosphere
+just over the top of the upper wing of the aeroplane.
+
+As regards carburation, an automatic air valve surrounds the throat of the carburettor, maintaining
+normal composition of mixture. A small jet is fitted for starting and running without load.
+The channels cast in the crank chamber, already alluded to in connection with oil-cooling,
+serve to warm the air before it reaches the carburettor, of which the body is water-jacketed.
+

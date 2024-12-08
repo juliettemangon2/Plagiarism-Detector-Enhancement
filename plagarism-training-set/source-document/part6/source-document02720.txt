@@ -1,0 +1,166 @@
+﻿Strafversetzung, Disziplinarstrafe, welche in der Versetzung eines Beamten in ein andres Amt
+von gleichem Rang besteht; zumeist mit einer Schmälerung des Gehalts verbunden, welche z. B.
+nach dem deutschen Reichsbeamtengesetz vom 31. März 1873, § 75, nicht über ein Fünftel des
+Diensteinkommens betragen soll. Statt der Verminderung des Diensteinkommens kann auch eine
+Geldstrafe ausgesprochen werden, welche ein Drittel des jährlichen Diensteinkommens nicht übersteigt.
+
+Strafverzeichnis, s. Strafregister.
+
+Strafvollstreckung, s. Zwangsvollstreckung.
+
+Strafzwang, s. Strafrecht, S. 362.
+
+Stragelkaffee, s. Astragalus.
+
+Strahl, Vogel, s. Star.
+
+Strahlapparate, mechanische Vorrichtungen zum Heben oder Fortschaffen von flüssigen, gasförmigen
+oder körnigen und schlammigen Körpern mittels eines unter Druck, also mit einer gewissen Geschwindigkeit,
+ausströmenden Strahls einer Flüssigkeit oder Luftart. Die hierbei erforderliche Bewegungsübertragung
+von der bewegenden auf die Förderflüssigkeit findet nicht, wie etwa bei den Kolbenpumpen, durch
+direkten Druck, sondern durch die bei der Ausströmung angesammelte lebendige Kraft statt. An
+Fig. 1 läßt sich der Vorgang erklären. Der aus dem kegelförmigen Mundstück (Düse) M des Rohrs
+A austretende Strahl reißt die ihn umgebende Flüssigkeit, welche durch das Rohr B in den Raum
+D gelangen kann, mit sich in die Mündung (Fangdüse) des Rohrs C fort. Die beim Eintritt in
+das Rohr C in der Mischflüssigkeit vorhandene Geschwindigkeit wird durch allmähliche Erweiterung
+von C in Druck umgewandelt, welcher die Überwindung einer gewissen Steighöhe oder das Eindringen
+in einen unter Druck stehenden Raum gestattet. Bei der Übertragung der Geschwindigkeit von
+der bewegenden auf die bewegte Flüssigkeit finden bedeutende Kraftverluste statt, welche den
+Nutzeffekt der S. um so ungünstiger beeinflussen, je größer der Unterschied zwischen dem spezifischen
+Gewicht der beiden zur Verwendung kommenden Flüssigkeiten ist; mithin werden die S. die Kraft
+des bewegenden Mediums am besten übertragen, wenn der bewegte Körper denselben Aggregatzustand
+hat wie jenes (wenn also z. B. Wasser durch einen Wasserstrahl, Luft durch einen Dampfstrahl
+bewegt wird). Trotzdem werden vielfach S. mit Medien verschiedenen Zustandes verwendet (der
+bei weitem verbreitetste Strahlapparat, der Injektor, wirkt mit Dampf auf Wasser), einerseits,
+weil die S. außerordentlich einfach und billig sind, keiner besondern Kraftmaschine bedürfen,
+sehr geringe Dimensionen haben und wegen Mangels aller beweglichen Teile weder Reparatur- noch
+Schmierkosten verursachen, anderseits, weil die bei Verwendung von Dampf auftretende Erwärmung
+der Förderflüssigkeit oft erwünscht ist (z. B. in Badeanstalten, bei Dampfkesseln etc.). Wegen
+der genannten Vorzüge haben die S. in den letzten Jahrzehnten eine ausgedehnte Verwendung überall
+da gefunden, wo eine gute Ausnutzung der vorhandenen Betriebskraft erst in zweiter Linie berücksichtigt
+zu werden braucht. Um die Verbreitung der S. und die Anpassung derselben an alle möglichen
+speziellen Verhältnisse haben sich in Deutschland besonders Gebr. Körting in Hannover verdient
+gemacht.
+
+Verwendungsarten der S. 1) Das bewegende Medium ist tropfbarflüssig (Druckwasser mit natürlichem
+oder künstlichem Gefälle). - Wasserstrahlpumpen (s. Pumpen) eignen sich zum Entwässern von
+Kellern und Baugruben, zum Entleeren von Jauchegruben, nach Körting als Hilfsapparate in Bergwerken
+etc. Bei Körtings Schlammelevatoren (Fig. 2) zum Reinigen der Brunnen von Triebsand, Fortschaffen
+von Baggerschlamm, Heben von Kohlenschlamm etc. wird ein Teil des durch das Rohr b zufließenden
+Betriebswassers bei a ausgespritzt, um den Schlamm etc. aufzurühren, worauf derselbe mit viel
+Wasser durch eine Wasserstrahlpumpe d gehoben wird und bei c abfließt. Wasserstrahlluftpumpen
+finden in Apotheken und Laboratorien Verwendung. Körtings Wasserstrahlkondensatoren, s. Dampfmaschine,
+S. 462. Wassertrommelgebläse (s. Gebläse, S. 977) sind die ältesten, schon seit Jahrhunderten
+bekannten S., welche in verbesserter Form in Laboratorien gebraucht werden. 2) Das bewegende
+Medium ist luftförmig (fast ausschließlich Dampf). Dampfstrahlgebläse (s. Gebläse, S. 978)
+finden entweder zum Eindrücken von Luft Verwendung (Körtings Unterwindgebläse bei Feuerungsanlagen,
+Rührgebläse, welche durch Einblasen von Luft in die umzurührende Flüssigkeit arbeiten, Luftdruckapparate
+zur Absorption von Gasen durch Flüssigkeiten, Regeneriergebläse für Gasreinigungsapparate,
+Kohlensäuregebläse für Zuckerfabriken etc.), oder dienen zum Ansaugen von Luft oder andern
+Gasen (Blasrohr an Lokomotiven, Körtings Schornsteinventilatoren, Ventilatoren für Bergwerke,
+Ventilatoren für Trockenapparate, Filtrierapparate, Papiermaschinen, Dampfstrahlgasexhaustoren
+für Teerschwelereien und Gasfabriken, Exhaustoren für Eisenbahnbremsen etc.). Lnftstrahlgebläse
+werden in Bergwerken mit komprimierter Luft betrieben und dienen zur Ventilation vor Ort. Körtings
+Ventilator für Eisenbahnwagen benutzt den durch die Bewegung des Wagens und den
+
+367
+
+Strahlbeinslahmheit - Strahlenbrechung.
+
+Wind hervorgebrachten Luftstrom. Ein solcher Ventilator (Fig. 3) wird oben auf die Wagendecke
+gesetzt und mit dem Innern des Wagens durch eine Röhre C verbunden. Der Luftstrom tritt durch
+A in den Raum B und wirkt hier saugend, so daß durch C Luft emporsteigt und mit der Betriebsluft
+bei D ins Freie tritt. Ein kleiner Schieber, welcher unterhalb des Saugrohrs C angebracht wird,
+gestattet die Regulierung der Ventilation von seiten der Passagiere. Der ganze obere Teil ist
+um den Zapfen E drehbar und kann sich deshalb immer nach der Zug-, resp. Windrichtung einstellen.
+Injektoren (s. d.) benutzen die Kondensierung des aus dem zu speisenden Kessel entnommenen
+Betriebsdampfs durch das Förderwasser dazu, dem letztern eine Geschwindigkeit zu erteilen,
+welche höher ist als die dem Druck in dem Kessel entsprechende Wassergeschwindigkeit. Es ist
+das dadurch möglich, daß der Dampf, der bei seinerAusströmung aus der Dampfdüse des Injektors
+unter der Einwirkung des Kesseldrucks eine viel bedeutendere Geschwindigkeit annimmt als ein
+unter gleichem Druck ausströmender Wasserstrahl, diese bei der Kondensation mit dem Förderwasser
+austauscht. Dampfstrahlpumpen oder Ejektoren, welche zum Fördern von Wasser mittels eines Dampfstrahls
+dienen, wirken, was die Kraftausnutzung betrifft, sehr ungünstig, können aber doch da, wo es
+auf die Übertragung der Wärme ankommt, recht vorteilhaft sein, so zur Wasserförderung in Badeanstalten,
+zum Füllen der Tender aus Brunnen von der Lokomotive aus, als Zirkulationsvorrichtungen für
+Bleich- und Waschapparate etc. Zum Heben von Säuren, Laugen, sauren Wassern etc. fertigt Körting
+Dampfstrahlpumpen von Porzellan. Körtings Dampfstrahlfeuerspritzen sind als Hausspritzen, Fabrikspritzen
+etc. da zweckmäßig, wo Dampfkessel vorhanden sind; es bedarf dann nur der Öffnung eines Dampfventils,
+um die Spritzen in Betrieb zu setzen. Dampfstrahlschlammelevatoren sind in ähnlicher Weise
+wie die Wasserstrahlschlammelevatoren konstruiert. Dampfstrahlanwärmeapparate wirken in der
+Weise, daß ein Dampfstrahl, welcher in das anzuwärmende Wasser eingeführt wird, das umgebende
+Wasser ansaugt, seine Wärme an dasselbe abgibt und es mit einer gewissen Geschwindigkeit vor
+sich hertreibt, so daß immer neue Wasserteile zum Apparat gelangen. Zerstäuber dienen zur nebelartigen
+Verteilung von wohlriechenden Flüssigkeiten mittels eines Luftstrahls (die sogen. Rafraichisseure
+oder Refrigeratoren), von Petroleum in Feuerungsanlagen mittels eines Dampfstrahls etc. Um
+feste Körper durch einen Dampfstrahl zu heben, wird die Geschwindigkeit des Dampfes zunächst
+auf atmosphärische Luft übertragen. Bei einem Kornelevator (Fig. 4 u. 5) wird das Heben des
+Getreides dadurch bewirkt, daß mittels des Dampfstrahlapparats r in dem Sammelgefäß d eine
+Luftverdünnung hervorgebracht wird, die sich in das Steigrohr e fortsetzt, die mit großer Geschwindigkeit
+nachtretende Luft reißt das im Fülltrichter a (Fig. 5) befindliche Korn empor bis in das Sammelgefäß
+d (Fig. 4), wo infolge der plötzlichen Geschwindigkeitsverringerung das Korn zu Boden fällt,
+während staubförmige Verunreinigungen mit der Luft durch r und f abgehen; g ist das Dampfzuführungsrohr.
+
+Strahlbeinslahmheit, s. Hufgelenkslahmheit.
+
+Strahlblüten, s. Kompositen.
+
+Strahlegg, Gebirgssattel zwischen dem Finsteraarhorn und Schreckhorn in den Berner Alpen, 3373
+m hoch, schwierige, aber sehr lohnende Gletscherpartie.
+
+Strahlenblende, s. Zinkblende.
+
+Strahlenbrechung, die Veränderung der Richtung, welche die Lichtstrahlen bei ihrem Übergang
+aus einem Mittel in ein andres erleiden. Tritt der Lichtstrahl aus einem dünnern Medium in
+ein dichteres über, so wird er nach dem Einfallslot zu gebrochen. Dies findet z.B. statt, wenn
+das Licht der Gestirne in unsre Atmosphäre tritt, und wir sehen daher die Gestirne nicht nach
+der Richtung hin, wo sie sich wirklich befinden, und wo wir sie sehen würden, wenn die Atmosphäre
+fehlte. Diese Veränderung des scheinbaren Ortes der Gestirne nennt man die astronomische S.
+oder Refraktion. Sie vermindert alle Zenitdistanzen, d. h. wir sehen alle Gestirne in einer
+größern Höhe, als wir sie ohne Refraktion sehen würden,
+
+368
+
+Strahlende Materie - Stralsund.
+
+und zwar ist diese Vermehrung der Höhe um so bedeutender, je näher dem Horizont ein Stern steht:
+während sie im Zenith gleich Null ist, beträgt sie im Horizont 33-35 Bogenminuten. Daher ist
+die S. auch Ursache, daß die Gestirne für jeden Ort früher auf- und später unterzugehen scheinen,
+als sie in der That durch den Horizont dieses Ortes gehen. Dies hat zunächst eine Verlängerung
+des Tags zur Folge (bei uns um 4 Minuten), die in der Polarzone am beträchtlichsten ist, da
+dort die Sonne mehrere Tage, ja Wochen über dem Horizont gesehen wird, obschon sie unter ihm
+steht. Die S. ist ferner der Grund, warum Sonne und Mond nahe am Horizont stark abgeplattet
+erscheinen.
+
+Strahlende Materie, s. Geißlersche Röhre, S. 30.
+
+Strahlenkranz wird in der antiken Kunst allen Lichtgottheiten gegeben, vorzugsweise dem Helios
+(Sol), der Selene, der Eos, dem Phosphoros und Hesperos (vgl. Nimbus). - In der Anatomie (Corona
+ciliaris) s. Auge, S. 74.
+
+Strahlerz (Klinoklas, Abichit, Aphanesit, Siderochalcit), Mineral aus der Ordnung der Phosphate,
+findet sich in glasglänzenden, monoklinen Kristallen und in radialstängeligen Aggregaten, ist
+spangrün bis blaugrün, glasglänzend, kantendurchscheinend, Härte 2,5-3, spez. Gew. 4,2-4,5,
+besteht aus wasserhaltigem Kupferarseniat Cu3As2O8 + 3H2CuO2, mit 50 Proz. Kupfer, findet sich
+auf englischen Kupfererzgängen und bei Saida.
+
+Strahlgebläse, s. Strahlapparate.
+
+Strahlkies, s. Markasit.
+
+Strahlpumpe, s. Strahlapparate.
+
+Strahlstein, s. Hornblende.
+
+Strahlsteinschiefer, Gestein, s. Hornblendefels.
+
+Strahltiere, s. Radiaten.
+
+Strahlungsmesser, s. Radiometer.
+
+Strahlzeolith, s. Desmin.
+
+Strähne, s. Strang und Garn, S. 911.
+
+Strait (engl., spr. streht), Straße, Meerenge.
+

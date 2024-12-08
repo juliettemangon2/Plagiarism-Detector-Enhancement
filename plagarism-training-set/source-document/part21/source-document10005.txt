@@ -1,0 +1,410 @@
+﻿Translators
+
+BAYARD QUINCY MORGAN, Ph.D., Assistant Professor of German, University
+      of Wisconsin:
+            Gay Hearts; Tonio Kröger; Matt the Holy; The Styrian
+              Wine-Carter.
+
+KATHARINE ROYCE:
+            Stephen the Smith.
+
+MRS. AMELIA VON ENDE:
+            The Iron Idol.
+
+                         CONTENTS OF VOLUME XIX
+
+                                                              PAGE
+
+The Contemporary Short Story. By Julius Petersen                xi
+
+                             HELENE BÖHLAU
+
+The Ball of Crystal. Translated by A. I. du P. Coleman           1
+
+                              CLARA VIEBIG
+
+Burning Love. Translated by William Guild Howard                77
+
+                         EDUARD VON KEYSERLING
+
+Gay Hearts. Translated by Bayard Quincy Morgan                 101
+
+                              THOMAS MANN
+
+Tonio Kröger. Translated by Bayard Quincy Morgan               184
+
+                              LUDWIG THOMA
+
+Matt the Holy. Translated by Bayard Quincy Morgan              251
+
+                          RUDOLF HANS BARTSCH
+
+The Styrian Wine-Carter. Translated by Bayard Quincy Morgan    268
+
+                              EMIL STRAUSS
+
+Mara. Translated by William Guild Howard                       285
+
+                             HERMANN HESSE
+
+In the Old "Sun." Translated by A. I. du P. Coleman            325
+
+                               ERNST ZAHN
+
+Stephen the Smith. Translated by Katharine Royce               373
+
+                            JAKOB SCHAFFNER
+
+The Iron Idol. Translated by Mrs. Amelia von Ende              456
+
+                       ILLUSTRATIONS--VOLUME XIX
+
+                                                              PAGE
+
+Autumn. By Karl Haider                              Frontispiece
+
+Helene Böhlau                                                    2
+
+Wife of a Clamdigger. By Hans von Bartels                       32
+
+Folksong. By K. Reutlingen                                      52
+
+Clara Viebig                                                    78
+
+A Portrait. By Adolf Münzer                                    102
+
+The Gossips. By Friedrich Wahle                                142
+
+Little Curiosity. By Julius Exter                              172
+
+Thomas Mann                                                    186
+
+Arco. By Benno Becker                                          226
+
+Ludwig Thoma                                                   252
+
+Rudolf Hans Bartsch                                            270
+
+Back from the Fair. By Franz Wilhelm Voigt                     286
+
+Hermann Hesse                                                  326
+
+A Human Load. By Franz Wilhelm Voigt                           336
+
+Flower Market at Leyden. By Hans Herrmann                      356
+
+Ernst Zahn                                                     374
+
+Evening. By Ludwig Dill                                        400
+
+Moonrise in the Moor. By Otto Modersohn                        420
+
+Forest Meadows. By Oscar Frenzel                               450
+
+Moorland. By Otto Modersohn                                    480
+
+                      THE CONTEMPORARY SHORT STORY
+
+                        By Julius Petersen, Ph.D.
+          Professor of German Literature, University of Basel
+
+                   TRANSLATED BY WILLIAM GUILD HOWARD
+
+The last two volumes of this comprehensive publication are devoted to the living, the writers
+of the present who sow the seed from which shall grow the future of German letters. But who
+can speak of prophecy or prevision, at a moment when all who call themselves German are compelled
+to fight for their existence, and the future of German nationality as well as of German culture
+is hidden by the smoke of battle? To the four quarters of the globe the wild alarm Germania
+est delenda is trumpeted as a so-called duty of human civilization; isolated Germany can respond
+only with her resolute Victory or Death. What shall be the end? Shall this war of the nations,
+unparalleled in history, mean for Germany the destruction of all her material and spiritual
+possessions, as they were destroyed during the thirty years of horror in the seventeenth century?
+Or has Germany, thrown upon her own resources, attained to full consciousness of her strength,
+and now at last repaired the damage of that national calamity, which devastated her territory,
+subjected her to foreign domination, and continued to retard her progress for two full centuries?
+
+Who can foretell whether the heroism of a mighty time, whose dawn we see, is to give new inspiration
+to patriotic poetry for centuries to come, and beget a new generation of bards worthy to sing
+of arms and men? The spirit of self-sacrificing devotion which waged the Seven Years' War and
+the Wars of Liberation has returned to animate the Germany of today. Who knows, however, but
+that many a precious life will be sacrificed from which we hoped for great things even in our
+literature, and which now sheds its blood in a struggle for the warrior's laurel wreath? For
+German poets have also heard the call to arms; and those who have not, like Ganghofer, despite
+his sixty years, and Dehmel with his fifty-one, joined the ranks of the volunteers, tune their
+lyres to Tyrtæan measures and enlist their pens in the service of their native land. Thus Gerhart
+Hauptmann, who only a year ago concluded his dramatic celebration of the centennial of German
+liberation with an apotheosis of peace, now comes forward with stirring war songs.
+
+Is this still the people to which Goethe belonged? At a time when a common cause with Austria
+conjures up again the shade of the dear old Holy Roman Empire no other verse in Faust seems
+so inept as that concerning the ugly political song. Today we should rather say "An unpolitical
+song, an ugly song;" for to the people that but a few weeks ago was mindful of naught but works
+of peace everything has become a matter of indifference except the burning question of the
+hour. Even though the longed-for peace should soon return, the year 1914 must leave a deep
+mark in the development of German literature. As yet we can only look back, not forward, from
+this milestone; and even in so doing we cannot escape from the present.
+
+One thing the very first days of the war have made manifest: the physical and moral strength
+and the healthy marrow of the German people. Our literature, as the most faithful mirror of
+national life, has reflected in the past ten years this incorruptible healthfulness, and if
+we look somewhat farther back, we even see something resembling a process of convalescence.
+It was possible in 1903 for a novel Jena or Sedan by Franz Adam Beyerlein to create a sensation.
+Written in the manner of Zola, the book, which, because of an alleged dry rot in the German
+army, prophesied mischance in the future, produced its effect not so much through an apparently
+objective but gloomy depiction of life in the garrisons, as through the nourishment that it
+gave to the torturing doubts which during the last decades of the nineteenth century grew rank
+as a fatalistic pessimism. The very principle of naturalism as a form of art, with its one-sided
+preference for disease, crime, and weakness, flourished on the offal of a materialistic philosophy
+of life, which viewed the vanity of existence with weary resignation. But this disease of the
+times was as little a specifically German malady as the naturalism imported from France and
+Russia was a genuine form of German art. Liberation from paralyzing lethargy was possible only
+through a realization of the fact that the real sources of national power were to be sought
+elsewhere. The soul of the German people, which in former centuries gave birth to mysticism
+and romanticism, is filled with a yearning for the infinite that cannot in the long run be
+contented with a materialistic philosophy; and the home of the German people, broad and fertile
+Germany, presents other pictures than a view of coal mines and swarming streets seen through
+the narrow space between factory chimneys. As a reaction against naturalism there arose therefore
+a neo-romanticism, and as its national modification, an art of the native heath (Heimatkunst).
+
+There is no contradiction between romanticism and Heimatkunst; for it was romanticism that
+in its time aroused the Germans to a real sense of what their native heath meant for them;
+neither is Heimatkunst opposed to naturalism. In both Heimatkunst and naturalism nature is
+the watchword, but with the difference that what for the one is the principle is for the other
+the subject of poetic representation. Naturalism aimed to give the impression of inexorable
+fidelity to nature in the reproduction of the unhealthful and of that which strictly speaking
+was contrary to nature; Heimatkunst, on the other hand, had recourse to free and open nature
+as the unfailing fountain of health. When naturalism came to the fore it was customary to designate
+the opposing tendencies as idealism and realism; the contrast is better expressed by the terms
+optimism and pessimism. In the last ten years clear prevision of the tasks of the future and
+a sense of the duty of national training for these tasks, such as we admire in the Americans,
+has developed in Germany. A hopeful outlook fosters the joy of living; as this joy increases,
+a new love of nature and a new comprehension of her revelations develop; the old German passion
+for roving revives; and delight in song and sport, in fresh air and sunshine, rejuvenates the
+whole people. Literature follows this national bent and its rallying cry becomes "Out of the
+atmosphere of the hospital and oppressive wretchedness, back to the life-giving sod which yields
+sustenance to every worker, out into the country, where there is a sufficiency for simple wants,
+where there is no strife between capital and labor, where the harshness of social distinctions
+vanishes and the feeling prevails of a common bond between man and his native heath as well
+as between man and man."
+
+The optimistic faith in the future of the German people furnishes the foundation also for the
+consciousness of a great unity to which all branches of the German stock have now awakened,
+and which is the second important element in the* present state of things. German history testifies
+to more than a thousand years of inner and outer disunion. The present war is almost the first
+in which Germans have not to array themselves against Germans; this time there is left only
+the common pain and the common bitterness that a people of kindred blood takes the field against
+Germany. But all the German tribes and nations feel themselves to be one people--indeed, the
+sense of membership proclaims itself in the form of sympathy beyond political boundaries "as
+far as the German tongue is heard." However little political influence may be attached to this
+fact, its cultural significance is not to be underestimated; for a common language forms today
+a stronger bond than the sense of racial consanguinity, and this bond is most of all strengthened
+by the common possession of a literature.
+
+It has been hardly more than a hundred years that the Germans could be said to possess a national
+literature. Even the literature of the eighteenth century was ill-starred by the partisan strife
+between the Saxons and the Swiss, a strife which had its origin more particularly in irreconcilable
+differences of language. Permanent peace was concluded at Weimar without any feeling that the
+supremacy of this spiritual centre was tyranny. Even in his old age Goethe showed the keenest
+interest in all local and dialectical literature, and romanticism reinforced the sense for
+every ancient trait of national individuality. United Germany has no need of an academy to
+fix the canons of usage; on the contrary, it recognizes in the variety of local and dialectical
+peculiarities a source of wealth which would be impaired by any normalization, and the drying
+up of which would threaten literature with sterility. Cultivated Germany is not an anarchy,
+but a federation of many small states, with a much more democratic constitution than such a
+unified state as France, of which state Paris is the monarch. The influence of Prussia, mostly
+misunderstood abroad, is confined to military and civil administration; in questions of art
+and culture, but above all in literature, every attempt to enforce uniformity meets with the
+most stubborn resistance.
+
+The turn of the century witnessed, it is true, an ominous assumption of authority on the part
+of the imperial capital in the domain of literature, and especially the drama; but it was not
+so much Berlin as the great city as such. The diseases of superculture, impotent estheticism,
+the restless spirit of commercialism, and social conflicts are of the same kind in Berlin and
+Vienna as in Paris, London, and New York. Naturalism, which seized upon these themes, was international,
+as was socialism, which hailed this movement as its own. With the opposition against naturalism
+and with the new gospel of Heimatkunst the revolt against the international, against the literature
+of city life in general, and particularly against the snobbish literary clique in Berlin was
+complete. As early as 1901 the gospel of "Away from Berlin!" was thus fervently preached by
+a champion of Heimatkunst, the Alsatian Fritz Lienhard:
+
+You writers are all of you entirely out of touch with the German family, with the spirit of
+the German people throughout the length and breadth of the empire. You no longer survey with
+comprehensive vision and open-mindedness the manifold regions of our country and the multifarious
+callings of our people; you no longer feel yourselves to be addressing the millions of good
+people whose mother tongue you speak, indeed, the best people of your day and generation; you
+do not dream of disciplining yourselves to be men and heroes, or of striving to be at one with
+the widely ramified nation and the still more widespread spirit of humanity. Aimlessly yielding
+to your artistic whims, crotchets, and triflings, you make "interesting works of art" out of
+your own immaturity, you are satisfied with an audience composed of an infinitesimal fraction
+of our people, a fraction, moreover, which, things being as they are, consists chiefly of the
+parvenus residing in Berlin W. This is the public which--more is the pity--dominates the picture
+galleries, the concert halls, and the theatres of Berlin, and from Berlin affects to set the
+standard of taste for the empire so far, it must be added, as the empire at large concerns
+itself at all with this meticulous literature. Religion is a private matter, declares Social
+Democracy. We might plaintively add that literature is a parlor matter, the special affair
+of Berlin.... Our literature does not throb with the heart-beats of the national soul. And
+he who seriously, patriotically, out of the abundance of his heart and the richness of his
+mind, and out of a lively sense of community with the myriads of German-speaking men and women
+seeks entrance into the world of letters, he faces in painful amazement the dilemma: People
+or literature? Human being or artist? Personality or artifice?
+
+These utterances might be taken as a reckless abandonment of artistry in favor of the national,
+but commonplace; and in fact, Heimatkunst, when assimilated to folklore, as it was in this
+gospel, did run the risk of an uninspired monotony. Such writers as Sohnrey and Frenssen have
+not altogether escaped the danger. Only the synthesis of form and content, only creation conscious
+of racial peculiarity but obedient to severe esthetic discipline, can keep in the path of fruitful
+progress. The intimate connection of man with his native soil presents a modern artistic problem
+which can be solved neither by the experimental method, according to which naturalism investigated
+the milieu as a causal factor, nor by the amateurishly descriptive processes of idyllic poetasters
+and local favorites, but must be intuitively grasped by the penetrating eye of a real seer.
+
+Not merely the subject, but also the seer is native to the spot. The true poet will always
+be found to know most intimately the land of his birth and the men of his race. If he confined
+himself to these, he would be a narrow specialist. If, on the other hand, he represents other
+characters in less familiar setting, he will still envisage them in the manner to which he
+is born, and in language, style, and all the forms of apperception he will reveal the temperament
+and the nature of his stock. As the specifically German novel, taken by and large, is distinguished
+by national traits from the Russian, French, or American, even when it has been modified by
+influences from many sides, so the novel of each separate German tribe and nation has kept
+its peculiarity within the range of the general membership, one with another. The whole constitutes
+an orchestra of manifold instruments, each with its own timbre, and yet all in tune and harmony,
+and no one superfluous. The detection of the individual instruments is possible, if we attentively
+analyze. The present centrifugal tendency of German literature has strongly developed such
+a sense for the detection of differences. Recently the attempt has been made to group the entire
+history of German literature from the most ancient times according to racial stocks and regions,
+an experiment that would scarcely have been made if the literary circumstances of the present
+had not especially invited it.
+
+Literature in Low German has had from time immemorial its sharply defined character, which
+harmonizes with the North German landscape. Broad expanses of dead-level heath, great gray-brown
+moorlands, meadows intersected by glittering canals, a boundless horizon which gives the eye
+a sense of freedom and independence, the blue atmosphere of the sea which contributes something
+metaphysical to the humdrum of existence--on this soil a grave race flourishes, of quick conscience
+and serious life. The old saying Frisia non cantat marks the lack of exuberance and of the
+spirit of revelry. But shy reticence finds compensation in good-natured humor. Unenthusiastic
+but substantial realism, speculative meditation, and a certain didactic tone make the Low German
+country the home of the fable and the great epic. That such a great dramatist as Hebbel was
+also a scion of this stock seems almost exceptional. The stubborn peasant family-stocks, the
+urban culture of the Hanseatic cities, and the scattered seats of the nobility, even as far
+east as the Russian Baltic provinces, bear witness to the development of a uniform temperament
+in spite of all the differences of social environment. We can, then, on the basis of common
+Low German characteristics form a great group of writers: writers from the Baltic provinces,
+the upper-class life of which has been treated by Eduard von Keyserling, while need and struggle
+have been described by Frances Külpe and Karl Worms; the West Prussians, represented by Max
+Halbe; the Pomeranians (Georg Engel), the Mecklenburgers (Max Dreyer), the Hanseatics (Gustav
+Falke, Thomas Mann, Otto Ernst), the Schleswig-Holsteiners (Timm Kröger, Charlotte Niese, Gustav
+Frenssen, Othmar Enking, Helene Voigt-Diederichs), the Hanoverians (Diedrich Speckmann, Heinrich
+Sohnrey, Karl Söhle), the Westphalians (Hermann Wette, Walther Schulte vom Brühl).
+
+Along the banks of the Rhine, on the other hand, there dwells in the same latitude a more vivacious
+people, whose mischievous cheerfulness and easy-going philosophy of life are manifestations
+of their Frankish blood. It is striking that hardly one of the most prominent Rhenish writers
+of the present (Clara Viebig, Joseph Lauff, Rudolf Herzog, Wilhelm Schäfer, Wilhelm Schmidtbonn,
+Herbert Eulenberg) has failed to try his hand at the drama. In Middle Germany emotions are
+more deep-seated and more responsive; people are more sentimental, more soft-hearted, more
+talkative, more visionary, have a finer sense of form, but a more conventional manner of speech.
+In this charming region of forests and mountains, to which the population is warmly attached
+and in which it finds protection, there is abundant occupation for a tender heart and a lively
+imagination. Middle Germany is the home of mysticism and romanticism, and this fact is apparent
+in the authors of the present day: the Silesians (Karl and Gerhart Hauptmann, Hermann Stehr,
+Paul Keller), the Misnians (Max Geissler, Kurt Martens), the Thuringians (Helene Böhlau, Marthe
+Renate Fischer, Wilhelm Arminius), the Hessians (Wilhelm Speck), the Franconians (Wilhelm Weigand,
+Bernhard Kellerman), and the inhabitants of the Palatinate (Anna Croissant-Rust).
+
+Fondness for music is especially prominent in the stocks in which there has been an infusion
+of Slavic elements. In Upper Germany, accordingly, a sharp line is to be drawn between the
+Bavaro-Austrian and the Alemannic group. In Austria the capacity for sensuous enjoyment and
+a certain indolence are combined with a tendency toward sanguine but short-lived enthusiasms.
+A soft, southern air blows about the heights of Styria as well as over Vienna and its environs,
+and in the works of the writers of these regions (Wilhelm Fischer-Graz, Rudolf Hans Bartsch)
+everything is resolved into a lyrical mood and a melody of words. Similarly in the case of
+writers of southern Tirol (Hans von Hoffensthal, Richard Huldschiner), whereas on the northern
+slope of the Alps a race of men made of sterner stuff is reared (Rudolf Greinz, Karl Schönherr).
+In Bavaria, finally, people are even more rough and ready and lyrical sentimentality yields
+to a pugnacious propensity to ridicule, which gives satirical seasoning to the works of the
+genuinely Bavarian writers Ludwig Thoma and Joseph Ruederer.
+
+The sluggish Alemannians, on the contrary, lack the vivacity of the Bavaro-Austrian stock.
+On the monotonous heights of the Swabian plateau are developed such brusque individualism,
+tenacious self-will, peculiar humor inclined to self-depreciation, soaring fantasy, and (withal
+there is no lack of comprehension for the ideas of domesticity) such a predilection for adventures
+abroad as we find in the Swabian narrators Emil Strauss, Hermann Hesse, Ludwig Finckh, and
+Heinrich Lilienfein. Didacticism, present in all Alemannic prose and poetry, finds more popular
+forms among the story-writers of the Black Forest of Baden (Heinrich Hansjakob, Hermine Villinger,
+Emil Gött, Hermann Burte), while in the local character of the Alsatians, the source of Hermann
+Stegemann's novels, good-natured practical joking is more at home. As the rough Alpine country
+demands the utmost of human industry, so in the realm of art it has developed a sympathy with
+practical, efficient life, which, disinclined to all speculation (for Spitteler stands well-nigh
+alone in this matter), is rather under the sway of pedagogical interests. In Switzerland literature
+is most indissolubly bound up with the life of the whole people, and a gay art for art's sake
+cannot thrive. Here are to be found true farmer-authors, such as Alfred Huggenberger, who still
+guides the plow across his fields, or poets who have risen from the ranks of handicraftsmen,
+such as Jakob Schaffner, or those who prosecute their literary avocation side by side with
+the business of a restaurateur, like Ernst Zahn. And no other of the compatriots of Pestalozzi
+(J. C. Heer, Heinrich Federer, Meinrad Lienert, Felix Möschlin) disdains either, to be in the
+truest sense a popular poet and an educator of the people.
+
+By virtue of the inexhaustible riches which the Heimatkunst brought to light, the defiant rejection
+of the literature of the great cities has been rightly recognized as no mere theoretical programme.
+The novel of urban life, such as flourished in Berlin, Vienna, and Munich at the close of the
+last century, is today antiquated and has lost its savor. And it is significant that the Berlin
+novel of the last few years, for example Georg Hermann's Jettchen Gebert (1906) or the two
+most recent works of Clara Viebig, prefers for its scene of action the Berlin of the seventies,
+which, as yet free from the modern German "South Sea Bubble," preserved for the inordinately
+growing city its old established local character.
+
+An account of German narrative writing of the present time is a kind of ethnography of the
+German stocks and regions. The names above-mentioned, selected without prejudice and also without
+arbitrariness, ought to be represented here each with a specimen. In part, these authors have
+been represented in the preceding volumes. The necessary limits of this volume permit consideration
+of only a dozen. The varieties of language and style which distinguish them one from another
+cannot fail to be somewhat obscured in a translation; nevertheless, the six pairs which we
+have arrayed according to racial affiliation and age are well adapted to give an impression
+of the manifoldness of German narrative prose at the beginning of the twentieth century.
+
+In the first place we mention two women, Helene Böhlau and Clara Viebig. Both have passed through
+the naturalistic school--for the former, indeed, naturalism marked only a period of transition;
+for the latter it meant conversion to a creed to which she has remained faithful.
+
+The cradle of Helene Böhlau stood on classic ground. Exactly one hundred years after Schiller,
+in November, 1859, she was born in Weimar, the daughter of a publisher whose name has become
+known chiefly in connection with the great Weimar edition of Goethe's complete works. Her grandmother,
+"Grammie" as the children called the old lady, took to her heart the shy and timid girl and
+revealed to her from the recollections of her own youth the glory that once was and that still
+gleamed as a memory within the dim and narrow confines of the Thuringian capital city. Out
+of the anecdotes that the grandmother told, the book grew which first made the name of the
+authoress famous, Tales of the Councillor's Girls (Ratsmädelgeschichten, 1888). "In the midst
+of the great German Empire," the book begins, "lies a little city famed far and wide, Weimar
+in Thuringia. When my grandmother was a child there ruled over this country a very wise and
+good prince who because of his goodness and wisdom had prevailed upon great poets then living
+to come and dwell in his city. And because he was so exceedingly wise and was so beloved and
+honored by all, poets and scholars came from all sides, lived in the prince's city, and wrote
+there such splendid works that the whole world marveled. Even today what these men thought
+and wrote is the most beautiful thing that we know, and it will remain so for a long, long
+time to come. About these men everything conceivable has been often told and accurately described,
+and people will talk of them centuries hence. But by their side there dwelt in the city in
+those days many men of whom nowadays no more mention is made. They too experienced joys and
+sorrows; they too had their day, felt deeply, were glad and sad, and had hearts like the others."
+
+Among these mute, inglorious personages of the great time belong the daughters of Councillor
+Kirst in Wünsch Street, Rose and Mary, two wide-awake, mischievous lassies who are the heroines
+of the book. Young Ernst von Schiller, the second son of the prematurely deceased poet, is
+their playmate; they make fun of August von Goethe as he goes a-wooing; they quarrel with the
+sour-visaged boor, Arthur Schopenhauer, as they go in and out of his mother's house, the novelist's;
+old Madam Kummerfeld, a former actress who in her youth had as Juliet inspired the Leipsic
+student Goethe, is their teacher in the art of sewing as well as making a courtly bow--which
+latter accomplishment they have occasion to practise when one day in the park they almost knock
+down the corpulent Grand Duke by running against him, and are then treated by him to good things
+to eat. With his knowledge they slip into the theatre without tickets, and when they have witnessed
+a performance of Tasso at which Goethe is present, they are so impressed that they follow the
+poet as, wrapped in his cloak, he strides home in the darkness, and for a while they continue
+to stare up admiringly at his lighted windows. Nevertheless, at the next moment they scramble
+over the wall of the neighboring house and help themselves to the beautiful lilies which bloom
+in old Wieland's garden. In these stories the historical personages, which with artistic discretion
+are kept in the background, constitute after all only a decorative element; in the foreground
+happy youthfulness disports itself in its irresponsibility. "O you poor young folks of today,"
+exclaims the young Weimar authoress, "if you had any idea what riches, what abundance of life
+the young folks had at their command at the beginning of our century, you would bitterly complain,
+you would seem to yourselves deceived and defrauded, old from the cradle, forced into the straight-jackets
+of duty!"
+

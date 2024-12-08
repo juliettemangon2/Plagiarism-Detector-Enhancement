@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00016.txt">
+  <feature name="about" authors="James, Henry" title="The Pupil" lang="en" />
+  <feature name="md5Hash" value="5f6fb42ba63b0684d46094b70d46205f" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74497" this_length="4412" source_reference="source-document05707.txt" source_language="en" source_offset="31904" source_length="4586" />
+</document>
+

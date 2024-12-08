@@ -1,0 +1,174 @@
+﻿Now comes the more difficult point, which alone concerns Dr. Todd in his highly interesting
+labours upon Wycliffe. And the method which, until better advised, I should be inclined to
+follow with those passages, is to take the word nearly, though not exactly, in what seems to
+have been its most usual sense; not indeed for comforters or cherishers, but for those who
+promote comfort and convenience, viz., ministers or servants. It does not at all follow, because
+he is blaming the introduction of these persons as expensive, superfluous, and otherwise evil,
+that he describes them by a word expressive of evil. As a ministering angel would be a reheting
+angel, so I take a rehetor here to be simply a minister, one who waits upon your occasions
+and serves you.
+
+A.N.
+
+       *       *       *       *       *
+
+ARABIC NUMERALS.
+
+The history of the Arabic numerals, as they are generally called, is so mixed up with that
+of the use of the decimal scale, that they form, in fact, but a single inquiry. The mere history
+of the bare forms of symbols has, doubtless, its use: but then it is only in the character
+of matériel for a philosophical discussion of the question--a discussion into which the natural
+progress of the human mind and the urgency of social wants must enter largely.
+
+It might at first sight appear, from the cognate character of the Hebrew and Arabic languages,
+that the idea of using a single symbol for each number, might originate with either--with one
+as likely as with the other. But on reflection it will readily appear that the question rather
+resolves itself into one respecting the "hand-cursive" of the Jews and Saracens, than into
+one respecting the constitution of the languages. Of the Jewish we know nothing, or next to
+nothing, at the period in question; whilst the Arabic is as well known as even our own present
+style of calligraphy. It deserves to be more carefully inquired into than has yet been done,
+whether the invention of contracting the written compound symbols of the digital numbers into
+single symbols did not really originate amongst the Jews rather than the Saracens; and even
+whether the Arabs themselves did not obtain them from the "Jew merchants" of the earlier ages
+of our era. One thing is tolerably certain:--that the Jew merchant would, as a matter of precaution,
+keep all his accounts in some secret notation, or in cipher. Whether this should be a modified
+form of the Hebrew notation, or of the Latin, must in a great degree depend upon the amount
+of literary acquirement common amongst that people at the time.
+
+Assuming that the Jews, as a literate people, were upon a par with their Christian contemporaries,
+and that their knowledge was mainly confined to mere commercial notation, an anonymous writer
+has shown how the modifications of form could be naturally made, in vol. ii. of the Bath and
+Bristol Magazine, pp. 393-412.; the motto being valent quanti valet, as well as the title professing
+it to be wholly "conjectural." Some of the speculations in it may, however, deserve further
+considerations than they have yet received.[1]
+
+The contraction of the compound symbols for the first nine digits into single "figures," enabled
+the computer to dispense with the manual labour of the abacus, whilst in his graphic notation
+he retained its essential principle of place. It seems to be almost invariably forgotten by
+writers on {280} the subject, what, without this principle, no improvement in mere notation
+would have been of material use in arithmetic; and on the other hand that the main difference
+between the arithmetic of the abacus and the arithmetic of the slate, consists in the inevitable
+consequences of the denotation of the single digits by single symbols.
+
+The abacus, however, in its ordinary form, is essentially a decimal instrument: but its form
+was also varied for commercial purposes, perhaps in different ways. I never heard of the existence
+of one in any collection: but there is preserved in the British Museum a picture of one. This
+was printed by Mr. Halliwell in his Rara Mathematica--not a fac-simile, but a rule and type
+representation of it, ciphers being used by him for the circles in the original. Mr. Halliwell
+gives it without note or remark; and evidently had not divined its meaning. This was done,
+however, soon after in a review of Mr. Halliwell's book in the Philosophical Magazine. I am
+not able at this moment to refer to either, so as to give exact dates: but is was somewhere
+from 1838 to 1840.
+
+Perhaps, however, I am giving "E.V." information that may be irrelevant to his purpose; though
+it may of some use to another class of inquirers. I proceed, therefore, to one or two notices
+that seem to have a more direct bearing on his object:
+
+1. Chasles' Aperçu Historique sur l'Origine et le Développement de Méthodes en Géométrie; passim,
+but especially in note xii.: 4to., Bruxelles, 1837.
+
+2. Chasles' several notices in Comptes Rendus des Séances de l'Acad. des Sciences. All subsequent
+to the "Aperçu."
+
+His Catalogue des Manuscrits de la Bibliothèque de Ville de Chartres should also be consulted,
+if accessible to "E.V." Copies of it, however, are very rare in the country, as it was privately
+printed and never published. If, however, your correspondent have any serious inquiry in view
+which should render his consultation of it desirable, I can put it in his power to do so personally
+through you.
+
+3. Libri, several notices in the same series of papers.
+
+4. Libri, Histoire des Sciences Mathématiques en Italie. Several places. Bactulica. Paris,
+1838-1841. 4 tomes. 8vo.
+
+5. Peacock (Dean of Ely), "Arithmetic," in the Encyclopædia Metropolitana. This is now, I believe
+to be had either separately, or in the volume devoted to pure "Mathematics."
+
+6. De Morgan, Penny Cyclopædia in loc., and occasionally elsewhere in the work.
+
+7. Leslie's Philosophy of Arithmetic.
+
+8. Humboldt, in a paper which is translated in the Journal of the Royal Institution, vol. xxix.
+
+I believe a good many other references might be made, with little trouble, to foreign Mémoires;
+and (perhaps still more to your correspondent's apparent purpose) to some amongst the Mémoires
+that relate to inscriptions and topography, rather that amongst those relating directly to
+science or literature. However, the two parts of the subject cannot be effectively studied
+separately from each other; and I am not without a hope that these straggling notes may be
+of some use to "E.V."
+
+Under the view of inscriptions it occurs to my memory that in two or three places on the church
+of St. Brelade in Jersey, there are marked four vertical straight lines, which are interpreted
+by the natives to signify the Arabic numerals 1111; as the date MCXI of the building of the
+church. The church is evidently a very ancient one, and it is agreed to be the oldest in the
+island, and the island historians assign it to the early part of the 12th century. For these
+symbols being coeval with the building I do not vouch: as (though it is difficult to say what
+may constitute antiquity in the look of four parallel lines) I confess that to my eye they
+had "as modern a look" as four such lines could well have. The sudden illness of one of my
+party during our visit (1847), however, precluded my examining that beautiful spot and its
+interesting little church with the care I should have wished.
+
+I may be allowed to suggest the necessity of some degree of caution in discussing this question:
+especially not to assume that any Arabic numerals which appear in ecclesiastical inscriptions
+are coeval with the dates they express; but rather inquire whether, from the condition of the
+stone bearing the inscription, these numbers may not have been put there at a later period,
+during repairs and alterations of the building itself. It is for many reasons improbable, rather
+than otherwise, that the Arabic numerals should have been freely used (if used at all) on ecclesiastical
+structures till long after the Reformation: indeed they are not so even yet.
+
+But more. Even where there is authentic evidence of such symbols being used in ecclesiastical
+inscriptions, the forms of them will tell nothing. For generally in such cases an antique form
+of symbol would be assumed, if it were the alteration of a "learned clerk;" or the arabesque
+taste of the carver of the inscription would be displayed in grotesque forms. We would rather
+look for genuine than coeval symbols of this kind upon tombs and monuments, and the altar,
+than upon the building itself; and these will furnish collateral proofs of the genuineness
+of the entire inscriptions rather than any other class of architectural remains. The evidence
+of the inscriptions on "Balks and beams" in old manorial dwellings is especially to be suspected.
+
+T.S.D.
+
+Shooter's Hill, Feb 11, 1850.
+
+    [Footnote 1: In vol. iii. of the same work is another paper by
+    the same author, entitled, "Conjectures respecting the Origin of
+    Alphabetic writing," pp. 365-384. Reference to these papers is
+    principally made, not on the ground of any assumed merit, but
+    because all that has been written on any given subject ought,
+    if possible, to be brought before the minds of those engaged in
+    the prosecution of the inquiry.]
+
+Arabic Numerals.--If you think the following {281} title will do for your correspondent "E.V."
+(No. 15. p. 230.), please to communicate it to him:
+
+    "Mannert, K., de Numerorum, quos arabicos voc., vera origine
+    pythagorico; e. Fig. aen. 8vo. Nürnberg, 1801."
+
+Oscar Heun.
+
+Cambridge, Feb. 11. 1850.
+
+Arabic Numerals (No. 15. p. 230.).--Your correspondent should consult Peacock's "History of
+Arithmetic" in the Encyclopædia Metropolitana; and, if he can get them, the notes to Chasles'
+Aperçu Historique des Méthodes en Géométric, and various papers of Mr. Chasles, published in
+the Comptes Rendus of the French Institute. He may perhaps find some information in De Morgan's
+Arithmetical Books, particularly at p. 14.
+
+M.
+
+       *       *       *       *       *
+
+THE FRATERNITY OF CHRISTIAN DOCTRINE--CHAUCER'S NIGHT CHARM.
+
+In a little work by Costanzi, entitled Le Istituzioni di Pieta che si esercitano in Roma, &c.,
+and published A.D. 1825, in Rome, where the schools under the management of that brotherhood
+are in great favour, "C.F.S." will find much to interest him on the subject, though not exactly
+in the order in which he has put his queries (No. 14. p. 214.), nor to their full extent.
+
+Mr. Thoms, to whom English mediæval literature is so much beholden, asks very earnestly for
+some information about "the white Paternoster" and "seynte Petres soster," (No. 15. p. 229.).
+Perhaps the following guesses may not be without use. First, then, about the "white Paternoster:"
+
+Henry Parker, a Carmelite friar of Doncaster, who wrote his admirable Compendiouse Treatyse,
+or Dialogue of Dives and Pauper, during the reign of Edward IV., speaking against superstitions,
+and especially "craftes and conjurations with holy prayers," says:
+

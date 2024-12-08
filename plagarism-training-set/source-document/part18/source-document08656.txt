@@ -1,0 +1,462 @@
+﻿It was, of course, to be expected that in pictures without action there should be little suggestion
+of attention or of direction of movement. What is less evident is the reason for the high percentage
+of I. Of course, figures do appear in many examples, and in most pictures some inanimate object
+is emphasized--as, for instance, the mill in our second example.
+
+   [16] A. Hildebrand, 'Das Problem der Form in der Bildenden
+   Kunst,' Strassburg, 1897.
+
+Another interesting observation concerns the use of water in landscapes. In nearly all appears
+an expanse of water, and in four fifths of the cases it is either on the same side as the vista,
+or in the same line with it. This is no doubt partly due to the light-effects which can be
+got on the water, but it also greatly reinforces the peculiar effect of the vista. That effect,
+as has been repeatedly said, is to concentrate, to hold, to fixate vision. The same thing is
+true of the horizontal line, as was shown by some preliminary experiments not here reported.
+
+A survey of the subject-types remaining on the list of page 514 shows that they may quite well
+be grouped together with those already examined; that is, the Holy Families, Adorations, Crucifixions,
+and Annunciations are very symmetrical in type, and present the same characteristics as the
+Altarpieces. The Miscellaneous (mostly religious) pictures, the Descents, and the Allegorical
+are, for the most part, freely composed, irregular, full of action, and resemble the genre
+pictures. The Single Figure pictures, Religious, Allegorical and Genre, and the Portrait Groups,
+resemble the portraits. Therefore, it may be considered that the existence of a perfect substitutional
+symmetry has been established, inasmuch as it has been shown to be almost invariably present
+in the types examined.
+
+The experimental treatment of the isolated elements determined the particular function of each
+in distributing attention in the field of view. The object of large size claims attention,
+but does not rivet it nor draw it out powerfully; the intrinsically interesting object does
+excite it, but limits it to a comparatively small field; the suggestion of movement or of attention
+on the part of pictured objects carries the attention through the field of its operation; the
+vista rivets the attention without powerfully exciting it, and the line extending in a certain
+direction carries the attention in the same way as does the suggestion of movement.
+
+The following table gives the distribution of the elements in the single-center pictures already
+examined. The numbers represent the per cent. of the whole number of balanced pictures in which
+the given element appears once or more.
+
+    S.C.       Ms.    I.    D.    V.    L.
+
+    Alt. p.    26    100    91    13    31
+    Mad.       21    100    96    27    64
+    Port.      80     63    98    17    61
+    Genre      57     89    57    46    44
+    Lands. But I. keeps
+its predominance throughout the types, except in the portraits, where,
+indeed, we should not expect it to be so powerful, since the principal
+object of interest must always be the portrait head, and that is in
+most cases in the Cn., and therefore not counted. Yet I. has a
+respectable representation even in the portrait table, showing that
+such objects as jewels, embroideries, beautiful hands, etc., count
+largely too in composition. Its greatest is in the genre table, where,
+of course, human interests constitute the subject matter.
+
+It is among the portraits that the direction of suggestion is most operative. As remarked above,
+the altarpieces and Madonna pictures, also largely without action, depend largely for it on
+D., in the form of direction of attention (D. 91 per cent.).
+
+The vista, as said above, rivets and confines the attention. (Cf. This neutralizing explains
+why it has a comparatively small per cent. in the landscape table, it having appeared in minor
+form all over the field, but less often in large salient outline. It is worth noticing that
+for the D.C. of both genre and landscape, the per cent. drops appreciably.
+
+B. Principles of Composition. But the natural motor response to stimulation has another characteristic
+which belongs to us as individuals. The motor response must be balanced, but also unified.
+In a picture, therefore, there must be a large outline in which all the elements are held together,
+corresponding to this requirement of unity. Now this way of holding together, this manner of
+combination, may vary; and I hope to show that it not only varies with the subject and purpose
+of the picture, but bears a very close relation thereto--that, in short, it is what determines
+the whole character of the picture. Just what this relation is will appear in the study of
+our material.
+
+The famous Bull of Paul Potter (149), in the Royal Museum at the Hague, furnishes a third type,
+the diagonal. High on one side are grouped the herdsman, leaning on a tree which fills up the
+sky on that side, and his three sheep and cow. The head of the bull is turned toward this side,
+and his back and hind leg slope down to the other side, as the ground slopes away to a low
+distant meadow. The picture is thus divided by an irregular diagonal.
+
+It is, of course, not necessary at this point to show how it is that such an apparently unsymmetrical
+shape as the diagonal, alone or in combination with other forms, nevertheless produces an effect
+of balance. In all these cases of the diagonal type the mass or interest of the one side, or
+the direction of subordinate lines backward to it, balances the impulse of the line descending
+to the other side. The presence of balance or substitutional symmetry is taken for granted
+in this treatment, having been previously established, and only the modifications of this symmetry
+are under consideration.
+
+Now, in order to deal properly with the question of the relation of the type of composition
+to the subject of the picture, complete statistical information will be necessary. A table
+of the pictures, classified by subjects and distributed under the heads of the six major types,
+is accordingly subjoined.
+
+                       Pyramid.         Double-Pyr.       Diagonal. Cross,   12    0    0       3    0    0       1    0    0
+  Annunciations,      0    8    0       0    4    0       0    0    0
+  Misc. Religious,   55   16    3       4    4    0      10    7    5
+  Allegorical,       20    2    1       4    0    0       4    0    2
+  Genre,             25    4    4       5    0    0      18    2    1
+  Landscape,          8    2    1       3    0    0      25    6    0
+  Port. Group,       20    4    2       9    0    0       3    3    2
+  Rel. Single Fig.,  20    0    0       2    0    0       2    0    0
+  Alleg.         Square.             Oval. Cross,    5    0    1       3    0    0       2    0    0
+  Annunciations,      0    1    0       0    8    0       0    0    0
+  Misc. Religious,   20   14    2       9   12    1       2    2    3
+  Allegorical,        3    2    1       3    1    0       3    1    0
+  Genre,             10    7    6       4    4    0       1    3    0
+  Landscape,         20   12    0       4    0    0       5    2    0
+  Port. Group,       10    7    1       0    3    0       0    0    0
+  Rel. Single Fig.,   3    0    0       1    0    0       0    0    0
+  Alleg.
+Taking together, for instance, in two groups of five each, the first
+ten classes in the table, we find that they fall to the six types in
+the following proportion:
+
+         P.     D.P.     Dg.     V.      Sq.     Ov.
+   I.    66      13      05      13      03       0
+  II.    43      07      14      20      12       04
+
+Inasmuch as II. contains also many 'contemplative' pictures, while I. contains no 'active'
+ones, the contrast between the proportions of the groups would really be sharper than the figures
+indicate. But as it is, we see that the pyramid type is characteristic of the 'contemplative'
+pictures in a much higher degree. If the closely allied double-pyramid type is taken with it,
+we have 79 per cent of the 'contemplative' to 50 per cent, of the 'active' ones.
+
+But is it not also characteristic of the 'active' pictures, since, as we see, it has the largest
+representation in that class too? Perhaps it might be said that, inasmuch as all pictures are
+really more 'quiet' than they are 'active,' so the type par excellence is the pyramidal--a
+suggestion which is certainly borne out by the table as a whole. But setting aside for the
+moment the pyramid and its sub-variety, we see that the diagonal V-shaped and square types
+are much more numerous in the roughly outlined 'active' class. Taking, again, the genre class
+as especially representative, we find 23 per cent. of the diagonal type, and 25 per cent. of
+the V-shaped. We have seen how closely allied are these two types, and how gradually one passes
+over into the other, so that we may for the nonce take them together as making up 47 per cent.
+of the whole. The type of picture which expresses the highest degree of activity, which aims
+to tell a story, has, then, for its characteristic type the V and its varieties.
+
+                  P.    D.P.    Dg.    V.     Sq.    Or.
+  Landscapes,     13     03     35     36     05     08
+
+It is now necessary to ask what must be the interpretation of the use of these types of composition.
+With it may be compared Titian's Presentation of the Virgin (107), also in the Academy, Venice.
+The composition, from the figure moving upward to one high on the right, to the downward lines,
+waiting groups and deep vista on the left, is almost identical with that of the Bordone. Neither
+is pure diagonal--that is, it saves itself at last by an upward movement. It is worth remarking
+that the perfect V, which is of course more regular, concentrated, quiet, than the diagonal,
+is more frequent than the diagonal among the 'Miscellaneous Religious' pictures (that is, it
+is more needed), since after all, as has been said, the final aim of all space composition
+is just the attainment of repose. But the landscapes need energy, not repression; and so the
+diagonal type is proportionately more numerous.
+
+The square and oval types, as is seen from the table, are far less often used. The oval, most
+infrequent of all, appears only among the 'active' pictures, with the exception of landscape.
+It usually serves to unite a group of people among whom there is no one especially striking--or
+the object of whose attention is in the center of the picture, as in the case of the Descent
+from the Cross. It imparts a certain amount of movement, but an equable and regular one, as
+the eye returns in an even sweep from one side to the other.
+
+The square type, although only three per cent. of the whole number of pictures, suggests a
+point of view which has already been touched on in the section on Primitive Art. The examples
+fall into two classes: in the first, the straight lines across the picture are unrelieved by
+the suggestion of any other type; in the second, the pyramid or V is suggested in the background
+with more or less clearness by means of architecture or landscape. In the first class are found,
+almost exclusively, early examples of Italian, Dutch and German art; in the second, pictures
+of a later period. Compare also the Finding of the Cross, Piero della Francesca (1088), a serial
+picture in two parts, with their respective backgrounds all on the same level; and most of
+the frescoes by Giotto at Assisi--in particular St. Francis before the Sultan (1057), in which
+the actors are divided into parties, so to speak. Interesting in connection with this is the
+observation that, although the more anecdotal the picture the more likely it is to be 'double-centered,'
+the later the picture the less likely it is to be double-centered. Thus the square and the
+double-center composition seem often to be found in the same picture and to be, both, characteristic
+of early composition. Compare also Madonna, Vitale di Bologna (157), in which the C. is almost
+falling off M.'s arms to the right, her head is bent to the right, and a monk is kneeling at
+the right lower corner; also Madonna, Ottaviano Nelli (175)--all very early pictures.
+
+       *       *       *       *       *
+
+THE ÆSTHETICS OF UNEQUAL DIVISION.
+
+BY ROSWELL PARKER ANGIER.
+
+PART I.
+
+The present paper reports the beginnings of an investigation designed to throw light on the
+psychological basis of our æsthetic pleasure in unequal division. It is confined to horizontal
+division. Owing to the prestige of the golden section, that is, of that division of the simple
+line which gives a short part bearing the same ratio to the long part that the latter bears
+to the whole line, experimentation of this sort has been fettered. Investigators have confined
+their efforts to statistical records of approximations to, or deviations from, the golden section.
+This exalts it into a possible æsthetic norm. But such a gratuitous supposition, by limiting
+the inquiry to the verification of this norm, distorts the results, tempting one to forget
+the provisional nature of the assumption, and to consider divergence from the golden section
+as an error, instead of another example, merely, of unequal division. We have, as a matter
+of fact, on one hand, investigations that do not verify the golden section, and, on the other
+hand, a series of attempts to account for our pleasure in it, as if it were, beyond dispute,
+the norm. In this way the statistical inquiries have been narrowed in scope, and interpretation
+retarded and misdirected. Statistically our aim should be to ascertain within how wide limits
+æsthetically pleasing unequal divisions fall; and an interpretative principle must be flexible
+enough to include persistent variations from any hypothetical norm, unless they can be otherwise
+accounted for. If it is not forced on us, we have, in either case, nothing to do with the golden
+section.
+
+Since Fechner, the chief investigation in the æsthetics of simple forms is that of Witmer,
+in 1893.[1] Only a small part of his work relates to horizontal division, but enough to show
+what seems to me a radical defect in statistical method, namely, that of accepting a general
+average of the average judgments of the several subjects, as 'the most pleasing relation' or
+'the most pleasing proportion.'[2] Such a total average may fall wholly without the range of
+judgments of every subject concerned, and tells us nothing certain about the specific judgments
+of any one. Even in the case of the individual subject, if he shows in the course of long experimentation
+that he has two distinct sets of judgments, it is not valid to say that his real norm lies
+between the two; much less when several subjects are concerned. If averages are data to be
+psychophysically explained, they must fall well within actual individual ranges of judgment,
+else they correspond to no empirically determinable psychophysical processes. Each individual
+is a locus of possible æsthetic satisfactions. Since such a locus is our ultimate basis for
+interpretation, it is inept to choose, as 'the most pleasing proportion,' one that may have
+no correspondent empirical reference. The normal or ideal individual, which such a norm implies,
+is not a psychophysical entity which may serve as a basis of explanation, but a mathematical
+construction.
+
+   [1] Witmer, Lightner: 'Zur experimentellen Aesthetik einfacher
+   räumlicher Formverhältnisse,' Phil. Studien, 1893, IX., S.
+   96-144, 209-263.
+
+This criticism would apply to judgments of unequal division on either side the center of a
+horizontal line. It would apply all the more to any general average of judgments including
+both sides, for, as we shall soon see, the judgments of individuals differ materially on the
+two sides, and this difference itself may demand its explanation. And if we should include
+within this average, judgments above and below the center of a vertical line, we should have
+under one heading four distinct sets of averages, each of which, in the individual cases, might
+show important variations from the others, and therefore require some variation of explanation.
+And yet that great leveller, the general average, has obliterated these vital differences,
+and is recorded as indicating the 'most pleasing proportion.'[3] That such an average falls
+near the golden section is immaterial. Witmer himself, as we shall see,[4] does not set much
+store by this coincidence as a starting point for explanation, since he is averse to any mathematical
+interpretation, but he does consider the average in question representative of the most pleasing
+division.
+
+   [2] op. cit., 212-215.
+
+   [3] Witmer: op. cit., S. 212-215.
+
+   [4] op. cit., S. 262.
+
+I shall now, before proceeding to the details of the experiment to be recorded, review, very
+briefly, former interpretative tendencies. Zeising found that the golden section satisfied
+his demand for unity and infinity in the same beautiful object.[5] In the golden section, says
+Wundt,[6] there is a unity involving the whole; it is therefore more beautiful than symmetry,
+according to the æsthetic principle that that unification of spatial forms which occurs without
+marked effort, which, however, embraces the greater manifold, is the more pleasing. But to
+me this manifold, to be æsthetic, must be a sensible manifold, and it is still a question whether
+the golden section set of relations has an actual correlate in sensations. Witmer,[7] however,
+wrote, at the conclusion of his careful researches, that scientific æsthetics allows no more
+exact statement, in interpretation of the golden section, than that it forms 'die rechte Mitte'
+between a too great and a too small variety. Nine years later, in 1902, he says[8] that the
+preference for proportion over symmetry is not a demand for an equality of ratios, but merely
+for greater variety, and that 'the amount of unlikeness or variety that is pleasing will depend
+upon the general character of the object, and upon the individual's grade of intelligence and
+æsthetic taste.' Külpe[9] sees in the golden section 'a special case of the constancy of the
+relative sensible discrimination, or of Weber's law.' The division of a line at the golden
+section produces 'apparently equal differences' between minor and major, and major and whole.
+It is 'the pleasingness of apparently equal differences.'
+
+   [5] Zelsing, A.: 'Aesthetische Forschungen,' 1855, S. 172;
+   'Neue Lehre von den Proportionen des menschlichen Körpera,'
+   1854, S. 133-174.
+
+   [6] Wundt, W.: 'Physiologische Psychologie,' 4te Aufl.,
+   Leipzig, 1893, Bd. II., S. 240 ff.
+
+   [7] op. cit., S. 262.
+
+   [8] Witmer, L.: 'Analytical Psychology,' Boston, 1902, p. 74.
+
+   [9] Külpe, O.: 'Outlines of Psychology,' Eng. Trans., London,
+   1895, pp. 253-255.
+
+These citations show, in brief form, the history of the interpretation of our pleasure in unequal
+division. Zeising and Wundt were alike in error in taking the golden section as the norm. Zeising
+used it to support a philosophical theory of the beautiful. Wundt and others too hastily conclude
+that the mathematical ratios, intellectually discriminated, are also sensibly discriminated,
+and form thus the basis of our æsthetic pleasure. An extension of this principle would make
+our pleasure in any arrangement of forms depend on the mathematical relations of their parts.
+We should, of course, have no special reason for choosing one set of relationships rather than
+another, nor for halting at any intricacy of formulæ. But we cannot make experimental æsthetics
+a branch of applied mathematics. A theory, if we are to have psychological explanation at all,
+must be pertinent to actual psychic experience. Witmer, while avoiding and condemning mathematical
+explanation, does not attempt to push interpretation beyond the honored category of unity in
+variety, which is applicable to anything, and, in principle, is akin to Zeising's unity and
+infinity. We wish to know what actual psychophysical functionings correspond to this unity
+in variety. Külpe's interpretation is such an attempt, but it seems clear that Weber's law
+cannot be applied to the division at the golden section. It would require of us to estimate
+the difference between the long side and the short side to be equal to that of the long side
+and the whole. A glance at the division shows that such complex estimation would compare incomparable
+facts, since the short and the long parts are separated, while the long part is inclosed in
+the whole. Besides, such an interpretation could not apply to divisions widely variant from
+the golden section.
+
+This paper, as I said, reports but the beginnings of an investigation into unequal division,
+confined as it is to results obtained from the division of a simple horizontal line, and to
+variations introduced as hints towards interpretation. The tests were made in a partially darkened
+room. The apparatus rested on a table of ordinary height, the part exposed to the subject consisting
+of an upright screen, 45 cm. high by 61 cm. broad, covered with black cardboard, approximately
+in the center of which was a horizontal opening of considerable size, backed by opal glass.
+Between the glass and the cardboard, flush with the edges of the opening so that no stray light
+could get through, a cardboard slide was inserted from behind, into which was cut the exposed
+figure. A covered electric light illuminated the figure with a yellowish-white light, so that
+all the subject saw, besides a dim outline of the apparatus and the walls of the room, was
+the illuminated figure. An upright strip of steel, 1½ mm. wide, movable in either direction
+horizontally by means of strings, and controlled by the subject, who sat about four feet in
+front of the table, divided the horizontal line at any point. On the line, of course, this
+appeared as a movable dot. The line itself was arbitrarily made 160 mm. long, and 1½ mm. wide.
+The subject was asked to divide the line unequally at the most pleasing place, moving the divider
+from one end slowly to the other, far enough to pass outside any pleasing range, or, perhaps,
+quite off the line; then, having seen the divider at all points of the line, he moved it back
+to that position which appealed to him as most pleasing. Record having been made of this, by
+means of a millimeter scale, the subject, without again going off the line, moved to the pleasing
+position on the other side of the center. He then moved the divider wholly off the line, and
+made two more judgments, beginning his movement from the other end of the line. These four
+judgments usually sufficed for the simple line for one experiment. In the course of the experimentation
+each of nine subjects gave thirty-six such judgments on either side the center, or seventy-two
+in all.
+
+In Fig. 1, I have represented graphically the results of these judgments. The letters at the
+left, with the exception of X, mark the subjects. Beginning with the most extreme judgments
+on either side the center, I have erected modes to represent the number of judgments made within
+each ensuing five millimeters, the number in each case being denoted by the figure at the top
+of the mode. The two vertical dot-and-dash lines represent the means of the several averages
+of all the subjects, or the total averages. The short lines, dropped from each of the horizontals,
+mark the individual averages of the divisions either side the center, and at X these have been
+concentrated into one line. Subject E obviously shows two pretty distinct fields of choice,
+so that it would have been inaccurate to condense them all into one average. I have therefore
+given two on each side the center, in each case subsuming the judgments represented by the
+four end modes under one average. In all, sixty judgments were made by E on each half the line.
+Letter E¹ represents the first thirty-six; E² the full number. A comparison of the two shows
+how easily averages shift; how suddenly judgments may concentrate in one region after having
+been for months fairly uniformly distributed. The introduction of one more subject might have
+varied the total averages by several points. Table I. shows the various averages and mean variations
+in tabular form.
+
+TABLE I.
+                         Left.            Right.
+                      Div.  M.V.        Div.   M.V.
+        A      54    2.6         50     3.4
+        B      46    4.5         49     5.7
+        C      75    1.8         71     1.6
+        D      62    4.4         56     4.1
+        E¹     57   10.7         60     8.7
+        F      69    2.6         69     1.6
+        G      65    3.7         64     2.7
+        H      72    3.8         67     2.1
+        J      46    1.9         48     1.3
+                 --    ---         --     ---
+Total            60    3.9         59     3.5
+
+Golden Section = 61.1.
+
+    ¹These are E's general averages on 36 judgments. Fig. 1,
+    however, represents two averages on each side the center, for
+    which the figures are, on the left, 43 with M.V. 3.6; and 66
+    with M.V. 5.3. On the right, 49, M.V. 3.1; and 67, M.V. 2.7.
+    For the full sixty judgments, his total average was 63 on the
+    left, and 65 on the right, with mean variations of 9.8 and 7.1
+    respectively. The four that E² in Fig. 1 shows graphically
+    were, for the left, 43 with M.V. 3.6; and 68, M.V. 5.1. On the
+    right, 49, M.V. 3.1; and 69, M.V. 3.4.
+
+Results such as are given in Fig. 1, appear to warrant the criticism of former experimentation.
+Starting with the golden section, we find the two lines representing the total averages running
+surprisingly close to it. This line, however, out of a possible eighteen chances, only twice
+(subjects D and G) falls wholly within the mode representing the maximum number of judgments
+of any single subject. In six cases (C twice, F, H, J twice) it falls wholly without any mode
+whatever; and in seven (A, B twice, E, F, G, H) within modes very near the minimum. Glancing
+for a moment at the individual averages, we see that none coincides with the total (although
+D is very near), and that out of eighteen, only four (D twice, G twice) come within five millimeters
+of the general average, while eight (B, C, J twice each, F, H) lie between ten and fifteen
+millimeters away. The two total averages (although near the golden section), are thus chiefly
+conspicuous in showing those regions of the line that were avoided as not beautiful. Within
+a range of ninety millimeters, divided into eighteen sections of five millimeters each, there
+are ten such sections (50 mm.) each of which represents the maximum of some one subject. The
+range of maximum judgments is thus about one third the whole line. From such wide limits it
+is, I think, a methodological error to pick out some single point, and maintain that any explanation
+whatever of the divisions there made interprets adequately our pleasure in unequal division.
+Can, above all, the golden section, which in only two cases (D, G) falls within the maximum
+mode; in five (A, C, F, J twice) entirely outside all modes, and in no single instance within
+the maximum on both sides the center--can this seriously play the role of æsthetic norm?
+
+I may state here, briefly, the results of several sets of judgments on lines of the same length
+as the first but wider, and on other lines of the same width but shorter. There were not enough
+judgments in either case to make an exact comparison of averages valuable, but in three successively
+shorter lines, only one subject out of eight varied in a constant direction, making his divisions,
+as the line grew shorter, absolutely nearer the ends. He himself felt, in fact, that he kept
+about the same absolute position on the line, regardless of the successive shortenings, made
+by covering up the ends. This I found to be practically true, and it accounts for the increasing
+variation toward the ends. Further, with all the subjects but one, two out of three pairs of
+averages (one pair for each length of line) bore the same relative positions to the center
+as in the normal line. That is, if the average was nearer the center on the left than on the
+right, then the same held true for the smaller lines. Not only this. With one exception, the
+positions of the averages of the various subjects, when considered relatively to one another,
+stood the same in the shorter lines, in two cases out of three. In short, not only did the
+pair of averages of each subject on each of the shorter lines retain the same relative positions
+as in the normal line, but the zone of preference of any subject bore the same relation to
+that of any other. Such approximations are near enough, perhaps, to warrant the statement that
+the absolute length of line makes no appreciable difference in the æsthetic judgment. In the
+wider lines the agreement of the judgments with those of the normal line was, as might be expected,
+still closer. In these tests only six subjects were used. As in the former case, however, E
+was here the exception, his averages being appreciably nearer the center than in the original
+line. But his judgments of this line, taken during the same period, were so much on the central
+tack that a comparison of them with those of the wider lines shows very close similarity. The
+following table will show how E's judgments varied constantly towards the center:
+
+                                                            AVERAGE.
+                                                             L.   R.
+  1. Twenty-one judgments (11 on L. and 10 on R.) during
+  experimentation on I¹, I², etc., but not on same days.   64   65
+
+  2. Twenty at different times, but immediately before
+   judging on I¹, I², etc.                                 69   71
+
+  3. Eighteen similar judgments, but immediately after
+  judging on I¹, I², etc.                                  72   71
+
+  4. Twelve taken after all experimentation with I¹,
+  I², etc., had ceased.                                    71   69
+
+The measurements are always from the ends of the line. It looks as if the judgments in (3)
+were pushed further to the center by being immediately preceded by those on the shorter and
+the wider lines, but those in (1) and (2) differ markedly, and yet were under no such influences.
+
+From the work on the simple line, with its variations in width and length, these conclusions
+seem to me of interest. (1) The records offer no one division that can be validly taken to
+represent 'the most pleasing proportion' and from which interpretation may issue. (2) With
+one exception (E) the subjects, while differing widely from one another in elasticity of judgment,
+confined themselves severally to pretty constant regions of choice, which hold, relatively,
+for different lengths and widths of line. (3) Towards the extremities judgments seldom stray
+beyond a point that would divide the line into fourths, but they approach the center very closely.
+Most of the subjects, however, found a slight remove from the center disagreeable. (4) Introspectively
+the subjects were ordinarily aware of a range within which judgments might give equal pleasure,
+although a slight disturbance of any particular judgment would usually be recognized as a departure
+from the point of maximum pleasingness. This feeling of potential elasticity of judgment, combined
+with that of certainty in regard to any particular instance, demands--when the other results
+are also kept in mind--an interpretative theory to take account of every judgment, and forbids
+it to seize on an average as the basis of explanation for judgments that persist in maintaining
+their æsthetic autonomy.
+
+I shall now proceed to the interpretative part of the paper. Bilateral symmetry has long been
+recognized as a primary principle in æsthetic composition. We inveterately seek to arrange
+the elements of a figure so as to secure, horizontally, on either side of a central point of
+reference, an objective equivalence of lines and masses. At one extreme this may be the rigid
+mathematical symmetry of geometrically similar halves; at the other, an intricate system of
+compensations in which size on one side is balanced by distance on the other, elaboration of
+design by mass, and so on. Physiologically speaking, there is here a corresponding equality
+of muscular innervations, a setting free of bilaterally equal organic energies. Introspection
+will localize the basis of these in seemingly equal eye movements, in a strain of the head
+from side to side, as one half the field is regarded, or the other, and in the tendency of
+one half the body towards a massed horizontal movement, which is nevertheless held in check
+by a similar impulse, on the part of the other half, in the opposite direction, so that equilibrium
+results. The psychic accompaniment is a feeling of balance; the mind is æsthetically satisfied,
+at rest. And through whatever bewildering variety of elements in the figure, it is this simple
+bilateral equivalence that brings us to æsthetic rest. If, however, the symmetry is not good,
+if we find a gap in design where we expected a filling, the accustomed equilibrium of the organism
+does not result; psychically there is lack of balance, and the object is æsthetically painful.
+We seem to have, then, in symmetry, three aspects. First, the objective quantitative equality
+of sides; second, a corresponding equivalence of bilaterally disposed organic energies, brought
+into equilibrium because acting in opposite directions; third, a feeling of balance, which
+is, in symmetry, our æsthetic satisfaction.
+

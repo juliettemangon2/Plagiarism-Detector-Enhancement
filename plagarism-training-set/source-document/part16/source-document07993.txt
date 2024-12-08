@@ -1,0 +1,141 @@
+﻿EXPERIMENT 68. Caution: Keep the switches turned off throughout this experiment.[6]
+
+[Footnote 6: All through this chapter it is assumed that the electrical apparatus described
+in the appendix is being used. In this apparatus all the switches are on one wire, the other
+wire being alive even when the switches are turned off.]
+
+    (a) Put a piece of fuse wire across the fuse gap. Screw the
+    plug with nails in it into the lamp socket. Connect the bare
+    end of a piece of insulated wire to the water faucet and touch
+    the other end to one nail of the plug. If nothing happens,
+    touch it to the other nail instead. The electricity has gone
+    down into the ground through the water pipe, instead of into
+    the other wire. The ground carries the electricity back to the
+    dynamo just as a wire would.
+
+    (b) Put a new piece of fuse wire across the gap. Keep
+    switches turned off. Touch the brass disk at the bottom of
+    an electric lamp to the nail which worked, and touch the wire
+    from the faucet to the other brass part of the lamp (Fig.
+    129). What happens?
+
+    Caution: Under no circumstances allow the switch to be turned
+    on while you are doing any part of this experiment. Under no
+    circumstances touch the wire from the faucet to the binding
+    posts of the fuse gap. Do only as directed. Explain what
+    would happen if you disobeyed these rules.
+
+WHY A BIRD IS NOT ELECTROCUTED WHEN IT SITS ON A LIVE WIRE. If a man accidentally touches a
+live wire that carries a strong current of electricity he is electrocuted; yet birds perch
+on such a wire in perfect safety. If a man should leap into the air and grasp a live wire,
+hanging from it without touching the ground, he would be no more hurt by it than a bird is.
+A person who is electrocuted by touching such a wire must at the same time be standing on the
+ground or on something connected with it. The ground completes the electric circuit which passes
+through the body. An electric circuit can always be completed through the ground, and when
+this is done, it is called grounding a circuit.
+
+    APPLICATION 54. Explain why only one wire is needed to
+    telegraph between two stations; why you should not turn an
+    electric light on or off while standing in a tub of water.
+
+    APPLICATION 55. In a house in the country, the electric wires
+    passed through a double wall. They were separated from each
+    other and well covered with insulation, but they were not
+    within an iron pipe, as is now required in many cities. The
+    current was alternating. One night when the lights were out a
+    rat in the wall gnawed through the insulation of the wire
+    and also gnawed clear through one of the wires. Did he get a
+    shock? The next morning, the woman of the house wanted to use
+    the electric iron in the kitchen and it would not work. The
+    kitchen had in it a gas stove, a sink with running water, a
+    table, a couple of chairs, and the usual kitchen utensils.
+    There was also a piece of wire about long enough to reach
+    across the kitchen. The electrician could not come out for
+    several hours, and the woman wanted very much to do her
+    ironing. Figure 130 is a diagram of the wires and the kitchen.
+    Show what the woman might have done in order to use her iron
+    until the electrician arrived.
+
+    APPLICATION 56. A man wanted to change the location of the
+    wiring in his cement-floored garage. While he was working,
+    would it have been best for him to stand on the bare cement
+    floor, on a wire mat, on an old automobile tire, on a wet rug,
+    or on some skid chains that were there?
+
+INFERENCE EXERCISE
+
+    Explain the following:
+
+    331. An ungreased wheel squeaks.
+
+    332. Lightning rods extend into the earth.
+
+    333.
+
+    334. When the filament breaks, an electric lamp will no longer
+    glow.
+
+    335. An inverted image is formed by the lens of a camera.
+
+    336. A blown-out fuse may be replaced temporarily with a
+    hairpin or with a copper cent.
+
+    337. Sparks fly when a horse's shoe hits a stone.
+
+    338. A room requires less artificial light if the wall paper
+    is light than if it is dark.
+
+    339. Phonographs usually have horns, either inside or outside.
+
+    340. An electric car needs only one wire to make it go.
+
+SECTION 37. Resistance.
+
+What makes an electric heater hot?
+
+Why does lightning kill people when it strikes them?
+
+What makes an electric light glow?
+
+We have talked about making electricity work when it flows in a steady stream, and everybody
+knows that it makes lights glow, makes toasters and electric stoves hot, and heats electric
+irons. But did it ever strike you as remarkable that the same electricity that flows harmlessly
+through the wires in your house without heating them, suddenly makes the wire in your toaster
+or the filament in your incandescent lamp glowing hot? The insulation is not what keeps the
+wire cool, as you can see by the next experiment.
+
+    EXPERIMENT 69. Between two of the laboratory switches you will
+    find one piece of wire which has no insulation. Turn on the
+    electricity and make the lamp glow; see that you are standing
+    on dry wood and are not touching any pipes or anything
+    connected to the ground. Feel the bare piece of wire with your
+    fingers. Why does this not give you a shock? What would happen
+    if you touched your other hand to the gas pipe or water pipe?
+    Do not try it! But what would happen if you did?
+
+The reason that the filament of the electric lamp gets white hot while the copper wire stays
+cool is this: All substances that conduct electricity resist the flow somewhat; there is something
+like friction between the wire and the electricity passing through it. The smaller around a
+wire is, the greater resistance it offers to the passing of an electric current. The filament
+of an electric lamp is very fine and therefore offers considerable resistance. However, if
+the filament were made of copper, even as fine as it is, it would take a much greater flow
+of electricity to make it white hot, and it would be very expensive to use. So filaments are
+not made of copper but of substances which do not conduct electricity nearly as well and which
+therefore have much higher resistance. Carbon was once used, but now a metal called tungsten
+is used for most incandescent lamps. Both carbon and tungsten resist an electric current so
+much that they are easily heated white hot by it. On the other hand, they let so little current
+through that what does pass flows through the larger copper wires very easily and does not
+heat them noticeably.
+
+    EXPERIMENT 70. Watch the wire.
+
+The resistance wire you are using is an alloy, a mixture of metals that will resist electricity
+much more than ordinary metals will. This is the same kind of wire that is used in electric
+irons and toasters and heaters. It has so great a resistance to the electricity that it is
+heated red hot, or almost white hot, by the electricity passing through it.
+
+    APPLICATION 57. A power company wanted to send large
+    quantities of electricity down from a mountain. Should the
+    company have obtained resistance wire or copper wire to carry
+    it? Should the wire have been large or fine?
+

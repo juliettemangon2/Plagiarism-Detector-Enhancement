@@ -1,0 +1,262 @@
+﻿THE
+                            MOTHER'S MANUAL
+                                   OF
+                          CHILDREN'S DISEASES.
+
+                                   BY
+                           CHARLES WEST, M.D.
+
+  FELLOW, AND LATE SENIOR CENSOR, OF THE ROYAL COLLEGE OF PHYSICIANS:
+ FOUNDER OF, AND FORMERLY PHYSICIAN TO, THE HOSPITAL FOR SICK CHILDREN:
+FOREIGN CORRESPONDENT OF THE NATIONAL ACADEMY OF MEDICINE OF PARIS: ETC.
+
+     AUTHOR OF 'LECTURES ON THE DISEASES OF INFANCY AND CHILDHOOD.'
+
+                               NEW YORK:
+                        D. APPLETON AND COMPANY.
+                                 1885.
+
+ADVERTISEMENT.
+
+I have often asked myself whether it would not be possible to give in a small compass, and
+avoiding all technical detail, such an account of the diseases of infancy and childhood, as
+might be of use and comfort to the intelligent mother.
+
+Returning now, with health perfectly restored, to practise my profession for the rest of my
+life exclusively in my own country, I have brought with me this little book, in which the comparative
+leisure of my enforced sojourn at Nice has enabled me to realise my purpose.
+
+The book is not intended as a handbook for the nursery; many such exist, and many of them are
+of great merit. Neither has it the worse than idle pretence of telling people how to treat
+their children's illnesses, without the help of a doctor. Its object is to give a description
+of the diseases of early life, such as may help a mother to understand something of their nature
+and symptoms, to save her from needless anxiety as to their issue, and to enable her wisely
+to second the doctor in his endeavours for their cure.
+
+                                                           CHARLES WEST.
+
+55 HARLEY STREET, CAVENDISH SQUARE. August 1, 1885.
+
+CONTENTS.
+
+                                                                    PAGE
+
+ADVERTISEMENT                                                          v
+
+PART I.
+
+INTRODUCTORY                                                           1
+
+CHAPTER I.                                                             1
+    Mortality of children and its causes -- Causes fourfold:
+    Intermarriage -- Hereditary taint -- Unhealthy dwellings --
+    Unwholesome food
+
+CHAPTER II.                                                            5
+    General signs of disease -- Shown by the cry, the temperature, the
+    pulse and breathing -- Rules for examination as to these points --
+    Signs of absence of disease of the brain
+
+CHAPTER III.                                                          12
+    General management of disease -- Mothers who cannot nurse their
+    children when ill -- Importance of truth and keeping child happy --
+    Rules for management of bed-room and bed -- The bath -- Poultices --
+    Leeches -- Cold applications -- Medicines -- Note-taking and
+    relation to the doctor
+
+PART II.
+
+PLAN PROPOSED TO BE FOLLOWED                                          31
+
+CHAPTER IV.                                                           32
+    On the disorders and diseases of children during the first month
+    after birth -- Still-birth -- Premature birth -- Imperfect expansion
+    of lungs -- Jaundice -- Ophthalmia -- Scalp-swellings -- Ruptured
+    navel
+
+CHAPTER V.                                                            45
+    Disorders and diseases of children after the first month, and until
+    teething is finished -- Infantile atrophy -- Rules for artificial
+    feeding -- Management of indigestion -- Thrush -- Teething --
+    Affections of the skin -- Eczema
+
+PART III.
+
+DISORDERS AND DISEASES INCIDENT TO ALL PERIODS OF CHILDHOOD           85
+
+GENERAL CHARACTERISTICS OF SECOND PERIOD OF CHILDHOOD                 85
+
+CHAPTER VI.                                                           88
+    Disorders and diseases of the brain and nervous system -- Their
+    mortality and its causes -- Convulsions -- Congestion of the
+    brain -- Sunstroke -- Water on the brain -- Inflammation from
+    disease of the ear -- Chronic water on brain -- Brain disorder from
+    exhaustion -- Spasmodic croup -- Epilepsy -- St. Vitus's Dance --
+    Palsy -- Neuralgia and headache -- Night terrors
+
+CHAPTER VII.                                                         128
+    Disorders and diseases of the chest -- Catarrh and snuffles --
+    Bronchitis and pneumonia -- Influenza -- Pleurisy -- Croup --
+    Diphtheria -- Hooping-cough -- Asthma -- Diseases of the heart
+
+CHAPTER VIII.                                                        151
+    Diseases of organs of digestion -- Description of process of
+    digestion -- Dyspepsia of weakly children -- Jaundice --
+    Diarrh[oe]a -- Peritonitis -- Large abdomen -- Worms -- Ulcerated
+    mouth -- Quinsy -- Enlarged tonsils -- Abscess at back of throat --
+    Diseases of kidneys -- Incontinence of urine
+
+CHAPTER IX.                                                          173
+    Constitutional diseases -- Their nature -- Chronic constitutional
+    diseases -- Consumption -- Scrofula -- Rickets -- Acute
+    constitutional diseases -- Rheumatic fever -- Ague -- Mumps --
+    Typhoid fever -- Small-pox -- Inoculation and vaccination --
+    Chicken-pox -- Measles
+
+APPENDIX.                                                            213
+    Mental and moral faculties in childhood, and the disorders to which
+    they are liable
+
+INDEX                                                                231
+
+THE MOTHER'S MANUAL
+
+OF
+
+CHILDREN'S DISEASES.
+
+PART I.
+
+INTRODUCTORY.
+
+CHAPTER I.
+
+ON THE MORTALITY OF CHILDREN, AND ITS CAUSES.
+
+The purpose of this little book will probably be best attained, and needless repetition best
+avoided, if we begin by inquiring very briefly why so many children die, what general signs
+indicate that they are ill, and what general rules can be laid down for their management in
+sickness.
+
+The first of these inquiries would be as useless as it would be sad, if the rate of infant
+mortality were fixed by determinate laws, such as those which limit the stature of man or the
+age to which he can attain.
+
+But this is not so; the mortality in early life varies widely in different countries, in different
+parts of the same country, and in the same country at different times. Thus, while in some
+parts of Germany the mortality under one year was recently as high as 25 to 30 per cent. of
+the total births, and in England as 15, it was only a little above 10 per cent. in Norway.
+Infantile mortality is higher in manufacturing districts, lower in those which are agricultural,
+and varies from 16 per cent. in Lancashire to 9 in Dorsetshire. It is then evident that mortality
+in infancy is in part dependent on remediable causes; and of this there is no better proof
+than the fact that the mortality in England under one year has been reduced from 15 per cent.
+in 1872 to 13 per cent. in 1882.
+
+It would lead us far from any practical purpose if we were to examine into all the causes which
+govern the liability to disease and death during infancy and childhood, in the different ranks
+of society. We must therefore limit our inquiry to those conditions which are met with in the
+class to which my readers may fairly be assumed to belong.
+
+First among the causes of sickly infancy and premature death may be mentioned the intermarriage
+of near relatives. The experience of the breeders of animals, who, by what is termed breeding
+in and in, undoubtedly obtain certain qualities of speed, or strength, or beauty, does not
+apply here. They select for their experiments animals whose qualities in these respects are
+pre-eminent, and eliminate from them all who do not occupy the first rank. In family intermarriages,
+however, it is rare that any consideration is regarded, save that of wealth; and the fact remains,
+explain it as we may, that the intermarriage of near relatives during several successive generations
+is followed by a marked deterioration of the children, physical, mental, and moral; and by
+the intensifying of any hereditary predisposition to consumption, scrofula, and other constitutional
+ailments which form the second great cause of early sickness and mortality.
+
+These are facts known to all, which yet it is not easy to represent by figures. All the world
+is aware that consumption is hereditary, that consumptive parents are more likely than others
+to have consumptive children; and a fourth of all the patients admitted into the Hospital for
+Consumption at Brompton stated that the disease had existed in one or other of their parents.[1]
+Scrofula, which is another disease closely allied to consumption, is hereditary also; and hip
+disease, disease of the spine, abscesses, and enlarged glands in any members of a family, point
+to risks for the offspring which should not be forgotten, how much soever mental endowments,
+personal beauty, or the charms of disposition may be considered, and sometimes reasonably enough,
+to outweigh them. The same liability exists with reference to epilepsy, insanity, and the whole
+class of affections of the nervous system. Parents inquire, with no misplaced solicitude, what
+is her fortune, or what are the pecuniary resources of him to whom they are asked to entrust
+their son's or daughter's future. Believe me, the question--what is the health of his family,
+or of hers? is consumption hereditary, or scrofula, or epilepsy, or insanity?--is of far greater
+moment, and touches much more nearly the future happiness of those we love.
+
+These two points regard the future parents themselves; but there are other conditions on which
+the health of children to a great degree depends; and of these the two most important are the
+dwelling they inhabit, and the food they eat.
+
+I do not refer here to the dwellings of the poor, situated in unhealthy localities, where fresh
+air does not enter, where the rays of the sun do not penetrate, with defective drainage and
+imperfect water-supply; but I speak of the nurseries of well-to-do people. 'This will do for
+our bedroom, and that will make a nice spare room, and that will do for the children,' is what
+one often hears. Had you rare plants which cost much money to obtain, which needed sunlight,
+warmth, and air, would you not consider anxiously the position of your conservatory, and take
+much pains to insure that nothing should be wanting that could help their development, so that
+you might feast your eyes upon their beauty, or delight yourselves with their fragrance? And
+yet a room at the top of the house, one of the attics perhaps, is too often destined for the
+little one and its nurse; or if there are two or three children, one small room is set apart
+for the day nursery, and a second, probably with a different aspect, for a sleeping room, and
+so small that it does not furnish the needed five hundred cubic feet of air for each. And as
+a consequence, the children are ailing, any predisposition in them to hereditary disease is
+fostered, they have no strength to battle against any acute illness that may befall them, and
+yet surprise is felt that the doctor is never out of the house.[2]
+
+It is needless to dwell on the hand-feeding of infants as one of the great causes of mortality
+in infancy, and of sickliness in later life. The statistics of Foundling Hospitals bear sad
+testimony to the fact of its dangers, and the researches of physicians show that a peculiar
+form of disease is produced by it, attended by symptoms, and giving rise to appearances after
+death, peculiar to the form of slow starvation from which the infant has perished. I will add,
+because it is not generally known, one fresh illustration of the influence of artificial feeding
+in aggravating the mortality of infants. In Berlin the certificates of death of all infants
+under the age of one year, are required to state whether the little one had been brought up
+at the breast, or on some kind or other of artificial food. Of ten thousand children dying
+under the age of one year, one-fourth had been brought up at the breast, three-fourths by hand.[3]
+
+It is, as I said in the preface, no part of my plan to enter on any details with reference
+to the management of children in health. It may, therefore, suffice to have pointed out the
+four great causes of preventible disease among the wealthier classes of society; namely, the
+intermarriage of near relatives, the transmission of constitutional taint, the insanitary condition
+of the dwelling, and the injudicious selection of the food of the infant.
+
+FOOTNOTES:
+
+[1] This is the proportion stated in Quain's Dictionary of Medicine, to which the writer, Dr.
+Theodore Williams, adds that of 1,000 cases in the upper classes 12 per cent. showed direct
+hereditary predisposition, and 48 per cent. family predisposition.
+
+[2] Many useful suggestions will be found in Mrs. Gladstone's little tract, Healthy Nurseries
+and Bedrooms, published as one of the Health Exhibition Handbooks.
+
+[3] The actual numbers are 2,628 and 7,646. See Generalbericht ueber das Medizinal-und Sanitätswesen
+der Stadt Berlin im Jahre 1881. 8vo. Berlin 1883, p. 19.
+
+CHAPTER II.
+
+THE GENERAL SIGNS OF DISEASE IN INFANCY AND CHILDHOOD.
+
+The signs of disease at all ages may be referred to one or other of three great classes: disorder
+of function, alteration of temperature, complaint of pain.
+
+In the infant it is the last of these which very often calls attention to the illness from
+which it is suffering. Cries are the only language which a young baby has to express its distress;
+as smiles and laughter and merry antics tell without a word its gladness. The baby must be
+ill, is all that its cries tell one person; another, who has seen much of sick children, will
+gather from them more, and will be able to judge whether its suffering is in the head, or chest,
+or stomach. The cries of a baby with stomach-ache are long and loud and passionate; it sheds
+a profusion of tears; now stops for a moment, and then begins again, drawing up its legs to
+its stomach; and as the pain passes off, stretches them out again, and with many little sobs
+passes off into a quiet sleep. If it has inflammation of the chest it does not cry aloud, it
+sheds no tears, but every few minutes, especially after drawing a deeper breath than before,
+or after each short hacking cough, it gives a little cry, which it checks apparently before
+it is half finished; and this, either because it has no breath to waste in cries, or because
+the effort makes its breathing more painful. If disease is going on in the head, the child
+utters sharp piercing shrieks, and then between whiles a low moan or wail, or perhaps no sound
+at all, but lies quiet, apparently dozing, till pain wakes it up again.
+
+It is not, however, by the cry alone, or by any one sign of disease, that it is possible to
+judge either of its nature or of its degree, but the mention of this serves merely as an illustration,
+which anyone can understand, of the different meanings that even a baby's cry will convey to
+different persons.
+

@@ -1,0 +1,167 @@
+﻿Adapting the illustration of the books to a patent office classification: If it were possible
+to view these characteristics as patentable in combinations of all or in any combinations less
+than all, and also as separate characteristics, 16 divisions additional to the 256 for each
+independent characteristic would have to be provided, as well as other divisions for combinations
+of less than the whole, in order to make the classification absolutely indicative of every
+feature, and the number of divisions would be enormous. In such a classification, after the
+proper division had been located, the search would be nothing, the difficulty would be to find
+the appropriate class.
+
+Expedients to reduce the number of subdivisions.--Fortunately most people carry on their mental
+processes in accordance with certain uniformities. Under this uniformity of thought no patentable
+relationship may be alleged between a quarto volume and the subject of history or between a
+leather binding and the German language; wherefore 4 classes of coordinate value, based on
+the 4 characteristics, each divided into 4 subclasses, 16 divisions in all, may serve the purpose
+of a Patent Office search. But if, as sometimes happens, a patentable relationship had been
+assumed and admitted between a leather binding and any of the languages, or any of the subjects,
+or between any two or more of those different characteristics, provision could be made for
+such combinations by the following expedients:
+
+(1) Arrange the characteristics, in the order of relative significance or importance for the
+purpose in view, in four groups, giving each group the characteristic title. Under each title
+arrange the varieties in a similar relation as follows in either (1) or (2):
+
+             (1)                             (2)
+         Cl. X.--BOOKS.                 Cl. X.--BOOKS.
+
+ 0.  Miscellaneous.                 1. Subject-matter--
+ 0.5 Subject-matter--               2.   History.
+       1. History.                  3.   Science.
+       2. Science.                  4.   Art.
+       3. Art.                      5.   Fiction.
+       4. Fiction--                 6. Language--
+ 4.5 Language--                     7.   English.
+       5. English.                  8.   German.
+       6. German.                   9.   French.
+       7. French.                  10.   Spanish.
+       8. Spanish.                 11. Size--
+ 8.5 Size--                        12.   Folio.
+       9. Folio.                   13.   Quarto.
+      10. Quarto.                  14.   Octavo.
+      11. Octavo.                  15.   Duodecimo.
+      12. Duodecimo.               16. Binding--
+ 12.5 Binding material--           17.   Leather.
+      13. Leather.                 18.   Rawhide.
+      14. Rawhide.                 19.   Cloth.
+      15. Cloth.                   20.   Paper.
+      16. Paper.
+
+Subject-matter, assumed to be the most important characteristic, is placed first. Any exhibit
+of mere material for binding, mere size, mere language, or mere subject-matter, would fall
+into the correspondingly entitled group. If, however, a book on history in German or a history
+in red leather, etc., were to be classified, it would be placed in subclass "History" in the
+subject-matter group, and a French book in green cloth would be placed in subclass "French"
+in the language group. That is, combinations of any characteristic with any one or more other
+characteristics may be placed in the group for that characteristic deemed the most significant
+and which is highest in the schedule. Again, by assigning a number to each generic title, each
+such title becomes thereby the miscellaneous group for varieties other than those indented
+under it, as well as for all varieties associating any characteristic with one or more of those
+standing lower down. Thus, a book of poems would belong in subclass "Subject-matter" and a
+16mo volume bound with purple celluloid covers would belong in subclass "Size." So, by giving
+meaning to relative position, exhaustive arrangement is sought to be provided in a reasonable
+number of groups. To provide for other features that may be presented in future, an additional
+miscellaneous group may be added at the top (1), or the class title (2) might be deemed to
+represent the unclassified residue and a depository for future matter not specifically provided
+for.
+
+(2) If the number of instances of association of subject-matter and binding materials, language
+and size, etc., are numerous, additional groups might be placed above the groups having the
+names of the characteristics, the fact of the existence of these groups indicating that the
+characteristic groups are for single characteristics only and do not include books having several
+different ones. In such case the schedule might be headed by a miscellaneous group, having
+either the title "Miscellaneous" or the title of the class, to receive associated characteristics
+not provided for by specific titles, immediately followed by subclasses for the particular
+associations found to be most numerous, as follows:
+
+BOOKS.
+
+ Miscellaneous.
+ Subject-matter and language.
+ Subject-matter and binding material.
+ Subject-matter.
+ Language.
+ Size.
+ Binding material.
+
+To illustrate further, selecting for the purpose a mass of objects presenting problems more
+nearly like those presented to the office in questions of patentability, let it be assumed
+that one is to classify the objects in a heap of metal scrap.
+
+On looking over the material of the heap it is noticed that there are a large number of metal
+balls; some have holes through them, some are hollow, some are smooth on the outside, and some
+are hollow, smooth, and perforated, but they are all nevertheless balls, and accordingly all
+balls can be separated out and placed in a heap by themselves. Next, the presence of bars in
+the general mass is observed, some long, some short, some straight, some twisted, some of round
+stock, some of square stock, etc. These may be gathered together and placed in a separate pile
+at the left of the balls. It is further observed that there are many differently shaped annular
+bodies in the heap resembling generally the single links of a chain, some circular, some elliptical,
+some twisted, some made of round stock, some of square stock, etc. They are all nevertheless
+annular bodies; these may be placed in a separate pile at the left of the bars.
+
+Now, in the remnant of the original heap, a sufficient number of similar single elements does
+not remain from which to make a smaller pile of elements. Different combinations of links,
+balls, and bars are, however, observed in the remaining heap. Some are combinations of links,
+some combinations of a ball and link, some of a bar and link, and some of a bar, link, and
+ball. These different combinations may be separated out in the order named and placed in separate
+piles. After all these things have been removed, there is left in the original heap a number
+of odds and ends or miscellaneous metal objects.
+
+These several groups may now be arranged in the inverse order in which (in the particular illustration
+adopted) they have been removed, thus:
+
+ 1. Miscellaneous (remnants of the original heap of scrap).
+ 2. Combined bar, link, and ball.
+ 3. Combined bar and link.
+ 4. Combined bar and ball.
+ 5. Combined link and ball.
+ 6. Chains.
+ 7. Links.
+ 8. Bars.
+ 9. Balls.
+
+Knowing that objects of metal scrap not covered by the specific titles will be found in the
+miscellaneous group, and that the more complex specifically-named things are to be found first
+after the miscellaneous or at the left of the row of piles of materials thus separated and
+arranged, and the more simple things and parts farther to the right, the particular piles to
+resort to for the things wanted may be definitely determined. The same processes may be applied
+to each of the piles. Thus, balls, in the above illustration, may be divided into--
+
+ Balls--
+
+  10. Hollow perforated.
+  11. Hollow grooved.
+  12. Hollow.
+  13. Perforated.
+  14. Grooved.
+
+Again, the same processes may be applied to a mass of more diversified junk, of which the metal
+scrap may form one pile, rags another, old bricks another, old timber another, and, still another,
+timber having metal-straps, bolts, nails, etc., connected with it.
+
+Superiority and inferiority.--In the arrangement of subclasses in a class, those groups that
+are related to each other as wholes and parts are arranged so that the wholes shall stand before
+the parts, and so that subclasses defined by effect or by special use shall stand before those
+defined by function or general use. For example, in the scrap illustration above, assuming
+the titles to be in a printed arrangement, "chains" precedes "links," which may be parts of
+chains, and if it had been desired to separate animal-drags, for instance, from the scrap,
+some animal-drags being particular adaptations of a bar, links, and ball, the group of animal-drags
+should precede "Bar, link, and ball." The words "superior" and "inferior" have been used to
+indicate this relationship. A class or subclass defined to receive a certain combination is
+superior to one defined to receive an element or a combination that is a part of that certain
+combination. A class or subclass defined to receive means for making a particular product,
+as an electric lamp, is superior to a class or subclass designed to perform a general function,
+as pumping air from a container. And whenever a question of assignment of a patent or application
+that contains matters of two or more groups bearing that relation is raised, the "superior"
+group is selected to receive it.
+
+Further, in those instances in which groups are formed on different bases or different characteristics,
+not comparable with each other, and a patent is presented having matter falling in each group,
+that group which is highest in position is preferred in those instances where separate provision
+for means having both characteristics has not been made.
+
+In cases of necessity, as where a combination is presented for which no class has been definitely
+provided, but classes exist into which the several parts would fall if separately claimed,
+the same practice that obtains in similar situations with respect to two or more subclasses
+of a class may be followed with respect to two or more classes and the patent placed in that
+class which, in accordance with above-stated principles, should be deemed the "superior."
+

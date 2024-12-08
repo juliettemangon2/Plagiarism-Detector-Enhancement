@@ -1,0 +1,49 @@
+﻿Um nun den sogenannten *Seket* zu bestimmen, wurde die halbe Länge der Basisseite durch die
+Pyramidenhöhe dividirt und mit dem erhaltenen Quotienten die Anzahl der Theile des horizontalen,
+getheilten Schenkels des Winkelmaasses multiplicirt.
+
+Es war somit der Seket (welcher in derselben Art für einen geraden Kreiskegel aus dem Durchmesser
+der Basis und der Höhe bestimmt erscheint) als Verhältniss aufgefasst, die goniometrische Cotangente
+des Neigungswinkels der Seitenfläche der Pyramide, respective der Kegelkante zur Basis.
+
+Wenn wir selbstverständlich weit davon entfernt sind, hierin vielleicht Anfänge der Trigonometrie
+sehen zu wollen, so erkennen wir doch anderseits, dass den alten Aegyptern auch die Lehre proportionaler
+Linien, wenigstens in ihren Anwendungen, bekannt gewesen sein musste, und erscheint uns auch
+der am Eingange erwähnte Ausspruch über die dem Milesier *Thales* zugeschriebene Höhenmessung
+der Pyramiden als ein ganz glaubwürdiger, wenn wir sehen, wie im Papyrus von den drei Werthen:
+Basis, Höhe, Seket, jeder aus den beiden anderen berechnet erscheint.
+
+Fassen wir nun die Ergebnisse unserer Betrachtungen zusammen, so müssen wir aus der quellenmässig
+erwiesenen grossen Bewunderung, welche die ausgesprochen geometrisch hochentwickelten Griechen
+den aegyptischen Geometern rückhaltlos zollten, wir müssen aus der unanfechtbaren Thatsache,
+dass griechische Geometer den Grund zu ihren Kenntnissen und Entdeckungen in Aegypten suchten
+und fanden, wir müssen im Hinblicke auf das, aus der nun vollends entzifferten[42] *Edfu*er
+Schenkungsurkunde sich mit Sicherheit ergebende ausgebreitete und fest organisirte Katasterwesen
+der alten Aegypter, welches zugleich mit den zahlreichen, dem öffentlichen Leben dienenden
+Land- und Wasserbauten auf eine verhältnissmässig bedeutend entwickelte Vermessungskunde hinweist,
+wir müssen endlich aus dem von uns besprochenen Papyrus, der sich als eine ungenaue Abschrift
+eines mangelhaften, aus dem dritten Jahrtausend vor Chr. G. stammenden, mathematischen Collegien-
+oder Aufgabenheftes erweist, und aus dessen Vorhandensein sich fast mit Gewissheit auf damals
+existirende, neben den Regeln auch ihre Ableitungen enthaltende Lehrbücher schliessen lässt,
+wir können und müssen aus allen diesen Umständen den allgemeinen Schluss ziehen, dass bereits
+drei Jahrtausende vor unserer Zeitrechnung sowohl die arithmetischen, als auch die geometrischen
+Kenntnisse der Aegypter, einen für dieses Zeitalter bedeutenden Grad der Entwicklung besassen.
+
+Insbesondere können wir in jenen fernen Zeiten eine staunenswerth weitgehende Annäherung bei
+der Berechnung der Kreisfläche beobachten, wir finden mit vollständiger Sicherheit richtige
+Flächenbestimmungen des Quadrates, Rechteckes und des rechtwinkligen Dreieckes; höchst wahrscheinlich
+auch richtige Bestimmungen der Flächen schiefwinkliger Dreiecke und Vierecke, welche im praktischen
+Leben durch leichter zu handhabende Annäherungsformeln ersetzt wurden; wir sehen Bestimmungen
+des Rauminhaltes durch ihre Dimensionen gegebener Körper und erkennen die Anfänge der Aehnlichkeitslehre.
+
+Was das geometrische Zeichnen betrifft, so kennen wir schon die Construction der früher beobachteten
+regelmässigen Figuren und dürfen weiter vermuthen, dass die Anlegung rechter Winkel und das
+Fällen von Senkrechten sowohl mittelst des Winkelmaasses als auch mittelst rationaler rechtwinkliger
+Dreiecke bekannt, und die Zerlegung gegebener Flächen behufs ihrer Inhaltbestimmung in allgemeiner
+Verwendung war.
+
+Gewiss werden auch theoretische Resultate bekannt gewesen sein; so die Hälftung des Kreises
+durch seinen Durchmesser, die sich aus der besprochenen Seketrechnung von selbst ergebende
+Winkelgleichheit an der Basis gleichschenkliger Dreiecke und gleichseitiger quadratischer Pyramiden,
+und wohl noch manches Andere.
+

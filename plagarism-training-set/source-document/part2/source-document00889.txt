@@ -1,0 +1,80 @@
+﻿A HISTORY OF AERONAUTICS
+
+by E. Charles Vivian
+
+FOREWORD
+
+Although successful heavier-than-air flight is less than two decades old, and successful dirigible
+propulsion antedates it by a very short period, the mass of experiment and accomplishment renders
+any one-volume history of the subject a matter of selection. In addition to the restrictions
+imposed by space limits, the material for compilation is fragmentary, and, in many cases, scattered
+through periodical and other publications. Hitherto, there has been no attempt at furnishing
+a detailed account of how the aeroplane and the dirigible of to-day came to being, but each
+author who has treated the subject has devoted his attention to some special phase or section.
+The principal exception to this rule--Hildebrandt--wrote in 1906, and a good many of his statements
+are inaccurate, especially with regard to heavier-than-air experiment.
+
+Such statements as are made in this work are, where possible, given with acknowledgment to
+the authorities on which they rest. Further acknowledgment is due to Lieut.-Col. Lockwood Marsh,
+not only for the section on aeroplane development which he has contributed to the work, but
+also for his kindly assistance and advice in connection with the section on aerostation. The
+author's thanks are also due to the Royal Aeronautical Society for free access to its valuable
+library of aeronautical literature, and to Mr A. Vincent Clarke for permission to make use
+of his notes on the development of the aero engine.
+
+In this work is no claim to originality--it has been a matter mainly of compilation, and some
+stories, notably those of the Wright Brothers and of Santos Dumont, are better told in the
+words of the men themselves than any third party could tell them. The author claims, however,
+that this is the first attempt at recording the facts of development and stating, as fully
+as is possible in the compass of a single volume, how flight and aerostation have evolved.
+The time for a critical history of the subject is not yet.
+
+In the matter of illustrations, it has been found very difficult to secure suitable material.
+Even the official series of photographs of aeroplanes in the war period is curiously incomplete'
+and the methods of censorship during that period prevented any complete series being privately
+collected. Omissions in this respect will probably be remedied in future editions of the work,
+as fresh material is constantly being located.
+
+E.C.V. October, 1920.
+
+CONTENTS
+
+     Part I--THE EVOLUTION OF THE AEROPLANE
+         I.  THE PERIOD OF LEGEND
+        II.  EARLY EXPERIMENTS
+       III.  SIR GEORGE CAYLEY--THOMAS WALKER
+        IV.  THE MIDDLE NINETEENTH CENTURY
+         V.  WENHAM, LE BRIS, AND SOME OTHERS
+        VI.  THE AGE OF THE GIANTS
+       VII.  LILIENTHAL AND PILCHER
+      VIII.  AMERICAN GLIDING EXPERIMENTS
+        IX.  NOT PROVEN
+         X.  SAMUEL PIERPOINT LANGLEY
+        XI.  THE WRIGHT BROTHERS
+       XII.  THE FIRST YEARS OF CONQUEST
+      XIII.  FIRST FLIERS IN ENGLAND
+       XIV.  RHEIMS, AND AFTER
+        XV.  THE CHANNEL CROSSING
+       XVI.  LONDON TO MANCHESTER
+      XVII.  A SUMMARY--TO 1911
+     XVIII.  A SUMMARY--TO 1914
+       XIX.  THE WAR PERIOD--I
+        XX.  THE WAR PERIOD--II
+       XXI.  RECONSTRUCTION
+      XXII.  1919-1920
+
+     Part II--1903-1920: PROGRESS IN DESIGN
+         I.  THE BEGINNINGS
+        II.  MULTIPLICITY OF IDEAS
+       III.  PROGRESS ON STANDARDISED LINES
+        IV.  THE WAR PERIOD
+
+     Part III--AEROSTATICS
+         I.  BEGINNINGS
+        II.  THE FIRST DIRIGIBLES
+       III.  SANTOS-DUMONT
+        IV.  THE MILITARY DIRIGIBLE
+         V.  BRITISH AIRSHIP  DESIGN
+        VI.  THE AIRSHIP  COMMERCIALLY
+       VII.  KITE  BALLOONS
+

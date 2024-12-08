@@ -1,0 +1,271 @@
+﻿Transcriber's Note: In this text words
+ surrounded by an underscore are underlined.
+
+       *       *       *       *       *
+
+ A BURIAL CAVE IN BAJA
+ CALIFORNIA
+
+ THE PALMER COLLECTION, 1887
+
+ BY
+ WILLIAM C. MASSEY AND CAROLYN M. OSBORNE
+
+ ANTHROPOLOGICAL RECORDS
+ Vol. Although the material was duly catalogued,
+together with Dr. Palmer's notes, it has gone undescribed until the
+present.
+
+Dr. Robert F. Heizer called this collection to the attention of the senior author in 1948.
+At that time the archaeology of Baja California was receiving emphasis at the University of
+California because of the interest of the Associates in Tropical Biogeography, under the chairmanship
+of Dr. C. O. Sauer. The late Professor E. W. Gifford, then Curator of the Museum of Anthropology
+at the University of California, arranged with Dr. T. Dale Stewart of the United States National
+Museum for a temporary study loan of the collection.
+
+From the beginning, the division of labor between the authors has been primarily in terms of
+"hard" and "soft" artifacts. Massey has handled the analyses of the imperishable artifacts,
+their ethnographic and archaeological distributions, and the distributions of all artifacts
+for Baja California. Mrs. Osborne has dealt with the netting, textiles, and cordage, and the
+distribution of their techniques outside Baja California. Dr. Lila M. O'Neale began the analysis
+of the textiles and netting and directed it until her untimely death. Professor E. W. Gifford
+advised on the initial description of the imperishable artifacts.
+
+This presentation has been delayed for many reasons, but the intervening years have added much
+detailed information to the original data, both in the literature of anthropology and in subsequent
+field work.
+
+We are very grateful to friends, past and present, for their help and encouragement. We wish
+to acknowledge the support of the Department of Anthropology, University of California, for
+the photographs of the imperishable materials. Thanks are due Bob Ormsby, a University of Washington
+student, for the drawings of netting. All other drawings and the maps were done by June M.
+Massey. We acknowledge with thanks the assistance of Mrs. Gene Marquez, whose services as a
+typist were provided by the Department of Biological Sciences of the University of Florida.
+
+Above all we wish to dedicate this small work to the memories of two tireless teachers and
+workers in anthropology--and in humanity: Dr. Lila M. O'Neale and Professor E. W. Gifford.
+
+                                      W.C.M.
+                                      C.M.O.
+
+CONTENTS
+
+                                    Page
+ Preface                             iii
+ Introduction                        339
+ Ethnographic background             339
+ The site                            341
+ The burials                         341
+ Artifacts                           341
+   Stone                             341
+   Bone                              342
+   Shell                             342
+   Midden potsherds                  343
+   Wood                              343
+   Cordage and textiles              345
+     Simplest uses of prepared cord  345
+     Haftings                        346
+     Matting                         346
+     Netting                         347
+     Feathered apron or cape         349
+     Human hair cape                 349
+     Tump band                       350
+     Cotton cloth                    351
+ Summary and conclusions             351
+ Bibliography                        352
+ Explanation of plates               356
+
+MAPS
+
+ 1. Baja California, showing
+      location of Bahía de Los Angeles    339
+ 2. Linguistic groups of Baja California  340
+
+FIGURES
+
+ 1. Detail of arrow or dart (139587),
+      showing sting-ray spine point and
+      cuplike depression at butt end      344
+ 2. Tie-twined matting technique          346
+ 3. Square-knot technique                 347
+ 4. Method of beginning hairnets and
+      carrying nets                       347
+ 5. Detail of lower, fitted edge of
+    hairnet                               348
+ 6. Detail of lower, gathered edge of
+      carrying net                        348
+ 7. Then, as now,
+there was a modest gold-mining operation at the bay. During his brief
+stay at the mining station, Dr. Palmer excavated a small natural cave
+which had been used by the Indians who were then extinct in that part
+of the peninsula.
+
+Seven partially disturbed skeletons and a variety of associated artifacts were collected and
+deposited at the United States National Museum. The collection also included some potsherds
+and shells from a midden on the shores of the bay. All of these items were listed and briefly
+described in the Annual Report of the United States National Museum for the year 1888 (pp.
+127-129).
+
+Aside from the intrinsic value of presenting archaeological material from the little-known
+area of Baja California, the Palmer Collection has particular importance because of its immediate
+geographic source. Bahía de Los Angeles lies in that part of Baja California most accessible
+to the Mexican mainland (map 1). Not only is there a relative physical closeness, but the Gulf
+islands form here a series of "stepping stones" from Bahía de Los Angeles across to Tiburon
+Island, home of the Seri, and thence to the adjacent mainland coast of Sonora.
+
+The bay lies in the north-central desert region of the peninsula, where the environment is
+especially difficult because of extreme aridity, scarcity of surface water, and the consequent
+dearth of plant and animal life.
+
+In view of these conditions, it has been suggested that the Seri may be descendants of people
+who, hard-pressed by the environmental poverty of this section of Baja California, may have
+moved across the Gulf to Tiburon Island and Sonora (Kroeber, 1931, pp. 5, 49-50). This hypothesis
+has appealed to one California archaeologist, although at present there is insufficient evidence
+from archaeology or ethnography either to support or to deny it (Rogers, 1945, p. 194). However,
+the archaeological collection from Bahía de Los Angeles does indicate trade and some contact
+across the Gulf.
+
+In this paper emphasis is placed on the evaluation of the Palmer Collection with respect to
+the known archaeology and ethnography of Baja California.
+
+ETHNOGRAPHIC BACKGROUND
+
+The Indians who inhabited the area surrounding Bahía de Los Angeles spoke the Borjeño language
+of the Peninsular Yuman group, of the Yuman Family of languages (map 2). They were linguistically
+and historically related to other Yuman-speaking groups of the peninsula and areas to the north
+(Massey, 1949, p. 292). At the time of European contact these people--like all other aboriginal
+groups on the peninsula--were hunters, fishers, and gatherers. The nearest agricultural tribes
+were on the lower Colorado River.
+
+Culturally, the Borjeño were like other Peninsular Yumans of relatively late prehistoric and
+historic periods in central Baja California. However, they lived in more widely scattered groups
+because of the greater scarcity of water in this part of the peninsula. Immediately to the
+north of them at Bahía de San Luis Gonzaga--at approximately the 30th parallel--a decided break
+with the Peninsular Yuman tradition occurred.
+
+In 1746, during a voyage up the gulf coast from Loreto to the mouth of the Colorado River,
+Father Fernando Consag noted that (1) the Spanish and their "Cochimí" interpreters could not
+converse with the natives; (2) the natives had dogs; and (3) the Indians had pottery vessels
+(Venegas, 1944, III:107-109).
+
+The Hungarian Jesuit was the first to note the southeastern linguistic boundary of the California
+Yuman groups, a boundary which lay immediately north of Bahía de Los Angeles. At the same time
+he placed the southernmost extent of dogs and the making or use of pottery on the peninsula
+in the 18th century.
+
+In describing the collection from Bahía de Los Angeles, we have the benefit of ethnographic
+descriptions from three periods of the Spanish occupation of Baja California prior to 1769
+and the expulsion of the Jesuit missionaries. Some historical data derive from the initial
+voyages of the Spanish along the gulf coast in the 16th century. Later there were occasional
+contacts with these natives by Jesuit explorers during the first half of the 18th century.
+Finally, there was the period of active missionization, beginning with the foundation of Santa
+Gertrudis (1751) and continuing with San Borja (1762) and Santa María (1766).
+
+Toward the end of the 18th century there are applicable descriptions of Indians immediately
+to the north by the Dominican priest, Father Luis Sales (1794).
+
+The ethnographic information contained in the documents bears out the fact that the cave artifacts
+belong in the cultural tradition of the Borjeño who inhabited the region at the time of European
+contact and conquest.
+
+THE SITE
+
+Bahía de Los Angeles is a semicircular bay, about four miles in diameter, on the gulf coast
+of Baja California at 28° 55' N. and 113° 30' W. (map 1). On the northwest it is open to the
+waters of the Gulf of California and to the Canal de las Ballenas, which runs between the peninsula
+and Isla Ángel de la Guarda, some twelve miles distant. (This island and the smaller Isla Smith
+obstruct a view of the outer gulf, and from the shore Bahía de Los Angeles appears to be completely
+landlocked.) Within a few hundred feet of the shore, sandy beaches give way to the talus slopes
+of the mesas and peaks which edge the bay. An arroyo enters the bay from the west.
+
+The cave excavated by Dr. Palmer is situated on a granitic hill to the west of the bay, at
+an elevation of 30 ft. above sea level. Just below the mouth of the narrow fissure is a spring
+which supplies water to the little mining community. The cave itself measures 9 ft. in depth;
+it is 6 ft. wide and 5 ft. high at the mouth. Before Dr. Palmer's excavations, miners of the
+Gulf Gold Mining Company had removed some stones--referred to in the Report as a "wall"--from
+the front of the fissure, thus exposing a few bones, which lay sun-bleached on the talus slope
+(Annual Report, 1888, p. 127).
+
+THE BURIALS
+
+The small cave at Bahía de Los Angeles contained at least seven burials: six adults and "fragments
+of one or more infants" (Annual Report, 1888, p. 128). These burials were extended with an
+east-west orientation corresponding to the axis of the fissure; the foot bones were to the
+west, at the mouth of the cave, and the crania were in the tapered interior. The published
+report does not indicate whether placement was prone or supine.
+
+According to the Report the burials had been placed on a layer of sewn rush matting (139533[1];
+see "Matting"), of which three bundles were collected.
+
+ [1] Numbers throughout this paper refer to catalogue numbers of the
+ United States National Museum unless otherwise specified.
+
+The artifacts described here were found in direct association with the skeletons. There are
+few details as to actual associations. However, three hairnets (139534) were found on three
+of the crania.
+
+To date, the use of small caves for the specific purpose of burial appears to be characteristic
+only of the extreme south of Baja California, in the Cape Region. Interments there were customarily
+secondary, although primary burials, usually flexed, do occur (Massey, MS 1). In the extensive
+area that lies between Bahía de Los Angeles and the Cape Region, excavations have failed to
+produce cave cemeteries. To judge from published reports, such a custom was rare elsewhere
+in western North America.
+
+A variety of artifacts accompanied the burials, but while the range of types is large, the
+number of any one type is small. Preservation of all specimens is generally good. We are fortunate
+in having perishable pieces--netting, matting, cloth, and wood. Certain general categories
+of items, such as household utensils and remains of foodstuffs, are absent and unreported.
+
+ARTIFACTS
+
+STONE
+
+Tubular stone pipes.--Two tubular sandstone pipes were recovered from the cave. They are dissimilar
+in size, and, in some particulars, in manufacture.
+
+The larger specimen (139563; pl. 12, e) is a ground sandstone tube, 29.8 cm. long. In shape
+it tapers very gradually from the broad bowl end to the narrower mouth end. The conical bowl
+is 3.5 cm. deep; the mouth end has a depth of 1.6 cm. A small (4 mm.) drilled hole connects
+the two ends. The mouth end is filled by a plug of partially carbonized matted coarse fibers.
+There is a narrow carbonized strip, slightly in from the bowl end, which runs around the pipe;
+this appears to be the remnant of a cord that had been tied around it. Since the pipe had been
+broken at that end, it may have been repaired aboriginally with such a cord.
+
+The smaller pipe (139564; pl. 12, d) barely tapers from the bowl end to the mouth end. The
+ends of this pipe are conically drilled and they interconnect; there is no drilled hole connecting
+the bowl with the mouth end, as in the larger specimen. A partially carbonized plug of matted
+coarse fibers also fills the mouth end of the smaller pipe.
+
+Although simple tubular stone pipes occur sporadically in the archaeology of the Southwest,
+they are encountered frequently in central and northern Baja California. Stone tubes or pipes,
+called chacuacos, are often mentioned in Spanish sources as part of the shaman's paraphernalia
+in this Yuman-speaking area of the peninsula (Venegas, 1944, I:93, 95; Clavigero, 1937, p. 115).
+
+In the known areas of archaeological occurrence these pipes appear in two distinct sizes, even
+as they are represented in the two Bahía de Los Angeles specimens. There is the long type,
+measuring more than 15 cm., of which several specimens have been found in Baja California,
+at Bahía de Los Angeles, at a site near the Rosario Mission in the northwest, and throughout
+the central part of the peninsula (Massey, field notes). This type has also been noted from
+Ortiz, Sonora (Di Peso, 1957, p. 288), and in a late prehistoric or historic level at Ventana
+Cave (Haury, 1950, p. 331).
+
+The shorter type, usually about 7 cm. in length, is known to occur in the general central region
+around Mulegé (Massey, MS 2) and at Bahía de Los Angeles. In the Southwest, the smaller type
+has been reported from Chiricahua-Amargosa II levels at Ventana Cave (Haury, 1950, p. 329);
+La Candelaria Cave, Coahuila (Aveleyra et al., 1956, pp. 174-175); San Cayetano Ruin (Di Peso,
+1956, pp. 423-430); and from a series of sites, particularly in the Mogollon area (Martin et
+al., 1952, pp. 112-113, fig. 44).
+
+Similar pipes have also been found in the western Great Basin at Lovelock Cave (Loud and Harrington,
+1929, pl. 52) on the old shoreline of Humboldt Lake (ibid., pl. 65), and at Humboldt Cave (Heizer
+and Krieger, 1956, p. 71; pl. 31, e, f).
+
+Ethnographically, pipes of straight tubular shape are characteristic of California, the Great
+Basin, and the west coast of Mexico; however, they are usually of pottery where pottery-making
+was known (Driver and Massey, 1957, pp. 262-263, map 70). In these areas they were used for
+smoking, frequently in association with religious or curing ceremonies.
+
+In mission times tubular stone pipes were used throughout northern and central Baja California
+by shamans; they were smoked and the smoke was blown on injured or diseased parts, or they
+were used as sucking and blowing tubes for the removal of disease-causing objects.
+

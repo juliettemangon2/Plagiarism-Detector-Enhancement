@@ -1,0 +1,525 @@
+﻿THE BOW, ITS HISTORY, MANUFACTURE AND USE.
+
+Printed in Great Britain by J. H. Lavender and Co., 2, Duncan Terrace, City Road, London, N.I.
+
+[Frontispiece: HENRY SAINT-GEORGE.]
+
+"THE STRAD" LIBRARY, No. III. THE BOW, ITS HISTORY, MANUFACTURE AND USE
+
+BY
+
+HENRY SAINT-GEORGE
+
+ILLUSTRATED BY THE AUTHOR
+
+THIRD EDITION
+
+London: HORACE MARSHALL & SON, 46, Farringdon Street, E.C.4.
+
+New York: CHARLES SCRIBNER'S SONS, 597-599, Fifth Avenue.
+
+1922.
+
+PREFACE.
+
+It has always appeared to me a curious thing that the bow, without which the fiddle could have
+no being, should have received so scant attention, not alone from the community of fiddlers,
+but also from writers on the subject. I only know of one book in which the subject is adequately
+handled. Out of every twenty violinists who profess to some knowledge of the various types
+of Cremonese and other fiddles of repute and value, barely three will be met with who take
+a similar interest in the bow beyond knowing a good one, or rather one that suits their particular
+physique, when playing with it. They are all familiar with the names of Dodd and Tourte, but
+it is seldom that their knowledge extends beyond the names. As for a perception of the characteristics
+of bows as works of art, which is the standard of the fiddle connoisseur, it hardly has any
+existence outside the small circle of bow makers. Of the large number of undoubted fiddle experts
+now in London, but a small proportion profess to any similar knowledge of bows, and of these
+there are but few who can be credited with real authority in the matter.
+
+It is, therefore, with the object of bringing the bow into more general notice that this little
+book has been written, and, to drop into the good old prefatory style, if I succeed in arousing
+the interest of but one violinist in the bow for itself, and apart from its work, my efforts
+will not have been in vain.
+
+My most hearty thanks are due to those who have so kindly assisted me in my work. To Messrs.
+W. E. Hill and Sons, Mr. E. Withers, Mr. F. W. Chanot, Mr. J. Chanot, and Messrs. Beare, Goodwin
+and Co., for the loan of valuable bows for the purpose of illustration, and Mr. A. Tubbs, who,
+in addition to similar favours, most kindly placed much of his valuable time at my disposal,
+and very patiently helped me to a sufficient understanding of the bow maker's craft for the
+purpose of collecting materials for the second part of the book.
+
+The third part, in which I treat of the use of the bow, I have purposely avoided making a systematic
+handbook of bowing technique, for to handle that subject as exhaustively as I should wish would
+require a separate volume. As stated in Chapter XIV., that portion of the book is addressed
+almost exclusively to teachers, and in the few cases where I have gone into questions of technique
+it has been limited to those points that appear to be most neglected or misunderstood by the
+generality of teachers.
+
+"Anything that is worth doing is worth doing well" is a maxim that teachers should hold up
+to themselves and their pupils, and this reminds me of an exhortation to that effect in "Musick's
+Monument," that quaint and pathetic book of Thomas Mace (1676) with which I cannot do better
+than end my already too extensive preamble.
+
+"Now being Thus far ready for Exercise, attempt the Striking of your Strings; but before you
+do That, Arm yourself with Preparative Resolutions to gain a Handsome--Smooth--Sweet--Smart--Clear--Stroak;
+or else Play not at all."
+
+CONTENTS.
+
+PART I. The History of the Bow.
+
+CHAPTER I.                                                       PAGE ORIGIN OF INSTRUMENTS.
+FRICTIONAL VIBRATION. THE BOW DISTINCT FROM THE PLECTRUM. THE TRIGONON. BOWING WITH VARIOUS
+OBJECTS . .    1
+
+CHAPTER II. ORIENTAL ORIGIN OF THE BOW. INDIAN, CHINESE AND OTHER EASTERN BOWED INSTRUMENTS
+. . . . . . . . . . . . . . . . . . . . . . .    7
+
+CHAPTER III. THE CRWTH. FLEMING'S "ETRUSCAN RAVANASTRON." THE MEDIÆVAL BOW. UNRELIABILITY OF
+EARLY DRAWINGS AND SCULPTURES . . . . . . . . .   14
+
+CHAPTER IV. THE BEGINNINGS OF THE MODERN BOW. ORNAMENTATION. A POSSIBLE STRADIVARI BOW. THE
+MOVABLE NUT. THE CRÉMAILLÈRE. THE SCREW NUT    23
+
+CHAPTER V. VUILLAUME'S FACTS. THE FERRULE AND SLIDE. JOHN DODD  . . . . . .   31
+
+CHAPTER VI. DR. SELLÈ'S RECOLLECTIONS OF DODD. HIS WORK AND POVERTY. DODD AND TOURTE. THE CALCULATION
+OF FÉTIS AND VUILLAUME . . . . . . .   36
+
+CHAPTER VII. LUPOT. PECCATTE. SPURIOUS STAMPING. PANORMO. W. J. B. WOOLHOUSE'S CALCULATIONS
+. . . . . . . . . . . . . . . . . . . .   45
+
+CHAPTER VIII. A LIST OF BOW MAKERS . . . . . . . . . . . . . . . . . . . . . .   51
+
+PART II. Bow Making.
+
+CHAPTER IX. MATERIALS. BRAZIL WOOD. HORSEHAIR. THE ACTION OF ROSIN . . . . .   60
+
+CHAPTER X. QUALITIES ESSENTIAL IN A BOW MAKER. SHAPING THE STICK. SETTING THE Cambre. THE FACES.
+THE TRENCHES. THE NUT . . . . . . . . .   64
+
+CHAPTER XI. POSSIBLE REPAIRS. SPLICING. RENEWING CUPS. RESTORING THE NUT. RE-FACING  . . .
+. . . . . . . . . . . . . . . . . . . . . . . .   71
+
+CHAPTER XII. RE-LAPPING. RE-HAIRING. CHOICE OF ROSIN  . . . . . . . . . . . .   77
+
+CHAPTER XIII. THE PERFECTION OF THE MODERN BOW. DR. NICHOLSON'S PATENT BOW. VUILLAUME'S INVENTIONS.
+SELF-HAIRING BOWS. A FOLDING BOW. THE "KETTERIDGE BOW" . . . . . . . . . . . . . . . . . .
+. . . . . .   81
+
+PART III. The Art of Bowing.
+
+CHAPTER XIV. THE UNDECIDED ASPECT OF TECHNIQUE. IMPORTANCE OF A KNOWLEDGE OF THE ANATOMY OF
+THE HAND. THE FUNCTION OF THE THUMB. INDIVIDUALITY IN TECHNIQUE . . . . . . . . . . . . . .
+. . . . .   85
+
+CHAPTER XV. BOWING HISTORICALLY CONSIDERED. THE OLDEST ENGLISH VIOLIN METHOD. SYMPSON'S INSTRUCTIONS
+IN BOWING. THOSE OF MACE (1676). THOSE OF VARIOUS MODERN MASTERS  . . . . . . . . . . . . .
+. . .   91
+
+CHAPTER XVI. THE FINGERS OF THE RIGHT HAND. DIFFERENCES OF OPINION THEREON. SAUTILLÉ. THE LOOSE
+WRIST  . . . . . . . . . . . . . . . . . . .   97
+
+CHAPTER XVII. THE IMPORTANCE OF THE SLOW BOW. THE RAPID WHOLE BOW. STACCATO. BOWING STUDIES
+AND SOLOS. CONCLUSION . . . . . . . . . . . . . .  102
+
+PUBLISHER'S NOTE.
+
+In this new impression of the late Mr. Saint-George's book opportunity has been taken to correct
+a few obvious errors, such as those occurring in the notices of the three bowmakers named Peccatte;
+the deaths of those makers which have occurred since the publication of the first edition have
+been noted, and a few fresh names have been added to the list contained in Chapter VIII. In
+other respects the text of the work remains practically as the author left it.
+
+INDEX TO ILLUSTRATIONS.
+
+PHOTO REPRODUCTIONS OF BOWS.
+
+PLATE
+   I. Head and nut of inlaid bow probably by Stradivari
+                                                      to face page 32
+
+  II. Heads of three English bows showing evolution of design
+                                                    to follow page 32
+
+ III. Heads of two violin, two viola, and one 'cello bow, by
+  IV.     J. Dodd  . . . . . . . . . . . . . . . .  to follow page 32
+
+   V. Heads of three violin bows and one 'cello bow, by
+  VI.     François Tourte  . . . . . . . . . . . .    to face page 48
+
+ VII. Heads of bows by Lupot . . . . . . . . . . .  to follow page 48
+
+VIII. Two heads of bows by D. Peccatte and one by Panormo
+                                                    to follow page 48
+
+ILLUSTRATIONS IN THE TEXT.
+
+FIG.                                                             PAGE
+ 1. Locust, showing action of hind leg in producing note . . . .    3
+
+ 2. Assyrian Trigonon  . . . . . . . . . . . . . . . . . . . . .    5
+
+ 3. Crwth bow from the Golden Porch at Freiburg  . . . . . . . .    6
+
+ 4. Ravanastron and bow (Indian) . . . . . . . . . . . . . . . .    7
+
+ 5. Uh-Ch'in and bow (Chinese) . . . . . . . . . . . . . . . . .    8
+
+ 6. Omerti and bow (Indian)  . . . . . . . . . . . . . . . . . .    8
+
+ 7. Kemangeh-a-gouz and bow (Arabian)  . . . . . . . . . . . . .    9
+
+ 8. Rebâb-esh-Sha'er and bow (Arabian) . . . . . . . . . . . . .    9
+
+ 9. Sitâra and bow (Persian) . . . . . . . . . . . . . . . . . .   10
+
+10. Sarìndâ and bow (Bengalese)  . . . . . . . . . . . . . . . .   11
+
+11. Method of hairing some Egyptian bows . . . . . . . . . . . .   12
+
+12. Saw-Tai and bow (Siamese)  . . . . . . . . . . . . . . . . .   13
+
+13. Bow of Nyckelharpa (Swedish) . . . . . . . . . . . . . . . .   13
+
+14. Bow of Saw-oo (Chinese)  . . . . . . . . . . . . . . . . . .   13
+
+15. Bow of the eighth century  . . . . . . . . . . . . . . . . .   18
+
+16. Bow of the ninth century . . . . . . . . . . . . . . . . . .   18
+
+17. Bow of the ninth century . . . . . . . . . . . . . . . . . .   18
+
+18. Bows of the eleventh century . . . . . . . . . . . . . . . .   19
+
+19. Bows of the twelfth century  . . . . . . . . . . . . . . . .   20
+
+20. Bows of the thirteenth century . . . . . . . . . . . . . . .   20
+
+21. Bows of the fourteenth century . . . . . . . . . . . . . . .   21 22.
+
+23. Bows of the fifteenth century  . . . . . . . . . . . . . . .   21
+
+24. Bows of the sixteenth century  . . . . . . . . . . . . . . .   22
+
+25. Bows of the seventeenth century (drawn actual size from
+    specimens now in existence)  . . . . . . . . . . . . . . . .   25
+
+26. Bows of the eighteenth century (drawn actual size from
+    specimens now in existence)  . . . . . . . . . . . . . . . .   27
+
+27. Showing detachable nut of some early bows  . . . . . . . . .   28
+
+28. Heels of early bows  . . . . . . . . . . . . . . . . . . . .   29
+
+29. The Crémaillère  . . . . . . . . . . . . . . . . . . . . . .   30
+
+30. Head and nut of ornamented Cremonese bow (actual size) . . .   32
+
+31. Head and nut of Dodd bow (reduced) . . . . . . . . . . . . .   33
+
+32. Head of Dodd bow (actual size) . . . . . . . . . . . . . . .   34
+
+33. Geometrical construction showing gradation of stick (Fétis)    43
+
+34. Bow stick in the rough (greatly reduced) . . . . . . . . . .   65
+
+35. Pattern of bow head (actual size)  . . . . . . . . . . . . .   65
+
+36. Ivory face in the rough  . . . . . . . . . . . . . . . . . .   68
+
+37. Gauge for nuts (actual size) . . . . . . . . . . . . . . . .   69
+
+38. Parts of a bow . . . . . . . . . . . . . . . . . . . . . . .   72
+
+39. Tip of bow showing "cups"  . . . . . . . . . . . . . . . . .   73
+
+40. Head of bow showing trench . . . . . . . . . . . . . . . . .   74
+
+41. Nut of bow showing screw and method of hairing . . . . . . .   75
+
+42. End view of nut showing bow with unequal facets  . . . . . .   76
+
+43. Dr. Nicholson's bow  . . . . . . . . . . . . . . . . . . . .   82
+
+44. A fifteenth century violist  . . . . . . . . . . . . . . . .   91
+
+45. A seventeenth century gambist (from Sympson) . . . . . . . .   93
+
+THE BOW: Its History, Manufacture and Use.
+
+PART I. THE HISTORY OF THE BOW.
+
+As has been observed by the most talented writer on this subject "the history of the bow is
+practically that of the violin." It will therefore be readily understood that in the earlier
+portions of this opusculum it will be impossible to separate them to any great extent; also,
+I must crave my readers' indulgence for going over a considerable tract of already well trodden
+ground. My excuse must be my desire for completeness, for, as I propose to deal with the evolution
+of the modern bow, I find it difficult to arbitrarily select a starting point to the exclusion
+of all previous details, whether of ascertained fact or conjecture. Therefore I will follow
+the invariable custom of fiddle literature and go back to the regions of speculative history
+for a commencement.
+
+Speculative history is, I fear, more fascinating to the writer than convincing to the reader,
+so I will be as brief as possible in this particular, nor will I, like one John Gunn who wrote
+a treatise on fingering the violoncello, fill up space with irrelevant matter such as the modes
+and tunings of the ancient Greek lyres, etc., highly interesting as these subjects may be,
+although it is a very tempting method of getting over the "bald and unconvincing" nature of
+the bow's early history.
+
+We of the present generation, having the bow in its most perfect form, are apt to take its
+existence for granted; we do not think that there must have been a period when no such thing
+was known, and, consequently, fail to appreciate the difficulties in the way of its discovery
+or invention. With some other instruments it is different. For wind instruments we have a prototype
+in the human voice, and one may reasonably suppose that the trumpet class were evolved by slow
+process from the simple action of placing the hands on either side of the mouth to augment
+a shout. The harp may have been suggested by the twanging of a bow-string as an arrow left
+the archer's hand, and a seventeenth century play writer fancifully attributed the invention
+of string instruments to the finding of a "dead horse head." Here, of course, would be found
+a complete resonance-chamber and possibly some dried and stretched sinews--quite sufficient
+to suggest lute-like instruments to men of genius such as must have formed a much larger proportion
+of the world's population in prehistoric times than is the case to-day; for brilliant as our
+great men of art and science are, there are few who can be called originators in the simplest
+meaning of the word.
+
+Thus, then, we have wind instruments, harps and lutes; but the bow eludes us. If we are determined
+to find a suggestion in nature we must turn to certain insects of the cricket and grasshopper
+tribe. Many of these, in particular the locusts, are thorough fiddlers, using their long hind-leg
+as a bow across the edge of the hollow wing-case to produce the familiar chirping sound.
+
+Naturally, the strings are absent, but here is to be found a perfect example of the excitation
+of frictional vibration. Whether this was actually what suggested the bow is another matter.
+
+For my own part, while admitting that in close observation of nature our early forefathers
+were probably supreme, I prefer to think that the innate concept of the bow was latent in the
+human mind and only waited some fortunate accident of observation to start it into being.
+
+I am aware, however, that this is a highly unscientific position to take up.
+
+That there should be so little in the way of adequate record concerning the development of
+this indispensable adjunct of the violin is not a matter for great wonderment, for, as has
+elsewhere been shown, the earlier bowed instruments were of such primitive construction, and,
+consequently, so weak in tone that they were totally unsuited to the purposes of ceremonial
+or pageantry; two subjects which form prominent features in ancient pictorial representations.
+And if we come to what we fondly term "more civilized" times, we find such crude drawings of
+early viols and kindred instruments that we must not be surprised if such an apparently unimportant
+detail as the bow should receive still more perfunctory treatment at the hands of the artist.
+
+We must also remember that the word "fiddlesticks" is still applied to anything that is beneath
+contempt in its utter lack of importance.
+
+Undoubtedly the idea of exciting vibrations in a stretched string by means of friction is one
+of great antiquity; so much so, indeed, that the question of origin becomes merely one of conjecture.
+True, the majority of writers look upon the bow as a development of the plectrum, but this
+is a theory that I must confess does not strike me as being satisfactorily probable. To paraphrase
+a popular expression, "fingers were made before plectra," the latter being an "improvement"
+on nature's contrivance. And I see no reasonable objection to the supposition that friction
+may have been used as a means of tone-production prior to the introduction of the plectrum.
+
+The great dissimilarity between the producing of sound by plucking, and that by friction is
+such that I see no occasion to evolve one from the other and consider their introduction most
+probably coeval.
+
+When we come to the direct percussion of a string, as in the dulcimer, piano, etc., we at once
+perceive a possible connection between the hammer of the one and the rod or bow of the other:
+the accidental colliding of the bow with the strings of its accompanying instrument would soon
+suggest experiments ending in the forming of dulcimer-like instruments.[1] But if we grant
+that the art of plucking a string had first advanced as far as the substitution of a plectrum
+for what Mace calls the "nibble end of the flesh," I fail to see how such an implement could
+suggest the friction of a string, as, if short enough for manipulation in its original use,
+it would not be long enough to excite the continuous vibrations characteristic of the bow.
+
+[Footnote 1: The bow is frequently used now as a means of percussion for certain effects.]
+
+I do not accept the theory of a long plectrum used for pizzicato purposes, as I consider, with
+Engel, that such an implement would have been unmanageably clumsy even for the primitive music
+of the ancients. Whenever I see a rod, as in the accompanying drawing of the Assyrian Trigonon,
+I maintain that its purpose was to excite frictional vibrations.
+
+The method of performance readily suggests itself in this case as it will be seen that it would
+be quite possible and convenient for the player to pass his rod--probably a rough surfaced
+reed--between the strings. I do not think it could have been used for percussion as, in that
+case, it would surely have had some hammer like projection at its end; a salient feature hardly
+to be missed by the artist as were the less obtrusive details of the true bow in later ages.
+
+We are all familiar with the oft repeated anecdote of Paganini's playing with a light reed-stem,
+and I remember having seen at Christmas festivities in country homesteads, the village fiddler
+playing a brisk old-time tune with the long stem of his clay pipe; also, quite recently, I
+read an account of an "artiste" in the States who charmed his enlightened audiences with his
+performances on the violin by using a variety of heterogeneous objects in lieu of the conventional
+bow, including a stick of sealing-wax and a candle!
+
+Now I do not wish to prove that the implement held by the benign Assyrian in Fig. 2, is either
+of the last named articles, but merely to draw attention to the fact that friction-tone is
+producible without the aid of a "bow" proper.
+
+The use of plain reed stems or other suitable rods for the production of continuous sounds
+would naturally soon give place to more elaborately constructed implements; although Rühlmann
+gives a drawing of a portion of the sculptured decorations that adorn the famous "Golden Porch"
+at Freiburg which represents a crwth and bow of the twelfth century, the bow being merely a
+straight rod ornamented at either end with a simple knob (Fig. 3).
+
+He also gives a drawing of a violist of the fourteenth century, sculptured on the cathedral
+at Cologne, where the bow is even simpler in form. It is, however, impossible to judge how
+far the sculptor's imagination, or lack of observation, may have been responsible for these
+representations, so that they can hardly be taken as reliable evidence of the use of such primitive
+contrivances at so late a period.
+
+In attempting to trace the use of the bow to its source we are obliged to content ourselves
+with the generalized statement that it is undoubtedly of oriental origin. Thus, that it had
+an origin is proved beyond "all possible, probable shadow of doubt."
+
+But whether the first form of bowed instrument became extinct prehistorically, or whether it
+still survives, as some suppose, in the Ravanastron of India, is not easily determined.
+
+My own personal belief in the extreme antiquity of the bow is such as almost to justify the
+quaint statement of Jean Jacques Rousseau that Adam played the viol in Paradise.
+
+Of existing bowed instruments the Ravanastron (Fig. 4) most certainly seems to be the oldest,
+as its structure is more primitive than any other.
+
+Concerning this instrument legend runs to the effect that it was invented by Ravana, who was
+king of Ceylon some 5,000 years prior to the Christian era. How far this is accurate is impossible
+to say, for the oldest names for the bow known to Sanskrit scholars only take us back 1,500
+to 2,000 years. Of these names it is interesting to note that the Kôna was evidently no more
+than a "friction rod" as, judging from the early descriptions, it would appear to have been
+without hair. Whether the Gârikâ or Parivàdas approached more nearly to the modern idea of
+a bow I am unfortunately not in a position to state with any degree of certainty.
+
+The Ravanastron was, like the violin in its earliest stages, played only by the inferior classes
+of India; a fact that, as Engel clearly points out, makes it seem highly improbable that it
+was a Mohammedan importation, despite some writers' assertions to that effect. Undoubtedly
+it was introduced with Buddhism, from India into China, where it became modified in unimportant
+details into the Ur-heen.
+
+A curious point in connection with some oriental fiddles, such as the Ur-heen, Uh-Ch'in (Fig.
+5), Koka, etc., is that the hair of the bow passes between the strings.
+
+Whether this circumstance is at all confirmatory of the supposition that the rod of the Trigonon
+was passed between the strings would be difficult to establish irrefutably; doubtless a logician
+could do so, but I prefer making a simple statement of facts rather than forcing them into
+agreement with any special theory; although I have plenty of worthy precedents for such a proceeding,
+for I have observed that most doubtful or disputed questions--the Bacon-Shakespeare controversy,
+for instance--are handled in this manner.
+
+What strikes one very forcibly on looking into the use of the bow in the East is the great
+number of bowed instruments one finds. Thus in India we have the Ravanastron in various forms;
+the Omerti (Fig. 6), the Bengalese Sarìndâ, etc.
+
+In China, the Ur-heen, Uh-Ch'in, Saw-oo and Sawduang. In Siam, the Saw-tai, etc. In Turkey
+and Arabia, the Kemangeh-a-gouz (Fig. 7), Kemangeh-roumy, Rebâb-esh-Sha'er (Fig. 8), and Rebâb-el-maghanny,
+also the more modern Gunibry.
+
+In Persia there is also an instrument strongly resembling the Omerti and Kemangeh in outline,
+called the Sitâra (Fig. 9). Then there is a primitive bowed instrument with three strings,
+known to the peasants of Russia as the Goudok, which is no doubt an immediate descendant of
+the three-stringed Rebâb, and, more remotely, of the Ravanastron. Abyssinia too, has its bowed
+instruments. In fact, the use of the bow is universal in the "glorious Orient," from whence
+nearly all products of western civilization are derived. In almost all cases great antiquity
+is ascribed to these instruments. The very name "Kemangeh-a-gouz," ancient in itself, can be
+roughly translated "ancient-fiddle," thus showing that the Persians [the name is Persian and
+bears out the Arab records that it came to them from Persia] considered it then a relic of
+the past, and that it was a survival of some still older instrument inherited, most likely
+from India. There can be little doubt that Fétis was right in assuming this to have been the
+Omerti, for, barring the long "tail-pin," the structure of both is almost identical.
+
+The bows of all these instruments bear a strong resemblance to each other, as is only to be
+expected where all are of the simplest description. In the majority of cases the bow is merely
+a length of cane with a bunch of horse-hair tied at each end in such a manner as to pull the
+cane into a more or less pronounced curve. Those of the Goudok and Sarìndâ (Fig. 10) are short,
+approach nearly to a semi-circle, and are quite rigid.
+
+Those of the Ravanastron, Omerti, etc., are longer, and being more slender, have a certain
+amount of flexibility, but it does not appear that this latter qualification is sought for
+or considered indispensable. On the other hand, the now nearly obsolete Kokiu of Japan had
+a bow of about forty-five inches in length that was extremely elastic. It was made in sections
+after the manner of a fishing-rod, and the hair was tightened by the finger of the player,
+as in some of the early viol bows of Europe.
+
+The method of hairing in most cases amounts to the simplest way of tying the hair on to the
+stick. Sometimes the hair is passed through a slit and held in place by a knot. In other specimens
+it is attached to a leather thong, and occasionally it is plugged into the open end of a piece
+of bamboo (Fig. 11).
+
+The bows of the Saw-tai (Fig. 12), Uh-Ch'in, Koka and a few others show a distinct advance
+in point of curve and adjustment of hair, and strongly resemble the bow of the quaint Swedish
+Nyckelharpa in present use (Fig. 13).
+
+The bows of the Sitâra (Fig. 9) and Saw-oo (Fig. 14), approach more nearly to the European
+form. The drawings of the latter, however, were made from highly ornate and elaborate specimens
+that may have been affected by Western influence. But against this must be set the religious
+conservatism of eastern nations. In many cases it would amount to gross sacrilege to alter
+in any way the construction of certain objects in daily use, so that we may take it generally
+that the east of to-day differs very little from what it was, even several thousand years ago,
+in such matters.
+
+Perhaps the most interesting of the primitive bowed instruments is the Welsh Crwth. Unlike
+the still more ancient forms yet surviving in the East, it is now completely obsolete: unless
+we may count the Norwegian and Icelandic langspiel and fidla as descendants thereof.
+
+At one time it was considered an ancestor of the violin, but since Mr. Heron-Allen brought
+his legal acumen and skill in sifting evidence to bear on the subject, we find that it must
+unquestionably be looked upon as the last of its race, and not as a direct forerunner of anything
+else. As to its origin, I should say it was two-fold. The oft-quoted lines of that seventh
+century Bishop, Venantius Fortunatus:--
+
+  "Romanusque lyra, plaudat tibi Barbarus harpa
+   Græcus Achilliaca, Chrotta Britanna canat"
+
+prove, however translated, that the Crwth was essentially British. The structure of the instrument
+strongly suggests its derivation from the Roman and Greek lyres, and I have little doubt that
+the first Crwth was in fact a lyre in the hands of one of our early British ancestors, who
+thought he would try thereon the effect of a Rebab or Kemangeh bow, and most probably got himself
+heartily laughed at for his pains. This is a kind of experiment that has been tried in modern
+times, as witness the "Streich-Guitarre" and more recent "Streich-Zither."
+
+That the Eastern fiddles should have come to Britain then is not a very extravagant supposition.
+The distance is not great from northern Africa, through Spain, where a form of Rebab is still
+played by the Basque peasantry, on through Europe generally and across the Channel to England.
+Also, it is very likely that there were a number of Orientals in attendance on the Imperial
+Court of the Cæsars who would naturally bring their customs, religions and arts with them.
+
+I do not think the Greeks and Romans made any use of the bow whatever, although, considering
+the enormous spread of the Roman Empire, and, as I say, the diverse nationalities that surrounded
+the court, many of the Indian, Persian and African bowed instruments must have been fairly
+familiar objects in Rome and elsewhere. But being instruments of conquered nations; primitive
+in construction and strange in tonality; they were probably held in too light esteem ever to
+be adopted and developed by people of such importance and civilization as the Romans or Greeks.
+
+I say all this with due respect to Mr. Fleming. This gentleman has contributed sundry valuable
+works to the bibliography of the violin, and in certain places mentions an Etruscan vase illustrated
+in a catalogue published by Prince Lucien Napoleon of Canino. He describes the decorations
+of this vase as follows: "The subject is a man seated reading a volume to two youths, who,
+leaning on knotted sticks, are listening attentively. On a little table or box in front of
+the principal figure is inscribed the name 'Chironeis.' On each side of the reader is an object
+which authorities in these matters term 'thecæ,' indicating the profession of this principal
+figure. One of these has a neck or handle, an oval disc, or sounding plane, and a tail piece
+extending below the disc rather more than half the length of the neck. From the upper extremity
+of the neck to the lower extremity of the disc are stretched strings, and across these strings
+at the centre of the disc is placed a bow of as rational construction as anything that has
+come down to us prior to the days of Corelli. The instrument is indeed almost identical with
+the Ravanastron." Now all this sounds very nice and extremely convincing, and whether or no
+Mr. Fleming himself believes the Greeks used the bow, I have no doubt that he is perfectly
+satisfied that he has proved such to be the case.
+
+As I have seen neither the original vase or Prince Napoleon's catalogue, I feel some diffidence
+in throwing my half-ounce of doubt on this pound--good, thumping weight--of fact. However,
+I have seen the reproduction of the drawing as given by Mr. Fleming in his book, "Violins,
+Old and New," and, since he makes such a feature of this Grecian Ravanastron, I feel safe in
+assuming that it is accurately copied.
+
+I distinctly remember first looking at that drawing. I gazed at it long and earnestly. I then
+referred to the text; after which I rapidly searched through the book to see if there was another
+drawing of a Greek vase. I thought perchance the printers in a playful mood might have transposed
+them; such things have happened. But it was not so; the drawing on page 250 was the only one.
+So I returned to it. There were the reader, the box, the inscription, the attentive youths
+with their knotted sticks, and, lastly, the "thecæ." I was not long in doubt as to which of
+these objects was the one Mr. Fleming attached so much importance to.
+
+Ods catgut and fiddlesticks! as Bob Acres would genteelly have exclaimed. So this was the Etruscan
+Ravanastron I had dreamed about; this was the Greek fiddle I had discoursed so learnedly of
+when my pupils with childlike pertinacity questioned me as to the origin of the violin.
+
+That is a useful sort of vase. If ever I come across anyone anxious to prove something, I shall
+advise him to use that drawing. That Ravanastron would prove anything; in fact it proved too
+much for me.
+

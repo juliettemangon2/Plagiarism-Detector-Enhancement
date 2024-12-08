@@ -1,0 +1,45 @@
+﻿In welchem Maasse bei diesen Operationen die von *Demokritos* so hochgestellten *Harpedonapten*
+oder Seilspanner betheiligt waren, hat *Cantor*(39) in höchst scharfsinniger Weise zu beleuchten
+versucht, und es erscheint auch uns wahrscheinlich, dass sich die alten Aegypter beim Construiren
+rechter Winkel sowie beim Fällen von Senkrechten auf dem Felde, der Thatsache bedienten, dass
+der eine Winkel in einem, die Seitenlängen drei, vier und fünf besitzenden Dreiecke, ein rechter
+Winkel sein müsse. Musste ja doch dieser Satz seit unvordenklichen Zeiten auch den Chinesen
+bekannt sein, da wir ihn in der bei ihnen so berühmten Schrift Tschiu-pi finden, welche mehrere
+Jahrhunderte v. Chr. G. entstanden, auf den Kaiser *Tschiu-Kung* also in das Jahr 1100 v. Chr.
+G. etwa zurückgeführt wird.(40) Uebrigens konnten directe Messungsversuche an diagonalen Linien
+in den Proportionalmaassstäben sowohl zu dem erwähnten als auch noch zu anderen rechtwinkligen
+Dreiecken mit rationalen Seitenlängen geführt haben, und scheint uns die Möglichkeit nicht
+ausgeschlossen, dass der berühmte und berüchtigte Satz des *Pythagoras* über die Quadrate der
+Katheten und der Hypothenuse einer eingehenden Untersuchung solcher Proportionalmaassstäbe
+entsprungen ist.
+
+Wenn wir nun einerseits behaupten, dass die alten Aegypter nicht nur die Fläche des Kreises,
+des Quadrates, des Rechteckes, des rechtwinkligen sowie des schiefen Dreieckes, und unter Zuhilfenahme
+der Zerlegungen auch die Flächen beliebiger Polygone theoretisch genau zu bestimmen im Stande
+waren, mit Ausnahme der auch für uns eine solche bildenden Kreisfläche, so muss doch anderseits
+zugestanden werden, dass man sich bei praktischen Anwendungen mit Näherungen begnügte, welche
+im Laufe der Zeiten so ausarteten, dass der Gebrauch falscher Regeln ein allgemeiner wurde.
+
+Am linken Nilufer in der Mitte zwischen *Theben* und *Assuan* liegt *Edfu*, das alte *Appollinopolis
+Magna* mit einem stattlichen Tempelbau aus den Zeiten der Ptolomäer. Der Tempel, hauptsächlich
+dem Gotte *Horus* geweiht, ist mit einer freistehenden Umfassungsmauer umgeben,(41) deren Ostseite
+zwischen dem Brunnenthore und dem östlichen Pylonflügel eine Inschrift trägt, welche uns auf
+acht Feldern und in hundertvierundsechzig Columnen(42) eine Schenkungsurkunde des Königs *Ptolomäus
+XI. Alexander I.* (mit dem Beinamen *Philometor*) bekannt gibt. Das Geschenk, welches hier
+*Horus* und den übrigen Göttern von *Edfu* verliehen wird, besteht aus einer Anzahl von meist
+viereckigen Aeckern, deren vier Seitenlängen nebst Flächeninhalten angegeben erscheinen.
+
+Da jeder der vorkommenden Flächeninhalte identisch ist mit dem Producte der arithmetischen
+Mittel der beiden Gegenseitenpaare, so wurde nach *Lepsius* die Vermuthung aufgestellt, die
+alten Aegypter hätten, um Vierecke bei der Flächenbestimmung annähernd wie Rechtecke behandeln
+zu können, den Unterschied der Gegenseiten dadurch auszugleichen gesucht, dass sie die arithmetischen
+Mittel derselben in Rechnung zogen.
+
+Bei sehr vielen der in der *Edfu*er Schenkungsurkunde vorkommenden Vierecke ist der Unterschied
+je zweier Gegenseiten entweder Null oder verhältnissmässig so klein, dass man den betreffenden
+Vierecken eine vom Rechtecke wenig verschiedene Gestalt beilegen kann, und die erhaltenen Resultate
+somit eine ziemliche Annäherung an den richtigen Flächenwerth darstellen dürften, nach dem
+man mit Rücksicht auf die bei *Sesostris* bemerkte Eintheilung des Landes in Rechtecke voraussetzen
+darf, gerade diese oder eine ihr zunächst kommende Form der Felder sei die auch damals schon
+beliebte gewesen.
+

@@ -1,0 +1,285 @@
+﻿Willard Batteries.-- Double and Single Cover Batteries. Batteries with Sealing Compound Post
+Seal. Batteries with Lead Inserts in Cover Post Holes. Batteries with Rubber Casket Post Seal.
+Special Repair Instructions for Work on the Different Types of Post Seal Constructions. Willard
+Threaded Rubber Separators.
+
+Universal Batteries.-- Types. Construction Features. Putting New Universal Batteries Into Service.
+
+Titan Batteries.-- The Titan Grid. The Titan Post Seal.
+
+17. FARM LIGHTING BATTERIES
+
+Comparison of Operating Conditions of Farm Lighting Batteries with Automobile Batteries. Jars
+for Farm Lighting Batteries. Separators. Electrolyte. Charging Equipment. Relation of the Automobile
+Battery Man to the Farm Lighting Plant. Rules Governing the Selection of a Farm Lighting Plant.
+Location and Wiring of Farm Lighting Plant. Installation. Care of Plant in Service. Care of
+Battery. Charging Farm Lighting Batteries. Rules Governing Discharging of Farm Lighting Batteries.
+Troubles Found in Farm Lighting Batteries. Inspection and Tests on Farm Lighting Batteries.
+Description of Prest-O-Lite Farm Lighting Battery. Rebuilding Prest-O-Lite Farm Lighting Batteries.
+Description of Exide Farm Lighting Batteries. The Delco-Light Battery. Rebuilding and Repairing
+Exide Farm Lighting Batteries. Westinghouse Farm Lighting Batteries. Willard Farm Lighting
+Batteries.
+
+DEFINITIONS
+
+Condensed Dictionary of Words and Terms Used in Battery Work.
+
+GENERAL INDEX
+
+A VISIT TO THE FACTORY
+
+Photographs showing factory processes.
+
+BUYERS' INDEX.   (Omitted.)
+
+For the Convenience of Our Readers We Have Prepared a List of Companies from Whom Battery Shop
+Equipment May Be Obtained.
+
+ADVERTISEMENTS   (Omitted. Outdated; high bandwidth)
+
+========================================================================
+
+Section I ---------
+
+Working Principles, Manufacture, Maintenance, Diseases, and Remedies
+
+========================================================================
+
+The Automobile Storage Battery
+
+========================================================================
+
+CHAPTER 1. INTRODUCTORY.
+
+Gasoline and electricity have made possible the modern automobile. Each has its work to do
+in the operation of the car, and if either fails to perform its duties, the car cannot move.
+The action of the gasoline, and the mechanisms that control it are comparatively simple, and
+easily understood, because gasoline is something definite which we can see and feel, and which
+can be weighed, or measured in gallons. Electricity, on the other hand, is invisible, cannot
+be poured into cans or tanks, has no odor, and, therefore, nobody knows just what it is. We
+can only study the effects of electricity, and the wires, coils, and similar apparatus in which
+it is present. It is for this reason that an air of mystery surrounds electrical things, especially
+to the man who has not made a special study of the subject.
+
+Without electricity, there would be no gasoline engine, because gasoline itself cannot cause
+the engine to operate. It is only when the electrical spark explodes or "ignites" the mixture
+of gasoline and air which has been drawn into the engine cylinders that the engine develops
+power. Thus an electrical ignition system has always been an essential part of every gasoline
+automobile.
+
+The first step in the use of electricity on the automobile, in addition to the ignition system,
+consisted in the installation of an electric lighting system to replace the inconvenient oil
+or gas lamps which were satisfactory as far as the light they gave was concerned, but which
+had the disadvantage of requiring the driver to leave his seat, and light each lamp separately,
+often in a strong wind or rain which consumed many matches, time, and frequently spoiled his
+temper for the remainder of the evening. Electric lamps have none of these disadvantages. They
+can be controlled from the driver's seat, can be turned on or off by merely turning or pushing
+a switch-button, are not affected by wind or rain, do not smoke up the lenses, and do not send
+a stream of unpleasant odors back to the passengers.
+
+The apparatus used to supply the electricity for the lamps consisted of a generator, or a "storage"
+battery, or both. The generator alone had the disadvantage that the lamps could be used only
+while the engine was running. The battery, on the other hand, furnished light at all times,
+but had to be removed from the car frequently, and "charged." With both the generator and battery,
+the lights could be turned on whether the engine was running or not, and, furthermore, it was
+no longer necessary to remove the battery to "charge," or put new life into it. With a generator
+and storage battery, moreover, a reliable source of electricity for ignition was provided,
+and so we find dry batteries and magnetos being discarded in a great many automobiles and "battery
+ignition" systems substituted.
+
+The development of electric lighting systems increased the popularity of the automobile, but
+the motor car still had a great drawback-cranking. Owing to the peculiar features of a gasoline
+engine, it must first be put in motion by some external power before it will begin to operate
+under its own power. This made it necessary for the driver to "crank" the engine, or start
+it moving, by means of a handle attached to the engine shaft. Cranking a large engine is difficult,
+especially if it is cold, and often results in tired muscles, and soiled clothes and tempers.
+It also made it impossible for the average woman to drive a car because she did not have the
+strength necessary to "crank" an engine.
+
+The next step in the perfection of the automobile was naturally the development of an automatic
+device to crank the engine, and thus make the driving of a car a pleasure rather than a task.
+We find, therefore, that in 1912, "self-starters" began to be used. These were not all electrical,
+some used tanks of compressed air, others acetylene, and various mechanical devices, such as
+the spring starters. The electrical starters, however, proved their superiority immediately,
+and filled such a long felt want that all the various makes of automobiles now have electric
+starters. The present day motor car, therefore, uses gasoline for the engine only, but uses
+electricity for ignition, starting, lighting, for the horn, cigar lighters, hand warmers on
+the steering wheel, gasoline vaporizers, and even for shifting speed changing gears, and for
+the brakes.
+
+On any car that uses an electric lighting and starting system, there are two sources of electricity,
+the generator and the battery, These must furnish the power for the starting, or "cranking"
+motor, the ignition, the lights, the horn, and the other devices. The demands made upon the
+generator are comparatively light and simple, and no severe work is done by it. The battery,
+on the other hand is called upon to give a much more severe service, that of furnishing the
+power to crank the engine. It must also perform all the duties of the generator when the engine
+is not running, since a generator must be in motion in order to produce electricity.
+
+A generator is made of iron, copper, carbon, and insulation. These are all solid substances
+which can easily be built in any size or shape, and which undergo very little change as parts
+of the generator. The battery is made mainly of lead, lead compounds, water and sulphuric acid.
+Here we have liquids as well as solids, which produce electricity by changes in their composition,
+resulting in complicated chemical as well as electrical actions.
+
+  [Fig. 1 The Battery]
+
+The battery is, because of its construction and performance, a much abused, neglected piece
+of apparatus which is but partly understood, even by many electrical experts, for to understand
+it thoroughly requires a study of chemistry as well as of electricity. Knowledge of the construction
+and action of a storage battery is not enough to make anyone an expert battery man. He must
+also know how to regulate the operating conditions so as to obtain the best service from the
+battery, and he must be able to make complete repairs on any battery no matter what its condition
+may be.
+
+========================================================================
+
+CHAPTER 2. BATTERIES IN GENERAL
+
+There are two ways of "generating" electricity on the car: 1. Magnetically, 2. Chemically.
+The first method is that used in a generator, in which wires are rotated in a "field" in which
+magnetic forces act. The second method is that of the battery, and the one in which we are
+now interested.
+
+If two unlike metals or conducting substances are placed in a liquid which causes a greater
+chemical change in one of the substances than in the other, an electrical pressure, or "electromotive"
+force is caused to exist between the two metals or conducting substances. The greater the difference
+in the chemical action on the substances, the greater will be the electrical pressure, and
+if the substances are connected together outside of the liquid by a wire or other conductor
+of electricity, an electric current will flow through the path or "circuit" consisting of the
+liquid, the two substances which are immersed in the liquid, and the external wire or conductor.
+
+As the current flows through the combination of the liquid, and the substances immersed in
+it, which is called a voltaic "cell," one or both of the substances undergo chemical changes
+which continue until one of the substances is entirely changed. These chemical changes produce
+the electrical pressure which causes the current to flow, and the flow will continue until
+one or both of the substances are changed entirely. This change due to the chemical action
+may result in the formation of gases, or of solid compounds. If gases are formed they escape
+and are lost. If solids are formed, no material is actually lost.
+
+Assuming that one of the conducting substances, or "electrodes," which are immersed in the
+liquid has been acted upon by the liquid, or "electrolyte," until no further chemical action
+can take place, our voltaic cell will no longer be capable of causing a flow of electricity.
+If none of the substances resulting from the original chemical action have been lost as gases,
+it may be possible to reverse the entire set of operations which have taken place. That is,
+suppose we now send a current through the cell from an outside source of electricity, in a
+direction opposite to that in which the current produced by the chemical action between the
+electrodes and electrolyte flowed. If this current now produces chemical actions between electrodes
+and electrolyte which are the reverse of those which occurred originally, so that finally we
+have the electrodes and electrolyte brought back to their original composition and condition,
+we have the cell just as it was before we used it for the production of an electrical pressure.
+The cell can now again be used as a source of electricity as long as the electrolyte acts upon
+the electrodes, or until it is "discharged" and incapable of any further production of electrical
+pressure. Sending a current through a discharged cell, so as to reverse the chemical actions
+which brought about the discharged conditions, is called "charging" the cell.
+
+  [Fig. 2 A complete cell; Negative group; Positive group]
+
+Cells in which an electrical pressure is produced as soon as the electrodes are immersed in
+the electrolyte are called it "primary" Cells. In these cells it is often impossible, and always
+unsatisfactory to reverse the chemical action as explained above. Cells whose chemical actions
+are reversible are called "storage" or "secondary" cells. In the "storage" cells used today,
+a current must first be sent through the cell in order to cause the chemical changes which
+result in putting the electrodes and electrolyte, in such a condition that they will be capable
+of producing an electrical pressure when the chemical changes caused by the current are complete.
+The cell now possesses all the characteristics of a primary cell, and may be used as a source
+of electricity until "discharged." It may then be "charged" again, and so on, the chemical
+action in one case causing a flow of current, and a reversed flow of current causing reversed
+chemical actions.
+
+We see from the above that the "storage" battery does not "store" electricity at all, but changes
+chemical into electrical energy when "discharging," and changes electrical into chemical energy
+when "charging," the two actions being entirely reversible. The idea of "storing" electricity
+comes from the fact that if we send a current of electricity through the cell for a certain
+length of time, we can at a later time draw a current from the cell for almost the same length
+of time.
+
+  [Fig. 3 Complete Element]
+
+  Fig. 3. A complete element, consisting of a positive and negative
+  group of plates and separators ready for placing in the hard rubber
+  jars.
+
+Three things are therefore required in a storage cell, the liquid or "electrolyte" and two
+unlike substances or electrodes, through which a current of electricity can pass and which
+are acted upon by the electrolyte with a chemical action that is greater for one substance
+than the other. In the storage cell used on the automobile today for starting and lighting,
+the electrodes are lead and peroxide of lead, and the electrolyte is a mixture of sulphuric
+acid and water. The peroxide of lead electrode is the one upon which the electrolyte has the
+greater chemical effect, and it is called the positive or "+" electrode, because when the battery
+is sending a. current through an external circuit, the current flows from this electrode through
+the external circuit, and back to the lead electrode, which is called the negative, or electrode.
+
+When starting and lighting systems were adopted in 1912, storage batteries had been used for
+many years in electric power stations. These were, however, large and heavy, and many difficult
+problems of design had to be solved in order to produce a battery capable of performing the
+work of cranking the engine, and yet be portable, light, and small enough to occupy only a
+very limited space on the automobile. As a result of these conditions governing the design,
+the starting and lighting battery of today is in reality "the giant that lives in a box." The
+Electric Storage Battery Company estimates that one of its types of batteries, which measures
+only 12-5/8 inches long, 7-3/8 wide, and 9-1/8 high, and weighs only 63-1/2 pounds, can deliver
+enough energy to raise itself to a height of 6 miles straight up in the air. It must be able
+to do its work quickly at all times, and in all sorts of weather, with temperatures ranging
+from below 0° to 100° Fahrenheit, or even higher.
+
+The starting and lighting battery has therefore been designed to withstand severe operating
+conditions. Looking at such a battery on a car we see a small wooden box in which are placed
+three or more "cells," see Fig. 1. Each "cell" has a hard, black rubber top through which two
+posts of lead project. Bars of lead connect the posts of one cell to those of the next. To
+one of the posts of each end cell is connected a cable which leads into the car, and through
+which the current leaves or enters the battery. At the center of each cell is a removable rubber
+plug covering an opening through which communication is established with the inside of the
+cell for the purpose of pouring in water, removing some of the electrolyte to determine the
+condition of the battery, or to allow gases formed within the cell to escape. Looking down
+through this opening we can see the things needed to form a storage battery: the electrolyte,
+and the electrodes or "plates" as they are called. If we should remove the lead bars connecting
+one cell to another, and take off the black cover, we should find that the posts which project
+out of the cells are attached to the plates which are broad and flat, and separated by thin
+pieces of wood or rubber., If we lift out the plates we find that they are connected alternately
+to the two lead posts, and that the two outside ones have a gray color. If we pull the plates
+out from each Other, we find that the plates next to the two outside ones, and all other plates
+connected to the same lead post as these have a chocolate-brown color. If we remove the jar
+of the cell, we find that it is made of hard rubber. Pouring out the electrolyte we find several
+ridges which hold the plates off the bottom of the jar. The pockets formed by these ridges
+may contain some soft, muddy substance. Thus we have exposed all the elements of a cell, posts,
+plates, "separators," and electrolyte. The gray colored plates are attached to the "negative"
+battery post, while the chocolate-brown colored ones are connected to the "positive" battery
+post. Examination will show that each of the plates consists of a skeleton metallic framework
+which is filled with the brown or gray substances. This construction is used to decrease the
+weight of the battery. The gray filler material is pure lead in a condition called "spongy
+lead." The chocolate-brown filler substance is peroxide of lead.
+
+We have found nothing but two sets of plates--one of pure lead, the other of peroxide of lead,
+and the electrolyte of sulphuric acid and water. These produce the heavy current necessary
+to crank the engine. How this is done, and what the chemical actions within the cell are, are
+described in Chapter 4.
+
+========================================================================
+
+CHAPTER 3. MANUFACTURE OF STORAGE BATTERIES. ---------------------------------
+
+To supply the great number of batteries needed for gasoline automobiles, large companies have
+been formed. Each company has its special and secret processes which it will not reveal to
+the public. Only a few companies, however, supply batteries in any considerable quantities,
+the great majority of cars being supplied with batteries made by not more than five or six
+manufacturers. This greatly reduces the number of possible different designs in general use today.
+
+The design and dimensions of batteries vary considerably, but the general constructions are
+similar. The special processes of the manufacturers are of no special interest to the repairman,
+and only a general description will be given here.
+
+A starting and lighting battery consists of the following principal parts:
+
+1. Plates 2. Separators 3. Electrolyte 4. Jars 5. Covers 6. Cell Connectors and Terminals 7.
+Case Plates
+
+Of the two general types of battery plates, Faure and Plante, the Faure, or pasted type, is
+universally used on automobiles. In the manufacture of pasted plates there are several steps
+which we shall describe in the order in which they are carried out.
+
+Casting the Grid. The grid is the skeleton of the plate. It performs the double function of
+supporting the mechanically weak active material and of conducting the current. It is made
+of a lead antimony alloy which is melted and poured into a mould. Pure lead is too soft and
+too easily attacked by the electrolyte, and antimony is added to give stiffness, and resistance
+to the action of the electrolyte in the cell. The amount of antimony used varies in different
+makes but probably averages 8 to 10%.
+

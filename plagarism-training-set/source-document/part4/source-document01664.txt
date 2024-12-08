@@ -1,0 +1,1613 @@
+﻿A line from Kasan, on the main central Russian line, through Georgia and Circassia, along the
+western shore of the Caspian Sea, to Teheran, the capital of Persia, thence to the Tigris,
+at Bagdad, thence descending along the banks of that river to the head of the Persian Gulf,
+there to be connected with the Oriental telegraph system of India.
+
+The line from Irkoutsk to Pekin American citizens residing in China are now soliciting, with
+good prospect of success, permission from the Chinese Government to extend through the Empire,
+with the needful branches, connecting the principal ports along the Pacific coast, opposite
+California. A company to carry out this project has been organized under the laws of the State
+of New York. The wires of this company are first to be put up from Canton to Macao and Hong
+Kong, a distance of 140 miles,--Canton having a population of 1,000,000, Hong-Kong of 40,000,
+and the trade of both cities world-famous. Lying 245 miles north is Amoy, with 250,000 inhabitants;
+and 120 miles farther in the same direction is Foochow, a city with a population of 600,000,
+and within 70 miles of the black-tea districts, with large commerce, and with numerous manufactures
+of great value. Beyond it 250 miles is Ningpo, with 300,000 inhabitants, and thriving manufactures
+of silks. Eighty miles north is Shanghai, a city of not less than 200,000 inhabitants, and
+possessing a larger inland or native trade than any other in China. Yet between these great
+marts there is no telegraphic communication whatever,--nor, indeed, is there a line in any
+part of the whole Chinese Empire. The company proposes, therefore, to connect these great commercial
+cities, and, having done that, to carry on its line to Nankin, with its 400,000 inhabitants,
+and thence to Pekin, which has a population of 2,000,000, and is the capital of an empire spread
+over an area of 5,000,000 square miles, and containing more than 420,000,000 souls, who pay
+to the Government an annual revenue of $120,000,000. It may well be understood, that, for Government
+purposes alone, a line of telegraph thus extending between the chief cities of China will prove
+of incalculable value, alike in its use, and in its profits to those who erect it and receive
+its income. The enterprise is a great one, but its reward will be great. Its successful accomplishment
+seems to be well assured; and New York may expect presently to claim the honor of first giving
+to the oldest of existing empires the beneficent invention which the newest of nations created,
+and at the same time of taking the final step for the completion of the one great line which
+is to put all the countries of the earth in instant communication.
+
+A line from Calcutta to Canton is already undertaken by an English company, with due authority
+from the British Government.
+
+In Australia there are now in operation twelve thousand miles of telegraph-wire. This Australian
+system, which is at present so purely local and isolated, is nevertheless expected to be brought
+into combination, by alternating submarine and island wires, with the Chinese and Russian line
+above described.
+
+The statistics of the telegraph-lines in Great Britain show not only an increase in the number
+of lines, but a great augmentation in the amount of business transacted. In 1861 there were
+11,528 miles of line open for public use; in 1862, 12,711 miles; and in 1863, 13,892 miles,
+comprising 65,012 miles of wire. Last year, the number of stations was augmented in like proportion;
+and facilities were offered for the transmission of telegraphic dispatches at no fewer than
+1,755 stations, containing 6,196 instruments, through which about 3,400,000 telegrams were
+sent. In addition to the lines on British soil, the Submarine Telegraph Company has cables
+stretching to Calais, Boulogne, Dieppe, Jersey, Ostend, Hanover, and Denmark, with which the
+other lines are more or less in connection, covering 887 miles with 2,683 miles of wire. This
+company has upwards of 3,000 stations on the Continent. The messages sent by it to and from
+foreign countries were, in 1861, 230,000; in 1862, 310,595; and in 1863, 345,784.
+
+France possesses a system comprising 71,034 miles of wire and 1,301 stations, which transmit
+about 1,500,000 private dispatches annually, and nearly 175,000 official ones. Russia has 36,663
+miles of wire; Austria, 22,230; Italy, 20,120; Prussia, 24,149; Spain, 17,743; Belgium, 3,773;
+Switzerland, 3,720; Turkey, 6,571; Persia, 2,500; Greece, 3,000; India, 10,994, and 136 stations;
+Australia, 12,000; South Australia, 2,000; the United States, 120,000; the British Provinces
+in America, 20,000;--making a total of upwards of 440,000 miles of aërial wire in operation
+in all parts of the world.
+
+       *       *       *       *       *
+
+The following tables give the details of the principal cables hitherto laid by all makers.
+They are divided into three heads: 1st, Those which have been wholly successful, and are now
+working (September, 1865); 2d, Those which were partially successful, having worked for a time;
+3d, Those which wholly failed, or never worked after their submergence.
+
+TABLE I.
+
+Submarine Telegraph Cables which are now in Successful Working Order.
+
+Column A: No. Column B: Date when laid. Column C: From Column D: To Column E: Number of conducting
+wires. Column F: Length of cable in statute miles. Column G: Length of insulated wire in statute
+miles. Column H: Maximum depth of water in fathoms. Column I: Weight in tons per statute mile.
+Column J: Length of time the cables have worked. Years.
+
+A     B    C               D                E    F      G      H     I   J
+
+1   1851 Dover           Calais             4    27    108     30  6.00  14
+2   1852 Keyhaven        Hurst Castle       4     3     12     ..   ..   13
+3   1853 Denmark         Across the Belt    3    18     54     15  4.00  12
+4   1853 Dover           Ostend             6  80-1/2  483     30  5.75  12
+5   1853 Firth of Forth  ...                4     5     20     ..  7.00  12
+6   1853 England         Holland            1   120    120     30  1.75  12
+7   1853 Portpatrick     Donaghadee         6    25    150    160  6.00  12
+8   1854 Portpatrick     Whitehead          6    27    162    150  6.00  11
+9   1854 Sweden          Denmark            3    12     36     14  6.00  11
+10  1854 Italy           Corsica            6   120    660    325  8.00  11
+11  1854 Corsica         Sardinia           6    10     60     20  8.00  11
+12  1855 Egypt           ...                4    10     40     ..  6.00  10
+13  1855 Italy           Sicily             1     5      5     27  6.00  10
+14  1856 Prince Edward   Cape Breton        1    12     12     14  2.50   9
+         Island
+15  1857 Norway across   ...                1    49     49    300  2.75   8
+         Fiords
+16  1857 Across mouth of ...                1     3      3     ..  1.75   8
+         Danube
+17  1857 Ceylon          India              1    60     60     45  2.75   8
+18  1858 Italy           Sicily             1     8      8     60  5.25   7
+19  1858 England         Holland            4   140    560     30  9.75   7
+20  1858 England         Hanover            2   280    560     30  3.00   7
+21  1858 Norway across   ...                1    16     16    300  2.75   7
+         Fiords
+22  1858 Dardanelles     Scio               1   115    115    200  1.00   7
+23  1858 Scio            Syra               1    85     85    200  1.00   7
+24  1859 Alexandria      ...                4     2      8     ..  5.25   6
+25  1859 England         Denmark            3   360  1,104     30  4.00   6
+26  1859 Scio            Smyrna             1    40     40     40  1.00   6
+27  1859 Syra            Athens             1   105    105    150  1.00   6
+28  1859 Sweden          Gottland           1    64     64     80  2.50   6
+29  1859 Folkestone      Boulogne           6    24    144     32  9.50   6
+30  1859 Across rivers   ...                1    10     10     ..  4.50   6
+         in India
+31  1859 Otranto         Avlona             1    50     50    400  1.00   6
+32  1859 Malta           Sicily             1    60     60     79  3.25   6
+33  1859 Jersey          Pirou in France    1    21     21     15  3.75   6
+34  1859 South Australia Tasmania           1   140    140     60  2.00   6
+35  1860 France          Algiers            1   520    520  1,585  1.14   5
+36  1860 Denmark         (Great Belt)       6    14     84     18  8.00   5
+37  1860 Denmark         (Great Belt)       3    14     42     18  6.00   5
+38  1860 In Arracan      ...                1   116    116     50  1.00   5
+39  1860 Barcelona       Port Mahon         1   198    198  1,400  1.25   5
+40  1860 Minorca         Majorca            2    35     70    250  2.00   5
+41  1860 Iviza           Majorca            2    74    148    500  2.00   5
+42  1860 San Antonio     Iviza              2    76    152    450  2.00   5
+43  1861 Corfu           Otranto            1    90     90  1,000  2.75   4
+44  1861 Norway across   ...                1    16     16    300  2.75   4
+           Fiords
+45  1861 Toulon          Corsica            1   195    195  1,550  1.14   4
+46  1861 Malta           Alexandria         1 1,535  1,535    420  1.85   4
+47  1861 Beachy Head     Dieppe             6    80    320     30  8.00   4
+48  1862 Abermawr        Grenore            4    63    252     58  5.25   3
+49  1862 England         Holland            4   130    520     30  9.00   3
+50  1862 Across rivers   ...                1     2      2     ..   ..    3
+           in Ireland
+51  1862 Firth of Forth  ...                4     6     24      7   ..    3
+52  1862 Fortress Monroe Cherrystone        1    23     23     ..   ..    3
+53  1862 Fortress Monroe Newport News       1     3      3     ..   ..    3
+54  1863 Sardinia        Sicily             1   243    243  1,200   ..    2
+55  1864 Gwadur          Fao                1 1,450  1,450     ..   ..    1
+         (Persian Gulf)
+
+                                              6,979 11,127
+
+In addition to the above, there have been laid across American rivers, since 1854, 95 lines,
+in lengths of from 120 feet to two miles, and comprising from 120 feet to 6 miles of insulated
+wire each,--making an aggregate of 250 miles of subaqueous wire in operation on this continent,
+and a total of 6,979 miles of cable, and 11,127 miles of submarine wire in operation in all
+parts of the world.
+
+TABLE II.
+
+Submarine Telegraph Cables which have been successful for some Time, but are not now working.
+
+ A   B       C                D            E     F      G     H    I    J
+
+ 1 1850 Dover             Calais           1     25     25    30   ..  1 day.
+ 2 1853 England           Holland          1    360    360    30 2.00  5 yrs.
+        (Three Cables)
+ 3 1854 Holyhead          Howth            1     75     75    70 2.00  5  "
+ 4 1854 Nantucket         Cape Cod         1     25     25    16   ..  ....
+ 5 1855 Varna             Balaklava        1    355    355   300 0.10  9 mos.
+ 6 1855 Balaklava         Eupatoria        1      1      1    ..   ..  9  "
+ 7 1856 Martha's Vineyard Cape Cod         1      5      5    15   ..  2 wks.
+ 8 1856 Newfoundland      Cape Breton      1     85     85   360 2.50  9 yrs.
+ 9 1857 Sardinia          Bona             4    150    600 1,500   ..  3  "
+10 1857 Varna             Constantinople   1    170    170    .. 0.75  5  "
+11 1857 Cape Cod          Naushon          1      1     ..    ..   ..  2  "
+12 1857 Martha's Vineyard Nantucket        1     30     30    16   ..  4  "
+13 1857 Sardinia          Corfu            1    700    700 1,000 0.90  1  "
+14 1858 England           Channel Islands  1    102    102    60 2.50  3  "
+15 1858 Ireland(Atlantic) Newfoundland     1  2,500  2,500 2,400 1.00 23 ds.
+16 1859 Singapore         Batavia          1    630    630    20 0.04  2 yrs.
+17 1859 Suez              Kurrachee        1  3,500  3,500 1,910 0.94  6 mos.
+        (Red Sea & India)
+18 1859 Spain             Africa (Centa)   1     25     25    .. 1.00  1 yr.
+19 1859 England           Isle of Man      1     36     36    30 2.50  3 yrs.
+20 1859 South Australia   Tasmania         1    100    100    60 2.00  1 yr.
+21 1859 Liverpool         Holyhead         2     25     50    14 3.10  1  "
+22 1859 Syra              Candia           1    150    150    .. 0.89  3 yrs.
+23 1860 Across the Mersey   ..             1      3      3    ..   ..  1 yr.
+
+                                              9,053  9,527
+
+TABLE III.
+
+Submarine Telegraph Cables Which Are Total Failures.
+
+ A   B        C             D              E     F      G     H    I
+
+ 1 1852 Holyhead          Howth            1     75     75    70 0.45
+ 2 1852 Portpatrick       Donaghadee       2     17     34   160  ..
+ 3 1852 Portpatrick       Donaghadee       5     15     75   160 4.80
+ 4 1854 Holyhead          Howth            1     65     65    70 2.00
+ 5 1855 Sardinia          Africa           6     50    300   800 8.00
+ 6 1855 Cape Ray          Cape North       3     30     90   360  ..
+ 7 1855 Sardinia          Africa           3    160    480 1,500 3.70
+ 8 1857 Ireland           Newfoundland     1    300    300 2,400  ..
+        (Lost in laying)
+ 9 1859 Candia            Alexandria       1    150    150 1,600 0.89
+10 1865 Ireland           Newfoundland     1  1,300  1,300 2,400 1.75
+
+It will be seen from the above list of failures, that the great extension and success of submarine
+cables has been attained through many great failure,--among the most prominent being the old
+and new Atlantic, the Red Sea and India, (which was laid in five sections, that worked from
+six to nine months each, but was never in working order from end to end,) the Singapore and
+Batavia, and Sardinia and Corfu. None of these cable, with the exception of the new Atlantic,
+were tested under water after manufacture, and every one of them was covered with a sheathing
+of light iron wire, weighing in the aggregate only about fifteen hundred pounds per mile.
+
+These two peculiarities are sufficient to account for every failure which has occurred, with
+the exception of the new Atlantic. No electrical test will show the presence of flaws in the
+insulating cover of a wire, unless water, or some other conductor, enters the flaws and establishes
+an electrical connection between the outside and inside of the cable. All cables now manufactured
+are tested under water before being laid.
+
+       *       *       *       *       *
+
+Communication between the Ottoman capital and Western Europe passes through Vienna. From this
+city to Constantinople there are two distinct lines,--one passing by Semlin and Belgrade to
+Adrianople, the other by Toultcha, Kustendji, and Varna. There is a third line to Adrianople
+by Bucharest; and by the opening of the submarine line between Avlona and Otranto, in Italy,
+the Turkish telegraph service will be in direct communication with the West, without going
+through Servia or the Moldo-Wallachian Principalities.
+
+Communication between Constantinople and India is maintained over the following route:--To
+Ismid, 55 miles; thence to Mudurli, 104 miles; thence to Angora, 111 miles; thence to Guzgat,
+113 miles; thence to Sivas, 140 miles; Kharpoot, 178 miles; Diarbekir, 77 miles; Mardeen, 61
+miles; Djezireh, 104 miles; Mosul, (Nineveh,) 91 miles; Kerkook, 114 miles; Bagdad, 189 miles.
+From Bagdad to Fao, at the mouth of the Shat-el-Arab, on the Persian Gulf, is 400 miles. From
+Fao to Kurrachee the submarine cable stretches along the bottom of the Persian Gulf for 1,450
+miles; and thence are 500 miles of aërial line across a portion of British India to Bombay.
+
+The accounts of the successful opening of this line tell of the astonishment of the savage
+Beloochees and Arabs along the Mekran coast at the marvel of a blue spark flashing for the
+Sahib to the Indus and back again in less time than it takes to smoke a hookah. At Gwadur,
+no sooner was the cable landed than the people of the surrounding country flocked down to hear
+and talk of the Feringhee witchcraft. Chiefs of the Beloochees, Muscatees, and Heratees, with
+their retainers, trod upon each other's toes in their eagerness to see it work. Gwadur has
+given up the idea that Mahomet taught everything that could be known, and now sits upon the
+carpet of astonishment and chews the betel-nut of meditation.
+
+The establishment of the electric telegraph in India presented some curious as well as difficult
+problems. In the first place, it was discovered that the air of India is in a state of constant
+electrical perturbation of the strongest kind, so that the instruments there mounted went into
+a high fever and refused to work. Along the north and south lines a current of electricity
+was constantly passing, which threw the needles out of gear and baffled the signallers. Moreover,
+the tremendous thunder-storms ran up and down the wires and melted the conductors; the monsoon
+winds tore the teak-posts out of the sodden ground; the elephants and buffaloes trampled the
+fallen lines into kinks and tangles; the Delta aborigines carried off the timber supports for
+fuel, and the wires or iron rods upon them to make bracelets and to supply the Hindoo smitheries;
+the cotton- and rice-boats, kedging up and down the river, dragged the subaqueous wires to
+the surface. In addition to these graver difficulties were many of an amusing character. Wild
+pigs and tigers scratched their skins against the posts in the jungle, and porcupines and bandicoots
+burrowed them out of the ground. Kites, fishing-eagles, and hooded-crows came in hundreds and
+perched upon the line to see what on earth it could mean, and sometimes after a thunder-storm,
+when the wires were wet, were found dead by dozens, the victims of their curiosity, Monkeys
+climbed the posts and ran along the lines, chattering, and dropping an interfering tail from
+one wire to another, which tended to confound the conversations of Calcutta. Parrots, with
+the same contempt for electrical insulation, fastened upon one string by the beak and another
+by the leg; and in one village, the complacent natives hung their fishing-lines to dry upon them.
+
+In 1856 there were four thousand miles of telegraph-wire stretched over India: some upon bamboo
+posts, which bent to the storms and thus defied them; some, as in the Madras Presidency, upon
+monoliths of granite,--these, during the Mutiny, proving worth ten times their cost.
+
+       *       *       *       *       *
+
+Whilst the telegraph has been thus rapidly encircling the globe with its iron threads, great
+improvement has been made in the apparatus for transmitting the electrical signals over them.
+Instruments called translators, or repeaters, have been devised, by which aërial lines may
+be operated, without repetition, over distances of many thousands of miles. Through the use
+of this valuable invention upon the California line, operators in New York and San Francisco
+are able to converse as readily and rapidly as those situated at the extremities of a line
+only a hundred miles in length.
+
+The enormous increase in the amount of matter to be transmitted over the wires has stimulated
+the inventive genius of our own country and Europe to produce an apparatus by which the capacity
+of a wire may be greatly increased. Mr. M. G. Farmer of Boston, Mr. J. G. Smith of Portland,
+Maine, Dr. Gintl of Germany, and one or two other persons, have solved the problem of the simultaneous
+transmission of messages over a single wire in opposite directions. But while their apparatus,
+with the proper arrangement of batteries, will unquestionably permit the accomplishment of
+this apparent paradox, the natural disturbances upon a wire of any considerable length, together
+with the inequalities of the current caused by escape in wet weather, have precluded its practical
+use.
+
+In this country, General Lefferts of New York, and in Europe, Professor Bonelli, have devoted
+much time and expense to the perfection of apparatus for securing greater rapidity of transmission
+over the aërial lines.
+
+General Lefferts owns several patents covering inventions of great ingenuity and value, which
+are now being perfected and will shortly be brought into operation. The apparatus consists
+of an instrument, operated by keys similar to those of a piano-forte, for punching characters,
+composed of dots and lines, upon a narrow strip of paper. The paper, when thus prepared, is
+passed rapidly through an instrument attached to a telegraph-wire, at the other end of which
+is a similar instrument which runs in unison. The first instrument is provided with a flexible
+metallic comb, which presses through the perforations in the paper and thus closes the circuit
+at each dot and line, while the second instrument is provided with a metallic stylus, or pointer,
+which rests upon a fillet of paper prepared with chemicals, and produces, whenever the circuit
+is closed, dots and lines of a dark blue color upon the prepared paper. When the paper is prepared
+by the perforating apparatus, it can be run through the instrument at any rate of speed that
+is desirable, and it is estimated that with this apparatus one wire may easily perform as much
+work in a day as ten can under the ordinary arrangement.
+
+In Professor Bonelli's system the dispatch is set up in printing-type, and placed on a little
+carriage, which is made to pass beneath a comb with five teeth, which are in communication
+with five aërial wires of the line, at the extremity of which these same wires are joined to
+the five teeth of a second comb, under which passes a chemically prepared paper, carried along
+on a little carriage similar to the one at the other end on which the printing-type is placed.
+If under this arrangement the electric circuit of a battery composed of a sufficient number
+of elements, and distributed in a certain order, be completed, then, at the same time that
+the first comb is passing over the printing-type at the one end, the second comb at the other
+end will trace the dispatch on the prepared paper in beautiful Roman letters, and with so great
+a rapidity that it may be expected that five hundred messages of twenty words each will be
+transmitted hourly.
+
+On Wednesday, April 19th, the day of Mr. Lincoln's funeral, eighty-five thousand words of reports
+were transmitted between Washington and New York, between the hours of 7, P. M., and 1, A.
+M., being at the rate of over fourteen thousand words per hour. Nine wires were employed for
+the purpose. Thirteen thousand six hundred words were transmitted by the House printing instruments
+on a single wire after half past seven o'clock.
+
+A telegraphic message was recently received in London from India in eight hours and a half.
+This message was forwarded by the Indo-European Telegraph Company, viâ Kurrachee and the Persian
+Gulf, crossing one half of Asia and the whole of Europe.
+
+During the late Rebellion in this country the telegraph was extensively employed both by the
+Government and the Insurgents. In the course of the past year, there have been in the service
+of the Government thirty field-trains, distributed as follows:--In the Army of the Potomac,
+five; in the Department of the Cumberland, five; in the Department of the Gulf, three; in the
+Department of North Carolina and Virginia, three; in the Department of the South, two; in the
+Department of the Tennessee, six; in the Department of the Ohio, two; at the Signal Camp of
+Instruction, Georgetown, D. C., three; at the United States Military Academy, West Point, New
+York, one. Of these trains, some were equipped with five, and others with ten miles of insulated
+wire. There were carried in the trains lances for setting up the wire, when necessary,--reels,
+portable by hand, carrying wire made purposely flexible for this particular use,--and various
+minor appliances, which experience has proved useful. A military organization was directed
+for each train.
+
+In duty of this kind, the construction of the trains, the equipment to be carried by them,
+and the military organization to be provided for their use, to enable them to be most rapidly
+and anywhere brought into action, are the subjects for study: the particular instrument to
+be equipped is a secondary consideration. The soldiers drilled to the duty of construction
+acquire in a short time a remarkable skill in the rapid extension of these lines. As was anticipated,
+they have proved valuable auxiliaries to the services of the corps, and have sometimes rendered
+them available when they would have been otherwise useless. The greatest distance at which
+the instruments are reported to have worked is twenty miles. The average distances at which
+they are used are from five to eight miles. The average speed of the most rapid construction
+is reported to be at the rate of a slow walk.
+
+At the first Battle of Fredericksburg field-trains were for the first time in the history of
+the war used on the battle-field, under the fire of the enemy's batteries. The movements to
+be made on the day of that battle were of the first magnitude. The movements of the retreat
+were perilous to the whole army. The trains in use contributed something to the success of
+those movements.
+
+Many incidents are recorded of operators accompanying raiding parties into the enemy's territory
+and tapping the telegraph-lines, sometimes obtaining valuable information. One is related by
+the "Selma Rebel." The operator at that place was called to his instrument by some one up the
+Tennessee and Alabama Road, who desired information as to the number of the forces and supplies
+at Coosa Bridge. After getting all the information he could, regarding the location and strength
+of the Rebel forces, he informed the Selma operator that he was attached to the expedition
+under General Wilson, and that, at that particular time, he was stationed with his instruments
+up a tree near Monticello, in the hardest rain he ever saw! Permission being given, he sent
+a dispatch to a young lady in Mobile, and another to a telegraph-operator in the Rebel lines,
+telling him he loved him as much as before the war. After some other conversation, the Yankee
+operator clambered down from the tree, mounted his horse, and rode away.
+
+FOOTNOTES:
+
+[E] The Chinese Government has been informed by the Russian Ambassador that the Russian portion
+of this line to Pekin will be completed by the first of January, 1868.
+
+THE FIELD OF GETTYSBURG.
+
+In the month of August, 1865, I set out to visit some of the scenes of the great conflict through
+which the country has lately passed.
+
+On the twelfth, I reached Harrisburg,--a plain, prosaic town of brick and wood, with nothing
+especially attractive about it, except its broad-sheeted, shining river, flowing down from
+the Blue Ridge, around wooded islands, and between pleasant shores.
+
+It is in this region that the traveller from the North first meets with indications of recent
+actual war. The Susquehanna, on the eastern shore of which the city stands, forms the northern
+limit of Rebel military operations. The "highwater mark of the Rebellion" is here: along these
+banks its uttermost ripples died. The bluffs opposite the town are still crested with the hastily
+constructed breastworks, on which the citizens worked night and day in the pleasant month of
+June, 1863, throwing up, as it were, a dike against the tide of invasion. These defences were
+of no practical value. They were unfinished when the Rebels appeared in force in the vicinity.
+Harrisburg might easily have been taken, and a way opened into the heart of the North. But
+a Power greater than man's ruled the event. The Power that lifted these azure hills, and spread
+out the green valleys, and hollowed a passage for the stream, appointed to treason also a limit
+and a term. "Thus far, and no farther."
+
+The surrounding country is full of lively reminiscences of those terrible times. Panic-stricken
+populations flying at the approach of the enemy; whole families fugitive from homes none thought
+of defending; flocks and herds, horses, wagon-loads of promiscuously heaped household stuffs
+and farm produce; men, women, children, riding, walking, running, driving or leading their
+bewildered four-footed chattels,--all rushing forward with clamor and alarm under clouds of
+dust, crowding every road to the river, and thundering across the long bridges regardless of
+the "five-dollars-fine" notice (though it is to be hoped that the toll-takers did their duty):--such
+were the scenes which occurred to render the Rebel invasion memorable. The thrifty German farmers
+of the lower counties did not gain much credit either for courage or patriotism at that time.
+It was a panic, however, to which almost any community would have been liable. Stuart's famous
+raid of the previous year was well remembered. If a small cavalry force had swept from their
+track through a circuit of about sixty miles over two thousand horses, what was to be expected
+from Lee's whole army? Resistance to the formidable advance of one hundred thousand disciplined
+troops was of course out of the question. The slowness, however, with which the people responded
+to the State's almost frantic calls for volunteers was in singular contrast with the alacrity
+each man showed to run off his horses and get his goods out of Rebel reach.
+
+From Harrisburg, I went, by the way of York and Hanover, to Gettysburg. Having hastily secured
+a room at a hotel in the Square, (the citizens call it the "Di'mond,") I inquired the way to
+the battle-ground.
+
+"You are on it now," said the landlord, with proud satisfaction,--for it is not every man that
+lives, much less keeps a tavern, on the field of a world-famous fight. "I tell you the truth,"
+said he; and, in proof of his words, (as if the fact were too wonderful to be believed without
+proof,) he showed me a Rebel shell imbedded in the brick wall of a house close by. (N. B. The
+battle-field was put into the bill.)
+
+Gettysburg is the capital of Adams County: a town of about three thousand souls,--or fifteen
+hundred, according to John Burns, who assured me that half the population were Copperheads,
+and that they had no souls. It is pleasantly situated on the swells of a fine undulating country,
+drained by the headwaters of the Monocacy. It has no special natural advantages,--owing its
+existence, probably, to the mere fact that several important roads found it convenient to meet
+at this point, to which accident also is due its historical renown. The circumstance which
+made it a burg made it likewise a battle-field.
+
+About the town itself there is nothing very interesting. It consists chiefly of two-story houses
+of wood and brick, in dull rows, with thresholds but little elevated above the street. Rarely
+a front yard or blooming garden-plot relieves the dreary monotony. Occasionally there is a
+three-story house, comfortable, no doubt and sufficiently expensive, about which the one thing
+remarkable is the total absence of taste in its construction. In this respect Gettysburg is
+but a fair sample of a large class of American towns, the builders of which seem never once
+to have been conscious that there exists such a thing as beauty.
+
+John Burns, known as "the hero of Gettysburg," was almost the first person whose acquaintance
+I made. He was sitting under the thick shade of an English elm in front of the tavern. The
+landlord introduced him as "the old man who took his gun and went into the first day's fight."
+He rose to his feet and received me with sturdy politeness,--his evident delight in the celebrity
+he enjoys twinkling through the veil of a naturally modest demeanor.
+
+"John will go with you and show you the different parts of the battle-ground," said the landlord.
+"Will you, John?"
+
+"Oh, yes, I'll go," said John, quite readily; and we set out at once.
+
+A mile south of the town is Cemetery Hill, the head and front of an important ridge, running
+two miles farther south to Round Top,--the ridge held by General Meade's army during the great
+battles. The Rebels attacked on three sides,--on the west, on the north, and on the east; breaking
+their forces in vain upon this tremendous wedge, of which Cemetery Hill may be considered the
+point. A portion of Ewell's Corps had passed through the town several days before, and neglected
+to secure that very commanding position. Was it mere accident, or something more, which thus
+gave the key to the country into our hands, and led the invaders, alarmed by Meade's vigorous
+pursuit, to fall back and fight the decisive battle here?
+
+With the old "hero" at my side pointing out the various points of interest, I ascended Cemetery
+Hill. The view from the top is beautiful and striking. On the north and east is spread a finely
+variegated farm country; on the west, with woods and valleys and sunny slopes between, rise
+the summits of the Blue Ridge.
+
+It was a soft and peaceful summer day. There was scarce a sound to break the stillness, save
+the shrill note of the locust, and the perpetual click-click of the stone-cutters, at work
+upon the granite headstones of the soldiers' cemetery. There was nothing to indicate to a stranger
+that so tranquil a spot had ever been a scene of strife. We were walking in the time-hallowed
+place of the dead, by whose side the martyr-soldiers, who fought so bravely and so well on
+those terrible first days of July, slept as sweetly and securely as they.
+
+"It don't look here as it did after the battle," said John Burns. "Sad work was made with the
+tombstones. The ground was all covered with dead horses, and broken wagons, and pieces of shells,
+and battered muskets, and everything of that kind, not to speak of the heaps of dead." But
+now the tombstones have been replaced, the neat iron fences have been mostly repaired, and
+scarcely a vestige of the fight remains. Only the burial-places of the slain are there. Thirty-five
+hundred and sixty slaughtered Union soldiers lie on the field of Gettysburg. This number does
+not include those whose bodies have been claimed by friends and removed.
+
+The new cemetery, devoted to the patriot slain, and dedicated with fitting ceremonies on the
+19th of November, 1863, adjoins the old one. In the centre is the spot reserved for the monument,
+the corner-stone of which was laid on the 4th of July, 1865. The cemetery is semicircular,
+in the form of an amphitheatre, except that the slope is reversed, the monument occupying the
+highest place. The granite headstones resemble rows of semicircular seats. Side by side, with
+two feet of ground allotted to each, and with their heads towards the monument, rest the three
+thousand five hundred and sixty. The name of each, when it could be ascertained, together with
+the number of the company and regiment in which he served, is lettered on the granite at his
+head. But the barbarous practice of stripping such of our dead as fell into their hands, in
+which the Rebels indulged here as elsewhere, rendered it impossible to identify large numbers.
+The headstones of these are lettered, "Unknown." At the time when I visited the cemetery, the
+sections containing most of the unknown had not yet received their headstones, and their resting-places
+were indicated by a forest of stakes. I have seen few sadder sights.
+
+The spectacle of so large a field crowded with the graves of the slain brings home to the heart
+an overpowering sense of the horror and wickedness of war. Yet, as I have said, not all our
+dead are here. None of the Rebel dead are here. Not one of those who fell on other fields,
+or died in hospitals and prisons in those States where the war was chiefly waged,--not one
+out of those innumerable martyred hosts lies on this pleasant hill. The bodies of once living
+and brave men, slowly mouldering to dust in this sanctified soil, form but a small, a single
+sheaf from that great recent harvest reaped by Death with the sickle of war.
+
+Once living and brave! How full of life, how full of unflinching courage and fiery zeal, they
+marched up hither to fight the great fight, and to give their lives! And each man had his history;
+each soldier resting here had his interests, his loves, his darling hopes, the same as you
+or I. All were laid down with his life. It was no trifle to him, it was as great a thing to
+him as it would be to you, thus to be cut off from all things dear in this world, and to drop
+at once into a vague eternity. Grown accustomed to the waste of life through years of war,
+we learn to think too lightly of such sacrifices. "So many killed,"--with that brief sentence
+we glide over the unimaginably fearful fact, and pass on to other details. We indulge in pious
+commonplaces,--"They have gone to a better world, they have their reward," and the like. No
+doubt this is true; if not, then life is a mockery, and hope a lie. But the future, with all
+our faith, is vague and uncertain. It lies before us like one of those unidentified heroes,
+hidden from sight, deep-buried, mysterious, its headstone lettered "Unknown." Will it ever
+rise? Through trouble, toils, and privations,--not insensible to danger, but braving it,--these
+men--and not these only, but the uncounted thousands represented by these--confronted, for
+their country's sake, that awful uncertainty. Did they believe in your better world? Whether
+they did or not, this world was a reality, and dear to them.
+
+I looked into one of the trenches in which workmen were laying foundations for the headstones,
+and saw the ends of the coffins protruding. It was silent and dark down there. Side by side
+the soldiers slept, as side by side they fought. I chose out one coffin from among the rest,
+and thought of him whose dust it contained,--your brother and mine, although we never knew
+him. I thought of him as a child, tenderly reared--for this. I thought of his home, his heart-life:--
+
+    "Had he a father?
+      Had he a mother?
+    Had he a sister?
+      Had he a brother?
+    Or was there a nearer one
+    Still, and a dearer one
+      Yet, than all other?"
+
+I could not know: in this world, none will ever know. He sleeps with the undistinguishable
+multitude, and his headstone is lettered, "Unknown."
+
+Eighteen loyal States are represented by the tenants of these graves. New York has the greatest
+number,--upwards of eight hundred; Pennsylvania comes next in order, having upwards of five
+hundred. Tall men from Maine, young braves from Wisconsin, heroes from every state between,
+met here to defend their country and their homes. Sons of Massachusetts fought for Massachusetts
+on Pennsylvania soil. If they had not fought, or if our armies had been annihilated there,
+the whole North would have been at the mercy of Lee's victorious legions. As Cemetery Hill
+was the pivot on which turned the fortunes of the battle, so Gettysburg itself was the pivot
+on which turned the destiny of the nation. Here the power of aggressive treason culminated;
+and from that memorable Fourth of July when the Rebel invaders, beaten in the three days' previous
+fight, stole away down the valleys and behind the mountains on their ignominious retreat,--from
+that day, signalized also by the fall of Vicksburg in the West, it waned and waned, until it
+was swept from the earth.
+
+Cemetery Hill should be the first visited by the tourist of the battle-ground. Here a view
+of the entire field, and a clear understanding of the military operations of the three days,
+are best obtained. Looking north, away on your left lies Seminary Ridge, the scene of the first
+day's fight, in which the gallant Reynolds fell, and from which our troops were driven back
+in confusion through the town by overwhelming numbers, in the afternoon. Farther south spread
+the beautiful woods and vales that swarmed with Rebels on the second and third day, and from
+which they made such desperate charges upon our lines. On the right as you stand is Culp's
+Hill, the scene of Ewell's furious, but futile, attempts to flank us there. You are in the
+focus of a half-circle, from all points of which was poured in upon this now silent hill such
+an artillery fire as has seldom been concentrated upon one point of an open field in any of
+the great battles upon this planet. From this spot extend your observations as you please.
+
+Guided by the sturdy old man, I proceeded first to Culp's Hill, following a line of breastworks
+into the woods. Here are seen some of the soldiers' devices hastily adopted for defence. A
+rude embankment of stakes and logs and stones, covered with earth, forms the principal work;
+aside from which you meet with little private breastworks, as it were, consisting of rocks
+heaped up by the trunk of a tree, or beside a larger rock, or across a cleft in the rocks,
+where some sharpshooter stood and exercised his skill at his ease.
+
+The woods are of oak chiefly, but with a liberal sprinkling of chestnut, black-walnut, hickory,
+and other common forest-trees. Very beautiful they were that day, with their great, silent
+trunks, all so friendly, their clear vistas and sun-spotted spaces. Beneath reposed huge, sleepy
+ledges and boulders, their broad backs covered with lichens and old moss. A more fitting spot
+for a picnic, one would say, than for a battle.
+
+Yet here remain more astonishing evidences of fierce fighting than anywhere else about Gettysburg.
+The trees in certain localities are all seamed, disfigured, and literally dying or dead from
+their wounds. The marks of balls in some of the trunks are countless. Here are limbs, and yonder
+are whole tree-tops, cut off by shells. Many of these trees have been hacked for lead, and
+chips containing bullets have been carried away for relics.
+
+Past the foot of the hill runs Rock Creek, a muddy, sluggish stream, "great for eels," said
+John Burns. Big boulders and blocks of stone lie scattered along its bed. Its low shores are
+covered with thin grass, shaded by the forest-trees. Plenty of Rebel knapsacks and haversacks
+lie rotting upon the ground; and there are Rebel graves in the woods near by. By these I was
+inclined to pause longer than John Burns thought it worth the while. I felt a pity for these
+unhappy men which he could not understand. To him they were dead Rebels, and nothing more;
+and he spoke with great disgust of an effort which had been made by certain "Copperheads" of
+the town to have all the buried Rebels, now scattered about in the woods and fields, gathered
+together in a cemetery near that dedicated to our own dead.
+
+"Yet consider, my friend," I said, "though they were altogether in the wrong, and their cause
+was infernal, these, too, were brave men; and under different circumstances, with no better
+hearts than they had, they might have been lying in honored graves up yonder, instead of being
+buried in heaps, like dead cattle, down here."
+
+Is there not a better future for these men also? The time will come when we shall at least
+cease to hate them.
+
+The cicada was singing, insects were humming in the air, crows were cawing in the tree-tops,
+the sunshine slept on the boughs or nestled in the beds of brown leaves on the ground,--all
+so pleasant and so pensive, I could have passed the day there. But John reminded me that night
+was approaching, and we returned to Gettysburg.
+
+That evening I walked alone to Cemetery Hill to see the sun set behind the Blue Ridge. A quiet
+prevailed there still more profound than during the day. The stonecutters had finished their
+day's work and gone home. The katydids were singing, and the shrill, sad chirp of the crickets
+welcomed the cool shades. The sun went down, and the stars came out and shone upon the graves,--the
+same stars which were no doubt shining even then upon many a vacant home and mourning heart
+left lonely by the husbands, the fathers, the dear brothers and sons, who fell at Gettysburg.
+
+The next morning, according to agreement, I went to call on the old hero. I found him living
+in the upper part of a little whitewashed two-story house, on the corner of two streets, west
+of the town. A flight of wooden steps outside took me to his door. He was there to welcome
+me. John Burns is a stoutish, slightly bent, hale old man, with a light blue eye, a long, aggressive
+nose, a firm-set mouth, expressive of determination of character, and a choleric temperament.
+His hair, originally dark brown, is considerably bleached with age; and his beard, once sandy,
+covers his face (shaved once or twice a week) with a fine crop of silver stubble. A short,
+massy kind of man; about five feet four or five inches in height, I should judge. He was never
+measured but once in his life. That was when he enlisted in the War of 1812. He was then nineteen
+years old, and stood five feet in his shoes. "But I've growed a heap since," said the old hero.
+
+He introduced me to his wife, a slow, somewhat melancholy old lady, in ill health. "She has
+been poorly now for a good many years." They have no children.
+
+At my request he told me his story. He is of Scotch parentage; and who knows but he may be
+akin to the ploughman-poet whose "arrowy songs still sing in our morning air"? He was born
+and bred in Burlington, New Jersey. A shoemaker by trade, he became a soldier by choice, and
+fought the British in what used to be the "last war." I am afraid he contracted bad habits
+in the army. For some years after the war he led a wandering and dissipated life. Forty years
+ago he chanced to find himself in Gettysburg, where he married and settled down. But his unfortunate
+habits still adhered to him, and he was long looked upon as a man of little worth. At last,
+however, when there seemed to be no hope of his ever being anything but a despised old man,
+he took a sudden resolution to reform. The fact that he kept that resolution, and still keeps
+it so strictly that it is impossible to prevail upon him to taste a drop of intoxicating liquor,
+attests a truly heroic will. He was afterwards a constable in Gettysburg, in which capacity
+he served some six years.
+
+On the morning of the first day's fight he sent his wife away, telling her that he would take
+care of the house. The firing was near by, over Seminary Ridge. Soon a wounded soldier came
+into the town and stopped at an old house on the opposite corner. Burns saw the poor fellow
+lay down his musket, and the inspiration to go into the battle seems then first to have seized
+him. He went over and demanded the gun.
+
+"What are you going to do with it?" asked the soldier.
+
+"I'm going to shoot some of the damned Rebels!" replied John.
+
+He is not a swearing man, and the strong adjective is to be taken in a strictly literal, not
+a profane, sense.
+
+Having obtained the gun, he pushed out on the Chambersburg Pike, and was soon in the thick
+of the skirmish.
+
+"I wore a high-crowned hat, and a long-tailed blue; and I was seventy years old."
+
+The sight of so old a man, in such costume, rushing fearlessly forward to get a shot in the
+very front of the battle, of course attracted attention. He fought with the Seventh Wisconsin
+Regiment, the Colonel of which ordered him back, and questioned him, and finally, seeing the
+old man's patriotic determination, gave him a good rifle in place of the musket he had brought
+with him.
+
+"Are you a good shot?"
+
+"Tolerable good," said John, who is an old fox-hunter.
+
+"Do you see that Rebel riding yonder?"
+
+"I do."
+
+"Can you fetch him?"
+
+"I can try."
+
+The old man took deliberate aim and fired. He does not say he killed the Rebel, but simply
+that his shot was cheered by the Wisconsin boys, and that afterwards the horse the Rebel rode
+was seen galloping with an empty saddle. "That's all I know about it."
+
+He fought until our forces were driven back in the afternoon. He had already received two slight
+wounds, and a third one through the arm, to which he paid little attention: "only the blood
+running down my hand bothered me a heap." Then, as he was slowly falling back with the rest,
+he received a final shot through the leg. "Down I went, and the whole Rebel army ran over me."
+Helpless, nearly bleeding to death from his wounds, he lay upon the field all night. "About
+sun-up, next morning, I crawled to a neighbor's house, and found it full of wounded Rebels."
+The neighbor afterwards took him to his own house, which had also been turned into a Rebel
+hospital. A Rebel surgeon dressed his wounds; and he says he received decent treatment at the
+hands of the enemy, until a Copperhead woman living opposite "told on him."
+
+"That's the old man who said he was going out to shoot some of the damned Rebels!"
+
+Some officers came and questioned him, endeavoring to convict him of "bushwhacking"; but the
+old man gave them little satisfaction. This was on Friday, the third day of the battle; and
+he was alone with his wife in the upper part of the house. The Rebels left, and soon after
+two shots were fired. One bullet entered the window, passed over Burns's head, and struck the
+wall behind the lounge on which he was lying. The other shot fell lower, passing through a
+door. Burns is certain that the design was to assassinate him. That the shots were fired by
+the Rebels there can be no doubt; and as they were fired from their own side, towards the town,
+of which they held possession at the time, John's theory was plainly the true one. The hole
+in the window, and the bullet-marks in the door and wall remain.
+
+Burns went with me over the ground where the first day's fight took place. He showed me the
+scene of his hot day's work,--pointed out two trees, behind which he and one of the Wisconsin
+boys stood and "picked off every Rebel that showed his head," and the spot where he fell and
+lay all night under the stars and dew.
+
+This act of daring on the part of so aged a citizen, and his subsequent sufferings from wounds,
+naturally called out a great deal of sympathy, and caused him to be looked upon as a hero.
+But a hero, like a prophet, has not all honor in his own country. There's a wide-spread, violent
+prejudice against Burns among that class of the townspeople termed "Copperheads." The young
+men, especially, who did not take their guns and go into the fight as this old man did, but
+who ran, when running was possible, in the opposite direction, dislike Burns. Some aver that
+he did not have a gun in his hand that day, and that he was wounded by accident, happening
+to get between the two lines. Others admit the fact of his carrying a gun into the fight, but
+tell you, with a sardonic smile, that his "motives were questionable." Some, who are eager
+enough to make money on his picture, sold against his will, and without profit to him, will
+tell you in confidence, after you have purchased it, that "Burns is a perfect humbug."
+
+After studying the old man's character, conversing both with his friends and enemies, and sifting
+evidence, during four days spent in Gettysburg, I formed my conclusions. Of his going into
+the fight, and fighting, there is no doubt whatever. Of his bravery, amounting even to rashness,
+there can be no reasonable question. He is a patriot of the most zealous sort; a hot, impulsive
+man, who meant what he said, when he started with the gun to go and shoot some of the Rebels
+qualified with the strong adjective. A thoroughly honest man, too, I think; although some of
+his remarks are to be taken with considerable allowance. His temper causes him to form immoderate
+opinions and to make strong statements. "He always goes beyant," said my landlord, a firm friend
+of his, speaking of this tendency to overstep the bounds of calm judgment.
+
+Burns is a sagacious observer of men and things, and makes occasionally such shrewd remarks
+as this:--
+
+"Whenever you see the marks of shells and bullets on a house all covered up, and painted and
+plastered over, that's the house of a Rebel sympathizer; but when you see them all preserved
+and kept in sight, as something to be proud of, that's the house of a true Union man."
+
+Well, whatever is said or thought of the old hero, he is what he is, and has satisfaction in
+that, and not in other people's opinions; for so it must finally be with all. Character is
+the one thing valuable. Reputation, which is a mere shadow of the man, what his character is
+reputed to be, is, in the long run, of infinitely less importance.
+
+I am happy to add that the old man has been awarded a pension.
+
+The next day I mounted a hard-trotting horse and rode to Round Top. On the way I stopped at
+the historical peach-orchard, known as Sherfy's, where Sickles's Corps was repulsed, after
+a terrific conflict, on Thursday, the second day of the battle. The peaches were green on the
+trees then; but they were ripe now, and the trees were breaking down with them. One of Mr.
+Sherfy's girls--the youngest, she told me--was in the orchard. She had in her basket rareripes
+to sell. They were large and juicy and sweet,--all the redder, no doubt, for the blood of the
+brave that had drenched the sod. So calm and impassive is Nature, silently turning all things
+to use! The carcass of a mule, or the godlike shape of a warrior cut down in the hour of glory,--she
+knows no difference between them, but straightway proceeds to convert both alike into new forms
+of life and beauty.
+
+Between fields made memorable by hard fighting I rode eastward, and, entering a pleasant wood,
+ascended Little Round Top. The eastern slope of this rugged knob is covered with timber. The
+western side is steep, and wild with rocks and bushes. Near by is the Devil's Den, a dark cavity
+in the rocks, interesting henceforth on account of the fight that took place here for the possession
+of these heights. A photographic view, taken the Sunday morning after the battle, shows eight
+dead Rebels tumbled headlong, with their guns, among the rocks below the Den.
+
+A little farther on is Round Top itself, a craggy tusk of the rock-jawed earth pushed up there
+towards the azure. It is covered all over with broken ledges, boulders, and fields of stones.
+Among these the forest-trees have taken root,--thrifty Nature making the most of things even
+here. The serene leafy tops of ancient oaks tower aloft in the bluish-golden air. It is a natural
+fortress, which our boys strengthened still further by throwing up the loose stones into handy
+breastworks.
+
+Returning, I rode the whole length of the ridge held by our troops, realizing more and more
+the importance of that extraordinary position. It is like a shoe, of which Round Top represents
+the heel, and Cemetery Hill the toe. Here all our forces were concentrated on Thursday and
+Friday, within a space of three miles. Movements from one part to another of this compact field
+could be made with celerity. Lee's forces, on the other hand, extended over a circle of seven
+miles or more around, in a country where all their movements could be watched by us and anticipated.
+
+At a point well forward on the foot of this shoe, Meade had his head-quarters. I tied my horse
+at the gate, and entered the little square box of a house which enjoys that historical celebrity.
+It is scarcely more than a hut, having but two little rooms on the ground-floor, and I know
+not what narrow, low-roofed chambers above. Two small girls, with brown, German faces, were
+paring wormy apples under the porch; and a round-shouldered, bareheaded, and barefooted woman,
+also with a German face and a strong German accent, was drawing water at the well. I asked
+her for a drink, which she kindly gave me, and invited me into the house.
+
+The little box was whitewashed outside and in, except the floor and ceilings and inside doors,
+which were neatly scoured. The woman sat down to some mending, and entered freely into conversation.
+She was a widow, and the mother of six children. The two girls cutting wormy apples at the
+door were the youngest, and the only ones that were left to her. A son in the army was expected
+home in a few days. She did not know how old her children were,--she did not know how old she
+herself was, "she was so forgetful."
+
+She ran away at the time of the fight, but was sorry afterwards she did not stay at home. "She
+lost a heap." The house was robbed of almost everything; "coverlids and sheets and some of
+our own clo'es, all carried away. They got about two ton of hay from me. I owed a little on
+my land yit, and thought I'd put in two lots of wheat that year, and it was all trampled down,
+and I didn't get nothing from it. I had seven pieces of meat yit, and them was all took. All
+I had when I got back was jest a little bit of flour yit. The fences was all tore down, so
+that there wa'n't one standing, and the rails was burnt up. One shell come into the house and
+knocked a bedstead all to pieces for me. One come in under the roof and knocked out a rafter
+for me. The porch was all knocked down. There was seventeen dead horses on my land. They burnt
+five of 'em around my best peach-tree, and killed it; so I ha'n't no peaches this year. They
+broke down all my young apple-trees for me. The dead horses sp'iled my spring, so I had to
+have my well dug."
+
+I inquired if she had ever got anything for the damage.
+
+"Not much. I jest sold the bones of the dead horses. I couldn't do it till this year, for the
+meat hadn't rotted off yit. I got fifty cents a hundred. There was seven hundred and fifty
+pounds. You can reckon up what they come to. That's all I got."
+
+Not much, indeed!
+
+This poor woman's entire interest in the great battle was, I found, centred in her own losses.
+That the country lost or gained she did not know nor care, never having once thought of that
+side of the question.
+
+The town is full of similar reminiscences; and it is a subject which everybody except the "Copperheads"
+likes to talk with you about. There were heroic women here, too. On the evening of Wednesday,
+as our forces were retreating, an exhausted Union soldier came to Mr. Culp's house, near Culp's
+Hill, and said, as he sank down,--
+
+"If I can't have a drink of water, I must die."
+
+Mrs. Culp, who had taken refuge in the cellar,--for the house was now between the two fires,--said,--
+
+"I will go to the spring and get you some water."
+
+It was then nearly dark. As she was returning with the water, a bullet whizzed past her. It
+was fired by a sharpshooter on our own side, who had mistaken her for one of the advancing
+Rebels. Greatly frightened, she hurried home, bringing the water safely. One poor soldier was
+made eternally grateful by this courageous womanly deed. A few days later the sharpshooter
+came to the house and learned that it was a ministering angel in the guise of a woman he had
+shot at. Great, also, must have been his gratitude for the veil of darkness which caused him
+to miss his aim.
+
+Shortly after the battle, sad tales were told of the cruel inhospitality shown to the wounded
+Union troops by the people of Gettysburg. Many of these stories were doubtless true; but they
+were true only of the more brutal of the Rebel sympathizers. The Union men threw open their
+hearts and their houses to the wounded.
+
+One day I met a soldier on Cemetery Hill, who was in the battle, and who, being at Harrisburg
+for a few days, had taken advantage of an excursion-train to come over and revisit the scene
+of that terrible experience. Getting into conversation, we walked down the hill together. As
+we were approaching a double house with high wooden steps, he pointed out the farther one,
+and said,--
+
+"Saturday morning, after the fight, I got a piece of bread at that house. A man stood on the
+steps and gave each of our fellows a piece. We were hungry as bears, and it was a godsend.
+I should like to see that man and thank him."
+
+Just then the man himself appeared at the door. We went over, and I introduced the soldier,
+who, with tears in his eyes, expressed his gratitude for that act of Christian charity.
+
+"Yes," said the man, when reminded of the circumstance, "we did what we could. We baked bread
+here night and day to give to every hungry soldier who wanted it. We sent away our own children,
+to make room for the wounded soldiers, and for days our house was a hospital."
+
+Instances of this kind are not few. Let them be remembered to the honor of Gettysburg.
+
+Of the magnitude of a battle fought so desperately during three days by armies numbering not
+far from two hundred thousand men no adequate conception can be formed. One or two facts may
+help to give a faint idea of it. Mr. Culp's meadow, below Cemetery Hill,--a lot of near twenty
+acres,--was so thickly strown with Rebel dead, that Mr. Culp declared he "could have walked
+across it without putting foot upon the ground." Upwards of three hundred Confederates were
+buried in that fair field in one hole. On Mr. Gwynn's farm, below Round Top, near five hundred
+sons of the South lie promiscuously heaped in one huge sepulchre. Of the quantities of iron,
+of the wagon-loads of arms, knapsacks, haversacks, and clothing, which strewed the country,
+no estimate can be made. Government set a guard over these, and for weeks officials were busy
+in gathering together all the more valuable spoils. The harvest of bullets was left for the
+citizens to glean. Many of the poorer people did a thriving business, picking up these missiles
+of death, and selling them to dealers; two of whom alone sent to Baltimore fifty tons of lead
+collected in this way from this battle-field.
+
+ALEXANDER HAMILTON.
+
+The greatest name in American history is that of ALEXANDER HAMILTON, if we consider the versatility
+of the man who bore it, the early age at which he began a great public career, the success
+which attended all his labors, the impression which he made on his country and its government,
+and the rare foresight by which he was enabled to understand that our political system would
+encounter that very danger through which it has just passed,--and passed not without receiving
+severe wounds, which have left it scarcely recognizable even by its warmest admirers. Talleyrand,
+who had a just appreciation of Hamilton's talents and character, said that he had divined Europe.
+An American need not be possessed of high powers or position to venture the assertion that
+Hamilton divined American history, and foresaw all that we have suffered because our predecessors
+would build the national edifice on sand, so that it could not stand against the political
+storm which it was in the breath of selfish partisans to send against it, but has, as it were,
+to be buttressed by mighty fleets and armies. A system, which, had it been rightly formed in
+the first place, would have been self-sustaining, was saved from destruction solely by the
+uprising of the people, who had to operate with bullets and bayonets, when it had been fondly
+hoped that the ballot would ever be a sufficiently formidable weapon in the hand of the American
+citizen, and that he never would have to become the citizen-soldier in a civil contest. Had
+Hamilton been allowed to shape our national polity, it would have worked as successfully for
+ages as that financial system which he formed has ever worked, and which has never been departed
+from without the result being most injurious to the country. At this day, when events have
+so signally justified the views of Alexander Hamilton, and are daily justifying them,[F] it
+may not be unprofitable to glance over the career of one whose virtues, services, and genius
+are constantly rising in the estimation of his countrymen and of the world, "the dead growing
+visible from the shades of time."
+
+To be born at all is to be well born is the general belief in this very liberal-minded age:
+but even the most determined of democrats is not averse to a good descent; and Hamilton, who
+was a democrat in no sense, had one of the noblest ancestries in Europe, though himself of
+American birth. His family was of Scotland, a country which, the smallness of its population
+considered, has produced more able and useful men than any other. The Hamiltons of Scotland,
+and we may add of France, were one of the noblest of patrician houses, and they had a great
+part in the stormy history of their country. Walter de Hamilton, of Cambuskeith, in the County
+of Ayr,--Burns's county,--second son of Sir David de Hamilton, Dominus de Cadyow, was the founder
+of that branch of the Hamilton family to which the American statesman belonged. He flourished
+temp. Robert III., second of the Stuart kings, almost five hundred years ago. Many noble Scotch
+names are very common, because it was the custom of the families to which they belonged to
+extend them to all their retainers; but Alexander Hamilton obtained his name in no such way
+as that. His descent from the Lord of Cadyow is made up with the nicest precision. The family
+became of Grange in the sixteenth century. The names of the ladies married by the heads of
+the Hamiltons of Cambuskeith and Grange all belong to those of the ingenuous classes. The same
+Christian names are continued in the line, that of Alexander appearing as early as the latter
+part of the fifteenth century, and reappearing frequently for three hundred years. Alexander
+Hamilton of Grange, fourteenth in descent from Sir David de Hamilton, had three sons, the third
+bearing his father's name; and that son's fifth child was James Hamilton, who emigrated to
+the West Indies, settling in the Island of Nevis. Mr. James Hamilton married a French lady,
+whose maiden name was Faucette, and whose father was one of many persons of worth who were
+forced to leave France because of the revocation of the Edict of Nantes, through the bigotry
+of that little man who is commonly called the Grand Monarch, and whose bigotry was made active
+by the promptings of Madame de Maintenon, who was descended from a fierce Huguenot, as was
+the monarch himself.
+
+Alexander Hamilton was born on the 11th of January, 1757. His mother died in his early childhood,
+a more than usually severe loss, for she was a superior woman. He was the only one of her children
+who survived her. His father soon became poor, and the child was dependent upon the relatives
+of his mother for support and education. They resided at Santa Cruz, where he was brought up.
+Just before completing his thirteenth year he entered the counting-house of Mr. Cruger, a merchant
+of Santa Cruz. Young as he was, his employer left him in charge of his business while he made
+a visit to New York, and had every reason to be satisfied with the arrangement. He read all
+the books he could obtain, and read them understandingly. Even at that early age he was remarkable
+for the manliness of his mind. He wrote, too; and an account of the hurricane of 1772, which
+he contributed to a public journal, attracted so much attention that he was sought out, and
+it was determined to send him to New York to be regularly educated. He left Santa Cruz, and
+sailed for Boston, which port he reached in October, 1772. Proceeding to New York, he was sent
+to school at Elizabethtown, New Jersey; and in 1773 entered King's College, in the city of
+New York, where he pursued his studies with signal success. But events were happening that
+were to place him in a very different school from that in which he was preparing to become
+a physician. He was to be the physician of the State, and to that end he was thrown among men,
+and appointed to do the work of men of the highest intellect, at an age when most persons have
+not half completed the ordinary training which is to fit them to begin the common routine of
+common life.
+
+Hamilton's connection with the history of his country, as one of those who were making material
+for it, began at the age of seventeen. The American Revolution was moving steadily onward when
+he arrived at New York, and by the summer of 1774 it had assumed large proportions. He first
+spoke at "the Great Meeting in the Fields," July 6th, and astonished those who heard him by
+the fervor of his eloquence and the closeness of his logic. His fame dates from that day. He
+sided with the people of his new home from the time that he came among them, and never had
+any doubt or hesitation as to the course which duty required him to adopt and pursue. As a
+writer he was even more successful than as a speaker. A pamphlet which he wrote in December,
+1774, vindicating the Continental Congress, attracted much attention, and that and another
+from his pen were attributed to veteran Whigs, particularly to John Jay; but the evidence of
+Hamilton's authorship is perfect, or we might well agree with the Tories, and believe that
+works so able could not have been written by a youth of eighteen. Other writings of his subsequently
+appeared, and were most serviceable to the patriots. Young as he was, he was already regarded
+by the country as one of its foremost champions with the pen. The time was fast coming when
+it was to be made known that the holder of the pen could also hold the sword, and hold it to
+effective purpose.
+
+He had joined a volunteer corps while in college, and was forward in all its doings. The first
+time he was under fire was when this corps was engaged in removing guns from the Battery. The
+fire of a man-of-war was opened on it, doing some injury. This was the first act of war in
+New York, and it is interesting to know that Hamilton had part in it. In the commotion that
+followed, he was zealous in his efforts to prevent the triumph of a mob, and not more zealous
+than successful. From the very beginning of his career, he never thought of liberty, save as
+the closest associate of law. Diligently devoting himself to the study of the military art,
+and particularly to gunnery, he asked for the command of an artillery company, and obtained
+it after a thorough examination, being made captain on the 14th of March, 1776, when but two
+months beyond his nineteenth year. He completed his company, and expended the very last money
+he received from his relatives in making it fit for the field. Even at that time he advocated
+promotion from the ranks, and succeeded in having his first sergeant made a commissioned officer:
+a fact worthy of mention, when it is recollected that his enemies have always represented him
+as an aristocrat, there being nothing less aristocratical than the placing of the sword of
+command in the hands of men who have carried the musket. While pursuing his military duties,
+he did not neglect the study of politics; and his notes show that before the Declaration of
+Independence he had thought out a plan of government for the nation that was so soon to come
+into existence. This, as his son says, "is the intuitive idea of a general government, truly
+such, which he first proposed to Congress, and earnestly advocated." He was in his twentieth
+year when he showed himself capable of understanding the nature of the situation, and the wants
+of the country. Probably no other person had got so far at that time, and it required years
+for the people to reach the point at which Hamilton had arrived intuitively. With them it was
+a conclusion reached through bitter experience. The lesson has not been perfectly acquired
+even at this time.
+
+Hamilton's company belonged to that army which Washington commanded, in 1776, in New England
+and New Jersey; and it was while the army was on the heights of Haerlem, in the autumn of 1776,
+that he attracted the notice of Washington. The General inspected an earthwork which the Captain
+was constructing, conversed with him, and invited him to his tent. This was the beginning of
+an acquaintance that was destined to have memorable consequences and lasting effects on the
+American nation. On the 1st of March, 1777, Hamilton was appointed to a place on Washington's
+staff, becoming one of his aides, with the rank of lieutenant-colonel,--his "principal and
+most confidential aide," to use Washington's language. It was not without much hesitation that
+Hamilton accepted this post. He had already made a name, and his promotion in the line of the
+army was secured; and had he remained to take that promotion, he would have won the highest
+distinction, supposing him to have escaped the casualties of war. His military genius was unquestioned;
+and what Washington required of him was service that would not secure promotion or opportunity
+to show that he deserved it. He required the mind and the pen of Hamilton. These he obtained;
+and the amount of labor performed by the youthful aide-de-camp with his pen was enormous. He
+was something more than an aide and a private secretary. He was the commander's trusted friend,
+and he proved that he deserved the trust reposed in him, not less by his high-minded conduct
+than by the talent which he brought to the discharge of the duties of a most difficult post,--duties
+which were of an arduous and highly responsible character. The limits of a sketch like the
+present do not admit of more than the general mention of his great services. Those who would
+know them in full should consult the work in which Mr. John C. Hamilton has done justice to
+the part which his father had, first in the Revolutionary contest, and then in the creation
+of the American Republic, and the settlement of its policy.[G] There was no event with which
+Washington was concerned for more than four years with which Hamilton was not also concerned.
+The range of his business and his labors was equal to his talents, and it is not possible to
+say more of them. He was but twenty years old when Washington thus really placed him next to
+himself in the work of conducting the American cause. In what estimation his services were
+held by the commander-in-chief may be inferred from the fact that he was selected by him, in
+1780, being then in his twenty-fourth year, as a special minister to France, to induce the
+French Government to grant more aid to this country. Hamilton did not take the office, because
+it was desired by his friend, Colonel Laurens, whose father was then a prisoner in England.
+
+Colonel Hamilton was married on the 14th of December, 1780, to Miss Elizabeth Schuyler, second
+daughter of General Philip Schuyler, one of the most distinguished soldiers of the Revolution,
+to whom was due the defeat of General Burgoyne, and head of one of those old families of which
+New York possessed so many. This lady was destined to survive her husband half a century, and
+to be associated with two ages of the country,--her death occurring in 1854, in her ninety-eighth
+year. She was a woman of exalted character, and worthy to be the wife of Alexander Hamilton.
+
+The relations between Washington and Hamilton were briefly interrupted early in 1781, and Hamilton
+left the commander's military family. He had a command in that allied army which Washington
+and Rochambeau led to Yorktown, the success of which put an end to the "great war" of the Revolution
+on this continent. When the British redoubts were stormed, Hamilton commanded the American
+column, and carried the redoubt he assailed before the French had taken that which it fell
+to their lot to attack. Shortly afterward he retired from the service, and, taking up his residence
+in Albany, devoted himself to the study of the law. In 1782 he was elected a member of the
+Continental Congress by the Legislature of New York, and took his seat on the 25th of November.
+He proved an energetic member, his attention being largely directed to the financial state
+of the country, than which nothing could be more dreary. At an early day he had been convinced
+that something sound must be attempted in relation to our finances; and in 1780 he had addressed
+a letter on the subject to Robert Morris, which showed that his ideas regarding money and credit
+were those of a great statesman. But the time had not come in which he was to mould the country
+to his will, and make it rich in spite of itself, and against its own exertions. More suffering
+was necessary before the people could be made to listen to the words of truth, though uttered
+by genius. Military matters also commanded the attention of the young member, as was natural,
+he having been so distinguished as a soldier, and retaining that interest in the army which
+he had acquired from six years' connection with it. His Congressional career was brilliant,
+and added much to his reputation. It seemed that he was destined to succeed in everything he
+attempted. Yet at that time he thought of retiring altogether from public life, and of devoting
+himself entirely to his profession, in which he had already become eminent. In November, 1783,
+he removed to the city of New York, which then had entered on that astonishing growth which
+has since been so steadily maintained.
+
+The first of the law labors of this great man were in support of those national principles
+which are more closely identified with his name than with that of any other individual. In
+advocating the cause of his client, he had to argue that the terms of the treaty of peace with
+England and the law of nations were of more force than a statute passed by the Legislature
+of the State of New York. He carried the court as decidedly with him as public opinion was
+against him; and he had to defend himself in several pamphlets, which he did with his usual
+success. As time went on, it became every day more apparent that the country's great need was
+a strong central government, and that, until such a government should be adopted, prosperity
+could not be looked for, nor order, nor anything like national life; and had not something
+been done, North America would doubtless have presented very much the same spectacle that has
+long been afforded by South America, and from which that rich land is but now slowly recovering.
+Of those who most earnestly and effectively advocated the action necessary to save the country
+from anarchy, Hamilton was among the foremost. As we have seen, he had thought soundly on this
+subject as early as 1776, and years and events had confirmed and strengthened the impression
+formed before independence had been resolved upon.
+
+Appointed a delegate from New York to the commercial convention held at Annapolis in 1786,
+Colonel Hamilton wrote the address put forth by that body to the States, out of which grew
+the Convention of 1787, which made the Federal Constitution. To that Convention he was sent
+by the New York Legislature, and his part in the work done was of the first order, though the
+Constitution formed was far from commanding his entire approbation. Like a wise statesman,
+who does not insist that means of action shall be perfect, but makes the best use he can of
+those that are available, Hamilton accepted the Constitution, and became the strongest advocate
+for its adoption, and its firmest supporter after its adoption. This part of his life--a part
+as honorable to him as it was useful to his country--has been systematically misrepresented,
+so that many Americans have been taught to believe that he was an enemy of freedom, and would
+have established an arbitrary government. He was accused of being opposed to any republican
+polity, and of seeking the annihilation of the State Governments. He was called a monarchist
+and a consolidationist. These misrepresentations of his opinions and acts were forever dispelled,
+according to the views of honest and unprejudiced men, by the publication of a letter which
+he wrote to Timothy Pickering, in 1803. In that letter he said,--"The highest-toned propositions
+which I made to the Convention were for a President, Senate, and Judges, during good behavior,
+and a House of Representatives for three years. Though I would have enlarged the legislative
+power of the General Government, yet I never contemplated the abolition of the State Governments;
+but, on the contrary, they were, in some particulars, constituent parts of my plan. This plan
+was, in my conception, conformable with the strict theory of a government purely republican;
+the essential criteria of which are, that the principal organs of the executive and legislative
+departments be elected by the people, and hold the office by a responsible and temporary or
+defeasible nature.... I may truly, then, say that I never proposed either a President or Senate
+for life, and that I neither recommended nor meditated the annihilation of State Governments....
+It is a fact that my final opinion was against an executive during good behavior, on account
+of the increased danger to the public tranquillity incident to the election of a magistrate
+of his degree of permanency. In the plan of a constitution which I drew up while the Convention
+was sitting, and which I communicated to Mr. Madison about the close of it, perhaps a day or
+two after, the office of President has no longer duration than for three years. This plan was
+predicated upon these bases: 1. That the political principles of the people of this country
+would endure nothing but a republican government; 2. That, in the actual situation of the country,
+it was itself right and proper that the republican theory should have a full and fair trial;
+3. That to such a trial it was essential that the government should be so constructed as to
+give it all the energy and the stability reconcilable with the principles of that theory. These
+were the genuine sentiments of my heart; and upon them I then acted. I sincerely hope that
+it may not hereafter be discovered, that, through want of sufficient attention to the last
+idea, the experiment of republican government, even in this country, has not been as complete,
+as satisfactory, and as decisive as could be wished."
+
+Such were the views of Hamilton in 1787, and which had undergone no change in the sixteen years
+that elapsed between that time and the date of his letter to Colonel Pickering. Yet this man,
+so true a republican that his only desire was to have the republican polity that he knew must
+here exist so framed and constituted as to become permanent, has been drawn as a bigoted monarchist
+and as the enemy of freedom! In the eyes of good democrats he was the Evil Principle incarnate;
+and even to this day, in the more retired portions of the country, they believe, that, if he
+had lived a few years longer, he would have made himself king, and married one of the daughters
+of George III. They had, and some of them yet have, about as clear conceptions of Hamilton's
+career and conduct as Squire Western and his class had of the intentions of the English Whigs
+of George II.'s time, whom they suspected of the intention of seizing and selling their estates,
+with the purpose of sending the proceeds to Hanover, to be invested in the funds.
+
+The leaders of the great party which triumphed in 1801, and who had libelled Hamilton while
+they were in opposition, found it for their interest to continue their misrepresentations long
+after the fall of the Federalists, and when the ablest of all the Federalists had been for
+years in his grave. Many of them could overlook Burr's party treachery, as well as his supposed
+treason, because he had been the rival of Hamilton; though probably it would be unjust to them
+to suppose that they approved of his conduct in murdering the man whose talents and influence
+caused them so much alarm. So far was Hamilton from pursuing a course in the Convention of
+1787 that would have embarrassed that body, because it did not adopt all his plans, that Dr.
+W. S. Johnson, one of Connecticut's delegates, said, that, if "the Constitution did not succeed
+on trial, Mr. Hamilton was less responsible for that result than any other member, for he fully
+and frankly pointed out to the Convention what he apprehended were the infirmities to which
+it was liable,--and that, if it answered the fond expectations of the public, the community
+would be more indebted to Mr. Hamilton than to any other member, for, after its essential outlines
+were agreed to, he labored most indefatigably to heal those infirmities, and to guard against
+the evils to which they might expose it." M. Guizot, who understands our politics, who knows
+our history, and whose practical statesmanship and lofty talents render his opinion most valuable,
+when he declared that "there is not in the Constitution of the United States an element of
+order, of force, of duration, which Hamilton has not powerfully contributed to introduce into
+it and to give it a predominance," stated but the simplest truth. Equally correct is his remark,
+that "Hamilton must be classed among the men who have best known the vital principles and fundamental
+conditions of a government." Alone of all the New York delegates Hamilton subscribed the Constitution.
+
+In the discussions that followed the labors of the Convention, Hamilton had the principal part
+in urging the adoption of the Constitution. "The Federalist," that first of all American political
+works, and the excellence of which was quickly recognized by foreign statesmen, was his production.
+Not only did he write most of it, but the least of what he wrote for it excels the best that
+was contributed to it by men so able as Jay and Madison. Every attempt that has been made to
+take from him any portion of the honor of this masterly work has failed, and it is now admitted
+that it can fairly be associated only with his name. "The total number of these essays," says
+Mr. John C. Hamilton, "by Hamilton's enumeration, approved by Madison, is seen to be eighty-five.
+Of this enumeration, an abbreviated copy by Hamilton from his original minute, both in Hamilton's
+autograph, ascribes to himself the sole authorship of sixty-three numbers, and the joint authorship
+with Madison of three numbers, leaving to the latter the sole authorship of fourteen numbers,
+and to Jay of five numbers."[H] "The Federalist" had a powerful influence on the public mind,
+and contributed vastly to the success of the Constitutionalists; and other writings of Hamilton
+had scarcely less effect. Had he not been a friend of the Constitution, and had he sought only
+the creation of a powerful central government, he never would have labored for the success
+of the Constitutional party; for the surest road to despotism would have been through that
+anarchy which must have followed a refusal by the people to ratify the action of the Convention
+of 1787. As a member of the Convention of the State of New York, Hamilton most ably supported
+the ratification of the Constitution made at Philadelphia.
+
+The Constitution was adopted, and the new government was organized on the 30th of April, 1789,
+on which day General Washington became President of the United States. It was not until the
+2d of September that the Treasury Department was created; and on the 11th Alexander Hamilton
+was made Secretary of the Treasury. Writing to Robert Morris, Washington had asked, "What are
+we to do with this heavy debt?" To which Morris answered, "There is but one man in the United
+States who can tell you: that is Alexander Hamilton. I am glad you have given me this opportunity
+to declare to you the extent of the obligations I am under to him." Hamilton had thought of
+the station for himself, but his warmest personal friends objected to his taking it Robert
+Troup says,--"I remonstrated with him: he admitted that his acceptance of it would be likely
+to injure his family, but said there was a strong impression on his mind that in the financial
+department he would essentially promote the welfare of the country; and this impression, united
+with Washington's request, forbade his refusal of the appointment." Having said, in conversing
+with Gouverneur Morris, that he was confident he could restore public credit, "Morris remonstrated
+with him for thinking of so perilous a position, on which calumny and persecution were the
+inevitable attendants. 'Of that,' Hamilton answered, 'I am aware; but I am convinced it is
+the situation in which I can do most good.'" He had the same just self-confidence that Cromwell
+felt, when he said to John Hampden that he would effect something for the Parliamentary cause,
+and that William Pitt felt in 1757, when he said to the Duke of Devonshire, "My Lord, I am
+sure that I can save this country, and that nobody else can." As with Cromwell and with Pitt,
+Hamilton's self-confidence was to be conclusively justified by the event.
+
+Hamilton's career as the first finance minister of the United States is the greatest evidence
+of statesmanship in American history; nor is it likely ever to be surpassed, so complete is
+the change in the country's condition,--a change due in great measure to his policy and conduct.
+The world's annals show no more striking example of the right man in the right place than is
+afforded by Hamilton's Secretaryship of the Treasury. Lofty as this praise is, it is literally
+true. American Public Credit was a dead corpse in 1789; and in 1790 it was living and erect,
+as it has ever since remained, in spite of the utmost exertions of all political parties to
+reduce it to the state in which Hamilton found it, in the hope of injuring their rivals. All
+that has been good in our financial history for three quarters of a century is due to Alexander
+Hamilton; and all that has been evil in it can be traced directly to violation of his principles
+or disregard of his modes of action. That we were enabled to preserve the Union against the
+attacks of the Secessionists must be attributed to Hamilton's genius and exertions. He is one
+of those "dead, but sceptred sovereigns, who still rule our spirits from their urns."
+
+Ten days after his appointment to office, Secretary Hamilton was required by Congress to report
+a plan for the support of the public credit. His report is admitted, even by those who do not
+agree with its views, to be an able state paper. Besides upholding the payment of the foreign
+debt, on which all parties were of one mind, he recommended that the domestic debt should be
+treated in the same spirit. As the revival and maintenance of the public credit was the object
+which the Secretary had in view, he advocated the fulfilment of original contracts, no matter
+by whom claims might be held. His recommendations were adopted; and the famous "funding system"
+dates from that time, and with it the prosperity of the United States. He had recommended the
+assumption of the State debts; but in this he was only partially successful. The measures suggested
+for the carrying out of his system were adopted. Among these was the creation of a national
+bank, at the beginning of 1791. Other measures concerned the raising of revenue, and were extraordinarily
+successful. And yet others for the advancement of trade, both foreign and domestic, were not
+less successful: there being no subject that came properly within his department to which he
+did not give his entire attention; and as he was laboring for a new nation, it necessarily
+happened that all the machinery had to be improvised, To the demands made on his intellect,
+his time, and his industry, the Secretary was found to be more than equal. His triumphs astonished
+and gratified the friends of good government throughout the world, and carried his name to
+all nations. In only eighteen months, a change had been effected such as it well might have
+taken as many years to accomplish, and which thoroughly justified the new polity, and the measures
+which had been adopted under it. Foreign commerce flourished, and also the domestic trade.
+The agricultural interest prospered, and manufactures steadily increased. "The waste lands
+in the interior were being rapidly settled; towns were springing up in every direction; the
+seaports were increasing in wealth and population; and that great career of internal improvement,
+by numerous highways, with which the United States have amazed the world, was begun." Fisher
+Ames wrote to the Secretary of the Treasury that the national bank and the Federal Government
+possessed more popularity than any institution or government could long maintain. "The success
+of the government, and especially of the measures proceeding from your department," he said,
+"has astonished the multitude; and while it has shut the mouths, it has stung the envious hearts,
+of the State leaders." American credit was raised so high in Europe, that, at the opening of
+1791, a great loan was taken in Holland in two hours, on better terms than any European government
+but one could have obtained. The subscriptions to the national bank were filled in a day, and
+could easily have been doubled. Such another instance of successful statesmanship it would
+be difficult, if not impossible, to find.
+
+It is sometimes said that the success of the Hamiltonian system was due to European events,--that
+the great wars which grew out of the French Revolution created so extensive demands for our
+productions that we must have prospered, no matter what should have been the course of American
+political life. What might have been, had the Constitution failed of adoption, it is not necessary
+to discuss; but this we know, that the success of Secretary Hamilton's plans was pronounced
+and complete before the European wars alluded to began. That success was seen in the early
+days of 1791, and war did not commence until 1792; and then it was not waged on that grand
+scale to which it subsequently reached. The war between France and England, which affected
+this country most, broke out in 1793, two years after Ames had written so encouragingly to
+Hamilton, and yet warning him to prepare for the inevitable Nemesis, that "envy of the gods,"
+which, according to the Hellenic superstition, but fairly justifiable by innumerable historical
+facts, waits on all prosperity and rebukes human wisdom. To us it seems that the most that
+can be said of the effect of the wide-spread and long-continued European quarrel on our business
+was this,--that it gave to it much of its peculiar character, but did not create it, and was
+not necessary to its creation or its continuance. What Hamilton did was to remove depressing
+influences from American life and the American mind,--to substitute order for disorder, hope
+for fear, and confidence and security for dread and distrust. This was what was done by Hamilton
+and his associates; and this done, the native energies of the people did all the rest. It is
+all but certain that the extraordinary career of material prosperity that began immediately
+after it was seen what was to be our policy under the new polity, would have been essentially
+the same, as to the general result, had Europe remained quiet for twenty years longer, and
+had there been no downfall of the old French monarchy. The details of American business life
+would have been different, but the result would have been pretty much the same as what we have
+seen.
+
+Events soon justified the apprehensions of the sensitive, but sagacious Ames. Hamilton's prosperity
+bred its natural consequences, and he became the target at which many aspiring men directed
+their attacks,--Thomas Jefferson standing at their head. The cause of this, which has been
+sought in the French Revolution, in opposition to the supposed centralizing tendencies of the
+Hamiltonian policy, and so forth, really lies on the surface. It grew out of men's ambition,
+and their desire for power. It was plain to Southern men, that, if Hamilton were permitted
+to accomplish his purpose entire, he must become the man of men, and that his influence would
+become equal to that of Washington, whose influence they bowed to most unwillingly. Not less
+plain was it that power would be with the North. Hence their determination to "break him down,"
+which they would have pursued with all their might, had the French Revolution been postponed,
+though its occurrence furnished them with means of attack,--the larger part of the American
+people sympathizing with the French, while Hamilton shared with Edmund Burke opinions which
+time has done much to show were sound; and he was a strenuous supporter of that policy of neutrality
+which Washington wisely adopted. The Secretary of the Treasury was assailed by those who envied
+and hated him, in various ways. His official integrity was called in question, but the investigations
+which he courted led to the confounding of his enemies, while his personal character stood
+brighter than ever. So bitter became the opposition that some of their number wished for the
+success of the Whiskey Insurrection in Pennsylvania, as Mr. Jefferson's correspondence shows;
+and the part which Hamilton had in suppressing that outbreak did not increase their regard
+for him. The presence of two such men in Washington's Cabinet as Hamilton and Jefferson made
+it the scene of dissension until Jefferson retired.
+
+Hamilton remained in office some time longer; and when he left it, he did so only for personal
+reasons. He was poor. He had expended, not only his salary, but almost all the property he
+possessed when he took office. The man who had made his country rich had made himself poor
+by his devotion to her interests, and had received nothing but vindictive abuse in requital
+of his unrivalled labors. He resolved to return to the practice of his profession, which he
+never would have left, had he consulted merely his individual interests and those of his family.
+Some weeks before he retired, he addressed a letter to the Speaker of the House of Representatives,
+announcing his purpose, in order that inquiry might be made into the state of his department,
+should Congress see fit to make it; but his foes had been so humiliated by the results of the
+two inquiries undertaken at their instance, that they would not venture upon a third. In January,
+1795, he sent a letter to Congress on the subject of the public credit, which is one of his
+ablest productions, full of sound financial doctrine, and showing that he was in advance of
+most men on those economical questions the proper settlement of which so closely concerns the
+welfare of nations. This letter affords a complete view of the financial history of the government,
+and may be considered as Secretary Hamilton's statement of his case to the world. The debt
+exceeded $76,000,000, a sum that bore as great a proportion to the revenues of the country
+seventy years since as the debt of to-day bears to our present resources. As Hamilton was no
+believer in the absurd doctrine that "a national debt is a national blessing," we need say
+no more than that he dwelt with emphasis on the necessity of providing for the debt's payment.
+It is important to mention that he declared government could not rightfully tax its promises
+to pay.
+
+Though Hamilton, as Madison wrote to Jefferson, went to New York "with the word Poverty as
+his label," his great reputation rapidly secured for him abundant professional employment.
+But he was too important a personage to be able to refrain altogether from political pursuits,
+and was forced to defend some of the measures of government, though no longer responsible for
+them. He advocated Jay's Treaty, one of the most unpopular measures that ever were carried
+through by an honest government in face of the most vehement opposition. Had the treaty been
+rejected, war with England would probably have followed, which would have been a profound calamity.
+While living in retirement, Hamilton was assailed by his Southern enemies, who were supported
+by their Northern allies, their object being to show that he had acted corruptly while at the
+head of the Treasury. His reply was as complete a refutation as their earlier calumnies had
+encountered. He wrote the celebrated Farewell Address of President Washington. On all occasions
+he was ready with pen and tongue to defend and uphold those political principles in the triumph
+of which he had that interest which a statesman must ever have in the advancement of truth.
+
+When it was supposed that the French might attempt the invasion of this country, in 1798, preparations
+were made to meet them. Washington was made Commander-in-Chief, with the rank of Lieutenant-General;
+but he stipulated that he should not be required to take the field save for active service,
+and that Hamilton should have the post next to his own, which made the latter actually commander
+of the army. He was indefatigable in discharging the duties of this station; but, fortunately,
+hostilities with France were confined to the ocean, and the seizure of power in that country
+by Bonaparte led to a settlement of the points in dispute. Hamilton again returned to private
+life. He could not, however, altogether give up politics, but was forced to take some part
+in the exciting political contests of those days. When the Presidential election of 1801 devolved
+upon the House of Representatives, he exerted his influence against Burr, whom the Federalists
+were inclined to support, preferring him to Jefferson. In 1804 he again labored to defeat Burr's
+political aspirations, and prevented his being chosen Governor of New York. Burr was then on
+the verge of ruin, and he resolved upon being revenged, and on the destruction of so powerful
+a political foe. He required from Hamilton the disavowal of language which there was no evidence
+that he ever had used, and so managed the dispute that a duel became inevitable,--reference
+being had to the state of public sentiment then prevalent on the subject of honor, and to the
+circumstance that duelling was almost as common in New York at that time as it was in any Southern
+State just before the Secession War.
+
+The death of Alexander Hamilton was as much the work of assassination as was that of Abraham
+Lincoln, in all save the forms that were observed on the occasion. Aaron Burr, of whose actions
+he had sometimes spoken with severity,--but not with more severity than is common in all high
+party times,[I]--was determined that so bold and able an enemy should be removed from his political
+path; and to that end he fastened a duel upon him, and in the meeting that ensued deliberately
+shot him. It has been said, that Burr, who was "a good shot" from his youth, and whose nerves
+were as brazen as his brow, practised with the pistol for some days before the fatal encounter
+took place; and the story is perfectly in character, and helps sustain the position that Hamilton
+was assassinated. That Hamilton should have consented to meet such a man, knowing as he did
+what was his purpose, and that he was capable of any crime, has often been remarked upon; and
+probably his decision will serve to point many a moral for ages, and all the more emphatically
+when the force of that opinion in regard to duelling which once was so strong shall not only
+have utterly passed away, but have been forgotten, and have become quite incomprehensible to
+men who shall live in the light of sounder opinion than prevailed at the beginning of this
+century. A soldier, it was reasonable that Hamilton should feel very differently on the point
+of honor from a mere civilian, and that he should not have felt himself at liberty to decline
+Burr's challenge. He believed that his ability to be useful thereafter in public life would
+be greatly lessened, should he not fight. He was particularly thinking of his power to contend
+against a scheme for a dissolution of the Union which had been formed in the North, the existence
+of which he knew, and also that it was known to Burr, who, had he not committed suicide by
+the same act which made him a murderer, would soon have been seen at the head of a rebellion.
+The result of the duel was to deprive Burr of all power and influence. He killed Hamilton,
+but he fell himself by the same shot that carried death to his opponent; and so complete was
+his fall that he never could rise again, though he continued to cumber the earth for more than
+thirty-two years. Hamilton's quarrel with Burr, as his son and biographer truly observes, "was
+the quarrel of his country. It was the last act in the great drama of his life. It was the
+deliberate sacrifice of that life for his country's welfare,--a sacrifice which, by overwhelming
+his antagonist with the execrations of the American people, prevented a civil war, and saved
+from 'dismemberment' this great republic."
+
+What strikes us most forcibly, in considering Hamilton's career, is the remarkably, early development
+of his powers. At thirteen, he was found competent to take charge of a mercantile establishment.
+At fifteen, his writings win for him public applause and the aid of friends. At seventeen,
+he addresses with success a great public meeting. At eighteen, his anonymous productions are
+attributed to some of the leading men of America. At nineteen, he has thought out that principle
+of government which is indelibly associated with his name. At twenty, he has not only approved
+himself a skilful and courageous soldier, but he has won the esteem of the grave and reserved
+Washington, and is placed by that great man in a post of the closest confidence, and which
+really makes him the second man in the American service. At twenty-three, he has shown that
+he is master of the intricate subject of finance. At twenty-five, after an active military
+life that had allowed no time for study, he is known as a lawyer of the first order. At twenty-six,
+he is distinguished as a member of Congress. At thirty, he takes a leading part in framing
+the Constitution of the United States. And in his thirty-third year, he becomes the most extraordinary
+finance minister the world has ever seen. He was statesman, soldier, writer, and orator, and
+first in each department; and he was as ready for all the parts which he filled as if he had
+been long and studiously trained for each of them by the best of instructors. When Mr. Webster
+so happily compared the instantaneousness and perfection of his financial system to "the fabled
+birth of Minerva," he did but allude to what is to be remarked of all Hamilton's works. All
+that he did was perfect, and no one seems to have been aware of his power until he had established
+the fact of its existence. Such a combination of precocity and versatility stands quite unparalleled.
+Octavius, William the Third, Henry St. John, Charles James Fox, and William Pitt the younger,
+all showed various powers at early periods of their lives; but not one of them was the equal
+of Hamilton in respect to early maturity of intellect, or in ability to command success in
+every department to which he turned his attention. The historical character of whom he most
+reminds us is the elder Africanus. In the early development of his faculties, in his self-reliant
+spirit, in his patriotism, in his kingliness of mind, in his personal purity, in his generosity
+of thought and of action, and in the fear and envy that he excited in inferior minds, he was
+a repetition of the most majestic of all the Romans. But, unlike the Roman soldier-statesman,
+he did not desert the land he had saved, but which had proved ungrateful; and the grave only
+was to be his Liternum. He died at not far from the same age as that to which Africanus reached.
+In comparing him with certain other men who achieved fame early, it should be remembered that
+they all were regularly prepared for public life, and were born to it as to an inheritance;
+whereas he, though of patrician blood, was possessed of no advantages of fortune, and had to
+fight the battle of life while fighting the battles of the nation.
+
+FOOTNOTES:
+
+[F] Mr. Riethmüller, in his volume on "Hamilton and his Contemporaries," coolly assumes that
+Hamilton would have opposed the late war for the maintenance of the Union, had he been living!
+Anything more absurd than such a view of Hamilton's probable course, under circumstances like
+those which occurred in 1861, it would be impossible to imagine. Hamilton would have been the
+firmest supporter of the war, had he lived to see it, or had such a war broken out in his time.
+His principles would have led him to be for extreme measures. It is easy to see why Mr. Riethmüller
+thus misrepresents Hamilton's opinions. Living in London, where it is thought that every foreign
+nation should submit to destruction, if that be desirable to England, he wrote under the influence
+of the place. The English do not take the same view of Secession, when it comes home to them.
+They think as unfavorably of that repeal of the Union which the Irish demand as we thought
+of that dissolution of our Union which South Carolinians demanded; and they moved against the
+Fenians much earlier than we moved against the Carolinians. Mr. Riethmüller's assumption is
+pointedly disclaimed by General Hamilton's representatives, who declare that it is a palpable
+misrepresentation of their father's views: and no one who is familiar with Hamilton's writings
+and history can honestly say that they are wrong. To say that Andrew Jackson, who crushed Nullification,
+would have been a Secessionist, had he been living in 1861, would be a moderate assertion,
+compared to that which places Alexander Hamilton in the list of possible Secessionists, had
+he survived to Secession times. Seven Volumes. 8vo. New York: D. Appleton & Co. A work in every
+respect deserving of the closest and most attentive study, replete as it is with valuable and
+well-arranged matter and able writing.
+
+[H] The Federalist: a Commentary on the Constitution of the United States. A Collection of
+Essays, by Alexander Hamilton, Jay, and Madison. Also, The Continentalist and other Papers,
+by Hamilton. Edited by John C. Hamilton, Author of "The Republic of the United States." 1 vol.
+8vo. Philadelphia: J. B. Lippincott & Co.--This is by far the best edition of "The Federalist"
+that has appeared, and should alone be consulted and read by Hamilton's admirers. The Historical
+Notice with which Mr. Hamilton has prefaced it is a noble production, and worthy of the subject
+and of his name. This has been called affectation; but we have no doubt that Burr uttered the
+truth in the sentences quoted. He was exactly the man to observe the rules of decorum, and
+those of honor, as he understood them, in political warfare. The strong language that is so
+common in political disputes is proof as much of the abundance of men's sincerity as it is
+of their want of good breeding. They are honestly moved by the evil words or deeds, or both,
+or what they consider such, of their opponents, and speak of them coarsely. The man who is
+indifferent to all opinions, principles, and actions, but who is nevertheless ambitious, is
+never tempted to the utterance of disparaging language concerning his political foes. He may
+laugh at their zeal, but he cannot be offended by it. Burr was utterly indifferent to all political
+principle. He never really belonged to any party, and was as ready to act with Federalists
+as with Democrats; and it was only through the force of circumstances that he did act generally
+with the latter. A party man never would have done as Burr saw fit to do when the Presidential
+election of 1801 devolved on the House of Representatives. The party to which he professed
+to belong intended, as everybody knew, that Jefferson should be President; and yet Burr allowed
+himself to be used against Jefferson. That "all is fair in politics" was his creed. He may
+have been "a man of honor," but what Lord Macaulay says of Avaux is strictly applicable to
+him, namely,--"that of the difference between right and wrong he had no more notion than a brute."
+
+REVIEWS AND LITERARY NOTICES.
+
+Memoirs of the Life of William Shakespeare, with an Essay toward the Expression of his Genius,
+and an Account of the Rise and Progress of the English Drama to the Time of Shakespeare. By
+RICHARD GRANT WHITE. Boston: Little, Brown, & Co.
+
+Mr. White's closing-up of his Shakespeare labors has been long in coming, but comes good and
+acceptable at last. The volume now in hand, however, does not form a part of his edition of
+the poet; it stands by itself; though a portion of its contents is repeated in the first volume
+(the last published) of this edition. It is rich in matter, and the workmanship, for the most
+part, capital. All Shakespearians are bound to relish it; and if any general reader does not
+find it delectable, he may well suspect some fault in himself.
+
+In his "Memoirs," the author of course adds nothing to what was already known of the poet's
+life. But his presentation of the matter is eminently readable, and, in parts, decidedly interesting;
+which is as much as can fairly be looked for in any writing on that subject. Some readers may
+think, we do think, that the author is a little at fault on one or two points. For instance,
+he overworks certain questions touching the poet's wife, worrying up the matter against her
+to the utmost, and, in fact, tormenting the poor woman's memory in such a way as to indicate
+something very like spite. Now this is not fair; and Mr. White's general fairness on other
+subjects makes his proceeding the less excusable in this case.
+
+Of course everybody knows that Mrs. Anne Shakespeare was some eight years older than her husband;
+that the circumstances of the marriage were not altogether what they should have been; and
+that the oldest daughter was born a little too soon for the credit of either parent. This is
+all, all, there is known about the matter. And if conjecture or inference must be at work on
+these facts, surely it had better run in the direction of charity, especially of charity towards
+the weaker vessel. We say weaker vessel, because in this case the man must, in all fairness,
+be supposed to have had the advantage, at least as much in strength of natural understanding
+as the woman had in years. And as Shakespeare was, by all accounts, a very attractive person,
+it does not well appear but that the woman had as good a right to lose her heart in his company
+as he had to lose his head in hers. Yet our author insinuates, perhaps we should say more than
+insinuates, that the lady immodestly angled for and seduced the youthful lover, and entangled
+his honor in an obligation of marriage; and he seems quite positive that the poet afterwards
+hated her, and took refuge in London partly to escape from her society. Now all this is sheer
+conjecture; it has no basis of fact or of fair likelihood to stand upon; there is not so much
+as a particle even of tradition to support it. Rowe hints nothing of the sort; and surely his
+candor would not have spared the parties, if he had found anything: it was the very point of
+all others on which scandal would have been most apt to fasten and feed; and yet even Aubrey,
+arrant old gossip as he was, supplies nothing to justify it.
+
+In default of other grounds, resort has been had to certain passages in the poet's dramas.
+And Mr. White, though knowing, none better, the poet's wonderful self-aloofness from his representations,
+thinks it worth the while to make an exception in this particular case. Presuming such and
+such things to be true in his own experience, the poet, our author observes, must have thought
+of them while writing certain passages. Our answer is, To be sure, he must have thought of
+them, and he must have known that others would think of them too; and a reasonable delicacy
+on his part would have counselled the withholding of anything that he was conscious might be
+applied to his own domestic affairs. Does not Mr. White see that his inferences in this are
+just the reverse of what they should be?
+
+But we are dwelling too long on this point; and we confess something of impatience at Mr. White's
+treatment of it. His animus in the thing is shown, perhaps, in one slight mistake he has made.
+Speaking of the lady's haste to "provide herself with a husband," he says, "In less than five
+months after she obtained one she was delivered of a daughter." The bishop's license for the
+marriage was dated November 28th, 1582, and Susannah Shakespeare was baptized May 26th, 1583;
+thus leaving an interval of but two days short of six months between the marriage and the birth.
+As Sir Hugh observes, "I like not when a 'oman has a great peard." But are not the men of his
+later plays quite as much superior to the men of his first? Unquestionably they are. Are not
+his later plays as much better every way, as in respect of the female characters? Mr. White
+is too wise and too ripe in the theme to question it. But if there must be any conjecturing
+about it, we prefer to conjecture that the poet caught his ideas of womanhood, or at least
+the rudiments of them, from his mother, and other specimens of the sex in his native town.
+The poet's mind did not stay on the surface of things. He had the head to know, and the heart
+to feel, the claims of humble, modest worth; for, as he was the wisest, so was he also the
+most human-hearted of men. And, indeed, if his great social heart had found all the best delights
+of society in London, how should he have been so desirous, as Mr. White allows he was, to escape
+from the city, and set up his rest in his Stratford home?
+
+Mr. White's history of the Drama, though far from copious, supplies enough, perhaps, to put
+the reader right as regards Shakespeare's historical relations to that great branch of English
+literature. From what is there given, any one can, with reasonable attention, learn that the
+English drama, as we have it in Shakespeare, was the well-ripened fruit of centuries of preparation:
+the form, structure, and order of the thing being settled long before his time. The attentive
+reader will also see, though this point is not emphasized so much as it might be, that the
+national mind and taste were ready and eager to welcome the right man as soon as the right
+man came; so that, in catering wisely for the public taste, the poet could hardly fail of the
+supremacy due to his transcendent genius; which infers, of course, that the public taste had
+nearly as much to do in forming him as he had in forming it. On one or two points, as, for
+instance, in the matter of Shakespeare's senior contemporaries, we should have preferred a
+somewhat larger outlay of the author's learned and well-practised strength; while, again, in
+reference to the old plays of "Jeronimo" and "The Spanish Tragedy," he might well have used
+more economy of strength, as the matter is neither interesting in itself nor helpful to his
+purpose. Here is a specimen of his felicity, referring to the plays of old John Lily, the euphuist.
+
+"They are in all respects opposed to the genius of the English drama. They do not even pretend
+to be representations of human life and human character, but are pure fantasy pieces, in which
+the personages are a heterogeneous medley of Grecian gods and goddesses, and impassible, colorless
+creatures, with sublunary names, all thinking with one brain, and speaking with one tongue,--the
+conceitful, crotchety brain, and the dainty, well-trained tongue of clever, witty John Lily."
+
+This is, indeed, the exact truth of the matter, and it could hardly be better said. On divers
+points, however, the little that he gives us just sets the reader on fire for more: that is,
+he does not satisfy the desire quite enough in proportion as he stimulates it. But he probably
+goes on the safe principle, that in such cases an intelligent reader is apt to crave more than
+he will justify a writer in giving; or, in other words, that he does not seem to have enough,
+until he has too much.
+
+But the "Essay" is most decidedly the jewel of the volume: not, however, to disparage the other
+parts; for it is worthy to be the jewel of anybody's volume. A single reading of the "Essay,"
+as it ought to be read, will suffice to make any one glad to own the book, and will almost
+certainly induce him to mark it down for a second reading, as the second also will for a third.
+The work, indeed, is a positive, and we think it will prove a permanent addition to our already
+opulent inheritance of Shakespearian criticism. It is weighty throughout with fresh, yet sober
+and well-considered thought, expressed in tight and sinewy English,--every part being highly
+elaborate, but nothing over-labored. The author discusses a large number of topics, all in
+"a manly style, fitted to manly ears," but is particularly full and instructive in regard to
+the poet's language and style: a rich field, indeed, which has not been proportionably cultivated
+by the poet's later critics, who have put their force mainly on what may be called his dramatic
+architecture, and on his development of character, where there is more room to be philosophical,
+but less chance of determinate results. Over this field Mr. White walks with the firm, yet
+graceful step of a master: his current of thought running deep, strong, and clear, and carrying
+us through page after page full of nice and subtile discrimination, without over-refinement,
+and of illustrations apt and luminous, yet without a touch of false brilliancy or mere smartness;
+which is saying a good deal, in these days of high-pressure rhetoric.
+
+We commend the "Essay" to all lovers of solid and well-proportioned critical discourse.
+
+RECENT AMERICAN PUBLICATIONS.
+
+The Ideal Attained: being the Story of Two Steadfast Souls, and how they won their Happiness
+and lost it not. By Eliza Farnham, Author of "Woman and her Era," etc. New York. C. W. Plumb
+& Co. 12mo. pp. 510. $2.00.
+
+At Anchor. A Story of Our Civil War. By an American. New York. D. Appleton & Co. 12mo. pp.
+311. $1.50.
+
+Methods of Instruction. That Part of the Philosophy of Education which treats of the Nature
+of the several Branches of Knowledge, and the Methods of teaching them according to that Nature.
+By James Pyle Wickersham, A. M., Author of "School Economy." Philadelphia. J. B. Lippincott
+& Co. 12mo. pp. 496. $2.00.
+
+Love and Money. By J. B. Jones, Author of "Wild Western Scenes," etc. Philadelphia. T. B. Peterson
+& Brother. 12mo. pp. 407. $2.00.
+
+Histoire de Jules César. Par S. M. I. Napoléon III. Tome Premier. New York. D. Appleton & Cie.
+12mo. pp. 396. $2.50.
+
+Beatrice. By Julia Kavanagh, Author of "Nathalie," etc. New York. D. Appleton & Co. 12mo. pp.
+520. $2.00.
+
+Lessons from the World of Matter and the World of Man. By Theodore Parker. Selected from Notes
+of Unpublished Sermons. By Rufus Leighton. Boston. C. W. Slack. 12mo. pp. 430. $2.50.
+
+Sibyl. A Tragedy in Five Acts. By John Savage. New York. James B. Kirker. 16mo. pp. 105. 75 cts.
+
+Life of Marcus Tullius Cicero. By William Forsyth, M. A., Q. C., Author of "Hortensius," etc.,
+and late Fellow of Trinity College, Cambridge. In Two Volumes. With Illustrations. New York.
+Charles Scribner & Co. 12mo. pp. 304, 341. $5.00.
+
+Know the Truth. A Critique on the Hamiltonian Theory of Limitation, including some Strictures
+upon the Theories of Rev. Henry L. Mansel and Mr. Herbert Spencer. By Jesse H. Jones. New York.
+Hurd & Houghton. 12mo. pp. x., 225. $1.25.
+
+Janet Strong. By Virginia F. Townsend. Philadelphia. J. B. Lippincott & Co. 12mo. pp. 314. $1.50
+
+Voices of the Morning. By Belle Bush. Philadelphia. J. B. Lippincott & Co. 18mo. pp. 270. $1.25.
+
+A View at the Foundations: or, First Causes of Character, as Operative before Birth, from Hereditary
+and Spiritual Sources. Being a Treatise on the Organic Structure and Quality of the Human Soul,
+as determined by Pre-Natal Conditions in the Parentage and Ancestry, and how far we can direct
+and control them. By Woodbury M. Fernald. Boston. W. V. Spencer. 16mo. pp. 210. $1.25. In Two
+Volumes. New York. C. Scribner & Co. 12mo. pp. xiv., 430; viii., 457. $5.00. New York. C. Scribner
+& Co. 12mo. pp. 447, 501. Per vol., $2.50. G. W. Carleton. 12mo. pp. 460. $2.00.
+
+The Graver Thoughts of a Country Parson. $2.00.
+
+Hugh Worthington. A Novel. By Mrs. Mary J. Holmes. New York. G. W. Carleton. 12mo. pp. 370. $1.75.
+
+Essays. By R. W. Emerson. First and Second Series. Boston. Ticknor & Fields. 32mo. Blue and
+gold. pp. viii., 515. $1.50.
+
+Superior Fishing; or, The Striped Bass, Trout, and Black Bass of the Northern States. Embracing
+full Directions for Dressing Artificial Flies with the Feathers of American Birds; an Account
+of a Sporting Visit to Lake Superior, etc. By Robert B. Roosevelt, Author of "The Game Fish
+of North America," etc. New York. G. W. Carleton. 12mo. pp. 304. $2.00.
+
+Hypodermic Injections in the Treatment of Neuralgia, Rheumatism, Gout, and other Diseases.
+By Antoine Ruppaner, M. D., Fellow of the Mass. Med. Soc. Boston. T. O. H. P. Burnham. 16mo.
+pp. 160. $1.25.

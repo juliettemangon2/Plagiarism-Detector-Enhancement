@@ -1,0 +1,105 @@
+﻿   [Footnote 1: A Paper by Chas. T Porter, read before the American
+   Society of Mechanical Engineers.]
+
+The system of keeping drawings now in use at the works of the Southwark Foundry and Machine
+Company, in Philadelphia, has been found so satisfactory in its operation that it seems worthy
+of being communicated to the profession.
+
+The method in common use, and which may be called the natural method, is to devote a separate
+drawer to the drawings of each machine, or of each group or class of machines. The fundamental
+idea of this system, and its only one, is, keeping together all drawings relating to the same
+subject matter.
+
+Every draughtsman is acquainted with its practical working. It is necessary to make the drawing
+of a machine, and of its separate parts, on sheets of different sizes. The drawer in which
+all these are kept must be large enough to accommodate the largest sheets. The smaller ones
+cannot be located in the drawer, and as these find their way to one side or to the back, and
+several of the smallest lie side by side in one course, any arrangement of the sheets in the
+drawer is out of the question.
+
+The operation of finding a drawing consists in turning the contents of the drawer all up until
+it is discovered. In this way the smaller sheets get out of sight or doubled up, and the larger
+ones are torn. No amount of care can prevent confusion.
+
+Various plans have been adopted in different establishments intended to remedy this state of
+things, but it is believed that none has been hit upon so convenient, in all respects, as the
+one now to be presented.
+
+The idea of keeping together drawings relating to the same machine, or of classifying them
+according to subjects in any way, is entirely abandoned, and in place of these is substituted
+the plan of keeping together all drawings that are made on sheets of the same size, without
+regard to the subject of them.
+
+Nine sizes of sheets were settled upon, as sufficient to meet our requirements, and on a sheet
+that will trim to one of these sizes every drawing must be made. They are distinguished by
+the first nine letters of the alphabet. Size A is the antiquarian sheet trimmed, and the smaller
+sizes will cut from this sheet, without waste, as follows:
+
+   A, 51×30 in.; B, 37×30 in; C, 25×30 in.; D, 17×30 in.; E 12½×30
+   in.; F, 8½×30 in.; G, 17×15 in.; H, 8½×15 in.; I, 14×25 in.
+
+The drawers for the different sizes are made one inch longer and wider than the sheets they
+are to contain, and are lettered as above. Those of the same size, after the first one, are
+distinguished by a numeral prefixed to the letter. The back part of each drawer is covered
+for a width of from six to ten inches, to prevent drawings, and especially tracings, from slipping
+over at the back.
+
+The introduction of the blue printing process has quite revolutionized the drawing office,
+so far at least as we are concerned. Our drawings are studies, left in pencil. When we can
+find nothing more to alter, tracings are made on cloth. These become our originals, and are
+kept in a fire-proof vault. This system is found admirably adapted to the plan of making a
+separate drawing for each piece. The whole combined drawing is not generally traced, but the
+separate pieces are picked out from it. All our working copies are blue prints.
+
+Each drawer contains fifty tracings. They are two and a half inches deep, which is enough to
+hold several times as many, but this number is quite all that it is convenient to keep together.
+We would recommend for these shallower drawers.
+
+Each drawing is marked in stencil in the lower right hand corner, and also with inverted plates
+in the upper left hand corner, with the letter and number of the drawer, and its own number
+in the drawer, as, for example, 3F--31; so that whichever way the sheet is put in the drawer,
+this appears at the front right hand corner. The drawings in each drawer are numbered separately,
+fifty being thus the highest number used.
+
+For reference we depend on our indices. Each tracing, when completed, is entered under its
+letter in the numerical index, and is given the next consecutive number, and laid in its place.
+
+From this index the title and the number are copied into other indices, under as many different
+headings as possible.
+
+Thus all the drawings of any engine, or tool, or machine whatever, become assembled by their
+titles under the heading of such particular engine, or tool, or machine. So also the drawings
+of any particular part, of all sizes and styles, become assembled by their titles under the
+name of such piece. However numerous the drawings, and however great the variety of their subjects,
+the location of any one is, by this means, found as readily as a word in a dictionary. The
+stencil marks copy, of course, on the blue prints, and these when not in use are kept in the
+same manner as the tracings, except that only twenty-five are placed in one drawer.
+
+We employ printed classified lists of the separate pieces constituting every steam engine,
+the manufacture of which is the sole business of these works, and on these, against the name
+of every piece, is given the drawer and number of the drawing on which it is represented. The
+office copies of these lists afford an additional mode of reference and a very convenient one,
+used in practice almost exclusively. The foreman sends for the prints by the stencil marks,
+and these are thus got directly without reference to any index. They are charged in the same
+way, and reference to the numerical index gives the title of any missing print.
+
+We find the different sizes to be used quite unequal. The method of making a separate tracing
+of each piece, which we carry to a great extent, causes the smaller sizes to multiply quite
+rapidly. We are marking our patterns with the stencil of the drawing of the same piece; and
+also, gauges, templets, and jigs.
+
+It is found best to permit the sheets to be put away by one person only, who also writes up
+the indices, which are kept in the fire proof.
+
+We were ourselves surprised at the saving of room which this system has effected. Probably
+less than one-fourth the space is occupied that the same drawings would require if classified
+according to subjects.
+
+The system is completely elastic. Work of the most diverse character might be undertaken every
+day, and the drawings of each article, whether few or many, would find places ready to receive
+them.
+
+       *       *       *       *       *
+
+ACHARD'S ELECTRIC BRAKE.
+

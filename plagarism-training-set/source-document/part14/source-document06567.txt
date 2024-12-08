@@ -1,0 +1,88 @@
+﻿STRANGELY enough, the decade immediately following Newton was one of comparative barrenness
+in scientific progress, the early years of the eighteenth century not being as productive of
+great astronomers as the later years of the seventeenth, or, for that matter, as the later
+years of the eighteenth century itself. Several of the prominent astronomers of the later seventeenth
+century lived on into the opening years of the following century, however, and the younger
+generation soon developed a coterie of astronomers, among whom Euler, Lagrange, Laplace, and
+Herschel, as we shall see, were to accomplish great things in this field before the century closed.
+
+One of the great seventeenth-century astronomers, who died just before the close of the century,
+was Johannes Hevelius (1611-1687), of Dantzig, who advanced astronomy by his accurate description
+of the face and the spots of the moon. But he is remembered also for having retarded progress
+by his influence in refusing to use telescopic sights in his observations, preferring until
+his death the plain sights long before discarded by most other astronomers. The advantages
+of these telescope sights have been discussed under the article treating of Robert Hooke, but
+no such advantages were ever recognized by Hevelius. So great was Hevelius's reputation as
+an astronomer that his refusal to recognize the advantage of the telescope sights caused many
+astronomers to hesitate before accepting them as superior to the plain; and even the famous
+Halley, of whom we shall speak further in a moment, was sufficiently in doubt over the matter
+to pay the aged astronomer a visit to test his skill in using the old-style sights. Side by
+side, Hevelius and Halley made their observations, Hevelius with his old instrument and Halley
+with the new. The results showed slightly in the younger man's favor, but not enough to make
+it an entirely convincing demonstration. The explanation of this, however, did not lie in the
+lack of superiority of the telescopic instrument, but rather in the marvellous skill of the
+aged Hevelius, whose dexterity almost compensated for the defect of his instrument. What he
+might have accomplished could he have been induced to adopt the telescope can only be surmised.
+
+Halley himself was by no means a tyro in matters astronomical at that time. As the only son
+of a wealthy soap-boiler living near London, he had been given a liberal education, and even
+before leaving college made such novel scientific observations as that of the change in the
+variation of the compass. At nineteen years of age he discovered a new method of determining
+the elements of the planetary orbits which was a distinct improvement over the old. The year
+following he sailed for the Island of St, Helena to make observations of the heavens in the
+southern hemisphere.
+
+It was while in St. Helena that Halley made his famous observation of the transit of Mercury
+over the sun's disk, this observation being connected, indirectly at least, with his discovery
+of a method of determining the parallax of the planets. By parallax is meant the apparent change
+in the position of an object, due really to a change in the position of the observer. Thus,
+if we imagine two astronomers making observations of the sun from opposite sides of the earth
+at the same time, it is obvious that to these observers the sun will appear to be at two different
+points in the sky. Half the angle measuring this difference would be known as the sun's parallax.
+This would depend, then, upon the distance of the earth from the sun and the length of the
+earth's radius. Since the actual length of this radius has been determined, the parallax of
+any heavenly body enables the astronomer to determine its exact distance.
+
+The parallaxes can be determined equally well, however, if two observers are separated by exactly
+known distances, several hundreds or thousands of miles apart. In the case of a transit of
+Venus across the sun's disk, for example, an observer at New York notes the image of the planet
+moving across the sun's disk, and notes also the exact time of this observation. In the same
+manner an observer at London makes similar observations. Knowing the distance between New York
+and London, and the different time of the passage, it is thus possible to calculate the difference
+of the parallaxes of the sun and a planet crossing its disk. The idea of thus determining the
+parallax of the planets originated, or at least was developed, by Halley, and from this phenomenon
+he thought it possible to conclude the dimensions of all the planetary orbits. As we shall
+see further on, his views were found to be correct by later astronomers.
+
+In 1721 Halley succeeded Flamsteed as astronomer royal at the Greenwich Observatory. Although
+sixty-four years of age at that time his activity in astronomy continued unabated for another
+score of years. At Greenwich he undertook some tedious observations of the moon, and during
+those observations was first to detect the acceleration of mean motion. He was unable to explain
+this, however, and it remained for Laplace in the closing years of the century to do so, as
+we shall see later.
+
+Halley's book, the Synopsis Astronomiae Cometicae, is one of the most valuable additions to
+astronomical literature since the time of Kepler. He was first to attempt the calculation of
+the orbit of a comet, having revived the ancient opinion that comets belong to the solar system,
+moving in eccentric orbits round the sun, and his calculation of the orbit of the comet of
+1682 led him to predict correctly the return of that comet in 1758. Halley's Study of Meteors.
+
+Like other astronomers of his time he was greatly puzzled over the well-known phenomena of
+shooting-stars, or meteors, making many observations himself, and examining carefully the observations
+of other astronomers. In 1714 he gave his views as to the origin and composition of these mysterious
+visitors in the earth's atmosphere. As this subject will be again referred to in a later chapter,
+Halley's views, representing the most advanced views of his age, are of interest.
+
+"The theory of the air seemeth at present," he says, "to be perfectly well understood, and
+the differing densities thereof at all altitudes; for supposing the same air to occupy spaces
+reciprocally proportional to the quantity of the superior or incumbent air, I have elsewhere
+proved that at forty miles high the air is rarer than at the surface of the earth at three
+thousand times; and that the utmost height of the atmosphere, which reflects light in the Crepusculum,
+is not fully forty-five miles, notwithstanding which 'tis still manifest that some sort of
+vapors, and those in no small quantity, arise nearly to that height. An instance of this may
+be given in the great light the society had an account of (vide Transact. Sep., 1676) from
+Dr. Wallis, which was seen in very distant counties almost over all the south part of England.
+Of which though the doctor could not get so particular a relation as was requisite to determine
+the height thereof, yet from the distant places it was seen in, it could not but be very many
+miles high.
+
