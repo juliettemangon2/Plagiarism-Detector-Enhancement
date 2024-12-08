@@ -6,6 +6,8 @@ from nltk.util import ngrams
 from nltk.corpus import stopwords
 from string import punctuation
 import nltk
+from concurrent.futures import ProcessPoolExecutor, as_completed
+from functools import partial
 
 # Download stopwords if not already available
 nltk.download('stopwords')
@@ -13,9 +15,9 @@ nltk.download('stopwords')
 # Absolute paths
 MODEL = 'trigram'  # Choose 'unigram', 'bigram', or 'trigram'
 MEASURE = 'cosine'  # Choose 'cosine' or 'jaccard'
-DATASET = '/Users/walkertupman/Downloads/external-detection-corpus-training'
-SOURCE_FOLDER = os.path.join(DATASET, 'source-document/part1')
-SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document/part1')
+DATASET = 'external-detection-corpus-training'
+SOURCE_FOLDER = os.path.join(DATASET, 'source-document')
+SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 
 # Debugging paths
 print("Source folder:", SOURCE_FOLDER)
@@ -36,13 +38,16 @@ def remove_punctuation(text):
 # Extract n-grams from text (unigram, bigram, trigram)
 def extract_ngrams(text, n=1):
     words = remove_punctuation(text.lower()).split()
-    ngrams_list = list(ngrams(words, n))
-    return [' '.join(gram) for gram in ngrams_list]
+    return [' '.join(gram) for gram in ngrams(words, n)]
 
-# Preprocess documents into sets of words or n-grams
-def preprocess_documents(files, model='unigram'):
-    preprocessed_documents = []
-    for i, file in enumerate(files):
+# Remove stopwords
+def eliminate_stopwords(words):
+    stop_words = set(stopwords.words('english'))
+    return {word for word in words if not any(w in stop_words for w in word.split())}
+
+# Preprocess a single document
+def preprocess_single_document(file, model='unigram'):
+    try:
         with open(file, 'r', encoding='utf-8') as f:
             text = remove_punctuation(f.read().lower())
             if model == 'bigram':
@@ -51,96 +56,160 @@ def preprocess_documents(files, model='unigram'):
                 doc_ngrams = set(extract_ngrams(text, 3))
             else:
                 doc_ngrams = set(text.split())
-            preprocessed_documents.append(doc_ngrams)
-        if i % 10 == 0:
-            print(f"Preprocessed {i}/{len(files)} documents.")
+        return doc_ngrams
+    except Exception as e:
+        print(f"Error processing file {file}: {e}")
+        return set()
+
+# Preprocess documents using multiprocessing
+def preprocess_documents(files, model='unigram', num_workers=None):
+    preprocessed_documents = []
+    with ProcessPoolExecutor(max_workers=num_workers) as executor:
+        futures = {executor.submit(preprocess_single_document, file, model): file for file in files}
+        for i, future in enumerate(as_completed(futures)):
+            doc_words = future.result()
+            preprocessed_documents.append(doc_words)
+            if (i + 1) % 10 == 0 or (i + 1) == len(files):
+                print(f"Preprocessed {i + 1}/{len(files)} documents.")
     return preprocessed_documents
 
-# Compute Document Frequencies (DF)
-def compute_dfs_optimized(unique_words, preprocessed_documents):
+# Compute Document Frequency for a single term
+def compute_df_single_term(term, preprocessed_documents):
+    return sum(1 for doc_words in preprocessed_documents if term in doc_words)
+
+# Compute Document Frequencies using multiprocessing
+def compute_dfs_optimized(unique_words, preprocessed_documents, num_workers=None):
     dfs = []
-    for i, word in enumerate(unique_words):
-        if i % 100 == 0:
-            print(f"Processing DF for word {i}/{len(unique_words)}")
-        count = sum(1 for doc_words in preprocessed_documents if word in doc_words)
-        dfs.append(count)
+    with ProcessPoolExecutor(max_workers=num_workers) as executor:
+        # Partial function with preprocessed_documents fixed
+        func = partial(compute_df_single_term, preprocessed_documents=preprocessed_documents)
+        futures = {executor.submit(func, term): term for term in unique_words}
+        for i, future in enumerate(as_completed(futures)):
+            df = future.result()
+            dfs.append(df)
+            if (i + 1) % 100 == 0 or (i + 1) == len(unique_words):
+                print(f"Processed DF for {i + 1}/{len(unique_words)} terms.")
     return dfs
 
 # Compute Inverse Document Frequencies (IDF)
 def compute_idfs(num_docs, dfs):
     return [1 + log10(num_docs / df) if df > 0 else 1 for df in dfs]
 
-# Compute Term Frequency (TF)
-def compute_tf(text, term):
-    words = text.split()
-    return words.count(term) / len(words) if words else 0
+# Compute TF-IDF Weight Vector (binary)
+def compute_tfidf_vector(preprocessed_doc, unique_words_set):
+    return {word for word in preprocessed_doc if word in unique_words_set}
 
-# Compute TF-IDF Weight Vector
-def compute_tfidf_vector(preprocessed_doc, unique_words, idfs):
-    return [1 if word in preprocessed_doc else 0 for word in unique_words]
+# Cosine Similarity using sets
+def cosine_similarity_set(set1, set2, len1, len2):
+    intersection = len(set1 & set2)
+    magnitude = sqrt(len1) * sqrt(len2)
+    return intersection / magnitude if magnitude else 0
 
-# Cosine Similarity
-def cosine_similarity(vec1, vec2):
-    dot_product = np.dot(vec1, vec2)
-    magnitude = sqrt(sum(v**2 for v in vec1)) * sqrt(sum(v**2 for v in vec2))
-    return dot_product / magnitude if magnitude else 0
-
-# Jaccard Similarity
-def jaccard_similarity(vec1, vec2):
-    intersection = sum(min(v1, v2) for v1, v2 in zip(vec1, vec2))
-    union = sum(max(v1, v2) for v1, v2 in zip(vec1, vec2))
+# Jaccard Similarity using sets
+def jaccard_similarity_set(set1, set2):
+    intersection = len(set1 & set2)
+    union = len(set1 | set2)
     return intersection / union if union else 0
 
-# Remove stopwords
-def eliminate_stopwords(words):
-    stop_words = set(stopwords.words('english'))
-    return [word for word in words if not any(w in stop_words for w in word.split())]
+# Compare a single pair of documents
+def compare_documents(s_index, src_vector, s_vector, measure):
+    if measure == 'cosine':
+        similarity = cosine_similarity_set(src_vector, s_vector, len(src_vector), len(s_vector))
+    elif measure == 'jaccard':
+        similarity = jaccard_similarity_set(src_vector, s_vector)
+    else:
+        similarity = 0
+    return (s_index, similarity)
+
+# Compare a single suspicious document against all source documents
+def compare_single_suspicious(s_index, s_vector, source_vectors, measure):
+    similarities = []
+    for j, src_vec in enumerate(source_vectors):
+        if measure == 'cosine':
+            similarity = cosine_similarity_set(src_vec, s_vector, len(src_vec), len(s_vector))
+        elif measure == 'jaccard':
+            similarity = jaccard_similarity_set(src_vec, s_vector)
+        else:
+            similarity = 0
+        if similarity > 0.0:
+            similarities.append((s_index, j, similarity))
+    return similarities
 
 # Main Execution
 if __name__ == "__main__":
+    import time
+
+    start_time = time.time()
+
     # Load source and suspicious files
     source_files = get_text_files(SOURCE_FOLDER)
     suspicious_files = get_text_files(SUSPICIOUS_FOLDER)
 
+    print(f"Number of source files: {len(source_files)}")
+    print(f"Number of suspicious files: {len(suspicious_files)}")
+
     # Combine all files for vocabulary creation
     all_files = source_files + suspicious_files
 
-    # Preprocess documents into sets of n-grams or words
+    # Preprocess documents into sets of n-grams or words using multiprocessing
     print("Preprocessing documents...")
     preprocessed_documents = preprocess_documents(all_files, MODEL)
 
-    # Extract unique terms or n-grams
-    unique_terms = set()
-    for doc_words in preprocessed_documents:
-        unique_terms.update(doc_words)
+    # Extract unique terms or n-grams and eliminate stopwords
+    print("Extracting unique terms and eliminating stopwords...")
+    unique_terms = set().union(*preprocessed_documents)
     unique_terms = eliminate_stopwords(unique_terms)
+    unique_terms = sorted(unique_terms)  # Sorting for consistent ordering
+    unique_terms_set = set(unique_terms)  # For faster lookup
 
-    # Compute DF and IDF
+    print(f"Number of unique terms after eliminating stopwords: {len(unique_terms)}")
+
+    # Compute DF and IDF using multiprocessing
     NUM_DOCS = len(preprocessed_documents)
     print("Computing document frequencies (DF)...")
     dfs = compute_dfs_optimized(unique_terms, preprocessed_documents)
+
     print("Computing inverse document frequencies (IDF)...")
     idfs = compute_idfs(NUM_DOCS, dfs)
 
-    # Compute TF-IDF vectors
-    print("Computing TF-IDF vectors...")
-    tfidf_vectors = [compute_tfidf_vector(doc_words, unique_terms, idfs) for doc_words in preprocessed_documents]
+    # Create a mapping from term to index for vectorization
+    term_to_index = {term: idx for idx, term in enumerate(unique_terms)}
 
-    # Compare each suspicious document with all source documents
+    # Compute TF-IDF vectors as sets (binary vectors)
+    print("Computing TF-IDF vectors...")
+    tfidf_vectors = []
+    for i, doc_words in enumerate(preprocessed_documents):
+        tfidf_vector = {word for word in doc_words if word in unique_terms_set}
+        tfidf_vectors.append(tfidf_vector)
+        if (i + 1) % 100 == 0 or (i + 1) == len(preprocessed_documents):
+            print(f"Computed TF-IDF for {i + 1}/{len(preprocessed_documents)} documents.")
+
+    # Split TF-IDF vectors into source and suspicious
+    source_vectors = tfidf_vectors[:len(source_files)]
+    suspicious_vectors = tfidf_vectors[len(source_files):]
+
+    # Compare each suspicious document with all source documents using multiprocessing
     print("Comparing documents...")
     output_file = "similarity_results.txt"
-    with open(output_file, 'w', encoding='utf-8') as out:
-        suspicious_vectors = tfidf_vectors[len(source_files):]
-        source_vectors = tfidf_vectors[:len(source_files)]
 
-        for i, s_vec in enumerate(suspicious_vectors):
-            for j, src_vec in enumerate(source_vectors):
-                if MEASURE == 'cosine':
-                    similarity = cosine_similarity(s_vec, src_vec)
-                elif MEASURE == 'jaccard':
-                    similarity = jaccard_similarity(s_vec, src_vec)
-                if similarity > 0.0:
-                    out.write(f"Suspicious doc {i}, Source doc {j}, Similarity: {similarity:.4f}\n")
-                if (i * len(source_vectors) + j) % 10 == 0:
-                    print(f"Processed comparison {i * len(source_vectors) + j}")
-    print(f"Processing complete. Results written to {output_file}.")
+    def process_suspicious(s_idx, s_vec):
+        similarities = compare_single_suspicious(s_idx, s_vec, source_vectors, MEASURE)
+        return similarities
+
+    with ProcessPoolExecutor() as executor, open(output_file, 'w', encoding='utf-8') as out:
+        futures = {executor.submit(process_suspicious, i, s_vec): i for i, s_vec in enumerate(suspicious_vectors)}
+        total_comparisons = 0
+        for future in as_completed(futures):
+            similarities = future.result()
+            for s_idx, src_idx, sim in similarities:
+                out.write(f"Suspicious doc {s_idx}, Source doc {src_idx}, Similarity: {sim:.4f}\n")
+                total_comparisons += 1
+            current = list(futures).index(future) + 1
+            if current % 10 == 0 or current == len(suspicious_vectors):
+                print(f"Processed {current}/{len(suspicious_vectors)} suspicious documents.")
+
+    print(f"Processing complete. Total similarities found: {total_comparisons}")
+    print(f"Results written to {output_file}.")
+    end_time = time.time()
+    print(f"Total execution time: {end_time - start_time:.2f} seconds.")
+
