@@ -1,0 +1,110 @@
+﻿    Fairy                      191
+    Farfalla                    15
+    Fatherland                  75
+    Flitter-mouse              118
+    Flota                       17
+    Folklore                    75
+    Foolhappy                  137
+    Foolhardy                  137
+    Foolhasty                  137
+    Foollarge                  137
+    Foretalk                   120
+    Fougue                      66
+    Fraischeur                  66
+    Frances                     95
+    Francis                     95
+    Frimm                      118
+    Frivolité                   55
+    Frontispiece               245
+    Furlong                    193
+
+    Gainly                     136
+    Gallon                     193
+    Galvanism                   88
+    Garble                     199
+    Geir                       118
+    Gentian                     86
+    Girdle                      21
+    Girfalcon                  118
+    Girl                       192
+    Glassen                    163
+    Gordian                     86
+    Gossip                     203
+    Great                      226
+    Grimsire                   119
+    Grocer                     229
+    Grogram                    229
+
+    Halfgod                    120
+    Hallow                      82
+    Handbook                    75
+    Hangdog                    145
+    Hector                      89
+    Heft                       118
+    Hermetic                    86
+    Hery                       118
+    Hierosolyma                236
+    Hipocras                    86
+    Hippodame                   64
+    His                        131
+    Hooker                      16
+    Hoppester                  155
+    Hotspur                    119
+    Hoyden                     192
+    Huck                       157
+    Huckster, huckstress       157
+    Hurricane                   14
+
+    Iceberg                     73
+    Icefield                    74
+    Idea                       197
+    Imp                        205
+    Influence                  181
+    International               78
+    Island                     234
+    Isle                       234
+    Isolated                   107
+    Isothermal                 102
+    Its                        130
+
+    Jaw                        230
+    Jeopardy                    82
+
+    Kenilworth                 253
+    Kindly                     184
+    Kirtle                      21
+    Knave                      207
+    Knitster                   155
+    Knot                        87
+
+    Lambiner                    88
+    Lass                       154
+    Lazar                       86
+    Leer                       118
+    Leghorn                    240
+    Libel                      191
+    Lifeguard                   74
+    Lissome                    140
+    London                     227
+    Lunch, luncheon            129
+
+    Malingerer                 119
+    Mammet, mammetry            87
+    Mandragora                 243
+    Mansarde                    89
+    Matachin                    17
+    Matamoros                  143
+    Mausoleum                   86
+    Meat                       191
+    Meddle, meddlesome         206
+    Middler                    121
+    Mid-wife                   250
+    Milken                     163
+    Mischievous                128
+    Miscreant                  179
+    Mithridate                  86
+    Mixen                      123
+    Morris dance               251
+    Mystery, mystère           237
+    Myth                        72
+
