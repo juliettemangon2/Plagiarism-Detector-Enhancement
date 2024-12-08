@@ -1,8 +1,7 @@
+from __future__ import division
 import multiprocessing
 import re
 import nltk
-
-from __future__ import division
 import os
 import numpy as np
 from math import log10, sqrt
@@ -17,7 +16,7 @@ nltk.download('stopwords')
 # Absolute paths
 MODEL = 'trigram'  # Choose 'unigram', 'bigram', or 'trigram'
 MEASURE = 'cosine'  # Choose 'cosine' or 'jaccard'
-DATASET = '/Users/walkertupman/Downloads/external-detection-corpus-training'
+DATASET = 'pan-plagiarism-corpus-2011/external-detection-corpus'
 SOURCE_FOLDER = os.path.join(DATASET, 'source-document/part1')
 SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document/part1')
 
@@ -30,7 +29,7 @@ def get_text_files(folder):
     if not os.path.exists(folder):
         print(f"Folder not found: {folder}")
         return []
-    return [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith('.txt')]
+    return [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith('.txt') and os.path.isfile(os.path.join(folder, f))]
 
 # Remove punctuations from text
 def remove_punctuation(text):
@@ -44,44 +43,36 @@ def extract_ngrams(text, n=1):
     return [' '.join(gram) for gram in ngrams_list]
 
 # Preprocess documents into sets of words or n-grams
-def preprocess_documents(files, model='unigram'):
-    preprocessed_documents = []
-    for i, file in enumerate(files):
-        with open(file, 'r', encoding='utf-8') as f:
-            text = remove_punctuation(f.read().lower())
-            if model == 'bigram':
-                doc_ngrams = set(extract_ngrams(text, 2))
-            elif model == 'trigram':
-                doc_ngrams = set(extract_ngrams(text, 3))
-            else:
-                doc_ngrams = set(text.split())
-            preprocessed_documents.append(doc_ngrams)
-        if i % 10 == 0:
-            print(f"Preprocessed {i}/{len(files)} documents.")
-    return preprocessed_documents
+def preprocess_documents(file, model='unigram'):
+        try:
+            with open(file, 'r', encoding='utf-8') as f:
+                text = remove_punctuation(f.read().lower())
+                if model == 'bigram':
+                    doc_ngrams = set(extract_ngrams(text, 2))
+                elif model == 'trigram':
+                    doc_ngrams = set(extract_ngrams(text, 3))
+                else:
+                    doc_ngrams = set(text.split())
+                return doc_ngrams
+        except IOError as e:
+            print(f"Error reading file {file}:{e}")
+            return set()
+
 
 #multiprocess documents
 def preprocess_documents_multi(files, model='unigram'):
     with multiprocessing.Pool() as pool:
-        preprocessed_docs=pool.map(preprocess_documents, files)
-    return preprocessed_docs
+        return pool.starmap(preprocess_documents, [(f,model) for f in files])
 # Compute Document Frequencies (DF)
 def compute_dfs_optimized(unique_words, preprocessed_documents):
-    dfs = []
-    for i, word in enumerate(unique_words):
-        if i % 100 == 0:
-            print(f"Processing DF for word {i}/{len(unique_words)}")
-        count = sum(1 for doc_words in preprocessed_documents if word in doc_words)
-        dfs.append(count)
-    return dfs
+    return sum(1 for doc_words in preprocessed_documents if word in doc_words)
+
 
 #Compute Document Frequencies using multiprocessing
 def compute_dfs_multi(unique_words, preprocessed_docs):
-    num_cores=multiprocessing.cpu_count()
-    with multiprocessing.Pool(processes=num_cores) as pool:
-        args=[(word,preprocessed_documents) for word in unique_words]
-        results=pool.map(compute_dfs_optimized,args)
-    return results
+    with multiprocessing.Pool() as pool:
+        return pool.starmap(compute_dfs_optimized, [(word, preprocessed_docs) for word in unique_words])
+  
 
 # Compute Inverse Document Frequencies (IDF)
 def compute_idfs(num_docs, dfs):
@@ -130,7 +121,8 @@ def checker(i,s_vec,j,src_vec):
     elif MEASURE == 'jaccard':
         similarity = jaccard_similarity(s_vec, src_vec)
     if similarity > 0.0:
-        out.write(f"Suspicious doc {i}, Source doc {j}, Similarity: {similarity:.4f}\n")
+        with open(output_file, 'a', encoding='utf-8') as out:
+            out.write(f"Suspicious doc {i}, Source doc {j}, Similarity: {similarity:.4f}\n")
     if (i * len(source_vectors) + j) % 10 == 0:
         print(f"Processed comparison {i * len(source_vectors) + j}")
 
@@ -172,6 +164,8 @@ if __name__ == "__main__":
         source_vectors = tfidf_vectors[:len(source_files)]
 
         with multiprocessing.Pool() as pool:
-                args=[((i,s_vec),(j,src_vec)) for (i,s_vec) in enumerate(suspicious_vectors) for (j,src_vec) in enumerate(source_vectors)]
-                pool.map(checker,args)
+                args=[(i,s_vec, j, src_vec, output_file, len(source_vectors))
+                for i, s_vec in enumerate(suspicious_vectors)
+                for j, src_vec in enumerate(source_vectors)]
+                pool.starmap(checker, args)
     print(f"Processing complete. Results written to {output_file}.")
