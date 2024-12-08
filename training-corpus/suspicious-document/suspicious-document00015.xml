@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00015.txt">
+  <feature name="about" authors="Gandhi, Mahatma" title="Third class in Indian railways" lang="en" />
+  <feature name="md5Hash" value="7be2ab260547e7abb17a9b1051abe20d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6334" this_length="2661" source_reference="source-document00853.txt" source_language="en" source_offset="31382" source_length="2663" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11404" this_length="460" source_reference="source-document00853.txt" source_language="en" source_offset="2748" source_length="457" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14804" this_length="2421" source_reference="source-document00853.txt" source_language="en" source_offset="35981" source_length="2441" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24085" this_length="2510" source_reference="source-document00853.txt" source_language="en" source_offset="50894" source_length="3502" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36972" this_length="1468" source_reference="source-document00853.txt" source_language="en" source_offset="43936" source_length="1798" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42858" this_length="805" source_reference="source-document00853.txt" source_language="en" source_offset="8471" source_length="741" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="44866" this_length="674" source_reference="source-document00853.txt" source_language="en" source_offset="9974" source_length="686" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47231" this_length="237" source_reference="source-document00853.txt" source_language="en" source_offset="30157" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="48583" this_length="450" source_reference="source-document00853.txt" source_language="en" source_offset="25789" source_length="458" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49719" this_length="238" source_reference="source-document00853.txt" source_language="en" source_offset="26966" source_length="244" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50633" this_length="267" source_reference="source-document00853.txt" source_language="en" source_offset="1948" source_length="270" />
+</document>
+
