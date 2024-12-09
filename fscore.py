@@ -69,17 +69,20 @@ def fscoreKey(systemOutputFile):
 def fscoreCorrectness(system_array,key_array):
     correct = 0
     incorrect = 0
+    correctTrue = 0
     if len(system_array) != len(key_array):
         print("Error: length of system does not match length of key")
         sys.exit()
     
     for i in range(len(system_array)):
-        if system_array[i] == key_array[i]:
+        if system_array[i] == key_array[i] and system_array[i]==1:
+            correctTrue += 1
             correct += 1
-        else:
-            incorrect += 1
-    
-    return correct, incorrect
+        elif system_array[i] == key_array[i]:
+            correct += 1
+        
+    incorrect = len(system_array)- correct
+    return correct, incorrect, correctTrue
     
 
 #fscore:
@@ -89,7 +92,7 @@ def fscoreCorrectness(system_array,key_array):
 # - keyGroupCount: total number of plagiarism cases in the ground truth (answer key)
 # - responseGroupCount: total number of plagiarism cases identified by the system (count in detector function)
 
-def fscoreCalculate(correct, incorrect, keyGroupCount, responseGroupCount):
+def fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGroupCount):
 
     # Print the accuracy of document-level detection
     print(f"{correct} out of {correct + incorrect} documents correctly identified.")
@@ -102,8 +105,9 @@ def fscoreCalculate(correct, incorrect, keyGroupCount, responseGroupCount):
     print(f"{correct} groups correctly matched.")
 
     # Calculate precision, recall, and F1 score
-    precision = 100.0 * (correct / responseGroupCount) if responseGroupCount > 0 else 0.0
-    recall = 100.0 * (correct / keyGroupCount) if keyGroupCount > 0 else 0.0
+    
+    precision = 100.0 * (correctTrue / responseGroupCount) if responseGroupCount > 0 else 0.0
+    recall = 100.0 * (correctTrue / keyGroupCount) if keyGroupCount > 0 else 0.0
     F1 = ((2 * precision * recall) / (precision + recall)) if (precision + recall) > 0 else 0.0
 
     # Scale F1 to highlight its significance (optional adjustment)
@@ -126,5 +130,5 @@ if __name__ == "__main__":
     keyGroupCount, total_count, key_array = fscoreKey(suspicious_docs_dir)
     #print(f"Number of plagiarized documents: {plagiarized_docs}")
 
-    correct, incorrect = fscoreCorrectness(system_array,key_array)
-    fscoreCalculate(correct, incorrect, keyGroupCount, responseGroupCount)
+    correct, incorrect, correctTrue = fscoreCorrectness(system_array,key_array)
+    fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGroupCount)
