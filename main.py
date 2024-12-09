@@ -17,15 +17,15 @@ nltk.download('stopwords')
 
 # ---------------------------- Configuration Constants ---------------------------- #
 
-MEASURE = 'cosine'  # Options: 'cosine', 'jaccard'
-DATASET = 'training-corpus'
+MEASURE = 'jaccard'  # Options: 'cosine', 'jaccard'
+DATASET = 'training-corpus'  # Name of your corpus
 SOURCE_FOLDER = os.path.join(DATASET, 'source-document')
 SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 OUTPUT_FILE_TEMPLATE = "similarity_results_ngrams_{ng}_thresh_{thresh}.txt"
 
 # Define ranges for n-grams and similarity thresholds
 NGRAM_MIN = 1
-NGRAM_MAX = 10  # Adjust as needed (Be cautious with high values due to computational constraints)
+NGRAM_MAX = 15  # Adjust as needed (Be cautious with high values due to computational constraints)
 THRESH_MIN = 0.0000
 THRESH_MAX = 0.0100
 THRESH_STEP = 0.0002
@@ -297,28 +297,62 @@ def fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGrou
     rounded_F1 = round(scaled_F1, 2)
     return rounded_F1
 
-def plot_fscore_heatmap(results_df, measure):
+def plot_fscore_heatmap(results_df, measure, corpus_name):
     """
     Plots a heatmap of F1-scores based on n-grams and similarity thresholds.
 
     Args:
         results_df (DataFrame): Pandas DataFrame containing F1-scores with n-grams as rows and thresholds as columns.
         measure (str): Similarity measure used ('cosine' or 'jaccard').
+        corpus_name (str): Name of the corpus/dataset.
     """
-    plt.figure(figsize=(20, 15))
+    # Set the font to Python's default sans-serif
+    plt.rcParams['font.family'] = 'sans-serif'
+    plt.rcParams['font.sans-serif'] = ['DejaVu Sans']  # DejaVu Sans is Matplotlib's default sans-serif font
+
+    plt.figure(figsize=(24, 18))  # Increased figure size for better readability
+
     sns.heatmap(
         results_df,
         cmap='viridis',
-        annot=False,  # Disable annotations
+        annot=False,  # Disable annotations for a cleaner look
         fmt=".2f",
         cbar_kws={'label': 'Scaled F1-Score'}
     )
-    plt.title(f'Heatmap of Scaled F1-Score vs. n-grams and Similarity Threshold ({measure.capitalize()})', fontsize=16)
-    plt.xlabel('Similarity Threshold', fontsize=14)
-    plt.ylabel('n-grams', fontsize=14)
-    plt.xticks(rotation=45)
-    plt.yticks(rotation=0)
-    plt.tight_layout()
+
+    # Adjust the title position using the 'y' parameter and include corpus name
+    plt.title(
+        f'Heatmap of Scaled F1-Score vs. n-grams and Similarity Threshold ({measure.capitalize()})\nCorpus: {corpus_name}',
+        fontsize=20,
+        y=1.05  # Lower the title slightly
+    )
+
+    plt.xlabel('Similarity Threshold', fontsize=16)
+    plt.ylabel('n-grams', fontsize=16)
+
+    # Customize X-axis tick labels to display every other threshold
+    threshold_labels = [f"{thresh:.4f}" for thresh in results_df.columns]
+
+    # Determine the step for label display (e.g., every 2nd label)
+    step = 2  # Change to 3 or 4 if labels are still too dense
+
+    # Generate tick positions centered on each heatmap cell
+    tick_positions = np.arange(0.5, len(threshold_labels), step)
+
+    # Select labels to display
+    selected_labels = [threshold_labels[i] for i in range(0, len(threshold_labels), step)]
+
+    plt.xticks(
+        ticks=tick_positions,
+        labels=selected_labels,
+        rotation=45,
+        fontsize=12
+    )
+
+    # Adjust Y-axis tick labels font size
+    plt.yticks(rotation=0, fontsize=12)
+
+    plt.tight_layout()  # Adjust layout to prevent clipping
     plt.show()
 
 # ----------------------------------------------------------------------------------- #
@@ -410,7 +444,7 @@ if __name__ == "__main__":
     pivot_df = fscore_results_df.pivot(index='n-grams', columns='similarity_threshold', values='Scaled_F1')
     
     # Plot Heatmap
-    plot_fscore_heatmap(pivot_df, MEASURE)
+    plot_fscore_heatmap(pivot_df, MEASURE, DATASET)
     
     # Optionally, save the results to a CSV file
     fscore_results_df.to_csv('fscore_results.csv', index=False)
