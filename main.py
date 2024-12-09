@@ -91,7 +91,7 @@ if __name__ == "__main__":
     preprocessed_documents = preprocess_documents(all_files)
 
     # Compute TF-IDF Vectors using Trigrams
-    tfidf_matrix, terms, vectorizer = compute_tfidf_vectors(preprocessed_documents, ngram_range=(3,3))
+    tfidf_matrix, terms, vectorizer = compute_tfidf_vectors(preprocessed_documents, ngram_range=(10,10))
 
     # Split TF-IDF Vectors into Source and Suspicious
     source_vectors = tfidf_matrix[:len(source_files)]
@@ -111,7 +111,8 @@ if __name__ == "__main__":
                 if sim > max:
                     max = sim
                     maxSource = src_idx
-            out.write(f"Suspicious doc {s_idx+1}, Source doc {maxSource+1}, Similarity: {max:.4f}\n")
+            #out.write(f"Suspicious doc {s_idx+1}, Source doc {maxSource+1}, Similarity: {max:.4f}\n")
+            out.write(f"{max:.4f}\n")
             # Corrected condition to use shape[0] instead of len(suspicious_vectors)
             if (s_idx + 1) % 10 == 0 or (s_idx + 1) == num_suspicious:
                 print(f"Processed {s_idx + 1}/{num_suspicious} suspicious documents.")
@@ -119,4 +120,6 @@ if __name__ == "__main__":
     print(f"Processing complete. Results written to {OUTPUT_FILE}.")
     end_time = time.time()
     print(f"Total execution time: {end_time - start_time:.2f} seconds.")
+
+
 

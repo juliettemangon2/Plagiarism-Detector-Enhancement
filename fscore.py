@@ -1,4 +1,5 @@
 import os
+import sys
 import xml.etree.ElementTree as ET
 
 #fscoreArraySystem:
@@ -7,13 +8,13 @@ import xml.etree.ElementTree as ET
 # Output: binary array of system, responseGroupCount
 
 def fscoreArraySystem(systemOutputFile):
-    responseGroupCount = 0;
+    responseGroupCount = 0
     with open(systemOutputFile, 'r') as file:
-        systemOutput = file.read()
+        systemOutput = file.readlines()
     
     system_array = []
     for sim in systemOutput:
-        if float(sim) > 0.0:
+        if float(sim) > 0:
             system_array.append(1)
             responseGroupCount+= 1
         else:
@@ -59,11 +60,6 @@ def fscoreKey(systemOutputFile):
                 except ET.ParseError:
                     print(f"Error parsing XML file: {file_path}")
     return keyGroupCount, total_count, key_array
-# Path to the extracted folder containing the XML files
-suspicious_docs_dir = '/Users/juliettemangon/Downloads/AnswerKey/external-detection-corpus-training/suspicious-document/part1'
-# Run the function on the suspicious documents systemOutputFile
-plagiarized_docs, total_docs = count_plagiarized_documents(suspicious_docs_dir)
-print(f"Number of plagiarized documents: {plagiarized_docs}")
 
 # fscoreCorrectness:
 # Input: binary array of system, binary array of answer key
@@ -77,7 +73,7 @@ def fscoreCorrectness(system_array,key_array):
         print("Error: length of system does not match length of key")
         sys.exit()
     
-    for i in len(system_array):
+    for i in range(len(system_array)):
         if system_array[i] == key_array[i]:
             correct += 1
         else:
@@ -106,9 +102,9 @@ def fscoreCalculate(correct, incorrect, keyGroupCount, responseGroupCount):
     print(f"{correct} groups correctly matched.")
 
     # Calculate precision, recall, and F1 score
-    precision = 100.0 * correct / responseGroupCount if responseGroupCount > 0 else 0.0
-    recall = 100.0 * correct / keyGroupCount if keyGroupCount > 0 else 0.0
-    F1 = (2 * precision * recall / (precision + recall)) if (precision + recall) > 0 else 0.0
+    precision = 100.0 * (correct / responseGroupCount) if responseGroupCount > 0 else 0.0
+    recall = 100.0 * (correct / keyGroupCount) if keyGroupCount > 0 else 0.0
+    F1 = ((2 * precision * recall) / (precision + recall)) if (precision + recall) > 0 else 0.0
 
     # Scale F1 to highlight its significance (optional adjustment)
     scaled_F1 = F1 * 0.10
@@ -123,3 +119,12 @@ def fscoreCalculate(correct, incorrect, keyGroupCount, responseGroupCount):
     rounded_F1 = int(round(scaled_F1, 0))
     print(f"  Rounded Scaled F1: {rounded_F1}")
 
+if __name__ == "__main__":
+    system_array, responseGroupCount = fscoreArraySystem("similarity_results.txt")
+
+    suspicious_docs_dir = 'training-corpus/suspicious-document'
+    keyGroupCount, total_count, key_array = fscoreKey(suspicious_docs_dir)
+    #print(f"Number of plagiarized documents: {plagiarized_docs}")
+
+    correct, incorrect = fscoreCorrectness(system_array,key_array)
+    fscoreCalculate(correct, incorrect, keyGroupCount, responseGroupCount)
