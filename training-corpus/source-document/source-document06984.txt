@@ -1,0 +1,321 @@
+﻿ "  Ceylonus, 347
+
+ "  Chevrieri, 385
+
+ "  concolor, 345
+
+ "  Confucianus, 384
+
+ "  crassipes, 360
+
+ "  cunicularis, 369
+
+ "  Darjeelingensis, 357
+
+ "  decumanus, 333
+
+ "  Elliotanus, 328
+
+ "  erythronotus, 363
+
+ "  erythrotis, 370
+
+ "  flavipectus, 382
+
+ "  fulvidiventris, 371
+
+ "  giganteus, 329
+
+ "  gliroides, 353
+
+ "  griseipectus, 383
+
+ "  homourus, 356
+
+ "  infralineatus, 339
+
+ "  Khakhyenensis, 372
+
+ "  Nilagiricus, 351
+
+ "  nitidulus, 367
+
+ "  nitidus, 343
+
+ "  niveiventer, 342
+
+ "  oleraceus, 350
+
+ "  ouang-thomae, 381
+
+ "  pachycercus, 362
+
+ "  palmarum, 346
+
+ "  Peguensis, 354; ibid. 366 (By oversight this species has been
+twice described.)
+
+ "  plurimammis, 348
+
+ "  pygmaeus, 386
+
+ "  rattus, 332
+
+ "  robustulus, 335
+
+ "  rubricosa, 337
+
+ "  rufescens, 341
+
+ "  Sladeni, 336
+
+ "  sublimis, 361
+
+ "  terricolor, 365
+
+ "  Tytleri, 358
+
+ "  urbanus, 355
+
+ "  viculorum, 373
+
+ "  Yunnanensis, 338
+
+Mustela alpina, 187
+
+   "    canigula, 184
+
+   "    erminea, 183
+
+   "    Hodgsoni, 188
+
+   "    Horsfieldi, 189
+
+   "    kathiah, 181
+
+   "    Sibirica, 186
+
+   "    Stoliczkana, 185
+
+   "    strigidorsa, 182
+
+Myotis murinus, 108
+
+  "    parvipes, 110
+
+  "    Theobaldi, 109
+
+Myoxus, Appendix A
+
+N.
+
+Nemorhoedus bubalina, 451
+
+     "      Edwardsii, 453
+
+     "      goral, 454
+
+     "      rubida vel Sumatrensis, 452
+
+Nesokia Barclayiana, 327
+
+   "    Blythiana, 326
+
+   "    Elliotanus, 328
+
+   "    giganteus, 329
+
+   "    Hardwickii, 322
+
+   "    Huttoni, 323
+
+   "    providens, 325
+
+   "    Scullyi, 324
+
+Noctulinia noctula, 97-98
+
+Nycticebus tardigradus, 28
+
+Nycticejus atratus, 97-98
+
+    "      canus, 97-98
+
+    "      castaneus, 97-98
+
+    "      Heathii, 97-98
+
+    "      luteus, 97-98
+
+    "      nivicolus, 97-98
+
+    "      ornatus, 97-98
+
+    "      Temminckii, 97-98
+
+Nyctogale elegans, 147
+
+Nyctophilus Geoffroyi, 121
+
+O.
+
+Orcella brevirostris, 258
+
+   "    fluminalis, 259
+
+Ovis Blanfordii, 444
+
+ "   Brookei, 441
+
+ "   cycloceros, 443
+
+ "   Hodgsoni, 439
+
+ "   Karelini, 440
+
+ "   nahura vel burhel, 445
+
+ "   Polii, 438
+
+ "   Vignei, 442
+
+P.
+
+Panolia Eldii, 475
+
+Pantholops Hodgsonii, 460
+
+Paradoxurus bondar, 230
+
+     "      Grayii, 229
+
+     "      laniger, 234
+
+     "      leucotis, 232
+
+     "      musanga, 228
+
+     "      trivirgatus, 231
+
+     "      zeylanicus, 233
+
+Phyllorhina armigera, 64
+
+     "      bicolor, 67
+
+     "      diadema, 61
+
+     "      galerita, 66
+
+     "      leptophylla, 65
+
+     "      Masoni, 62
+
+     "      Nicobarensis, 63
+
+Physeter simus, 270
+
+Platacanthomys lasiurus, 316
+
+Platanista Gangetica, 257
+
+Plecotus auritus vel homochrous, 77
+
+Poephagus grunniens, 467
+
+Porcula Salvania, 437
+
+Portax pictus vel tragocamelus, 462
+
+Presbytes albinus, 16
+
+    "     Barbei, 10
+
+    "     cephalopterus, 13
+
+    "     entellus, 4
+
+    "     Johnii, 7
+
+    "     jubatus, 8
+
+    "     obscurus, 12
+
+    "     Phayrei, 11
+
+    "     pileatus, 9
+
+    "     priamus, 6
+
+    "     schistaceus, 5
+
+    "     thersites, 15
+
+    "     ursinus, 14
+
+Prionodon gracilis, 227
+
+    "     maculosus, 226
+
+    "     pardicolor, 225
+
+Pteromys albiventer, 303
+
+   "     alboniger, 308
+
+   "     alborufus, 301
+
+   "     caniceps, 304
+
+   "     cineraceus, 298
+
+   "     fimbriatus, 307
+
+   "     magnificus, 302
+
+   "     melanopterus, 300
+
+   "     oral, 297
+
+   "     Pearsonii, 305
+
+   "     spadiceus, 309
+
+   "     Yunnanensis, 299
+
+Pteropus Edwardsii vel medius, 31
+
+   "     Leschenaultii, 32
+
+   "     minimus, 34
+
+Putorius astutus, 193
+
+   "     Davidianus, 192
+
+   "     larvatus vel Tibetanus, 191
+
+   "     Moupinensis, 194
+
+R.
+
+Rhinoceros Indicus, 429
+
+    "      lasiotis, 431
+
+    "      Sondaicus, 430
+
+    "      Sumatrensis, 432
+
+Rhinolophus affinis, 43
+
+     "      Andamanensis, 48
+
+     "      coelophyllus, 50
+
+     "      Garoensis, 51
+
+     "      macrotis, 45
+
+     "      minor, 49
+
