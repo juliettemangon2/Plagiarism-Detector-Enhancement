@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import time
+import argparse  # New: Import argparse for command-line argument parsing
 
 # Ensure necessary NLTK data is downloaded
 nltk.download('stopwords')
@@ -18,7 +19,7 @@ nltk.download('stopwords')
 # ---------------------------- Configuration Constants ---------------------------- #
 
 MEASURE = 'jaccard'  # Options: 'cosine', 'jaccard'
-DATASET = 'training-corpus'  # Name of your corpus
+DATASET = 'testing-corpus'  # Name of your corpus
 SOURCE_FOLDER = os.path.join(DATASET, 'source-document')
 SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 OUTPUT_FILE_TEMPLATE = "similarity_results_ngrams_{ng}_thresh_{thresh}.txt"
@@ -355,100 +356,137 @@ def plot_fscore_heatmap(results_df, measure, corpus_name):
     plt.tight_layout()  # Adjust layout to prevent clipping
     plt.show()
 
-# ----------------------------------------------------------------------------------- #
+def plot_heatmap_from_csv(csv_path, measure, corpus_name):
+    """
+    Reads the fscore_results.csv file and plots the heatmap.
 
-# ----------------------------------- Main Execution --------------------------------- #
-
-if __name__ == "__main__":
-    start_time = time.time()
-    
-    # Load Source and Suspicious Files
-    source_files = get_text_files(SOURCE_FOLDER)
-    suspicious_files = get_text_files(SUSPICIOUS_FOLDER)
-    
-    print(f"Number of source files: {len(source_files)}")
-    print(f"Number of suspicious files: {len(suspicious_files)}")
-    
-    if not source_files or not suspicious_files:
-        print("Insufficient files to process. Exiting.")
+    Args:
+        csv_path (str): Path to the fscore_results.csv file.
+        measure (str): Similarity measure used ('cosine' or 'jaccard').
+        corpus_name (str): Name of the corpus/dataset.
+    """
+    if not os.path.exists(csv_path):
+        print(f"CSV file not found: {csv_path}")
         sys.exit()
     
-    # Combine All Files for Vocabulary Creation
-    all_files = source_files + suspicious_files
-    
-    # Preprocess Documents into Raw Text
-    print("Preprocessing documents...")
-    preprocessed_documents = preprocess_documents(all_files)
-    
-    # Load Ground Truth (Answer Key)
-    print("Loading ground truth from XML files...")
-    keyGroupCount, total_count, key_array = fscoreKey(SUSPICIOUS_FOLDER)
-    print(f"Total suspicious documents (XML files): {total_count}")
-    print(f"Plagiarized documents in ground truth: {keyGroupCount}")
-    
-    # Initialize list to store results
-    fscore_results = []
-    
-    # Iterate over n-gram ranges
-    for ng in range(NGRAM_MIN, NGRAM_MAX + 1):
-        print(f"\nProcessing n-grams: {ng}")
-        ngram_range = (ng, ng)
-        
-        # Compute TF-IDF Vectors using N-grams
-        tfidf_matrix, terms, vectorizer = compute_tfidf_vectors(preprocessed_documents, ngram_range=ngram_range)
-        
-        # Split TF-IDF Vectors into Source and Suspicious
-        source_vectors = tfidf_matrix[:len(source_files)]
-        suspicious_vectors = tfidf_matrix[len(source_files):]
-        
-        # Iterate over similarity thresholds
-        for thresh in np.arange(THRESH_MIN, THRESH_MAX + THRESH_STEP, THRESH_STEP):
-            thresh = round(thresh, 4)
-            print(f"  Applying similarity threshold: {thresh}")
-            
-            # Compute Similarity Matrix
-            if MEASURE.lower() == 'cosine':
-                similarity_matrix = compute_cosine_similarities(suspicious_vectors, source_vectors)
-            elif MEASURE.lower() == 'jaccard':
-                similarity_matrix = compute_jaccard_similarities(suspicious_vectors, source_vectors)
-            else:
-                print(f"Unsupported MEASURE: {MEASURE}. Supported measures are 'cosine' and 'jaccard'. Exiting.")
-                sys.exit()
-            
-            # Extract the maximum similarity per suspicious document
-            similarity_scores = similarity_matrix.max(axis=1).tolist()
-            
-            # Apply threshold to get system array
-            system_array, responseGroupCount = fscoreArraySystem(similarity_scores, thresh)
-            
-            # Compute correctness metrics
-            correct, incorrect, correctTrue = fscoreCorrectness(system_array, key_array)
-            
-            # Calculate F1-score
-            scaled_F1 = fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGroupCount)
-            
-            # Store the result as a dictionary
-            result = {
-                'n-grams': ng,
-                'similarity_threshold': thresh,  # Renamed for clarity
-                'Scaled_F1': scaled_F1
-            }
-            fscore_results.append(result)
-            
-            print(f"    Scaled F1-Score: {scaled_F1}")
-    
-    # Convert the list of dictionaries to a DataFrame
-    fscore_results_df = pd.DataFrame(fscore_results)
+    print(f"Reading CSV file: {csv_path}")
+    fscore_results_df = pd.read_csv(csv_path)
     
     # Pivot the DataFrame for Heatmap
     pivot_df = fscore_results_df.pivot(index='n-grams', columns='similarity_threshold', values='Scaled_F1')
     
     # Plot Heatmap
-    plot_fscore_heatmap(pivot_df, MEASURE, DATASET)
-    
-    # Optionally, save the results to a CSV file
-    fscore_results_df.to_csv('fscore_results.csv', index=False)
-    print("\nF1-score results saved to 'fscore_results.csv'.")
-    
+    plot_fscore_heatmap(pivot_df, measure, corpus_name)
+
+# ----------------------------------------------------------------------------------- #
+
+# ----------------------------------- Main Execution --------------------------------- #
+
+if __name__ == "__main__":
+    # Initialize the argument parser
+    parser = argparse.ArgumentParser(description="Plagiarism Detection and Heatmap Generation")
+    parser.add_argument(
+        '--csv',
+        type=str,
+        default=None,
+        help="Path to an existing fscore_results.csv file to generate a heatmap."
+    )
+    args = parser.parse_args()
+
+    start_time = time.time()
+
+    if args.csv:
+        # Mode 2: Generate heatmap from existing CSV
+        plot_heatmap_from_csv(args.csv, MEASURE, DATASET)
+    else:
+        # Mode 1: Process dataset and generate heatmap
+        # Load Source and Suspicious Files
+        source_files = get_text_files(SOURCE_FOLDER)
+        suspicious_files = get_text_files(SUSPICIOUS_FOLDER)
+
+        print(f"Number of source files: {len(source_files)}")
+        print(f"Number of suspicious files: {len(suspicious_files)}")
+
+        if not source_files or not suspicious_files:
+            print("Insufficient files to process. Exiting.")
+            sys.exit()
+
+        # Combine All Files for Vocabulary Creation
+        all_files = source_files + suspicious_files
+
+        # Preprocess Documents into Raw Text
+        print("Preprocessing documents...")
+        preprocessed_documents = preprocess_documents(all_files)
+
+        # Load Ground Truth (Answer Key)
+        print("Loading ground truth from XML files...")
+        keyGroupCount, total_count, key_array = fscoreKey(SUSPICIOUS_FOLDER)
+        print(f"Total suspicious documents (XML files): {total_count}")
+        print(f"Plagiarized documents in ground truth: {keyGroupCount}")
+
+        # Initialize list to store results
+        fscore_results = []
+
+        # Iterate over n-gram ranges
+        for ng in range(NGRAM_MIN, NGRAM_MAX + 1):
+            print(f"\nProcessing n-grams: {ng}")
+            ngram_range = (ng, ng)
+
+            # Compute TF-IDF Vectors using N-grams
+            tfidf_matrix, terms, vectorizer = compute_tfidf_vectors(preprocessed_documents, ngram_range=ngram_range)
+
+            # Split TF-IDF Vectors into Source and Suspicious
+            source_vectors = tfidf_matrix[:len(source_files)]
+            suspicious_vectors = tfidf_matrix[len(source_files):]
+
+            # Iterate over similarity thresholds
+            for thresh in np.arange(THRESH_MIN, THRESH_MAX + THRESH_STEP, THRESH_STEP):
+                thresh = round(thresh, 4)
+                print(f"  Applying similarity threshold: {thresh}")
+
+                # Compute Similarity Matrix
+                if MEASURE.lower() == 'cosine':
+                    similarity_matrix = compute_cosine_similarities(suspicious_vectors, source_vectors)
+                elif MEASURE.lower() == 'jaccard':
+                    similarity_matrix = compute_jaccard_similarities(suspicious_vectors, source_vectors)
+                else:
+                    print(f"Unsupported MEASURE: {MEASURE}. Supported measures are 'cosine' and 'jaccard'. Exiting.")
+                    sys.exit()
+
+                # Extract the maximum similarity per suspicious document
+                similarity_scores = similarity_matrix.max(axis=1).tolist()
+
+                # Apply threshold to get system array
+                system_array, responseGroupCount = fscoreArraySystem(similarity_scores, thresh)
+
+                # Compute correctness metrics
+                correct, incorrect, correctTrue = fscoreCorrectness(system_array, key_array)
+
+                # Calculate F1-score
+                scaled_F1 = fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGroupCount)
+
+                # Store the result as a dictionary
+                result = {
+                    'n-grams': ng,
+                    'similarity_threshold': thresh,  # Renamed for clarity
+                    'Scaled_F1': scaled_F1
+                }
+                fscore_results.append(result)
+
+               # print(f"    Scaled F1-Score: {scaled_F1}")
+
+        # Convert the list of dictionaries to a DataFrame
+        fscore_results_df = pd.DataFrame(fscore_results)
+
+        # Pivot the DataFrame for Heatmap
+        pivot_df = fscore_results_df.pivot(index='n-grams', columns='similarity_threshold', values='Scaled_F1')
+
+        # Plot Heatmap
+        plot_fscore_heatmap(pivot_df, MEASURE, DATASET)
+
+        # Optionally, save the results to a CSV file
+        fscore_results_df.to_csv('fscore_results.csv', index=False)
+        print("\nF1-score results saved to 'fscore_results.csv'.")
+
     end_time = time.time()
     print(f"Total execution time: {end_time - start_time:.2f} seconds.")
