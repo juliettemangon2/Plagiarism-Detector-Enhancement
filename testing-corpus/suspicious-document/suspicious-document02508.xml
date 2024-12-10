@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02508.txt">
+  <feature name="about" authors="Zitkala-Sa" title="American Indian stories" lang="en" />
+  <feature name="md5Hash" value="5c23ec9d4b662b874dc17414b11812a3" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="7838" this_length="496" source_reference="source-document05066.txt" source_language="de" source_offset="98968" source_length="745" />
+</document>
+

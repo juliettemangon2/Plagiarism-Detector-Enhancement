@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10512.txt">
+  <feature name="about" authors="Young, Robert F." title="A Knyght Ther Was" lang="en" />
+  <feature name="md5Hash" value="eac9c2e1f37663a48fc1804c40378dcd" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3303" this_length="797" source_reference="source-document07057.txt" source_language="en" source_offset="8038" source_length="822" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7203" this_length="253" source_reference="source-document07057.txt" source_language="en" source_offset="13344" source_length="270" />
+</document>
+

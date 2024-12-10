@@ -1,0 +1,645 @@
+﻿The watchmaker has had to overcome the same difficulty as the clockmaker with regard to the
+expansion of the metal in the controlling agent. When a metal wheel is heated its spokes lengthen,
+and the rim recedes from the centre. Now, let us suppose that we have two rods of equal weight,
+one three feet long, the other six feet long. To an end of each we fasten a 2-lb. weight. We
+shall find it much easier to wave the shorter rod backwards and forwards quickly than the other.
+Why? Because the weight of the longer rod has more leverage over the hand than has that of
+the shorter rod. Similarly, if, while the mass of the rim of a wheel remains constant, the
+length of the spokes varies, the effort needed to rotate the wheel to and fro at a constant
+rate must vary also. Graham got over the difficulty with a rod by means of the compensating
+pendulum. Thomas Earnshaw mastered it in wheels by means of the compensating balance, using
+the same principle--namely, the unequal expansion of different metals. Any one who owns a compensated
+watch will see, on stopping the tiny fly-wheel, that it has two spokes (Fig. 206), each carrying
+an almost complete semicircle of rim attached to it. A close examination shows that the rim
+is compounded of an outer strip of brass welded to an inner lining of steel. The brass element
+expands more with heat and contracts more with cold than steel; so that when the spokes become
+elongated by a rise of temperature, the pieces bend inwards at their free ends (Fig. 207);
+if the temperature falls, the spokes are shortened, and the rim pieces bend outwards (Fig.
+208).[39] This ingenious contrivance keeps the leverage of the rim constant within very fine
+limits. The screws S S are inserted in the rim to balance it correctly, and very fine adjustment
+is made by means of the four tiny weights W W. In ships' chronometers,[40] the rim pieces are
+sub-compensated towards their free ends to counteract slight errors in the primary compensation.
+So delicate is the compensation that a daily loss or gain of only half a second is often the
+limit of error.
+
+KEYLESS WINDING MECHANISM FOR WATCHES.
+
+The inconvenience attaching to a key-wound watch caused the Swiss manufacturers to put on the
+market, in 1851, watches which dispensed with a separate key. Those of our readers who carry
+keyless watches will be interested to learn how the winding and setting of the hands is effected
+by the little serrated knob enclosed inside the pendant ring.
+
+There are two forms of "going-barrel" keyless mechanism--(1) The rocking bar; (2) the shifting
+sleeve. The rocking bar device is shown in Figs. 209, 210. The milled head M turns a cog, G,
+which is always in gear with a cog, F. This cog gears with two others, A and B, mounted at
+each end of the rocker R, which moves on pivot S. A spring, S P, attached to the watch plate
+presses against a small stud on the rocking bar, and keeps A normally in gear with C, mounted
+on the arbor of the mainspring.
+
+To wind the watch, M is turned so as to give F an anti-clockwise motion. The teeth of F now
+press A downwards and keep it in gear with C while the winding is done. A spring click (marked
+solid black) prevents the spring uncoiling (Fig. 209). If F is turned in a clockwise direction
+it lifts A and prevents it biting the teeth of C, and no strain is thrown on C.
+
+To set the hands, the little push-piece P is pressed inwards by the thumb (Fig. 210) so as
+to depress the right-hand end of R and bring B into gear with D, which in turn moves E, mounted
+on the end of the minute-hand shaft. The hands can now be moved in either direction by turning
+M. On releasing the push-piece the winding-wheels engage again.
+
+The shifting sleeve mechanism has a bevel pinion in the place of G (Fig. 209) gearing with
+the mainspring cog. The shaft of the knob M is round where it passes through the bevel and
+can turn freely inside it, but is square below. On the square part is mounted a little sliding
+clutch with teeth on the top corresponding with the other teeth on the under side of the bevel-wheel,
+and teeth similar to those of G (Fig. 209) at the end. The clutch has a groove cut in the circumference,
+and in this lies the end of a spring lever which can be depressed by the push-piece. The mechanism
+much resembles on a small scale the motor car changing gear (Fig. 49). Normally, the clutch
+is pushed up the square part of the knob shaft by the spring so as to engage with the bevel
+and the winding-wheels. On depressing the clutch by means of the push-piece it gears with the
+minute-hand pinion, and lets go of the bevel.
+
+In one form of this mechanism the push-piece is dispensed with, and the minute-wheel pinion
+is engaged by pulling the knob upwards.
+
+THE HOUR-HAND TRAIN.
+
+The teeth of the mainspring drum gear with a cog on the minute-hand shaft, which also carries
+one of the cogs of the escapement train. The shaft is permitted by the escapement to revolve
+once an hour. Fig. 211 shows diagrammatically how this is managed. The hour-hand shaft A (solid
+black) can be moved round inside the cog B, driven by the mainspring drum. It carries a cog,
+C. This gears with a cog, D, having three times as many teeth. The cog E, united to D, drives
+cog F, having four times as many teeth as E. To F is attached the collar G of the hour-hand.
+F and G revolve outside the minute-hand shaft. On turning A, C turns D and E, E turns F and
+the hour-hand, which revolves 1/3 of 1/4 = 1/12 as fast as A.[41]
+
+       *       *       *       *       *
+
+LOCKS.
+
+On these unfortunately necessary mechanisms a great deal of ingenuity has been expended. With
+the advance of luxury and the increased worship of wealth, it becomes more and more necessary
+to guard one's belongings against the less scrupulous members of society.
+
+The simplest form of lock, such as is found in desks and very cheap articles, works on the
+principle shown in Fig. 212. The bolt is split at the rear, and the upper part bent upwards
+to form a spring. The under edge has two notches cut in it, separated by a curved excrescence.
+The key merely presses the bolt upwards against the spring, until the notch, engaging with
+the frame, moves it backwards or forwards until the spring drives the tail down into the other
+notch. This primitive device affords, of course, very little security. An advance is seen in the
+
+TUMBLER LOCK.
+
+The bolt now can move only in a horizontal direction. It has an opening cut in it with two
+notches (Figs. 213, 214). Behind the bolt lies the tumbler T (indicated by the dotted line),
+pivoted at the angle on a pin. From the face of the tumbler a stud, S, projects through the
+hole in the bolt. This stud is forced into one or other of the notches by the spring, S^1,
+which presses on the tail of the tumbler.
+
+In Fig. 213 the key is about to actuate the locking mechanism. The next diagram (Fig. 214)
+shows how the key, as it enters the notch on the lower side of the bolt to move it along, also
+raises the tumbler stud clear of the projection between the two notches. By the time that the
+bolt has been fully "shot," the key leaves the under notch and allows the tumbler stud to fall
+into the rear locking-notch.
+
+A lock of this type also can be picked very easily, as the picker has merely to lift the tumbler
+and move the bolt along. Barron's lock, patented in 1778, had two tumblers and two studs; and
+the opening in the bolt had notches at the top as well as at the bottom (Fig. 215). This made
+it necessary for both tumblers to be raised simultaneously to exactly the right height. If
+either was not lifted sufficiently, a stud could not clear its bottom notch; if either rose
+too far, it engaged an upper notch. The chances therefore were greatly against a wrong key
+turning the lock.
+
+THE CHUBB LOCK
+
+is an amplification of this principle. It usually has several tumblers of the shape shown in
+Fig. 216. The lock stud in these locks projects from the bolt itself, and the openings, or
+"gates," through which the stud must pass as the lock moves, are cut in the tumblers. It will
+be noticed that the forward notch of the tumbler has square serrations in the edges. These
+engage with similar serrations in the bolt stud and make it impossible to raise the tumbler
+if the bolt begins to move too soon when a wrong key is inserted.
+
+Fig. 217 is a Chubb key with eight steps. That nearest the head (8) operates a circular revolving
+curtain, which prevents the introduction of picking tools when a key is inserted and partly
+turned, as the key slot in the curtain is no longer opposite that in the lock. Step 1 moves
+the bolt.
+
+In order to shoot the bolt the height of the key steps must be so proportioned to the depth
+of their tumblers that all the gates in the tumblers are simultaneously raised to the right
+level for the stud to pass through them, as in Fig. 218. Here you will observe that the tumbler
+D on the extreme right (lifted by step 2 of the key) has a stud, D S, projecting from it over
+the other tumblers. This is called the detector tumbler. If a false key or picking tool is
+inserted it is certain to raise one of the tumblers too far. The detector is then over-lifted
+by the stud D S, and a spring catch falls into a notch at the rear. It is now impossible to
+pick the lock, as the detector can be released only by the right key shooting the bolt a little
+further in the locking direction, when a projection on the rear of the bolt lifts the catch
+and allows the tumbler to fall. The detector also shows that the lock has been tampered with,
+since even the right key cannot move the bolt until the overlocking has been performed.
+
+Each tumbler step of a large Chubb key can be given one of thirty different heights; the bolt
+step one of twenty. By merely transposing the order of the steps in a six-step key it is possible
+to get 720 different combinations. By diminishing or increasing the heights the possible combinations
+may be raised to the enormous total of 7,776,000!
+
+THE YALE LOCK,
+
+which comes from America, works on a quite different system. Its most noticeable feature is
+that it permits the use of a very small key, though the number of combinations possible is
+still enormous (several millions). In our illustrations (Figs. 219, 220, 221) we show the mechanism
+controlling the turning of the key. The keyhole is a narrow twisted slot in the face of a cylinder,
+G (Fig. 219), which revolves inside a larger fixed cylinder, F. As the key is pushed in, the
+notches in its upper edge raise up the pins A^1, B^1, C^1, D^1, E^1, until their tops exactly
+reach the surface of G, which can now be revolved by the key in Fig. 220, and work the bolt
+through the medium of the arm H. (The bolt itself is not shown.) If a wrong key is inserted,
+either some of the lower pins will project upwards into the fixed cylinder F (see Fig. 221),
+or some of the pins in F will sink into G. It is then impossible to turn the key.
+
+There are other well-known locks, such as those invented by Bramah and Hobbs. But as these
+do not lend themselves readily to illustration no detailed account can be given. We might,
+however, notice the time lock, which is set to a certain hour, and can be opened by the right
+key or a number of keys in combination only when that hour is reached. Another very interesting
+device is the automatic combination lock. This may have twenty or more keys, any one of which
+can lock it; but the same one must be used to unlock it, as the key automatically sets the
+mechanism in favour of itself. With such a lock it would be possible to have a different key
+for every day in the month; and if any one key got into wrong hands it would be useless unless
+it happened to be the one which last locked the lock.
+
+       *       *       *       *       *
+
+THE CYCLE.
+
+There are a few features of this useful and in some ways wonderful contrivance which should
+be noticed. First,
+
+THE GEARING OF A CYCLE.
+
+To a good many people the expression "geared to 70 inches," or 65, or 80, as the case may be,
+conveys nothing except the fact that the higher the gear the faster one ought to be able to
+travel. Let us therefore examine the meaning of such a phrase before going farther.
+
+The safety cycle is always "geared up"--that is, one turn of the pedals will turn the rear
+wheel more than once. To get the exact ratio of turning speed we count the teeth on the big
+chain-wheel, and the teeth on the small chain-wheel attached to the hub of the rear wheel,
+and divide the former by the latter. To take an example:--The teeth are 75 and 30 in number
+respectively; the ratio of speed therefore = 75/30 = 5/2 = 2-1/2. One turn of the pedal turns
+the rear wheel 2-1/2 times. The gear of the cycle is calculated by multiplying this result
+by the diameter of the rear wheel in inches. Thus a 28-inch wheel would in this case give a
+gear of 2-1/2 × 28 = 70 inches.
+
+One turn of the pedals on a machine of this gear would propel the rider as far as if he were
+on a high "ordinary" with the pedals attached directly to a wheel 70 inches in diameter. The
+gearing is raised or lowered by altering the number ratio of the teeth on the two chain-wheels.
+If for the 30-tooth wheel we substituted one of 25 teeth the gearing would be--
+
+  75/25 × 28 inches = 84 inches.
+
+A handy formula to remember is, gearing = T/t × D, where T = teeth on large chain-wheel; t
+= teeth on small chain-wheel; and D = diameter of driving-wheel in inches.
+
+Two of the most important improvements recently added to the cycle are--(1) The free wheel;
+(2) the change-speed gear.
+
+THE FREE WHEEL
+
+is a device for enabling the driving-wheel to overrun the pedals when the rider ceases pedalling;
+it renders the driving-wheel "free" of the driving gear. It is a ratchet specially suited for
+this kind of work. From among the many patterns now marketed we select the Micrometer free-wheel
+hub (Fig. 222), which is extremely simple. The ratchet-wheel R is attached to the hub of the
+driving-wheel. The small chain-wheel (or "chain-ring," as it is often called) turns outside
+this, on a number of balls running in a groove chased in the neck of the ratchet. Between these
+two parts are the pawls, of half-moon shape. The driving-wheel is assumed to be on the further
+side of the ratchet. To propel the cycle the chain-ring is turned in a clockwise direction.
+Three out of the six pawls at once engage with notches in the ratchet, and are held tightly
+in place by the pressure of the chain-ring on their rear ends. The other three are in a midway
+position.
+
+When the rider ceases to pedal, the chain-ring becomes stationary, but the ratchet continues
+to revolve. The pawls offer no resistance to the ratchet teeth, which push them up into the
+semicircular recesses in the chain-ring. Each one rises as it passes over a tooth. It is obvious
+that driving power cannot be transmitted again to the road wheel until the chain-wheel is turned
+fast enough to overtake the ratchet.
+
+THE CHANGE-SPEED GEAR.
+
+A gain in speed means a loss in power, and vice versâ. By gearing-up a cycle we are able to
+make the driving-wheel revolve faster than the pedals, but at the expense of control over the
+driving-wheel. A high-geared cycle is fast on the level, but a bad hill-climber. The low-geared
+machine shows to disadvantage on the flat, but is a good hill-climber. Similarly, the express
+engine must have large driving-wheels, the goods engine small driving-wheels, to perform their
+special functions properly.
+
+In order to travel fast over level country, and yet be able to mount hills without undue exertion,
+we must be able to do what the motorist does--change gear. Two-speed and three-speed gears
+are now very commonly fitted to cycles. They all work on the same principle, that of the epicyclic
+train of cog-wheels, the mechanisms being so devised that the hub turns more slowly than, at
+the same speed as, or faster than the small chain-wheel,[42] according to the wish of the rider.
+
+We do not propose to do more here than explain the principle of the epicyclic train, which
+means "a wheel on (or running round) a wheel." Lay a footrule on the table and roll a cylinder
+along it by the aid of a second rule, parallel to the first, but resting on the cylinder. It
+will be found that, while the cylinder advances six inches, the upper rule advances twice that
+distance. In the absence of friction the work done by the agent moving the upper rule is equal
+to that done in overcoming the force which opposes the forward motion of the cylinder; and
+as the distance through which the cylinder advances is only half that through which the upper
+rule advances, it follows that the force which must act on the upper rule is only half as great
+as that overcome in moving the cylinder. The carter makes use of this principle when he puts
+his hand to the top of a wheel to help his cart over an obstacle.
+
+Now see how this principle is applied to the change-speed gear. The lower rule is replaced
+by a cog-wheel, C (Fig. 223); the cylinder by a cog, B, running round it; and the upper rule
+by a ring, A, with internal teeth. We may suppose that A is the chain-ring, B a cog mounted
+on a pin projecting from the hub, and C a cog attached to the fixed axle. It is evident that
+B will not move so fast round C as A does. The amount by which A will get ahead of B can be
+calculated easily. We begin with the wheels in the position shown in Fig. 223. A point, I,
+on A is exactly over the topmost point of C. For the sake of convenience we will first assume
+that instead of B running round C, B is revolved on its axis for one complete revolution in
+a clockwise direction, and that A and C move as in Fig. 224. If B has 10 teeth, C 30, and A
+40, A will have been moved 10/40 = 1/4 of a revolution in a clockwise direction, and C 10/30
+= 1/3 of a revolution in an anti-clockwise direction.
+
+Now, coming back to what actually does happen, we shall be able to understand how far A rotates
+round C relatively to the motion of B, when C is fixed and B rolls (Fig. 225). B advances 1/3
+of distance round C; A advances 1/3 + 1/4 = 7/12 of distance round B. The fractions, if reduced
+to a common denominator, are as 4:7, and this is equivalent to 40 (number of teeth on A): 40
++ 30 (teeth on A + teeth on C.)
+
+To leave the reader with a very clear idea we will summarize the matter thus:--If T = number
+of teeth on A, t = number of teeth on C, then movement of A: movement of B:: T + t: T.
+
+Here is a two-speed hub. Let us count the teeth. The chain-ring (= A) has 64 internal teeth,
+and the central cog (= C) on the axle has 16 teeth. There are four cogs (= B) equally spaced,
+running on pins projecting from the hub-shell between A and C. How much faster than B does
+A run round C? Apply the formula:--Motion of A: motion of B:: 64 + 16: 64. That is, while A
+revolves once, B and the hub and the driving-wheel will revolve only 64/80 = 4/5 of a turn.
+To use scientific language, B revolves 20 per cent. slower than A.
+
+This is the gearing we use for hill-climbing. On the level we want the driving-wheel to turn
+as fast as, or faster than, the chain-ring. To make it turn at the same rate, both A and C
+must revolve together. In one well-known gear this is effected by sliding C along the spindle
+of the wheel till it disengages itself from the spindle, and one end locks with the plate which
+carries A. Since B is now being pulled round at the bottom as well as the top, it cannot rotate
+on its own axis any longer, and the whole train revolves solidly--that is, while A turns through
+a circle B does the same.
+
+To get an increase of gearing, matters must be so arranged that the drive is transmitted from
+the chain-wheel to B, and from A to the hub. While B describes a circle, A and the driving-wheel
+turn through a circle and a part of a circle--that is, the driving-wheel revolves faster than
+the hub. Given the same number of teeth as before, the proportional rates will be A = 80, B
+= 64, so that the gear rises 25 per cent.
+
+By means of proper mechanism the power is transmitted in a three-speed gear either (1) from
+chain-wheel to A, A to B, B to wheel = low gear; or (2) from chain-wheel to A and C simultaneously
+= solid, normal, or middle gear; or (3) from chain-wheel to B, B to A, A to wheel = high gear.
+In two-speed gears either 1 or 3 is omitted.
+
+       *       *       *       *       *
+
+AGRICULTURAL MACHINES.
+
+THE THRESHING-MACHINE.
+
+Bread would not be so cheap as it is were the flail still the only means of separating the
+grain from the straw. What the cream separator has done for the dairy industry (p. 384), the
+threshing-machine has done for agriculture. A page or two ought therefore to be spared for
+this useful invention.
+
+In Fig. 226 a very complete fore-and-aft section of the machine is given. After the bands of
+the sheaves have been cut, the latter are fed into the mouth of the drum A by the feeder, who
+stands in the feeding-box on the top of the machine. The drum revolves at a very high velocity,
+and is fitted with fluted beaters which act against a steel concave, or breastwork, B, the
+grain being threshed out of the straw in passing between the two. The breastwork is provided
+with open wires, through which most of the threshed grain, cavings (short straws), and chaff
+passes on to a sloping board. The straw is flung forward on to the shakers C, which gradually
+move the straw towards the open end and throw it off. Any grain, etc., that has escaped the
+drum falls through the shakers on to D, and works backwards to the caving riddles, or moving
+sieves, E. The main blower, by means of a revolving fan, N, sends air along the channel X upwards
+through these riddles, blowing the short straws away to the left. The grain, husks, and dust
+fall through E on to G, over the end of which they fall on to the chaff riddle, H. A second
+column of air from the blower drives the chaff away. The heavy grain, seeds, dust, etc., fall
+on to I, J, and K in turn, and are shaken until only the grain remains to pass along L to the
+elevator bottom, M. An endless band with cups attached to it scoops up the grain, carries it
+aloft, and shoots it into hopper P. It then goes through the shakers Q, R, is dusted by the
+back end blower, S, and slides down T into the open end of the rotary screen-drum U, which
+is mounted on the slope, so that as it turns the grain travels gradually along it. The first
+half of the screen has wires set closely together. All the small grain that falls through this,
+called "thirds," passes into a hopper, and is collected in a sack attached to the hopper mouth.
+The "seconds" fall through the second half of the drum, more widely spaced, into their sack;
+and the "firsts" fall out of the end and through a third spout.
+
+MOWING-MACHINES.
+
+The ordinary lawn--mower employs a revolving reel, built up of spirally-arranged knives, the
+edges of which pass very close to a sharp plate projecting from the frame of the mower. Each
+blade, as it turns, works along the plate, giving a shearing cut to any grass that may be caught
+between the two cutting edges. The action is that of a pair of scissors (Fig. 227), one blade
+representing the fixed, the other the moving knife. If you place a cylinder of wood in the
+scissors it will be driven forward by the closing of the blades, and be marked by them as it
+passes along the edges. The same thing happens with grass, which is so soft that it is cut
+right through.
+
+HAY-CUTTER.
+
+The hay-cutter is another adaptation of the same principle. A cutter-bar is pulled rapidly
+backwards and forwards in a frame which runs a few inches above the ground by a crank driven
+by the wheels through gearing. To the front edge of the bar are attached by one side a number
+of triangular knives. The frame carries an equal number of spikes pointing forward horizontally.
+Through slots in these the cutter-bar works, and its knives give a drawing cut to grass caught
+between them and the sides of the spikes.
+
+       *       *       *       *       *
+
+SOME NATURAL PHENOMENA.
+
+WHY SUN-HEAT VARIES IN INTENSITY.
+
+The more squarely parallel heat-rays strike a surface the greater will be the number that can
+affect that surface. This is evident from Figs. 228, 229, where A B is an equal distance in
+both cases. The nearer the sun is to the horizon, the more obliquely do its rays strike the
+earth. Hence midday is necessarily warmer than the evening, and the tropics, where the sun
+stands overhead, are hotter than the temperate zones, where, even in summer at midday, the
+rays fall more or less on the slant.
+
+The atmospheric envelope which encompasses the earth tends to increase the effect of obliquity,
+since a slanting ray has to travel further through it and is robbed of more heat than a vertical
+ray.
+
+THE TIDES.
+
+All bodies have an attraction for one another. The earth attracts the moon, and the moon attracts
+the earth. Now, though the effect of this attraction is not visible as regards the solid part
+of the globe, it is strongly manifested by the water which covers a large portion of the earth's
+surface. The moon attracts the water most powerfully at two points, that nearest to it and
+that furthest away from it; as shown on an exaggerated scale in Fig. 230. Since the earth and
+the water revolve as one mass daily on their axis, every point on the circumference would be
+daily nearest to and furthest from the moon at regular intervals, and wherever there is ocean
+there would be two tides in that period, were the moon stationary as regards the earth. (It
+should be clearly understood that the tides are not great currents, but mere thickenings of
+the watery envelope. The inrush of the tide is due to the temporary rise of level.)
+
+WHY HIGH TIDE VARIES DAILY.
+
+The moon travels round the earth once in twenty-eight days. In Fig. 231 the point a is nearest
+the moon at, say, twelve noon. At the end of twenty-four hours it will have arrived at the
+same position by the compass, but yet not be nearest to the moon, which has in that period
+moved on 1/28th of a revolution round the earth.[43] Consequently high tide will not occur
+till a has reached position b and overtaken the moon, as it were, which takes about an hour
+on the average. This explains why high tide occurs at intervals of more than twelve hours.
+
+NEAP TIDES AND SPRING TIDES.
+
+The sun, as well as the moon, attracts the ocean, but with less power, owing to its being so
+much further away. At certain periods of the month, sun, earth, and moon are all in line. Sun
+and moon then pull together, and we get the highest, or spring tides (Fig. 232). When sun and
+moon pull at right angles to one another--namely, at the first and third quarters--the excrescence
+caused by the moon is flattened (Fig. 233), and we get the lowest, or neap tides.
+
+[39] In both Figs. 207 and 208 the degree of expansion is very greatly exaggerated.
+
+[40] As the sun passes the meridian (twelve o'clock, noon) the chronometer's reading is taken,
+and the longitude, or distance east or west of Greenwich, is reckoned by the difference in
+time between local noon and that of the chronometer.
+
+[41] For much of the information given here about clocks and watches the author is indebted
+to "The History of Watches," by Mr. J.F. Kendal.
+
+[42] We shall here notice only those gears which are included in the hub of the driving-wheel.
+
+[43] The original position of the moon is indicated by the dotted circle.
+
+INDEX.
+
+NOTE.--Figures in italics signify that an illustration of the thing referred to appears on
+the page.
+
+  Aberration, spherical, of lens, 243.
+
+  Acoustics, 294.
+
+  Achromatic lens, 243.
+
+  Action carriage of piano, 283.
+
+  Advancing the spark, 102.
+
+  Air-gun, 342.
+
+  Air-pump for cycle tyres, 340;
+    for Westinghouse brake, 199.
+
+  Alternating currents, 164;
+    dynamo, 164.
+
+  Amperage, 125.
+
+  Angle of advance, 57, 58;
+    incidence, 268;
+    reflection, 268.
+
+  Aorta, 360.
+
+  Arc lamp, 182.
+
+  Archimedes, 412.
+
+  Armature, 162.
+
+  Arteries, 358.
+
+  Arterial blood, 359.
+
+  Atmospheric pressure, 350.
+
+  Auditory nerve, 272.
+
+  Automatic brakes, 188;
+    signalling, 228;
+    stoker, 399.
+
+  Backfall, 298.
+
+  Balance-wheel, 419.
+
+  Ball cock, 366, 367.
+
+  Balloon, fire, 323;
+    gas, 347.
+
+  Barometer, aneroid, 328, 329;
+    and weather, 331;
+    Fortin's, 326;
+    meaning of, 325;
+    simple, 328;
+    wheel, 327.
+
+  Beau de Rochas, 89.
+
+  Bell, diving, 332;
+    electric, 119, 120.
+
+  Bellows of organ, 303.
+
+  Bioscope, 266.
+
+  Blades, turbine, 81, 83.
+
+  Block system, 201, 212.
+
+  Blood, arterial, 359;
+    circulation of, 356, 357, 360;
+    venous, 359.
+
+  Blower-plate, 393, 394.
+
+  Boat, sails of, 346.
+
+  Boiler, Babcock and Wilcox, 21, 22;
+    explosions, 34, 391;
+    fire-tube, 21;
+    fittings, 31;
+    Lancashire, 25, 26;
+    locomotive, 20, 23;
+    multitubular, 21;
+    principle of, 15;
+    stored energy in, 32;
+    vertical, 25;
+    water supply to, 39;
+    water-tube, 21.
+
+  Brakes, hydraulic, 188;
+    motor car, 110;
+    railway, 187;
+    vacuum, 189, 190, 191;
+    Westinghouse, 194, 195, 197.
+
+  Bramah, 363, 437.
+
+  Breezes, land and sea, 324.
+
+  Brushes of dynamo, 161, 172.
+
+  Bunsen burner, 409.
+
+  Burning-glass, 232.
+
+  Camera, the, 233;
+    pinhole, 234, 235.
+
+  Canals, semicircular, 273.
+
+  Capillary attraction, 392;
+    veins, 358.
+
+  Carbon dioxide, 27, 359;
+    monoxide, 27.
+
+  Carburetter, 98, 99.
+
+  Cardan shaft, 93.
+
+  Carmania, the, 83.
+
+  Centrifugal force, 382.
+
+  Change-speed gear, 105, 442.
+
+  Chassis of motor car, 92.
+
+  Circulation of water in a boiler, 17, 18, 19;
+    of water in a motor car, 95, 97.
+
+  Clarionet, 308.
+
+  Clock, first weight-driven, 412;
+    water, 410.
+
+  Clutch of motor car, 105.
+
+  Coal, as fuel, 15;
+    gas, 394;
+    gas making, 394;
+    gas plant, 396;
+    gas, purification of, 397.
+
+  Cochlea, 273.
+
+  Coherer, 140.
+
+  Coil, Ruhmkorff, 121.
+
+  Coke, 395.
+
+  Combinations in Chubb lock, 436;
+    Yale lock, 436.
+
+  Combustion, 26, 393;
+    perfect, 28.
+
+  Compensating gear, 107, 108.
+
+  Compound engines, 59;
+    arrangement of, 61;
+    invention of, 59.
+
+  Compound locomotives, 62.
+
+  Compound microscope, 261.
+
+  Condenser, marine, 71, 72;
+    of Ruhmkorff coil, 123.
+
+  Conduit, 176.
+
+  Convex lens, image cast by, 236.
+
+  Conjugate foci, 262.
+
+  Cornet, 308.
+
+  Corti, rods of, 274.
+
+  Coxwell, 348.
+
+  Cream separator, 381, 383.
+
+  Current, reversal of electric, 130, 131;
+    transformation of, 124.
+
+  Cushioning of steam, 55.
+
+  Cycle, gearing of, 439.
+
+  Cylinder, hydraulic press, 363;
+    steam, 49.
+
+  Danes, 382.
+
+  Dead point, 47.
+
+  De Brouwer stoker, 401.
+
+  Detector in Chubb lock, 435.
+
+  Diving-bell, 332;
+    simple, 333, 334.
+
+  Diving-dress, 335.
+
+  Direction of current in dynamo circuit, 163.
+
+  Diver's feats, 338;
+    helmet, 336;
+    lamp, 338.
+
+  Donkey-engines, 68.
+
+  Doorstop, self-closing, 344.
+
+  Double-cylinder engines, 47.
+
+  Draught, forced, 28, 29;
+    induced, 29.
+
+  Drum and fusee, 414.
+
+  Durability of motor-car engine, 96.
+
+  D-valve, 67.
+

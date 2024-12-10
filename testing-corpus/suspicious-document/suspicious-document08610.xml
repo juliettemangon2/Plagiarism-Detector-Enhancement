@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08610.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Marcella" lang="en" />
+  <feature name="md5Hash" value="3acff336b92024e1645daf676181f7fb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="553" this_length="249" source_reference="source-document02724.txt" source_language="en" source_offset="348913" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8776" this_length="247" source_reference="source-document02724.txt" source_language="en" source_offset="257217" source_length="260" />
+</document>
+

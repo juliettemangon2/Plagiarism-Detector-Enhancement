@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00509.txt">
+  <feature name="about" authors="Sherman, John" title="Recollections of Forty Years in the House, Senate and Cabinet An Autobiography." lang="en" />
+  <feature name="md5Hash" value="06bc5d9b9fabfa4c85cf08e55b7115e8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8172" this_length="4554" source_reference="source-document03584.txt" source_language="en" source_offset="924602" source_length="4550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13428" this_length="236" source_reference="source-document03584.txt" source_language="en" source_offset="897772" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45456" this_length="22063" source_reference="source-document02804.txt" source_language="en" source_offset="172193" source_length="21734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90098" this_length="19245" source_reference="source-document02804.txt" source_language="en" source_offset="255222" source_length="19754" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134100" this_length="23827" source_reference="source-document02804.txt" source_language="en" source_offset="331838" source_length="22421" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209910" this_length="23346" source_reference="source-document02804.txt" source_language="en" source_offset="217838" source_length="24018" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268825" this_length="16628" source_reference="source-document02804.txt" source_language="en" source_offset="91035" source_length="16999" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315235" this_length="246" source_reference="source-document03584.txt" source_language="en" source_offset="1558" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315482" this_length="239" source_reference="source-document02804.txt" source_language="en" source_offset="167595" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316577" this_length="520" source_reference="source-document02804.txt" source_language="en" source_offset="143650" source_length="521" />
+</document>
+

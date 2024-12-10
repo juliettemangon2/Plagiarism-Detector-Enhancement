@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10508.txt">
+  <feature name="about" authors="Slater, John Rothwell" title="Printing and the Renaissance A paper read before the Fortnightly Club of Rochester, New York" lang="en" />
+  <feature name="md5Hash" value="2e549d683d8a8d7400304207cfb28dbf" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="581" this_length="1935" source_reference="source-document09977.txt" source_language="en" source_offset="12611" source_length="1979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2517" this_length="299" source_reference="source-document09977.txt" source_language="en" source_offset="6289" source_length="274" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3105" this_length="254" source_reference="source-document09977.txt" source_language="en" source_offset="8991" source_length="257" />
+</document>
+

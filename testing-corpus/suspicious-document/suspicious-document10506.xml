@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10506.txt">
+  <feature name="about" authors="Strickland, Samuel" title="Twenty-Seven Years in Canada West The Experience of an Early Settler (Volume I)" lang="en" />
+  <feature name="md5Hash" value="944f0fb060d4c1876b57b866a78ca397" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2139" this_length="459" source_reference="source-document09945.txt" source_language="en" source_offset="2287" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16963" this_length="12110" source_reference="source-document04256.txt" source_language="en" source_offset="0" source_length="18745" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125439" this_length="3063" source_reference="source-document05836.txt" source_language="en" source_offset="7442" source_length="3064" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="160919" this_length="13438" source_reference="source-document01894.txt" source_language="en" source_offset="5472" source_length="15611" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="261305" this_length="3758" source_reference="source-document05836.txt" source_language="en" source_offset="2122" source_length="3726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275164" this_length="4142" source_reference="source-document04838.txt" source_language="en" source_offset="6071" source_length="4486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="307537" this_length="1544" source_reference="source-document05836.txt" source_language="en" source_offset="180" source_length="1526" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316119" this_length="4580" source_reference="source-document01894.txt" source_language="en" source_offset="25268" source_length="4653" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="342723" this_length="257" source_reference="source-document05061.txt" source_language="en" source_offset="3064" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="352688" this_length="1659" source_reference="source-document01193.txt" source_language="en" source_offset="1301" source_length="1734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="357167" this_length="253" source_reference="source-document01193.txt" source_language="en" source_offset="759" source_length="265" />
+</document>
+

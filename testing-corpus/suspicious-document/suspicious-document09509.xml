@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09509.txt">
+  <feature name="about" authors="Leinster, Murray" title="Attention Saint Patrick" lang="en" />
+  <feature name="md5Hash" value="a4387a17d40f05e2f0ecd2137162fd3d" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="591" this_length="23660" source_reference="source-document07267.txt" source_language="en" source_offset="454" source_length="21702" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29706" this_length="3607" source_reference="source-document07742.txt" source_language="en" source_offset="0" source_length="3681" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34147" this_length="3921" source_reference="source-document09481.txt" source_language="en" source_offset="3744" source_length="4191" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39143" this_length="2461" source_reference="source-document03785.txt" source_language="en" source_offset="151643" source_length="2442" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42031" this_length="1381" source_reference="source-document03785.txt" source_language="en" source_offset="149292" source_length="1456" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43712" this_length="549" source_reference="source-document07267.txt" source_language="en" source_offset="22156" source_length="517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44322" this_length="270" source_reference="source-document03785.txt" source_language="en" source_offset="112901" source_length="264" />
+</document>
+

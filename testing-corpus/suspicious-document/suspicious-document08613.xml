@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08613.txt">
+  <feature name="about" authors="MacDonald, George" title="Thomas Wingfold, Curate V2" lang="en" />
+  <feature name="md5Hash" value="44d77ebeb4b6ea49d16d277a930366e6" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8905" this_length="5201" source_reference="source-document00608.txt" source_language="en" source_offset="192495" source_length="5113" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="49996" this_length="10772" source_reference="source-document00608.txt" source_language="en" source_offset="153079" source_length="23762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134831" this_length="21887" source_reference="source-document00608.txt" source_language="en" source_offset="48203" source_length="22999" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166357" this_length="3001" source_reference="source-document00608.txt" source_language="en" source_offset="234327" source_length="18486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="219048" this_length="6948" source_reference="source-document00608.txt" source_language="en" source_offset="197768" source_length="18440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="256281" this_length="585" source_reference="source-document00608.txt" source_language="en" source_offset="257741" source_length="506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257953" this_length="211" source_reference="source-document00608.txt" source_language="en" source_offset="219843" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="258834" this_length="232" source_reference="source-document00608.txt" source_language="en" source_offset="222554" source_length="232" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="259770" this_length="255" source_reference="source-document02495.txt" source_language="en" source_offset="6480" source_length="262" />
+</document>
+

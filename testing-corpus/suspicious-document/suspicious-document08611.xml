@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08611.txt">
+  <feature name="about" authors="Green, Horace" title="The Log of a Noncombatant" lang="en" />
+  <feature name="md5Hash" value="a5a082c2df962ab390f1cb057d53ce83" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="733" this_length="1925" source_reference="source-document02939.txt" source_language="en" source_offset="1112" source_length="1918" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6419" this_length="9966" source_reference="source-document03091.txt" source_language="en" source_offset="67767" source_length="19757" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28497" this_length="17231" source_reference="source-document03091.txt" source_language="en" source_offset="148221" source_length="18848" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47912" this_length="25142" source_reference="source-document03091.txt" source_language="en" source_offset="88280" source_length="24894" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="84790" this_length="21751" source_reference="source-document03091.txt" source_language="en" source_offset="33518" source_length="20813" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114217" this_length="3162" source_reference="source-document03091.txt" source_language="en" source_offset="22730" source_length="3098" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122130" this_length="16735" source_reference="source-document03091.txt" source_language="en" source_offset="116094" source_length="16791" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141644" this_length="2738" source_reference="source-document06118.txt" source_language="en" source_offset="2656" source_length="3006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="145917" this_length="3683" source_reference="source-document02939.txt" source_language="en" source_offset="3453" source_length="3945" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="151730" this_length="4661" source_reference="source-document06567.txt" source_language="en" source_offset="315" source_length="5004" />
+</document>
+

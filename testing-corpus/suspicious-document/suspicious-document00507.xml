@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00507.txt">
+  <feature name="about" authors="Stratton-Porter, Gene" title="Freckles" lang="en" />
+  <feature name="md5Hash" value="b044a085c3cd8cae37aa1a1a31b97c85" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1" this_length="13836" source_reference="source-document10036.txt" source_language="de" source_offset="252310" source_length="15261" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13838" this_length="3476" source_reference="source-document00557.txt" source_language="de" source_offset="318" source_length="3990" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17363" this_length="21319" source_reference="source-document10036.txt" source_language="de" source_offset="79732" source_length="23376" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="38683" this_length="20659" source_reference="source-document06578.txt" source_language="de" source_offset="908368" source_length="23181" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="59376" this_length="1688" source_reference="source-document10036.txt" source_language="de" source_offset="295440" source_length="1859" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="61065" this_length="3757" source_reference="source-document00557.txt" source_language="de" source_offset="14663" source_length="4156" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="64884" this_length="22119" source_reference="source-document10036.txt" source_language="de" source_offset="128617" source_length="24356" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="87004" this_length="3305" source_reference="source-document01600.txt" source_language="de" source_offset="533" source_length="3754" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="90310" this_length="3657" source_reference="source-document06578.txt" source_language="de" source_offset="115741" source_length="4037" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="93968" this_length="3758" source_reference="source-document00557.txt" source_language="de" source_offset="4862" source_length="4214" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="97727" this_length="458" source_reference="source-document01600.txt" source_language="de" source_offset="0" source_length="533" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="98186" this_length="1569" source_reference="source-document01600.txt" source_language="de" source_offset="4670" source_length="1718" />
+</document>
+

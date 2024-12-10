@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00510.txt">
+  <feature name="about" authors="Sinclair, May" title="Superseded" lang="en" />
+  <feature name="md5Hash" value="4379ea9282b255022b150c168d7f4519" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37161" this_length="11596" source_reference="source-document00726.txt" source_language="en" source_offset="293044" source_length="17502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82562" this_length="498" source_reference="source-document00726.txt" source_language="en" source_offset="321029" source_length="502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96767" this_length="3864" source_reference="source-document04662.txt" source_language="en" source_offset="22512" source_length="3951" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106471" this_length="2534" source_reference="source-document04662.txt" source_language="en" source_offset="16973" source_length="2535" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119332" this_length="4496" source_reference="source-document04662.txt" source_language="en" source_offset="7288" source_length="4483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="141513" this_length="482" source_reference="source-document00726.txt" source_language="en" source_offset="381052" source_length="480" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="143824" this_length="737" source_reference="source-document04662.txt" source_language="en" source_offset="4522" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148219" this_length="765" source_reference="source-document00726.txt" source_language="en" source_offset="74096" source_length="774" />
+</document>
+

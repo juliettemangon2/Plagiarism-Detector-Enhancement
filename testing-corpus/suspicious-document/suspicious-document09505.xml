@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09505.txt">
+  <feature name="about" authors="Swedenborg, Emanuel" title="Angelic Wisdom about Divine Providence" lang="en" />
+  <feature name="md5Hash" value="6cb9bacdbaaf63f63a63c459b3ddf9ee" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42" this_length="3672" source_reference="source-document07328.txt" source_language="en" source_offset="133778" source_length="3717" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4339" this_length="2487" source_reference="source-document07328.txt" source_language="en" source_offset="71058" source_length="2491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7257" this_length="2952" source_reference="source-document07328.txt" source_language="en" source_offset="29434" source_length="3005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10210" this_length="1741" source_reference="source-document07328.txt" source_language="en" source_offset="4552" source_length="1748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12475" this_length="3055" source_reference="source-document07328.txt" source_language="en" source_offset="150281" source_length="3059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15531" this_length="4652" source_reference="source-document07328.txt" source_language="en" source_offset="156713" source_length="4650" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20823" this_length="526" source_reference="source-document07328.txt" source_language="en" source_offset="142900" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21350" this_length="707" source_reference="source-document07328.txt" source_language="en" source_offset="17541" source_length="714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22109" this_length="231" source_reference="source-document02824.txt" source_language="en" source_offset="89" source_length="235" />
+</document>
+

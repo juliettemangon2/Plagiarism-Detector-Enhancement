@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10505.txt">
+  <feature name="about" authors="Barrow, Sarah L." title="Funny Big Socks Being the Fifth Book of the Series" lang="en" />
+  <feature name="md5Hash" value="7d0524441f41428741fb33a42817c61c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3286" this_length="5381" source_reference="source-document05013.txt" source_language="en" source_offset="49" source_length="4842" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41378" this_length="1973" source_reference="source-document05013.txt" source_language="en" source_offset="5102" source_length="1899" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50771" this_length="3920" source_reference="source-document05013.txt" source_language="en" source_offset="9666" source_length="4092" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74759" this_length="1926" source_reference="source-document01037.txt" source_language="en" source_offset="265321" source_length="1947" />
+</document>
+
