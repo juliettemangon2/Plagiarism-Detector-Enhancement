@@ -20,7 +20,7 @@ nltk.download('stopwords')
 # ---------------------------- Configuration Constants ---------------------------- #
 
 MEASURE = 'cosine'  # Options: 'cosine', 'jaccard'
-DATASET = 'testing-corpus'  # Name of your corpus
+DATASET = 'training-corpus'  # Name of your corpus
 SOURCE_FOLDER = os.path.join(DATASET, 'source-document')
 SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 OUTPUT_FILE_TEMPLATE = "similarity_results_ngrams_{ng}_thresh_{thresh}.txt"
@@ -77,6 +77,11 @@ def preprocess_single_document(file):
     try:
         with open(file, 'r', encoding='utf-8') as f:
             text = remove_punctuation(f.read().lower())
+            words = text.split()
+            # Keep words of length > 3 to reduce noise
+            words = [w for w in words if len(w) > 3]
+            text = " ".join(words)
+
             return text
     except Exception as e:
         print(f"Error processing file {file}: {e}")
@@ -101,22 +106,11 @@ def preprocess_documents(files):
     return preprocessed_documents
 
 def compute_tfidf_vectors(documents, ngram_range=(3,3)):
-    """
-    Computes TF-IDF vectors for the given documents.
-
-    Args:
-        documents (list): List of preprocessed texts.
-        ngram_range (tuple): The lower and upper boundary of the range of n-values for different n-grams.
-
-    Returns:
-        tuple: TF-IDF matrix, list of terms, and the vectorizer object.
-    """
-    #print("Computing TF-IDF vectors with TfidfVectorizer...")
-    vectorizer = TfidfVectorizer(ngram_range=ngram_range, stop_words='english')
+    vectorizer = TfidfVectorizer(ngram_range=ngram_range, stop_words=None, sublinear_tf=True)
     tfidf_matrix = vectorizer.fit_transform(documents)
     terms = vectorizer.get_feature_names_out()
-    #print(f"Number of unique terms (n-grams) after eliminating stopwords: {len(terms)}")
     return tfidf_matrix, terms, vectorizer
+
 
 def compute_cosine_similarities(suspicious_vectors, source_vectors):
     """
@@ -478,7 +472,7 @@ if __name__ == "__main__":
         fscore_results = []
 
         # Use ProcessPoolExecutor for multiprocessing
-        with ProcessPoolExecutor(max_workers=4) as executor:
+        with ProcessPoolExecutor(max_workers=1) as executor:
             # Submit tasks for each n-gram range
             futures = [
                 executor.submit(
