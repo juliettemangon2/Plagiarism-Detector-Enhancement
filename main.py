@@ -12,6 +12,7 @@ import seaborn as sns
 import pandas as pd
 import time
 import argparse  # New: Import argparse for command-line argument parsing
+from concurrent.futures import ProcessPoolExecutor
 
 # Ensure necessary NLTK data is downloaded
 nltk.download('stopwords')
@@ -26,7 +27,7 @@ OUTPUT_FILE_TEMPLATE = "similarity_results_ngrams_{ng}_thresh_{thresh}.txt"
 
 # Define ranges for n-grams and similarity thresholds
 NGRAM_MIN = 1
-NGRAM_MAX = 3  # Adjust as needed (Be cautious with high values due to computational constraints)
+NGRAM_MAX = 15  # Adjust as needed (Be cautious with high values due to computational constraints)
 THRESH_MIN = 0.0000
 THRESH_MAX = 0.0100
 THRESH_STEP = 0.0002
@@ -355,6 +356,9 @@ def plot_fscore_heatmap(results_df, measure, corpus_name):
 
     plt.tight_layout()  # Adjust layout to prevent clipping
     plt.show()
+    file_name = 'fscore_heatmap.png'
+    plt.savefig(file_name)
+    print(f"\nHeatmap saved as '{file_name}'.")
 
 def plot_heatmap_from_csv(csv_path, measure, corpus_name):
     """
@@ -378,6 +382,54 @@ def plot_heatmap_from_csv(csv_path, measure, corpus_name):
     # Plot Heatmap
     plot_fscore_heatmap(pivot_df, measure, corpus_name)
 
+def process_ngram_range(ng, preprocessed_documents, source_files, key_array, keyGroupCount):
+    ngram_range = (ng, ng)
+    print(f"\nProcessing n-grams: {ng}")
+
+    # Compute TF-IDF Vectors using N-grams
+    tfidf_matrix, terms, vectorizer = compute_tfidf_vectors(preprocessed_documents, ngram_range=ngram_range)
+
+    # Split TF-IDF Vectors into Source and Suspicious
+    source_vectors = tfidf_matrix[:len(source_files)]
+    suspicious_vectors = tfidf_matrix[len(source_files):]
+
+    results = []
+
+    # Iterate over similarity thresholds
+    for thresh in np.arange(THRESH_MIN, THRESH_MAX + THRESH_STEP, THRESH_STEP):
+        thresh = round(thresh, 4)
+        print(f"  Applying similarity threshold: {thresh}")
+
+        # Compute Similarity Matrix
+        if MEASURE.lower() == 'cosine':
+            similarity_matrix = compute_cosine_similarities(suspicious_vectors, source_vectors)
+        elif MEASURE.lower() == 'jaccard':
+            similarity_matrix = compute_jaccard_similarities(suspicious_vectors, source_vectors)
+        else:
+            print(f"Unsupported MEASURE: {MEASURE}. Supported measures are 'cosine' and 'jaccard'. Exiting.")
+            sys.exit()
+
+        # Extract the maximum similarity per suspicious document
+        similarity_scores = similarity_matrix.max(axis=1).tolist()
+
+        # Apply threshold to get system array
+        system_array, responseGroupCount = fscoreArraySystem(similarity_scores, thresh)
+
+        # Compute correctness metrics
+        correct, incorrect, correctTrue = fscoreCorrectness(system_array, key_array)
+
+        # Calculate F1-score
+        scaled_F1 = fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGroupCount)
+
+        # Store the result as a dictionary
+        result = {
+            'n-grams': ng,
+            'similarity_threshold': thresh,
+            'Scaled_F1': scaled_F1
+        }
+        results.append(result)
+
+    return results
 # ----------------------------------------------------------------------------------- #
 
 # ----------------------------------- Main Execution --------------------------------- #
@@ -427,53 +479,27 @@ if __name__ == "__main__":
         # Initialize list to store results
         fscore_results = []
 
-        # Iterate over n-gram ranges
-        for ng in range(NGRAM_MIN, NGRAM_MAX + 1):
-            print(f"\nProcessing n-grams: {ng}")
-            ngram_range = (ng, ng)
+        # Use ProcessPoolExecutor for multiprocessing
+        with ProcessPoolExecutor() as executor:
+            # Submit tasks for each n-gram range
+            futures = [
+                executor.submit(
+                    process_ngram_range, 
+                    ng, 
+                    preprocessed_documents, 
+                    source_files, 
+                    key_array, 
+                    keyGroupCount
+                )
+                for ng in range(NGRAM_MIN, NGRAM_MAX + 1)
+            ]
 
-            # Compute TF-IDF Vectors using N-grams
-            tfidf_matrix, terms, vectorizer = compute_tfidf_vectors(preprocessed_documents, ngram_range=ngram_range)
-
-            # Split TF-IDF Vectors into Source and Suspicious
-            source_vectors = tfidf_matrix[:len(source_files)]
-            suspicious_vectors = tfidf_matrix[len(source_files):]
-
-            # Iterate over similarity thresholds
-            for thresh in np.arange(THRESH_MIN, THRESH_MAX + THRESH_STEP, THRESH_STEP):
-                thresh = round(thresh, 4)
-                print(f"  Applying similarity threshold: {thresh}")
-
-                # Compute Similarity Matrix
-                if MEASURE.lower() == 'cosine':
-                    similarity_matrix = compute_cosine_similarities(suspicious_vectors, source_vectors)
-                elif MEASURE.lower() == 'jaccard':
-                    similarity_matrix = compute_jaccard_similarities(suspicious_vectors, source_vectors)
-                else:
-                    print(f"Unsupported MEASURE: {MEASURE}. Supported measures are 'cosine' and 'jaccard'. Exiting.")
-                    sys.exit()
-
-                # Extract the maximum similarity per suspicious document
-                similarity_scores = similarity_matrix.max(axis=1).tolist()
-
-                # Apply threshold to get system array
-                system_array, responseGroupCount = fscoreArraySystem(similarity_scores, thresh)
-
-                # Compute correctness metrics
-                correct, incorrect, correctTrue = fscoreCorrectness(system_array, key_array)
-
-                # Calculate F1-score
-                scaled_F1 = fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGroupCount)
-
-                # Store the result as a dictionary
-                result = {
-                    'n-grams': ng,
-                    'similarity_threshold': thresh,  # Renamed for clarity
-                    'Scaled_F1': scaled_F1
-                }
-                fscore_results.append(result)
-
-               # print(f"    Scaled F1-Score: {scaled_F1}")
+            # Collect results as they complete
+            for future in futures:
+                try:
+                    fscore_results.extend(future.result())
+                except Exception as e:
+                    print(f"Error occurred: {e}")
 
         # Convert the list of dictionaries to a DataFrame
         fscore_results_df = pd.DataFrame(fscore_results)
@@ -481,12 +507,13 @@ if __name__ == "__main__":
         # Pivot the DataFrame for Heatmap
         pivot_df = fscore_results_df.pivot(index='n-grams', columns='similarity_threshold', values='Scaled_F1')
 
-        # Plot Heatmap
-        plot_fscore_heatmap(pivot_df, MEASURE, DATASET)
 
-        # Optionally, save the results to a CSV file
-        fscore_results_df.to_csv('fscore_results.csv', index=False)
-        print("\nF1-score results saved to 'fscore_results.csv'.")
 
     end_time = time.time()
     print(f"Total execution time: {end_time - start_time:.2f} seconds.")
+    # Plot Heatmap
+    plot_fscore_heatmap(pivot_df, MEASURE, DATASET)
+
+    # Optionally, save the results to a CSV file
+    fscore_results_df.to_csv('fscore_results.csv', index=False)
+    print("\nF1-score results saved to 'fscore_results.csv'.")
