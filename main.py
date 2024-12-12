@@ -20,14 +20,14 @@ nltk.download('stopwords')
 # ---------------------------- Configuration Constants ---------------------------- #
 
 MEASURE = 'cosine'  # Options: 'cosine', 'jaccard'
-DATASET = 'training-corpus'  # Name of your corpus
+DATASET = 'testing-corpus'  # Name of your corpus
 SOURCE_FOLDER = os.path.join(DATASET, 'source-document')
 SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 OUTPUT_FILE_TEMPLATE = "similarity_results_ngrams_{ng}_thresh_{thresh}.txt"
 
 # Define ranges for n-grams and similarity thresholds
 NGRAM_MIN = 1
-NGRAM_MAX = 15  # Adjust as needed (Be cautious with high values due to computational constraints)
+NGRAM_MAX = 12  # Adjust as needed (Be cautious with high values due to computational constraints)
 THRESH_MIN = 0.0000
 THRESH_MAX = 0.0100
 THRESH_STEP = 0.0002
@@ -111,11 +111,11 @@ def compute_tfidf_vectors(documents, ngram_range=(3,3)):
     Returns:
         tuple: TF-IDF matrix, list of terms, and the vectorizer object.
     """
-    print("Computing TF-IDF vectors with TfidfVectorizer...")
+    #print("Computing TF-IDF vectors with TfidfVectorizer...")
     vectorizer = TfidfVectorizer(ngram_range=ngram_range, stop_words='english')
     tfidf_matrix = vectorizer.fit_transform(documents)
     terms = vectorizer.get_feature_names_out()
-    print(f"Number of unique terms (n-grams) after eliminating stopwords: {len(terms)}")
+    #print(f"Number of unique terms (n-grams) after eliminating stopwords: {len(terms)}")
     return tfidf_matrix, terms, vectorizer
 
 def compute_cosine_similarities(suspicious_vectors, source_vectors):
@@ -129,9 +129,9 @@ def compute_cosine_similarities(suspicious_vectors, source_vectors):
     Returns:
         np.ndarray: Cosine similarity matrix.
     """
-    print("Computing cosine similarities...")
+    #print("Computing cosine similarities...")
     similarity_matrix = cosine_similarity(suspicious_vectors, source_vectors)
-    print("Cosine similarity computation complete.")
+   #print("Cosine similarity computation complete.")
     return similarity_matrix
 
 def compute_jaccard_similarities(suspicious_vectors, source_vectors):
@@ -145,7 +145,7 @@ def compute_jaccard_similarities(suspicious_vectors, source_vectors):
     Returns:
         np.ndarray: Jaccard similarity matrix.
     """
-    print("Computing Jaccard similarities...")
+    #print("Computing Jaccard similarities...")
     # Binarize the TF-IDF matrices
     suspicious_binary = (suspicious_vectors > 0).astype(int)
     source_binary = (source_vectors > 0).astype(int)
@@ -170,7 +170,7 @@ def compute_jaccard_similarities(suspicious_vectors, source_vectors):
     # Compute Jaccard similarity
     similarity_matrix = intersection / union
     
-    print("Jaccard similarity computation complete.")
+    #print("Jaccard similarity computation complete.")
     return similarity_matrix
 
 def fscoreArraySystem(similarity_scores, threshold):
@@ -269,34 +269,30 @@ def fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGrou
         responseGroupCount (int): Total number of plagiarism cases detected by the system.
 
     Returns:
-        float: Scaled F1-score.
+        float: F1-score.
     """
     # Print the accuracy of document-level detection
-    print(f"{correct} out of {correct + incorrect} documents correctly identified.")
+    #print(f"{correct} out of {correct + incorrect} documents correctly identified.")
     accuracy = 100.0 * correct / (correct + incorrect) if (correct + incorrect) > 0 else 0.0
-    print(f"  Accuracy: {accuracy:.2f}%")
+   # print(f"  Accuracy: {accuracy:.2f}%")
 
     # Print group-level detection statistics
-    print(f"{keyGroupCount} groups in the answer key (ground truth).")
-    print(f"{responseGroupCount} groups identified by the system (response).")
-    print(f"{correctTrue} groups correctly matched.")
+   # print(f"{keyGroupCount} groups in the answer key (ground truth).")
+   # print(f"{responseGroupCount} groups identified by the system (response).")
+    #print(f"{correctTrue} groups correctly matched.")
 
     # Calculate precision, recall, and F1 score
     precision = 100.0 * (correctTrue / responseGroupCount) if responseGroupCount > 0 else 0.0
     recall = 100.0 * (correctTrue / keyGroupCount) if keyGroupCount > 0 else 0.0
     F1 = ((2 * precision * recall) / (precision + recall)) if (precision + recall) > 0 else 0.0
 
-    # Scale F1 to highlight its significance (optional adjustment)
-    scaled_F1 = F1 * 0.10
-
     # Print the detailed metrics
-    print(f"  Precision: {precision:.2f}%")
-    print(f"  Recall:    {recall:.2f}%")
-    print(f"  F1 Score:  {F1:.2f}")
-    print(f"  Scaled F1: {scaled_F1:.2f}")
+    #print(f"  Precision: {precision:.2f}%")
+    #print(f"  Recall:    {recall:.2f}%")
+   # print(f"  F1 Score:  {F1:.2f}")
 
-    # Round the scaled F1 score for reporting purposes
-    rounded_F1 = round(scaled_F1, 2)
+    # Round the F1 score for reporting purposes
+    rounded_F1 = round(F1, 2)
     return rounded_F1
 
 def plot_fscore_heatmap(results_df, measure, corpus_name):
@@ -319,12 +315,14 @@ def plot_fscore_heatmap(results_df, measure, corpus_name):
         cmap='viridis',
         annot=False,  # Disable annotations for a cleaner look
         fmt=".2f",
-        cbar_kws={'label': 'Scaled F1-Score'}
+        cbar_kws={'label': 'F1-Score'},
+        vmin=0,
+        vmax=100  # Set the color scale from 0 to 100
     )
 
     # Adjust the title position using the 'y' parameter and include corpus name
     plt.title(
-        f'Heatmap of Scaled F1-Score vs. n-grams and Similarity Threshold ({measure.capitalize()})\nCorpus: {corpus_name}',
+        f'Heatmap of F1-Score vs. n-grams and Similarity Threshold ({measure.capitalize()})\nCorpus: {corpus_name}',
         fontsize=20,
         y=1.05  # Lower the title slightly
     )
@@ -336,7 +334,7 @@ def plot_fscore_heatmap(results_df, measure, corpus_name):
     threshold_labels = [f"{thresh:.4f}" for thresh in results_df.columns]
 
     # Determine the step for label display (e.g., every 2nd label)
-    step = 2  # Change to 3 or 4 if labels are still too dense
+    step = 4  # Change to 3 or 4 if labels are still too dense
 
     # Generate tick positions centered on each heatmap cell
     tick_positions = np.arange(0.5, len(threshold_labels), step)
@@ -355,9 +353,9 @@ def plot_fscore_heatmap(results_df, measure, corpus_name):
     plt.yticks(rotation=0, fontsize=12)
 
     plt.tight_layout()  # Adjust layout to prevent clipping
-    plt.show()
-    file_name = 'fscore_heatmap.png'
+    file_name = 'f1_heatmap.png'
     plt.savefig(file_name)
+    plt.show()
     print(f"\nHeatmap saved as '{file_name}'.")
 
 def plot_heatmap_from_csv(csv_path, measure, corpus_name):
@@ -377,7 +375,7 @@ def plot_heatmap_from_csv(csv_path, measure, corpus_name):
     fscore_results_df = pd.read_csv(csv_path)
     
     # Pivot the DataFrame for Heatmap
-    pivot_df = fscore_results_df.pivot(index='n-grams', columns='similarity_threshold', values='Scaled_F1')
+    pivot_df = fscore_results_df.pivot(index='n-grams', columns='similarity_threshold', values='F1')
     
     # Plot Heatmap
     plot_fscore_heatmap(pivot_df, measure, corpus_name)
@@ -398,7 +396,7 @@ def process_ngram_range(ng, preprocessed_documents, source_files, key_array, key
     # Iterate over similarity thresholds
     for thresh in np.arange(THRESH_MIN, THRESH_MAX + THRESH_STEP, THRESH_STEP):
         thresh = round(thresh, 4)
-        print(f"  Applying similarity threshold: {thresh}")
+       # print(f"  Applying similarity threshold: {thresh}")
 
         # Compute Similarity Matrix
         if MEASURE.lower() == 'cosine':
@@ -419,13 +417,13 @@ def process_ngram_range(ng, preprocessed_documents, source_files, key_array, key
         correct, incorrect, correctTrue = fscoreCorrectness(system_array, key_array)
 
         # Calculate F1-score
-        scaled_F1 = fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGroupCount)
+        F1 = fscoreCalculate(correct, incorrect, correctTrue, keyGroupCount, responseGroupCount)
 
         # Store the result as a dictionary
         result = {
             'n-grams': ng,
             'similarity_threshold': thresh,
-            'Scaled_F1': scaled_F1
+            'F1': F1  # Updated to store actual F1 score
         }
         results.append(result)
 
@@ -480,7 +478,7 @@ if __name__ == "__main__":
         fscore_results = []
 
         # Use ProcessPoolExecutor for multiprocessing
-        with ProcessPoolExecutor() as executor:
+        with ProcessPoolExecutor(max_workers=4) as executor:
             # Submit tasks for each n-gram range
             futures = [
                 executor.submit(
@@ -505,15 +503,13 @@ if __name__ == "__main__":
         fscore_results_df = pd.DataFrame(fscore_results)
 
         # Pivot the DataFrame for Heatmap
-        pivot_df = fscore_results_df.pivot(index='n-grams', columns='similarity_threshold', values='Scaled_F1')
+        pivot_df = fscore_results_df.pivot(index='n-grams', columns='similarity_threshold', values='F1')
 
+        end_time = time.time()
+        print(f"Total execution time: {end_time - start_time:.2f} seconds.")
+        # Plot Heatmap
+        plot_fscore_heatmap(pivot_df, MEASURE, DATASET)
 
-
-    end_time = time.time()
-    print(f"Total execution time: {end_time - start_time:.2f} seconds.")
-    # Plot Heatmap
-    plot_fscore_heatmap(pivot_df, MEASURE, DATASET)
-
-    # Optionally, save the results to a CSV file
-    fscore_results_df.to_csv('fscore_results.csv', index=False)
-    print("\nF1-score results saved to 'fscore_results.csv'.")
+        # Optionally, save the results to a CSV file
+        fscore_results_df.to_csv('fscore_results.csv', index=False)
+        print("\nF1-score results saved to 'fscore_results.csv'.")
