@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09358.txt">
+  <feature name="about" authors="Crawford, Francis Marion" title="The Little City of Hope A Christmas Story" lang="en" />
+  <feature name="md5Hash" value="261defadd52cb578e474378d030935ba" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92222" this_length="4103" source_reference="source-document00784.txt" source_language="en" source_offset="300530" source_length="5075" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108389" this_length="835" source_reference="source-document00784.txt" source_language="en" source_offset="431157" source_length="754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="118395" this_length="278" source_reference="source-document00784.txt" source_language="en" source_offset="454534" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="126983" this_length="232" source_reference="source-document00784.txt" source_language="en" source_offset="446422" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129596" this_length="226" source_reference="source-document00784.txt" source_language="en" source_offset="181654" source_length="235" />
+</document>
+

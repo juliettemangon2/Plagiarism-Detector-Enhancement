@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09210.txt">
+  <feature name="about" authors="Whiton, James Morris" title="Miracles and Supernatural Religion" lang="en" />
+  <feature name="md5Hash" value="577fff68e70aed5c2949b9cad44af420" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1778" this_length="464" source_reference="source-document04323.txt" source_language="en" source_offset="20076" source_length="486" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5375" this_length="233" source_reference="source-document04323.txt" source_language="en" source_offset="9013" source_length="241" />
+</document>
+

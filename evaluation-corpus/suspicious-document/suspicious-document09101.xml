@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09101.txt">
+  <feature name="about" authors="Egan, William Constantine" title="Making a Garden of Perennials" lang="en" />
+  <feature name="md5Hash" value="3653087dd592064b5a72f36206f62ecd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17381" this_length="14206" source_reference="source-document01437.txt" source_language="en" source_offset="2937" source_length="15924" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34180" this_length="2273" source_reference="source-document04355.txt" source_language="en" source_offset="107485" source_length="2285" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39138" this_length="709" source_reference="source-document04355.txt" source_language="en" source_offset="263793" source_length="693" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="39848" this_length="783" source_reference="source-document04355.txt" source_language="en" source_offset="209727" source_length="781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40632" this_length="237" source_reference="source-document01437.txt" source_language="en" source_offset="797" source_length="254" />
+</document>
+

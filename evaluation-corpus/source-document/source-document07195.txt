@@ -1,0 +1,479 @@
+﻿A simpler and equally accurate method of taking measurements of handwriting is by the aid of
+the transparent paper known as foreign letter paper. It is usually of quarto size, very thin
+and transparent, and is ruled horizontally and vertically, dividing the sheet into tiny squares.
+It is laid over the writing to be examined, and the various measurement marks are made with
+a finely pointed lead pencil. The lines and squares are used for measurement as the parallels
+of latitude and longitude are used on a chart. For example, a letter is said to be so many
+lines high, so many lines wide. One of the tiny squares should be carefully divided into two,
+or, if possible, four parts, so as to ensure finer and more accurate measurement. A letter
+may then be measured in parts of a line, being described, for example, as, height 6-3/4 lines,
+breadth 2-1/2 lines. It is of course important that the same gauge of ruled paper be used uniformly,
+otherwise the measurements will vary. If the student has had practice in the use of the dividers
+and scale rule, he may prefer to employ these, but the ruled paper and a finely pointed lead
+pencil will be found sufficient for most purposes. A paper specially prepared for surveyors,
+ruled in squares of one-eighth of an inch may be obtained. For measuring the slopes of letters
+a transparent protractor is necessary. The letters measured are all topped and tailed small
+letters, and all capitals having a shank. Letters like O, C, Q, S, and X can only be measured
+approximately.
+
+The method of applying the measurements of heights and angles of slope is shown in the case
+illustrated by the table on page 15.
+
+The subject of enquiry was a signature containing the letters B, l, k, b.
+
+The measurements of these letters in the forgery are given at the top of the table, and show
+the height in lines and angle of slope in degrees.
+
+The measurements of the corresponding letters in twelve genuine signatures are shown in the
+table as Examples 1 to 12.
+
+The total is averaged by dividing by twelve.
+
+The presumption in favour of the suspected signature being a forgery is strongly supported
+by the arithmetical result.
+
+A difference of more than 2 per cent. in angle of slope, and 3 per cent. in height may be safely
+relied upon as ground for suspicion, for it is rarely that a man's signature varies so greatly
+within a brief period. In the absence of the explanation provided by illness, intentional change
+in style or other abnormal circumstances, such a difference as is shown in this example will
+justify a belief that the suspected signature is by another hand.
+
+ ---------+-------------------------------++-------------------------------
+          |       Height in lines.        ||        Angle of slope.
+          +-------+-------+-------+-------++-------+-------+-------+-------
+          | B.  | l.  | k.  | b.  || B.  | l.  | k.  | b.
+ ---------+-------+-------+-------+-------++-------+-------+-------+-------
+ Forgery  | 7     | 7     | 6     | 7-1/4 || 15    | 20    | 21    | 21
+ ---------+-------+-------+-------+-------++-------+-------+-------+-------
+ Example 1| 7-1/4 | 6-1/2 | 5-1/2 | 7-1/2 || 16    | 22    | 21    | 20
+          |       |       |       |       ||       |       |       |
+    "    2| 7-1/4 | 6-1/4 | 6     | 7-1/4 || 17    | 21    | 20    | 20
+          |       |       |       |       ||       |       |       |
+    "    3| 7-1/4 | 6     | 5-3/4 | 7-3/4 || 16    | 21    | 20    | 21
+          |       |       |       |       ||       |       |       |
+    "    4| 7     | 6-1/4 | 5-3/4 | 7-1/2 || 16    | 21    | 20    | 21
+          |       |       |       |       ||       |       |       |
+    "    5| 7     | 6-3/4 | 5-3/4 | 7-1/2 || 17    | 22    | 21    | 20
+          |       |       |       |       ||       |       |       |
+    "    6| 7-1/2 | 6-3/4 | 5     | 7-1/2 || 16    | 21    | 20    | 21
+          |       |       |       |       ||       |       |       |
+    "    7| 7-1/2 | 6     | 6     | 7-1/4 || 17    | 20    | 21    | 21
+          |       |       |       |       ||       |       |       |
+    "
+
+TERMINOLOGY.
+
+In order to render the description of a writing perfectly clear, a system of terminology is
+adopted which is invariable. That is, the same terms are always employed in indicating the
+same parts of a letter. These are simple, and for the most part self-explanatory, so that no
+effort is required to commit them to memory.
+
+Every part of a letter has a distinctive name, so that it would be possible to reproduce a
+script character very closely by a verbal description.
+
+The following are the terms used in describing a letter:--
+
+Letter means the whole of any script character, capital or small. For the sake of brevity in
+notes and reports capital is written Cp.; small, Sm.
+
+Arc.--An arc is the curve formed inside the top loop or curve, as in f, m, h, o. In o, the
+inside top half of the letter is the arc; the inside bottom half is the hook.
+
+Buckle.--The buckle is the separate stroke added to such letters as k, f, and capitals A, F, H.
+
+Beard.--The beard is the preliminary stroke that often appears in capital letters.
+
+Body.--The body of a letter is that portion of it which rests on the line and could be contained
+in a small circle. For example, in a small d the body consists of the circle and the final
+upward curve or toe. In a small g the body is the circle minus the tail.
+
+Eye is the small circle formed by the continuation of a stroke as in the shoulder r.
+
+Finals.--A final is the finishing stroke not carried beyond the shank in capitals, and in a
+few smalls like y, g, z.
+
+Foot.--The foot of a letter is that portion of it that rests on the line. Small m has three
+feet, h has two, etc.
+
+Hook.--The hook is the inside of a bottom curve. It is the opposite of the arc.
+
+Link.--The link is that portion of the stroke which connects two letters.
+
+Broken link.--A broken link is a disconnection in the link joining two letters.
+
+Loop.--A loop is that portion of a letter which forms the top or tail. Unlooped tops and tails
+are called "barred." For example, small f has two loops, top and bottom; f, h, l have one top
+loop; g, y, z have one bottom loop.
+
+Shank.--The shank of a letter is the principal long downstroke that forms the backbone.
+
+Shoulder.--The shoulder is the outside of the top of the curve as seen in small m, n, o, h.
+Small m has three shoulders, n two, h one.
+
+Spur.--The spur is to the small letter what the beard is to the capital. It is the initial stroke.
+
+Tick.--A tick is a small stroke generally at the beginning of a letter, sometimes at the end.
+
+Toe.--The toe is the concluding upward stroke of a letter, as seen in small e, n, h, &c.
+
+Whirl.--The whirl is the upstroke in all looped letters. It is a continuation of the spur in
+b, h, f, l, and is always an upstroke.
+
+CHAPTER IV.
+
+CLASSES OF HANDWRITING.
+
+For convenience in differentiation, handwritings are divided into the following classes. Practically
+every type of writing can be placed in one of them.
+
+Vertical Hand.--A vertical hand is one in which the tops and tails of letters form as nearly
+as possible a perpendicular with the horizontal line. The best example of this class of handwriting
+is that known as the Civil Service hand, familiar to the general public through telegrams and
+official documents.
+
+Back Hand is a hand in which the general slope of the characters is from right to left.
+
+Italian Hand is the reverse of a back hand, the slope being at an acute angle from left to
+right. It is a style fast going out of fashion, and is almost invariably the handwriting used
+by elderly ladies. Its most pronounced characteristic is its sharp angles and absence of curves.
+
+Open Hand.--An open hand is one that generally approximates to the vertical, its distinguishing
+feature being the wide space between the letters. The best example of it is that known as the
+Cusack style of writing.
+
+Closed Hand.--A closed hand is the opposite of an open hand, the letters being crowded together
+and generally long and narrow, with the slope from left to right.
+
+Greek Hand.--This is the name given to a type of writing that closely approximates to the printed
+character. Many letters, both capital and small, are formed to imitate print, particularly
+the capitals T, X, Y, R, B, D, and the smalls e, f, g, h, j, k, p, r, t, v, w, x, y, z. It
+is a hand frequently found in the writings of classical scholars, literary men engaged in work
+entailing careful research, and often is an evidence of short sight.
+
+The Wavy Hand is generally vertical. Its characteristic is an undulating serpentine waviness.
+Little or no distinction is made between barred or looped letters. There are no rounded shoulders
+to the m and n and the word minnie would be written by five small u's. In round-bodied letters
+like a, d, g, the circle is rarely completed, but is left open, so that small a becomes u,
+and small d may be mistaken for it, with the i undotted and t uncrossed. Despite its geometrical
+and caligraphic inaccuracy in detail, this hand is generally written with great regularity,
+that is, the characters, though incomplete, are always uniform in their irregularity. The e
+is never open, but is an undotted i, and n is u, but when the peculiarities of the writer become
+familiar this hand is often very legible.
+
+Flat Hand.--A flat hand is a type of handwriting in which the characters have an oblate or
+flattened appearance, the o, a, g, &c., being horizontal ovals, like the minim and breve in
+music. The tails and tops are generally short, with wide loops. It is nearly always a vertical
+hand.
+
+An Eccentric Hand is one that presents various marked peculiarities and departures from standard
+rules in the formation of certain letters, and cannot be placed in any recognised class, though
+it may approximate to one more than to another.
+
+The Round or Clerical Hand is a writing that preserves a close affinity for the round regular
+hand of the average school-boy, with the difference that while the characters are formed on
+regular copybook model, the hand is written with considerable fluency and firmness. It is generally
+only a little out of the perpendicular, sloping slightly towards the right.
+
+CHAPTER V.
+
+HOW TO EXAMINE A WRITING.
+
+The examination of a writing generally consists in making a careful comparison between it and
+another or others, the object being to determine whether all are by the same hand.
+
+The writing which is in a known hand or as to the authorship of which there is no doubt, is
+usually called the Original, and is always referred to by this name. The writing which has
+to be compared with it, and which practically forms the subject of the enquiry, is called the
+Suspect. The Suspects should be marked A, B, C, D, &c., and put away without examination until
+the Original has been thoroughly mastered. This is more important than may appear at first
+sight, for the confusing effect of having the two types of writing in the eye and mind before
+one type is made familiar is highly prejudicial. Any inclination to look at the Suspects first
+should be firmly resisted.
+
+Let us assume that the object of the examination is to discover the writer of an anonymous
+letter--one of the most frequent tasks of the handwriting expert. The material in hand is the
+anonymous letter, which in such a case may be called the Original, and half-a-dozen specimens
+of the writing of suspected persons. These Suspects are numbered from 1 to 6, or marked A,
+B, C, &c., and put aside until the Original has been thoroughly studied.
+
+The first thing is to examine the paper and envelope, noting its quality, watermark, size,
+and any feature that may afford a clue. It is always safe to presume that the paper is in every
+respect unlike that commonly used by the writer, just as it is equally safe to take it for
+granted that the writing it contains will, so far as its general appearance goes, be the reverse
+of the normal hand of the author. That is, if it be a heavy back hand, the writer probably
+uses a hand approximating to the Italian, though too much weight must not be attached to this
+theory.
+
+Next, note the general style of the document as a whole, whether the margin between top, bottom,
+and sides is large or small. A writer who habitually begins at the top left-hand corner very
+near to the edge of the paper will often betray himself by repeating the habit. It is a very
+common sign of an economical disposition. Note whether he crowds his words and letters near
+the ends of lines or leaves a good margin. Clerks and those engaged in official work rarely
+crowd their final words, preferring rather to leave a wide space and go on to the next line.
+
+Note whether the hyphen is used to divide words. Many writers never divide a word, others do
+it frequently, with or without the hyphen.
+
+Measure the average distance between lines, if unruled paper be used, and make a note of the
+average distance.
+
+Measure the distance between words and strike an average, noting if words are connected without
+lifting the pen. It may be found that this joining is only done when certain letters form the
+final of the first word joined and the initial of the word connected. Look carefully for such.
+
+Note particularly the slope of the topped and tailed letters.
+
+Note the punctuation, whether frequent and accurate or otherwise.
+
+Determine the class to which the writing belongs.
+
+Read the document carefully, noting any peculiarities of language, errors, or Americanisms
+in spelling, such as "favor" for "favour," "color" for "colour," &c.; the substitution of "z"
+for "s" in such words as "advertise," &c. Examine with the glass any words that may have been
+crossed out or rewritten, noting particularly letters that have been mended or touched up.
+
+Note whether the horizontal lines have a tendency to slope up or down.
+
+Note particularly letters with two or more feet, like a, d, h, k, m, n, &c. It will be found
+that a certain regularity in formation exists in most writings. If the a be formed like an
+o, the toe not touching the line, or an n with the second foot high up like a bearded r, these
+peculiarities should be carefully noted. Some writers go to the other extreme, and carry the
+second foot below the line, so that a becomes a small q. Too much time cannot be devoted to
+this aspect of handwriting, as it presents features of which the writer is probably quite unconscious,
+and, therefore, affords valuable evidence.
+
+Next study the topped and tailed letters, noting whether they are looped or barred, that is,
+formed by a single stroke. It will be often found that certain letters are always looped, others
+barred. Take careful note of such. If both barred and looped letters appear to be used indiscriminately,
+count and average them. In any case, a characteristic will be revealed. Examine and classify
+the loops. Note whether they are long or short, rounded or angular, wide or narrow. Devote
+special attention to the arc, shoulder and hook. Note, also, any difference of thickness between
+the up and down stroke; test the degree of clearness and sharpness of stroke by means of the
+glass, and carefully look for the serrated or ragged edge, which will assist in determining
+the angle at which the pen is held.
+
+CHAPTER VI.
+
+THE ALPHABET IN DETAIL.
+
+If the instructions so far given have been acted upon, the student will have familiarised himself
+with the general character of the writing under examination. He should now proceed with a detailed
+examination of each letter, beginning with the smalls, and taking them in alphabetical order.
+
+Take a sheet of tracing paper and trace each small a, letting them follow each other on the
+line, with about a quarter inch of space between each letter. During the process of tracing,
+the eye must be on the alert for peculiarities, notably the roundness or otherwise of the circle
+as a whole, the curve or angle of the arc and hook, the relative position of the toe. Note
+the shank, whether looped or barred, whether the top of it is above or below the body of the
+circle, whether it is vertical or sloping from right or left. Having compared all the a's,
+count them, and decide which form most frequently recurs. This may be taken as the normal a
+of the writer.
+
+The following are the principal points to be considered in examining succeeding letters.
+
+b.--Note the spur, its length, how far up the shank it meets it; whether the shank is barred
+or looped; the character of the loop. Note particularly the toe, which also forms the link.
+This is a very significant hand-gesture. It may be low down, making the b literally li, or
+it may be a horizontal bar, an angle, or a neat semicircle. Its formation offers large scope
+for variation, and should be very carefully studied. Compare the toe with the corresponding
+stroke in f, o, v, w. Note whether it is joined with an eye, and observe its average distance
+from the bottom on base line.
+
+c.--This letter, when an initial, is frequently begun with a spur, often with a dot or tick.
+When connected with a preceding letter, the link may make the c into an e. It is sometimes
+disconnected from the preceding letter. Note whether this is characteristic.
+
+d.--Apply the same tests as in examining small a, noting whether the shank is barred or looped.
+
+e.--Examine the spur in initials; closely observe the loop. Look for any recurrence of the
+Greek ε. Examine and compare the specimens given in the examples. Many writers have a habit
+of forming an e as an i and adding the loop. Look out for this with assistance of the glass.
+
+f.--This is an important letter, giving scope for numerous varieties of form. Examine and classify
+the loops, noting which is the longer--the top or bottom; whether one or both are barred. The
+eye and toe are pregnant with material for observation. Examine the various forms of this letter
+given in the examples.
+
+g.--Like the preceding letter, this one has many varieties of form, and will repay careful study.
+
+h.--The characteristic portion of this letter is the hook forming its body. Note how it is
+joined to the shank--whether it starts from the line or high up; whether the shoulder is rounded
+or angular, whether the foot touches the line or remains above it; whether the shank is looped
+or barred.
+
+i.--This is an important letter because of the dot, which is made mechanically. After noting
+whether the shank is spurred as an initial, special attention must be devoted to the dot. Dots
+are of various forms. They may be a wedge-shaped stroke sloping in any direction, a horizontal
+dash, a tiny circle or semicircle, a small v, or a perfect dot. Examine them all through the
+glass, and compare them with the comma, which often partakes of the same character as the dot.
+Note also its relative position to the shank, whether vertical, to the right or left, and its
+average height and distance from the shank. Much may be learned from a careful examination
+of the dot, and its every variation and characteristic should be most carefully noted and classified.
+
+j is important for the same reason that makes the i significant. There are several forms of
+it, but the dotting offers the most valuable evidence.
+
+k.--This is the most significant and valuable of the small letters, as it offers scope for
+so much originality and irregularity in its formation. The characteristic features of the small
+k lie mainly in the body. Few writers form a k alike. Although it may belong to the same class,
+the number of variations that can be rung on the body is surprisingly large, ranging from the
+regulation copybook model to the eccentric patterns shown in the examples. Special attention
+should be devoted to the eye and buckle, for it is at this junction of the two strokes forming
+the body that most writers exhibit their peculiarities.
+
+l.--The same principles of examination apply to this letter as to the small e. Note carefully
+the character of the loop and examine the position of the spur.
+
+m and n offer ample material for examination. As an initial the first stroke is sometimes exaggerated,
+approximating the letter to the capital M or N. Note the formation of the shoulders and their
+relative heights and width; also, by means of a line touching the tops of the shoulders, note
+carefully and compare the last shoulder with the first. This letter presents great extremes
+in formation. The shoulders may be high and well rounded, or even horizontal, or they may be
+sharp angles, turning the m into in, and the n into u. Note the distance between the shanks
+and observe whether it is uniform.
+
+o.--This letter owes its main importance to its connecting link. Note whether it is carried
+low down, making the letter like an a, whether it is joined to the body by an eye, and if the
+toe is curved or angular. Note, also, the general conformation of the circular body and compare
+the toe with that in b, f, v, and w.
+
+p.--There are several forms of this letter, and a writer who affects one of them generally
+repeats it often. The shank may be barred or looped, wholly or in part, especially when used
+as an initial. The body generally offers ample material for examination.
+
+q is also a letter with which great liberties are taken, and is the subject of several variations.
+Some writers make no distinction between g and q, and the final stroke often supplies the main
+characteristic of this letter.
+
+r.--This important letter has two forms--the square, or eyed, and the hooked. Many variants
+are employed in forming it, as the specimens in the examples show. Many writers unconsciously
+form a habit of using both r's, but with a certain degree of system. For example, one may use
+the hook r always as a final, and the eyed r as an initial. The formation of the eye should
+be specially studied, with the shoulder, which may be formed as a semicircle, an arc, a straight
+bar or an angular v. The hooked r is equally rich in varying forms, and the letter forms an
+interesting study.
+
+s.--This is a letter of such frequent recurrence in the English language that it not unnaturally
+has become the subject of a variety of forms, and this despite the fact that its regulation
+shape is exceedingly simple and rudimentary. The majority of writers have one favourite form
+of the letter, which, like the k, becomes characteristic.
+
+t.--This letter is important because of its frequent recurrence, and on account of the variations
+of form, the bar or crossing being the most fruitful in material for observation. There are
+two usual forms of the t, the hooked and crossed, and the barred, and they are equally valuable
+and characteristic. The crossing of a hooked t, like the dotting of an i, is so mechanical
+an act that it often reveals important evidence. The cross stroke when closely examined will
+be found to present many variations. It may be a fine horizontal line, a curve, a heavy short
+dash; it may be ticked or dotted at either end or both--in short, there is scarcely an end
+to the numerous forms this important hand-gesture may assume. Then its relative position to
+the shank tells much. It may be high up, not touching the shank; low down, neatly struck at
+right angles to the shank, or it may be omitted altogether. In some circumstances a t is crossed,
+in others left uncrossed; for example, the t at the beginning of a word may be invariably uncrossed,
+but the final t never. These are the peculiarities and characteristics the student has to keep
+a watchful eye for. The other form of the t is known as the bar t. It is generally uncrossed,
+and often the buckle is an important feature. A careful examination of the examples will suggest
+the lines on which the analysis of the letter t should be conducted and at the same time reveal
+the richness of material at the disposal of the student.
+
+u.--Note whether the two shanks are uniform, whether the letter is spurred as an initial. Average
+the distance between the shanks, and observe the conformation of the hook, whether rounded
+or v-shaped.
+
+v.--The important feature of this letter is the toe. Its formation must be carefully noted
+as in f, o, hooked r and w.
+
+w.--Apply the same test as to u and v. Note the uniformity or otherwise of the shanks and hooks,
+and study the varied forms given in the examples.
+
+x.--This letter lends itself to tricks and variations, and few letters depart more from the
+orthodox copybook form in actual practice, as is shown in the examples.
+
+y.--Note the spur and its relative position to the shank. Note the tail and its average length.
+
+z.--This letter offers good material for study and the detection of mannerisms. Its body is
+the most significant part, as it is capable of so many variations. It may be angular or well
+curved; the eye may be large or exaggerated or merely suggested. Like k and x, the form once
+adopted by a writer is not usually departed from to any great extent.
+
+CHAPTER VII.
+
+THE CAPITALS.
+
+Owing to their large size and more complex form the capital letters offer much more material
+for tests than the smalls. They yield more scope for tricks and eccentricity, though, at the
+same time, their extra prominence, and the clearness with which their outlines strike the eye
+of the writer render it more likely that he will detect glaring departures from the orthodox
+model. In other words, a writer would probably pay more attention to accuracy in forming, and
+particularly in copying, a capital than a small letter. This is generally found to be the case
+in signature forgeries, the capitals being, as a rule, much nearer the original than the small
+letters. But there is this great advantage in favour of the student in examining capitals--the
+strokes being more expansive supply a larger field and material for examination. For example,
+a ragged or diamond stroke in a much flourished capital like M, W, R or B would be more apparent
+than the same kind of stroke in a small letter.
+
+There is no need to take the capital letters seriatim, as was the case with the smalls, for
+the same principles and rules for examination apply in both cases. The same care is necessary
+in examining the arcs, hooks and shoulders of loops, with their general conformation. The angle
+of slope is more noticeable in capitals, and they reveal the characteristics of the writer
+more than small letters. Persons who profess to delineate character from handwriting always
+pay great attention to the capitals, doubtless with good reason, and as the result of long
+experience.
+
+An examination will show that about ten capitals can be formed with two disconnected strokes.
+They are A, B, F, H, K, P, Q, R, T and X. These are known as double capitals. These doubles
+should be carefully looked for, and the frequency, or otherwise, of their recurrence noted,
+as it is probable they will be found to be nearly always used under the same circumstances;
+that is, a writer may have a habit of beginning with a double capital when possible, but revert
+to the single form of the same letter in the body of the writing. Another writer will almost
+invariably disconnect the capitals from the rest of the word, while a third as regularly connects
+them. Some writers affect the more simple form, approximating to the printed character. Others
+again indulge in inordinate flourishes, particularly in their signatures. Such writers prove
+easy prey to the forger.
+
+A feature very easy of detection in capitals is the "diamond." It is formed by a sudden thickening
+of the downstroke. It is particularly noticeable in the writing of those who have been instructed
+in the old-fashioned school, where a distinction between the heavy downstroke and the light
+upstroke was insisted upon. The diamond habit once formed is very difficult to eradicate, and
+traces of it always remain in the writing of persons thus taught.
+
+An important and significant part of a capital letter is the beard. It is an automatic trick,
+and always repays careful examination. It may be a spurred, ticked or dotted beard, but in
+any case the initial stroke must be carefully examined, whatever form it may assume, for the
+oft-emphasized reason that it belongs so essentially to the clue-providing class of unguarded
+and unpremeditated automatic strokes that are overlooked by the writer.
+
+Variations in the form of a capital must be noted, and a record kept, for, however great the
+variety, it will be found that one particular form is more used than another, and may be regarded
+as the normal type of the writer.
+
+A peculiarity of some writers is the use of an enlarged form of the small letter for a capital.
+The letters so made to serve a double purpose are generally A, C, E, G, M, N, O, P, Q, S, U,
+V and W. They are referred to as small capitals.
+
+CHAPTER VIII.
+
+PUNCTUATION.
+
+The ampersand (&) is a symbol that provides excellent material for clues to tricks and mannerisms.
+It varies in form from a mere v-shaped tick of almost indeterminate character to an ornate
+thing of loops and flourishes. It is very sparingly employed by illiterate persons, and some
+educated writers avoid its use under the impression that, like the abbreviation of words, it
+is vulgar. In a few high-class ladies' schools its use is sternly repressed, and there are
+many fluent and habitual writers who never employ this sign. This in itself supplies a useful
+clue to characterisation. Others, again, only employ it in such combinations as "& Co.," "&c.,"
+though this latter abbreviation is, as often as not, written "etc." by many persons.
+
+The dash (--) occurs very largely in many writings, and particularly in those of ladies, who
+regard it as a universal punctuation mark, and employ it indiscriminately as comma and full
+stop. Many persons of both sexes invariably make a dash below the address on an envelope, using
+it as a kind of final flourish. A close examination of the samples provided in such a writing
+will reveal many valuable idiosyncrasies. It may be a bold, firm horizontal line, a curve with
+a tick at either end, or both; a wavy line or even an upward or downward line. Note, also,
+the ragged edge, as it affords an important clue to the style of holding the pen. The dash
+is so essentially an unpremeditated and mechanically-formed hand-gesture that it often betrays
+more of the character of the writer than any other letter. Cases have been known in which the
+writer of an anonymous letter has successfully concealed all his characteristics, but in putting
+the final stroke in the form of a dash he has so far forgotten himself as to produce, quite
+unconsciously, what was probably one of his most pronounced hand-gestures, thus providing a
+clue which led to ultimate conviction.
+

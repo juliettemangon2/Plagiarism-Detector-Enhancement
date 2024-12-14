@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09006.txt">
+  <feature name="about" authors="Hamilton, James" title="Life of Bunyan [Works of the English Puritan divines]" lang="en" />
+  <feature name="md5Hash" value="90fd977dd40a7e764f0deac331e35019" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21442" this_length="2991" source_reference="source-document04557.txt" source_language="en" source_offset="3115" source_length="3466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35076" this_length="237" source_reference="source-document04557.txt" source_language="en" source_offset="805" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38684" this_length="209" source_reference="source-document04557.txt" source_language="en" source_offset="2585" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41538" this_length="510" source_reference="source-document04557.txt" source_language="en" source_offset="15879" source_length="504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="48463" this_length="539" source_reference="source-document04557.txt" source_language="en" source_offset="12523" source_length="535" />
+</document>
+

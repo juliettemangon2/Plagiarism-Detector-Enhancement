@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09263.txt">
+  <feature name="about" authors="Sutphen, Van Tassel" title="The Gates of Chance" lang="en" />
+  <feature name="md5Hash" value="d8c3275f17df02ea0713958f0fb2e2f8" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="42097" this_length="16201" source_reference="source-document08112.txt" source_language="en" source_offset="134257" source_length="16224" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="130507" this_length="20769" source_reference="source-document01749.txt" source_language="en" source_offset="4949" source_length="21928" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213751" this_length="15253" source_reference="source-document05731.txt" source_language="en" source_offset="11158" source_length="20169" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="292756" this_length="2670" source_reference="source-document02732.txt" source_language="en" source_offset="1507" source_length="2742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="301884" this_length="722" source_reference="source-document08112.txt" source_language="en" source_offset="68106" source_length="740" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="305071" this_length="516" source_reference="source-document01749.txt" source_language="en" source_offset="3469" source_length="509" />
+</document>
+

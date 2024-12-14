@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09166.txt">
+  <feature name="about" authors="Hine, Charles Gilbert" title="The New York and Albany Post Road From Kings Bridge to &quot;The Ferry at Crawlier, over against Albany,&quot; Being an Account of a Jaunt on Foot Made at Sundry Convenient Times between May and November, Nineteen Hundred and Five" lang="en" />
+  <feature name="md5Hash" value="e2d9c17aa2ad332214646813c424611a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="411" this_length="17045" source_reference="source-document00768.txt" source_language="en" source_offset="903485" source_length="22400" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18260" this_length="3466" source_reference="source-document00768.txt" source_language="en" source_offset="236827" source_length="3455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23077" this_length="25173" source_reference="source-document00768.txt" source_language="en" source_offset="565467" source_length="24778" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="49412" this_length="17780" source_reference="source-document00768.txt" source_language="en" source_offset="288498" source_length="24287" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68451" this_length="19162" source_reference="source-document00768.txt" source_language="en" source_offset="609742" source_length="24756" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88187" this_length="5105" source_reference="source-document00768.txt" source_language="en" source_offset="138703" source_length="4993" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="93372" this_length="2071" source_reference="source-document00768.txt" source_language="en" source_offset="636119" source_length="1998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95444" this_length="520" source_reference="source-document00768.txt" source_language="en" source_offset="812667" source_length="528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95965" this_length="528" source_reference="source-document00768.txt" source_language="en" source_offset="705025" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96494" this_length="248" source_reference="source-document00768.txt" source_language="en" source_offset="482733" source_length="228" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09077.txt">
+  <feature name="about" authors="Balzac, Honoré de" title="The Firm of Nucingen" lang="en" />
+  <feature name="md5Hash" value="0742fe1a8cced3c3ff5e2c9e0cbf2c25" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="448" this_length="10410" source_reference="source-document07794.txt" source_language="en" source_offset="150244" source_length="22607" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="101273" this_length="3597" source_reference="source-document07794.txt" source_language="en" source_offset="112736" source_length="3784" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132097" this_length="2809" source_reference="source-document07794.txt" source_language="en" source_offset="13477" source_length="2895" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135758" this_length="455" source_reference="source-document07794.txt" source_language="en" source_offset="89737" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139529" this_length="541" source_reference="source-document07794.txt" source_language="en" source_offset="139783" source_length="534" />
+</document>
+

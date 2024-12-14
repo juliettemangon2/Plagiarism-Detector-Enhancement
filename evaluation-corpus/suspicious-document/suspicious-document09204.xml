@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09204.txt">
+  <feature name="about" authors="Toy, Crawford Howell" title="Introduction to the History of Religions Handbooks on the History of Religions, Volume IV" lang="en" />
+  <feature name="md5Hash" value="f7c15d6d559376a1c05e7595a90ae49f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="1731" this_length="16735" source_reference="source-document10630.txt" source_language="de" source_offset="885968" source_length="19076" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27955" this_length="22314" source_reference="source-document10630.txt" source_language="de" source_offset="409430" source_length="24896" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="58024" this_length="1279" source_reference="source-document10630.txt" source_language="de" source_offset="510484" source_length="1442" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="67519" this_length="18425" source_reference="source-document10630.txt" source_language="de" source_offset="581597" source_length="20729" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="90752" this_length="14969" source_reference="source-document10630.txt" source_language="de" source_offset="975560" source_length="16999" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="110962" this_length="3766" source_reference="source-document10630.txt" source_language="de" source_offset="495214" source_length="4270" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="121791" this_length="18480" source_reference="source-document10630.txt" source_language="de" source_offset="250369" source_length="20971" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="143368" this_length="2887" source_reference="source-document10630.txt" source_language="de" source_offset="460857" source_length="3305" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="147459" this_length="4055" source_reference="source-document10630.txt" source_language="de" source_offset="143619" source_length="4465" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="160587" this_length="15299" source_reference="source-document10630.txt" source_language="de" source_offset="734929" source_length="17390" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="178933" this_length="14616" source_reference="source-document10630.txt" source_language="de" source_offset="31361" source_length="16480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="202319" this_length="20746" source_reference="source-document10630.txt" source_language="de" source_offset="341560" source_length="22999" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="228828" this_length="1317" source_reference="source-document10630.txt" source_language="de" source_offset="725743" source_length="1480" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="230621" this_length="732" source_reference="source-document10630.txt" source_language="de" source_offset="59355" source_length="796" />
+</document>
+

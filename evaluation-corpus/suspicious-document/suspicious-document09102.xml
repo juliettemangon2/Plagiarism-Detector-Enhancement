@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09102.txt">
+  <feature name="about" authors="Sayler, Harry Lincoln" title="On the Edge of the Arctic or, An Aeroplane in Snowland" lang="en" />
+  <feature name="md5Hash" value="cf54b65160a100638bafbd322fabc72e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2501" this_length="22143" source_reference="source-document01805.txt" source_language="en" source_offset="1117" source_length="21945" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27383" this_length="23494" source_reference="source-document05295.txt" source_language="en" source_offset="17827" source_length="23000" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56225" this_length="16734" source_reference="source-document01805.txt" source_language="en" source_offset="64823" source_length="16479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75285" this_length="14974" source_reference="source-document01805.txt" source_language="en" source_offset="81302" source_length="15114" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91694" this_length="16476" source_reference="source-document01805.txt" source_language="en" source_offset="108590" source_length="16170" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="113226" this_length="18307" source_reference="source-document01805.txt" source_language="en" source_offset="35468" source_length="18100" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132288" this_length="3686" source_reference="source-document01805.txt" source_language="en" source_offset="54805" source_length="3649" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137443" this_length="13978" source_reference="source-document01805.txt" source_language="en" source_offset="130844" source_length="15802" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154762" this_length="25842" source_reference="source-document07310.txt" source_language="en" source_offset="212992" source_length="24798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186029" this_length="17373" source_reference="source-document05295.txt" source_language="en" source_offset="74137" source_length="22156" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206415" this_length="17767" source_reference="source-document05295.txt" source_language="en" source_offset="54868" source_length="18008" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="225742" this_length="25339" source_reference="source-document03321.txt" source_language="en" source_offset="109308" source_length="24990" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255358" this_length="482" source_reference="source-document01805.txt" source_language="en" source_offset="147109" source_length="491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255878" this_length="258" source_reference="source-document05852.txt" source_language="en" source_offset="5189" source_length="256" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="256137" this_length="251" source_reference="source-document05295.txt" source_language="en" source_offset="96671" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="256481" this_length="485" source_reference="source-document04680.txt" source_language="en" source_offset="2705" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="256983" this_length="243" source_reference="source-document05295.txt" source_language="en" source_offset="53419" source_length="259" />
+</document>
+

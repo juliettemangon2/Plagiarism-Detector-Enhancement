@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09458.txt">
+  <feature name="about" authors="Wiggin, Kate Douglas Smith" title="Penelope's Experiences in Scotland" lang="en" />
+  <feature name="md5Hash" value="b7cf66c695ee65e77bcdf1dedee9d0c0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32830" this_length="3411" source_reference="source-document02944.txt" source_language="en" source_offset="3492" source_length="3509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125336" this_length="3496" source_reference="source-document04087.txt" source_language="en" source_offset="4219" source_length="3549" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211169" this_length="4625" source_reference="source-document04392.txt" source_language="en" source_offset="465003" source_length="4513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271154" this_length="3227" source_reference="source-document02944.txt" source_language="en" source_offset="0" source_length="3250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="308098" this_length="524" source_reference="source-document04392.txt" source_language="en" source_offset="444180" source_length="537" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316567" this_length="764" source_reference="source-document09873.txt" source_language="en" source_offset="4050" source_length="746" />
+</document>
+

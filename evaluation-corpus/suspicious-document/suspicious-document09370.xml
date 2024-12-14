@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09370.txt">
+  <feature name="about" authors="James, Henry" title="The Golden Bowl — Volume 2" lang="en" />
+  <feature name="md5Hash" value="79596deb7edb1129c1a12d52d3dcc02c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="130342" this_length="21515" source_reference="source-document07520.txt" source_language="en" source_offset="13321" source_length="24492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="246696" this_length="19308" source_reference="source-document03882.txt" source_language="en" source_offset="188043" source_length="21469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="400356" this_length="18570" source_reference="source-document09285.txt" source_language="en" source_offset="230" source_length="21739" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="479124" this_length="15610" source_reference="source-document03882.txt" source_language="en" source_offset="39653" source_length="15652" />
+</document>
+

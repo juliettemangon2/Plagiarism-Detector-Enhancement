@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09248.txt">
+  <feature name="about" authors="Barrie, James Matthew" title="The Little White Bird; or, Adventures in Kensington gardens" lang="en" />
+  <feature name="md5Hash" value="76ad74e9a9f6d97cb2751231cdf7dd02" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="184634" this_length="15688" source_reference="source-document09779.txt" source_language="en" source_offset="7507" source_length="15660" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="325855" this_length="1518" source_reference="source-document06413.txt" source_language="en" source_offset="812415" source_length="1507" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="348160" this_length="244" source_reference="source-document09542.txt" source_language="en" source_offset="1993" source_length="245" />
+</document>
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09459.txt">
+  <feature name="about" authors="Heine, Heinrich" title="Poems and Ballads of Heinrich Heine" lang="en" />
+  <feature name="md5Hash" value="b7c7fb063a754cd63e5895a139ed8eab" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6601" this_length="17041" source_reference="source-document01321.txt" source_language="es" source_offset="6966" source_length="19160" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="27331" this_length="17585" source_reference="source-document10370.txt" source_language="es" source_offset="72751" source_length="19786" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="52612" this_length="4298" source_reference="source-document10057.txt" source_language="es" source_offset="303" source_length="4834" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="65151" this_length="19416" source_reference="source-document10370.txt" source_language="es" source_offset="330004" source_length="21553" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="89158" this_length="13665" source_reference="source-document10370.txt" source_language="es" source_offset="172499" source_length="15474" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="106838" this_length="1382" source_reference="source-document01321.txt" source_language="es" source_offset="1509" source_length="1598" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="112365" this_length="16938" source_reference="source-document10370.txt" source_language="es" source_offset="256130" source_length="19047" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="133933" this_length="240" source_reference="source-document10370.txt" source_language="es" source_offset="381482" source_length="258" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="134313" this_length="2337" source_reference="source-document01321.txt" source_language="es" source_offset="32321" source_length="2563" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="137740" this_length="1476" source_reference="source-document10369.txt" source_language="es" source_offset="772" source_length="1601" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="140039" this_length="3027" source_reference="source-document10370.txt" source_language="es" source_offset="211808" source_length="3516" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="144490" this_length="240" source_reference="source-document10369.txt" source_language="es" source_offset="171" source_length="245" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="144815" this_length="230" source_reference="source-document10369.txt" source_language="es" source_offset="416" source_length="264" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="145208" this_length="273" source_reference="source-document10370.txt" source_language="es" source_offset="130911" source_length="273" />
+</document>
+

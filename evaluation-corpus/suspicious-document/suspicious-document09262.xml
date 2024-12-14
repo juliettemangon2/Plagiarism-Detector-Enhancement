@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09262.txt">
+  <feature name="about" authors="Mitchell, Silas Weir" title="Doctor and Patient" lang="en" />
+  <feature name="md5Hash" value="565b7d643bdc0d6abe0428d038832558" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="44545" this_length="18090" source_reference="source-document02451.txt" source_language="es" source_offset="115118" source_length="19741" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="147354" this_length="14712" source_reference="source-document04822.txt" source_language="es" source_offset="464319" source_length="16210" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="181444" this_length="2693" source_reference="source-document07365.txt" source_language="es" source_offset="4286" source_length="3052" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="193782" this_length="673" source_reference="source-document02451.txt" source_language="es" source_offset="93626" source_length="769" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="195922" this_length="480" source_reference="source-document04822.txt" source_language="es" source_offset="365672" source_length="504" />
+</document>
+

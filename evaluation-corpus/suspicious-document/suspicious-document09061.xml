@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09061.txt">
+  <feature name="about" authors="Wilson, Augusta J. Evans" title="Vashti or, Until Death Us Do Part" lang="en" />
+  <feature name="md5Hash" value="a39173c5fb84bf6a1eb9c72914281da5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2956" this_length="4625" source_reference="source-document07780.txt" source_language="en" source_offset="2311" source_length="4760" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119979" this_length="2342" source_reference="source-document08591.txt" source_language="en" source_offset="5024" source_length="2292" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142536" this_length="2957" source_reference="source-document02899.txt" source_language="en" source_offset="16508" source_length="3150" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220132" this_length="1815" source_reference="source-document08591.txt" source_language="en" source_offset="7680" source_length="1825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245673" this_length="2909" source_reference="source-document02899.txt" source_language="en" source_offset="10612" source_length="2963" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="300871" this_length="247" source_reference="source-document02899.txt" source_language="en" source_offset="712" source_length="260" />
+</document>
+

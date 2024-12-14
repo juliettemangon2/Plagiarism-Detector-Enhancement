@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09328.txt">
+  <feature name="about" authors="Wells, Herbert George" title="The Sleeper Awakes A Revised Edition of When the Sleeper Wakes" lang="en" />
+  <feature name="md5Hash" value="17d496f80172702bb4d44a7c94fe3411" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3882" this_length="247" source_reference="source-document08085.txt" source_language="en" source_offset="7157" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="230930" this_length="7506" source_reference="source-document05093.txt" source_language="en" source_offset="566128" source_length="15553" />
+</document>
+

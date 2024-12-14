@@ -20,14 +20,14 @@ nltk.download('stopwords')
 # ---------------------------- Configuration Constants ---------------------------- #
 
 MEASURE = 'cosine'  # Options: 'cosine', 'jaccard'
-DATASET = 'training-corpus'  # Name of your corpus
+DATASET = 'evaluation-corpus'  # Name of your corpus
 SOURCE_FOLDER = os.path.join(DATASET, 'source-document')
 SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 OUTPUT_FILE_TEMPLATE = "similarity_results_ngrams_{ng}_thresh_{thresh}.txt"
 
 # Define ranges for n-grams and similarity thresholds
 NGRAM_MIN = 1
-NGRAM_MAX = 12  # Adjust as needed (Be cautious with high values due to computational constraints)
+NGRAM_MAX = 3  # Adjust as needed (Be cautious with high values due to computational constraints)
 THRESH_MIN = 0.0000
 THRESH_MAX = 0.0100
 THRESH_STEP = 0.0002

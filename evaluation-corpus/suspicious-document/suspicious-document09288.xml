@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09288.txt">
+  <feature name="about" authors="Sellar, Gordon" title="The Narrative of Gordon Sellar Who Emigrated to Canada in 1825" lang="en" />
+  <feature name="md5Hash" value="31be8605842f9a13d824e64b54d3e2b2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7432" this_length="17380" source_reference="source-document07482.txt" source_language="en" source_offset="1509" source_length="17857" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30270" this_length="17187" source_reference="source-document06805.txt" source_language="en" source_offset="997" source_length="19978" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53351" this_length="14797" source_reference="source-document04937.txt" source_language="en" source_offset="97383" source_length="16377" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82516" this_length="22197" source_reference="source-document10991.txt" source_language="en" source_offset="85518" source_length="23428" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106794" this_length="14335" source_reference="source-document10991.txt" source_language="en" source_offset="881836" source_length="15011" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126862" this_length="4057" source_reference="source-document06805.txt" source_language="en" source_offset="24295" source_length="3967" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="138136" this_length="18755" source_reference="source-document10991.txt" source_language="en" source_offset="1035510" source_length="19622" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="159548" this_length="19522" source_reference="source-document10991.txt" source_language="en" source_offset="664855" source_length="20076" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191945" this_length="19763" source_reference="source-document10991.txt" source_language="en" source_offset="470046" source_length="20486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219980" this_length="16454" source_reference="source-document10991.txt" source_language="en" source_offset="358110" source_length="16984" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="240832" this_length="3796" source_reference="source-document07482.txt" source_language="en" source_offset="19366" source_length="3872" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="244906" this_length="545" source_reference="source-document06805.txt" source_language="en" source_offset="33541" source_length="546" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="245660" this_length="518" source_reference="source-document07482.txt" source_language="en" source_offset="962" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="246393" this_length="805" source_reference="source-document06805.txt" source_language="en" source_offset="32377" source_length="726" />
+</document>
+

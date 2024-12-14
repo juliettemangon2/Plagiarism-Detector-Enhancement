@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09076.txt">
+  <feature name="about" authors="Wister, Owen" title="Lady Baltimore" lang="en" />
+  <feature name="md5Hash" value="01dfa52ef67a15ccae65cc6dee524ee1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9044" this_length="2678" source_reference="source-document03390.txt" source_language="en" source_offset="0" source_length="3532" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13271" this_length="231" source_reference="source-document04065.txt" source_language="en" source_offset="332" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14729" this_length="764" source_reference="source-document04065.txt" source_language="en" source_offset="673" source_length="768" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17239" this_length="225" source_reference="source-document04065.txt" source_language="en" source_offset="1441" source_length="231" />
+</document>
+

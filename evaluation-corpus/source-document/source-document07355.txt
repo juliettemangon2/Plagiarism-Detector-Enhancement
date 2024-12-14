@@ -1,0 +1,649 @@
+﻿Naturally many suggestions as to changes, additions, and other improvements have reached its
+authors. Naturally, too, the authors have busied themselves in devising methods to add to the
+effectiveness of the book. Some additions have been made almost every year since the book was
+published. To embody all these changes and helpful suggestions into a strictly unified volume;
+to add some further topics and sections; to bring all farm practices up to the ideals of to-day;
+to include the most recent teaching of scientific investigators--these were the objects sought
+in the thorough revision which has just been given the book. The authors hope and think that
+the remaking of the book has added to its usefulness and attractiveness.
+
+They believe now, as they believed before, that there is no line of separation between the
+science of agriculture and the practical art of agriculture. They are assured by the success
+of this book that agriculture is eminently a teachable subject. They see no difference between
+teaching the child the fundamental principles of farming and teaching the same child the fundamental
+truths of arithmetic, geography, or grammar. They hold that a youth should be trained for the
+farm just as carefully as he is trained for any other occupation, and that it is unreasonable
+to expect him to succeed without training.
+
+If they are right in these views, the training must begin in the public schools. This is true
+for two reasons:
+
+1. It is universally admitted that aptitudes are developed, tastes acquired, and life habits
+formed during the years that a child is in the public school. Hence, during these important
+years every child intended for the farm should be taught to know and love nature, should be
+led to form habits of observation, and should be required to begin a study of those great laws
+upon which agriculture is based. A training like this goes far toward making his life-work
+profitable and delightful.
+
+2. Most boys and girls reared on a farm get no educational training except that given in the
+public schools. If, then, the truths that unlock the doors of nature are not taught in the
+public schools, nature and nature's laws will always be hid in night to a majority of our bread-winners.
+They must still in ignorance and hopeless drudgery tear their bread from a reluctant soil.
+
+The authors return hearty thanks to Professor Thomas F. Hunt, University of California; Professor
+Augustine D. Selby, Ohio Experiment Station; Professor W. F. Massey, horticulturist and agricultural
+writer; and Professor Franklin Sherman, Jr., State Entomologist of North Carolina, for aid
+in proofreading and in the preparation of some of the material.
+
+  CONTENTS
+
+  CHAPTER I. THE SOIL
+
+  SECTION                                                  PAGE
+
+  I. ORIGIN OF THE SOIL                                       1
+
+  II. TILLAGE OF THE SOIL                                     6
+
+  III. THE MOISTURE OF THE SOIL                               9
+
+  IV. HOW THE WATER RISES IN THE SOIL                        13
+
+  V. DRAINING THE SOIL                                       14
+
+  VI. IMPROVING THE SOIL                                     17
+
+  VII. MANURING THE SOIL                                     21
+
+  CHAPTER II. THE SOIL AND THE PLANT
+
+  VIII. ROOTS                                                25
+
+  IX. HOW THE PLANT FEEDS FROM THE SOIL                      29
+
+  X. ROOT-TUBERCLES                                          30
+
+  XI. THE ROTATION OF CROPS                                  33
+
+  CHAPTER III. THE PLANT
+
+  XII. HOW THE PLANT FEEDS FROM THE AIR                      39
+
+  XIII. THE SAP CURRENT                                      40
+
+  XIV. THE FLOWER AND THE SEED                               42
+
+  XV. POLLINATION                                            46
+
+  XVI. CROSSES, HYBRIDS, AND CROSS-POLLINATION               48
+
+  XVII. PROPAGATION BY BUDS                                  51
+
+  XVIII. PLANT SEEDING                                       59
+
+  XIX. SELECTING SEED CORN                                   66
+
+  XX. WEEDS                                                  69
+
+  XXI. SEED PURITY AND VITALITY                              72
+
+  CHAPTER IV. HOW TO RAISE A FRUIT TREE
+
+  XXII. GRAFTING                                             78
+
+  XXIII. BUDDING                                             81
+
+  XXIV. PLANTING AND PRUNING                                 83
+
+  CHAPTER V. HORTICULTURE
+
+  XXV. MARKET-GARDENING                                      89
+
+  XXVI. FLOWER-GARDENING                                    108
+
+  CHAPTER VI. THE DISEASES OF PLANTS
+
+  XXVII. THE CAUSE AND NATURE OF PLANT DISEASE              122
+
+  XXVIII. YEAST AND BACTERIA                                127
+
+  XXIX. PREVENTION OF PLANT DISEASE                         129
+
+  XXX. SOME SPECIAL PLANT DISEASES                          130
+
+  CHAPTER VII. ORCHARD, GARDEN, AND FIELD INSECTS
+
+  XXXI. INSECTS IN GENERAL                                  144
+
+  XXXII. ORCHARD INSECTS                                    152
+
+  XXXIII. GARDEN AND FIELD INSECTS                          165
+
+  XXXIV. THE COTTON-BOLL WEEVIL                             173
+
+  CHAPTER VIII. FARM CROPS
+
+  XXXV. COTTON                                              180
+
+  XXXVI. TOBACCO                                            189
+
+  XXXVII. WHEAT                                             192
+
+  XXXVIII. CORN                                             197
+
+  XXXIX. PEANUTS                                            202
+
+  XL. SWEET POTATOES                                        204
+
+  XLI. WHITE, OR IRISH, POTATOES                            206
+
+  XLII. OATS                                                209
+
+  XLIII. RYE                                                213
+
+  XLIV. BARLEY                                              215
+
+  XLV. SUGAR PLANTS                                         217
+
+  XLVI. HEMP AND FLAX                                       226
+
+  XLVII. BUCKWHEAT                                          229
+
+  XLVIII. RICE                                              231
+
+  XLIX. THE TIMBER CROP                                     232
+
+  L. THE FARM GARDEN                                        235
+
+  CHAPTER IX. FEED STUFFS
+
+  LI. GRASSES                                               238
+
+  LII. LEGUMES                                              244
+
+  CHAPTER X. DOMESTIC ANIMALS
+
+  LIII. HORSES                                              262
+
+  LIV. CATTLE                                               270
+
+  LV. SHEEP                                                 276
+
+  LVI. SWINE                                                279
+
+  LVII. FARM POULTRY                                        282
+
+  LVIII. BEE CULTURE                                        286
+
+  LIX. WHY WE FEED ANIMALS                                  290
+
+  CHAPTER XI. FARM DAIRYING
+
+  LX. THE DAIRY COW                                         293
+
+  LXI. MILK, CREAM, CHURNING, AND BUTTER                    297
+
+  LXII. HOW MILK SOURS                                      302
+
+  LXIII. THE BABCOCK MILK-TESTER                            304
+
+  CHAPTER XII. MISCELLANEOUS
+
+  LXIV. GROWING FEED STUFFS ON THE FARM                     309
+
+  LXV. FARM TOOLS AND MACHINES                              313
+
+  LXVI. LIMING THE LAND                                     315
+
+  LXVII. BIRDS                                              318
+
+  LXVIII. FARMING ON DRY LAND                               323
+
+  LXIX. IRRIGATION                                          326
+
+  LXX. LIFE IN THE COUNTRY                                  330
+
+  APPENDIX                                                           339
+
+  GLOSSARY                                                           342
+
+  INDEX                                                              351
+
+TO THE TEACHER
+
+Teachers sometimes shrink from undertaking the teaching of a simple textbook on agriculture
+because they are not familiar with all the processes of farming. By the same reasoning they
+might hesitate to teach arithmetic because they do not know calculus or to teach a primary
+history of the United States because they are not versed in all history. The art of farming
+is based on the sciences dealing with the growth of plants and animals. This book presents
+in a simple way these fundamental scientific truths and suggests some practices drawn from
+them. Hence, even though many teachers may not have plowed or sowed or harvested, such teachers
+need not be embarrassed in mastering and heartily instructing a class in nature's primary laws.
+
+If teachers realize how much the efficiency, comfort, and happiness of their pupils will be
+increased throughout their lives from being taught to coöperate with nature and to take advantage
+of her wonderful laws, they will eagerly begin this study. They will find also that their pupils
+will be actively interested in these studies bearing on their daily lives, and this interest
+will be carried over to other subjects. Whenever you can, take the pupils into the field, the
+garden, the orchard, and the dairy. Teach them to make experiments and to learn by the use
+of their own eyes and brains. They will, if properly led, astonish you by their efforts and growth.
+
+You will find in the practical exercises many suggestions as to experiments that you can make
+with your class or with individual members. Do not neglect this first-hand teaching. It will
+be a delight to your pupils. In many cases it will be best to finish the experiments or observational
+work first, and later turn to the text to amplify the pupil's knowledge.
+
+Although the book is arranged in logical order, the teacher ought to feel free to teach any
+topic in the season best suited to its study. Omit any chapter or section that does not bear
+on your crops or does not deal with conditions in your state.
+
+The United States government and the different state experiment stations publish hundreds of
+bulletins on agricultural subjects. These are sent without cost, on application. It will be
+very helpful to get such of these bulletins as bear on the different sections of the book.
+These will be valuable additions to your school library. The authors would like to give a list
+of these bulletins bearing on each chapter, but it would soon be out of date, for the bulletins
+get out of print and are supplanted by newer ones. However, the United States Department of
+Agriculture prints a monthly list of its publications, and each state experiment station keeps
+a list of its bulletins. A note to the Secretary of Agriculture, Washington, D.C., or to your
+own state experiment station will promptly bring you these lists, and from them you can select
+what you need for your school.
+
+AGRICULTURE FOR BEGINNERS
+
+CHAPTER I
+
+THE SOIL
+
+SECTION I. ORIGIN OF THE SOIL
+
+The word soil occurs many times in this little book. In agriculture this word is used to describe
+the thin layer of surface earth that, like some great blanket, is tucked around the wrinkled
+and age-beaten form of our globe. The harder and colder earth under this surface layer is called
+the subsoil. It should be noted, however, that in waterless and sun-dried regions there seems
+little difference between the soil and the subsoil.
+
+Plants, insects, birds, beasts, men,--all alike are fed on what grows in this thin layer of
+soil. If some wild flood in sudden wrath could sweep into the ocean this earth-wrapping soil,
+food would soon become as scarce as it was in Samaria when mothers ate their sons. The face
+of the earth as we now see it, daintily robed in grass, or uplifting waving acres of corn,
+or even naked, water-scarred, and disfigured by man's neglect, is very different from what
+it was in its earliest days. How was it then? How was the soil formed?
+
+Learned men think that at first the surface of the earth was solid rock. How was this rock
+changed into workable soil? Occasionally a curious boy picks up a rotten stone, squeezes it,
+and finds his hands filled with dirt, or soil. Now, just as the boy crumbled with his fingers
+this single stone, the great forces of nature with boundless patience crumbled, or, as it is
+called, disintegrated, the early rock mass. The simple but giant-strong agents that beat the
+rocks into powder with a clublike force a millionfold more powerful than the club force of
+Hercules were chiefly (1) heat and cold; (2) water, frost, and ice; (3) a very low form of
+vegetable life; and (4) tiny animals--if such minute bodies can be called animals. In some
+cases these forces acted singly; in others, all acted together to rend and crumble the unbroken
+stretch of rock. Let us glance at some of the methods used by these skilled soil-makers.
+
+Heat and cold are working partners. You already know that most hot bodies shrink, or contract,
+on cooling. The early rocks were hot. As the outside shell of rock cooled from exposure to
+air and moisture it contracted. This shrinkage of the rigid rim of course broke many of the
+rocks, and here and there left cracks, or fissures. In these fissures water collected and froze.
+As freezing water expands with irresistible power, the expansion still further broke the rocks
+to pieces. The smaller pieces again, in the same way, were acted on by frost and ice and again
+crumbled. This process is still a means of soil-formation.
+
+Running water was another giant soil-former. If you would understand its action, observe some
+usually sparkling stream just after a washing rain. The clear waters are discolored by mud
+washed in from the surrounding hills. As though disliking their muddy burden, the waters strive
+to throw it off. Here, as low banks offer chance, they run out into shallows and drop some
+of it. Here, as they pass a quiet pool, they deposit more. At last they reach the still water
+at the mouth of the stream, and there they leave behind the last of their mud load, and often
+form of it little three-sided islands called deltas. In the same way mighty rivers like the
+Amazon, the Mississippi, and the Hudson, when they are swollen by rain, bear great quantities
+of soil in their sweep to the seas. Some of the soil they scatter over the lowlands as they
+whirl seaward; the rest they deposit in deltas at their mouths. It is estimated that the Mississippi
+carries to the ocean each year enough soil to cover a square mile of surface to a depth of
+two hundred and sixty-eight feet.
+
+The early brooks and rivers, instead of bearing mud, ran oceanward either bearing ground stone
+that they themselves had worn from the rocks by ceaseless fretting, or bearing stones that
+other forces had already dislodged. The large pieces were whirled from side to side and beaten
+against one another or against bedrock until they were ground into smaller and smaller pieces.
+The rivers distributed this rock soil just as the later rivers distribute muddy soil. For ages
+the moving waters ground against the rocks. Vast were the waters; vast the number of years;
+vast the results.
+
+Glaciers were another soil-producing agent. Glaciers are streams "frozen and moving slowly
+but irresistibly onwards, down well-defined valleys, grinding and pulverizing the rock masses
+detached by the force and weight of their attack." Where and how were these glaciers formed?
+
+Once a great part of upper North America was a vast sheet of ice. Whatever moisture fell from
+the sky fell as snow. No one knows what made this long winter of snow, but we do know that
+snows piled on snows until mountains of white were built up. The lower snow was by the pressure
+of that above it packed into ice masses. By and by some change of climate caused the masses
+of ice to break up somewhat and to move south and west. These moving masses, carrying rock
+and frozen earth, ground them to powder. King thus describes the stately movement of these
+snow mountains: "Beneath the bottom of this slowly moving sheet of ice, which with more or
+less difficulty kept itself conformable with the face of the land over which it was riding,
+the sharper outstanding points were cut away and the deeper river cañons filled in. Desolate
+and rugged rocky wastes were thrown down and spread over with rich soil."
+
+The joint action of air, moisture, and frost was still another agent of soil-making. This action
+is called weathering. Whenever you have noticed the outside stones of a spring-house, you have
+noticed that tiny bits are crumbling from the face of the stones, and adding little by little
+to the soil. This is a slow way of making additions to the soil. It is estimated that it would
+take 728,000 years to wear away limestone rock to a depth of thirty-nine inches. But when you
+recall the countless years through which the weather has striven against the rocks, you can
+readily understand that its never-wearying activity has added immensely to the soil.
+
+In the rock soil formed in these various ways, and indeed on the rocks themselves, tiny plants
+that live on food taken from the air began to grow. They grew just as you now see mosses and
+lichens grow on the surface of rocks. The decay of these plants added some fertility to the
+newly formed soil. The life and death of each succeeding generation of these lowly plants added
+to the soil matter accumulating on the rocks. Slowly but unceasingly the soil increased in
+depth until higher vegetable forms could flourish and add their dead bodies to it. This vegetable
+addition to the soil is generally known as humus.
+
+In due course of time low forms of animal life came to live on these plants, and in turn by
+their work and their death to aid in making a soil fit for the plowman.
+
+Thus with a deliberation that fills man with awe, the powerful forces of nature splintered
+the rocks, crumbled them, filled them with plant food, and turned their flinty grains into
+a soft, snug home for vegetable life.
+
+SECTION II. TILLAGE OF THE SOIL
+
+A good many years ago a man by the name of Jethro Tull lived in England. He was a farmer and
+a most successful man in every way. He first taught the English people and the world the value
+of thorough tillage of the soil. Before and during his time farmers did not till the soil very
+intelligently. They simply prepared the seed-bed in a careless manner, as a great many farmers
+do to-day, and when the crops were gathered the yields were not large.
+
+Jethro Tull centered attention on the important fact that careful and thorough tillage increases
+the available plant food in the soil. He did not know why his crops were better when the ground
+was frequently and thoroughly tilled, but he knew that such tillage did increase his yield.
+He explained the fact by saying, "Tillage is manure." We have since learned the reason for
+the truth that Tull taught, and, while his explanation was incorrect, the practice that he
+was following was excellent. The stirring of the soil enables the air to circulate through
+it freely, and permits a breaking down of the compounds that contain the elements necessary
+to plant growth.
+
+You have seen how the air helps to crumble the stone and brick in old buildings. It does the
+same with soil if permitted to circulate freely through it. The agent of the air that chiefly
+performs this work is called carbonic acid gas, and this gas is one of the greatest helpers
+the farmer has in carrying on his work. We must not forget that in soil preparation the air
+is just as important as any of the tools and implements used in cultivation.
+
+If the soil is fertile and if deep plowing has always been done, good crops will result, other
+conditions being favorable. If, however, the tillage is poor, scanty harvests will always result.
+For most soils a two-horse plow is necessary to break up and pulverize the land.
+
+A shallow soil can always be improved by properly deepening it. The principle of greatest importance
+in soil-preparation is the gradual deepening of the soil in order that plant-roots may have
+more comfortable homes. If the farmer has been accustomed to plow but four inches deep, he
+should adjust the plow so as to turn five inches at the next plowing, then six, and so on until
+the seed-bed is nine or ten inches deep. This gradual deepening will not injure the soil but
+will put it quickly in good condition. If to good tillage rotation of crops be added, the soil
+will become more fertile with each succeeding year.
+
+The plow, harrow, and roller are all necessary to good tillage and to a proper preparation
+of the seed-bed. The soil must be made compact and clods of all sizes must be crushed. Then
+the air circulates freely, and paying crops are the rule and not the exception.
+
+Tillage does these things: it increases the plant-food supply, destroys weeds, and influences
+the moisture content of the soil.
+
+     =EXERCISE=
+
+     1. What tools are used in tillage?
+
+     2. How should a poor and shallow soil be treated?
+
+     3. Why should a poor and shallow soil be well compacted before
+     sowing the crop?
+
+     4. Explain the value of a circulation of air in the soil.
+
+     5. What causes iron to rust?
+
+     6. Why is a two-horse turning-plow better than a one-horse plow?
+
+     7. Where will clods do the least harm--on top of the soil or below
+     the surface?
+
+     8. Do plant roots penetrate clods?
+
+     9. Are earthworms a benefit or an injury to the soil?
+
+     10. Name three things that tillage does.
+
+SECTION III. THE MOISTURE OF THE SOIL
+
+Did any one ever explain to you how important water is to the soil, or tell you why it is so
+important? Often, as you know, crops entirely fail because there is not enough water in the
+soil for the plants to drink. How necessary is it, then, that the soil be kept in the best
+possible condition to catch and hold enough water to carry the plant through dry, hot spells!
+Perhaps you are ready to ask, "How does the mouthless plant drink its stored-up water?"
+
+The plant gets all its water through its roots. You have seen the tiny threadlike roots of
+a plant spreading all about in fine soil; they are down in the ground taking up plant food
+and water for the stalk and leaves above. The water, carrying plant food with it, rises in
+a simple but peculiar way through the roots and stems.
+
+The plants use the food for building new tissue, that is, for growth. The water passes out
+through the leaves into the air. When the summers are dry and hot and there is but little water
+in the soil, the leaves shrink up. This is simply a method they have of keeping the water from
+passing too rapidly off into the air. I am sure you have seen the corn blades all shriveled
+on very hot days. This shrinkage is nature's way of diminishing the current of water that is
+steadily passing through the plant.
+
+A thrifty farmer will try to keep his soil in such good condition that it will have a supply
+of water in it for growing crops when dry and hot weather comes. He can do this by deep plowing,
+by subsoiling, by adding any kind of decaying vegetable matter to the soil, and by growing
+crops that can be tilled frequently.
+
+The soil is a great storehouse for moisture. After the clouds have emptied their waters into
+this storehouse, the water of the soil comes to the surface, where it is evaporated into the
+air. The water comes to the surface in just the same way that oil rises in a lamp-wick. This
+rising of the water is called capillarity.
+
+It is necessary to understand what is meant by this big word. If into a pan of water you dip
+a glass tube, the water inside the tube rises above the level of the water in the pan. The
+smaller the tube the higher will the water rise. The greater rise inside is perhaps due to
+the fact that the glass attracts the particles of water more than the particles of water attract
+one another. Now apply this principle to the soil.
+
+The soil particles have small spaces between them, and the spaces act just as the tube does.
+When the water at the surface is carried away by drying winds and warmth, the water deeper
+in the soil rises through the soil spaces. In this way water is brought from its soil storehouse
+as plants need it.
+
+Of course when the underground water reaches the surface it evaporates. If we want to keep
+it for our crops, we must prepare a trap to hold it. Nature has shown us how this can be done.
+Pick up a plank as it lies on the ground. Under the plank the soil is wet, while the soil not
+covered by the plank is dry. Why? Capillarity brought the water to the surface, and the plank,
+by keeping away wind and warmth, acted as a trap to hold the moisture. Now of course a farmer
+cannot set a trap of planks over his fields, but he can make a trap of dry earth, and that
+will do just as well.
+
+When a crop like corn or cotton or potatoes is cultivated, the fine, loose dirt stirred by
+the cultivating-plow will make a mulch that serves to keep water in the soil in the same way
+that the plank kept moisture under it. The mulch also helps to absorb the rains and prevents
+the water from running off the surface. Frequent cultivation, then, is one of the best possible
+ways of saving moisture. Hence the farmer who most frequently stirs his soil in the growing
+season, and especially in seasons of drought, reaps, other things being equal, a more abundant
+harvest than if tillage were neglected.
+
+     =EXERCISE=
+
+     1. Why is the soil wet under a board or under straw?
+
+     2. Will a soil that is fine and compact produce better crops than
+     one that is loose and cloddy? Why?
+
+     3. Since the water which a plant uses comes through the roots, can
+     the morning dew afford any assistance?
+
+     4. Why are weeds objectionable in a growing crop?
+
+     5. Why does the farmer cultivate growing corn and cotton?
+
+SECTION IV. HOW THE WATER RISES IN THE SOIL
+
+When the hot, dry days of summer come, the soil depends upon the subsoil, or undersoil, for
+the moisture that it must furnish its growing plants. The water was stored in the soil during
+the fall, winter, and spring months when there was plenty of rain. If you dig down into the
+soil when everything is dry and hot, you will soon reach a cool, moist undersoil. The moisture
+increases as you dig deeper into the soil.
+
+Now the roots of plants go down into the soil for this moisture, because they need the water
+to carry the plant food up into the stems and leaves.
+
+You can see how the water rises in the soil by performing a simple experiment.
+
+     =EXPERIMENT=
+
+     Take a lamp-chimney and fill it with fine, dry dirt. The dirt from
+     a road or a field will do. Tie over the smaller end of the
+     lamp-chimney a piece of cloth or a pocket handkerchief, and place
+     this end in a shallow pan of water. If the soil in the lamp-chimney
+     is clay and well packed, the water will quickly rise to the top.
+
+     By filling three or four lamp-chimneys with as many different
+     soils, the pupil will see that the water rises more slowly in some
+     than in others.
+
+     Now take the water pan away, and the water in the lamp-chimneys
+     will gradually evaporate. Study for a few days the effect of
+     evaporation on the several soils.
+
+SECTION V. DRAINING THE SOIL
+
+A wise man was once asked, "What is the most valuable improvement ever made in agriculture?"
+He answered, "Drainage." Often soils unfit for crop-production because they contain too much
+water are by drainage rendered the most valuable of farming lands.
+
+Drainage benefits land in the following ways:
+
+1. It deepens the subsoil by removing unnecessary water from the spaces between the soil particles.
+This admits air. Then the oxygen which is in the air, by aiding decay, prepares plant food
+for vegetation.
+
+2. It makes the surface soil, or topsoil, deeper. It stands to reason that the deeper the soil
+the more plant food becomes available for plant use.
+
+3. It improves the texture of the soil. Wet soil is sticky. Drainage makes this sticky soil
+crumble and fall apart.
+
+4. It prevents washing.
+
+5. It increases the porosity of soils and permits roots to go deeper into the soil for food
+and moisture.
+
+6. It increases the warmth of the soil.
+
+7. It permits earlier working in spring and after rains.
+
+8. It favors the growth of germs which change the unavailable nitrogen of the soil into nitrates;
+that is, into the form of nitrogen most useful to plants.
+
+9. It enables plants to resist drought better because the roots go into the ground deeper early
+in the season.
+
+A soil that is hard and wet will not grow good crops. The nitrogen-gathering crops will store
+the greatest quantity of nitrogen in the soil when the soil is open to the free circulation
+of the air. These valuable crops cannot do this when the soil is wet and cold.
+
+Sandy soils with sandy subsoils do not often need drainage; such soils are naturally drained.
+With clay soils it is different. It is very important to remove the stagnant water in them
+and to let the air in.
+
+When land has been properly drained the other steps in improvement are easily taken. After
+soil has been dried and mellowed by proper drainage, then commercial fertilizers, barnyard
+manure, cowpeas, and clover can most readily do their great work of improving the texture of
+the soil and of making it fitter for plant growth.
+
+=Tile Drains.= Tile drains are the best and cheapest that can be used. It would not be too
+strong to say that draining by tiles is the most perfect drainage. Thousands of practical tests
+in this country have proved the superiority of tile draining for the following reasons:
+
+1. Good tile drains properly laid last for years and do not fill up.
+
+2. They furnish the cheapest possible means of removing too much water from the soil.
+
+3. They are out of reach of all cultivating tools.
+
+4. Surface water in filtering through the tiles leaves its nutritious elements for plant growth.
+
+     =EXPERIMENTS=
+
+     =To show the Effect of Drainage.= Take two tomato cans and fill
+     both with the same kind of soil. Punch several holes in the bottom
+     of one to drain the soil above and to admit air circulation. Leave
+     the other unpunctured. Plant seeds of any kind in both cans and
+     keep in a warm place. Add every third day equal quantities of
+     water. Let seeds grow in both cans and observe the difference in
+     growth for two or three weeks.
+
+     =To show the Effect of Air in Soils.= Take two tomato cans; fill
+     one with soil that is loose and warm, and the other with wet clay
+     or muck from a swampy field. Plant a few seeds of the same kind in
+     each and observe how much better the dry, warm, open soil is for
+     growing farm crops.
+
+SECTION VI. IMPROVING THE SOIL
+
+We hear a great deal about the exhaustion or wearing out of the soil. Many uncomfortable people
+are always declaring that our lands will no longer produce profitable crops, and hence that
+farming will no longer pay.
+
+Now it is true, unfortunately, that much land has been robbed of its fertility, and, because
+this is true, we should be most deeply interested in everything that leads to the improvement
+of our soils.
+
+When our country was first discovered and trees were growing everywhere, we had virgin soils,
+or new soils that were rich and productive because they were filled with vegetable matter and
+plant food. There are not many virgin soils now because the trees have been cut from the best
+lands, and these lands have been farmed so carelessly that the vegetable matter and available
+plant food have been largely used up. Now that fresh land is scarce it is very necessary to
+restore fertility to these exhausted lands. What are some of the ways in which this can be done?
+
+There are several things to be done in trying to reclaim worn-out land. One of the first of
+these is to till the land well. Many of you may have heard the story of the dying father who
+called his sons about him and whispered feebly, "There is great treasure hidden in the garden."
+The sons could hardly wait to bury their dead father before, thud, thud, thud, their picks
+were going in the garden. Day after day they dug; they dug deep; they dug wide. Not a foot
+of the crop-worn garden escaped the probing of the pick as the sons feverishly searched for
+the expected treasure. But no treasure was found. Their work seemed entirely useless.
+
+"Let us not lose every whit of our labor; let us plant this pick-scarred garden," said the
+eldest. So the garden was planted. In the fall the hitherto neglected garden yielded a harvest
+so bountiful, so unexpected, that the meaning of their father's words dawned upon them. "Truly,"
+they said, "a treasure was hidden there. Let us seek it in all our fields."
+
+The story applies as well to-day as it did when it was first told. Thorough culture of the
+soil, frequent and intelligent tillage--these are the foundations of soil-restoration.
+
+Along with good tillage must go crop-rotation and good drainage. A supply of organic matter
+will prevent heavy rains from washing the soil and carrying away plant food. Drainage will
+aid good tillage in allowing air to circulate between the soil particles and in arranging plant
+food so that plants can use it.
+
+But we must add humus, or vegetable matter, to the soil. You remember that the virgin soils
+contained a great deal of vegetable matter and plant food, but by the continuous growing of
+crops like wheat, corn, and cotton, and by constant shallow tillage, both humus and plant food
+have been used up. Consequently much of our cultivated soil to-day is hard and dead.
+
+There are three ways of adding humus and plant food to this lifeless land: the first way is
+to apply barnyard manure (to adopt this method means that livestock raising must be a part
+of all farming); the second way is to adopt rotation of crops, and frequently to plow under
+crops like clover and cowpeas; the third way is to apply commercial fertilizers.
+
+To summarize: if we want to make our soil better year by year, we must cultivate well, drain
+well, and in the most economical way add humus and plant food.
+
+     =EXPERIMENT=
+
+     Select a small area of ground at your home and divide it into four
+     sections, as shown in the following sketch:
+
+     On Section A apply barnyard manure; on Section B apply
+     commercial fertilizers; on Section C apply nothing, but till
+     well; on Section D apply nothing, and till very poorly.
+

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09129.txt">
+  <feature name="about" authors="White, Andrew Dickson" title="Autobiography of Andrew Dickson White — Volume 1" lang="en" />
+  <feature name="md5Hash" value="42be7f8cd6c7a490154b763a58e8e362" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3254" this_length="253" source_reference="source-document05113.txt" source_language="en" source_offset="2559" source_length="242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6506" this_length="212" source_reference="source-document05113.txt" source_language="en" source_offset="1245" source_length="225" />
+</document>
+

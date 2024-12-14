@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09115.txt">
+  <feature name="about" authors="Bower, B. M." title="The Lonesome Trail and Other Stories" lang="en" />
+  <feature name="md5Hash" value="b9a94ca2054c1666c9ce6037ba7c520c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24578" this_length="14861" source_reference="source-document09633.txt" source_language="en" source_offset="1930" source_length="17961" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="74412" this_length="14954" source_reference="source-document05460.txt" source_language="en" source_offset="70644" source_length="22201" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="158251" this_length="17433" source_reference="source-document05460.txt" source_language="en" source_offset="100528" source_length="18230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184637" this_length="4564" source_reference="source-document05460.txt" source_language="en" source_offset="129233" source_length="4763" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="248824" this_length="22969" source_reference="source-document09633.txt" source_language="en" source_offset="82703" source_length="22926" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="275387" this_length="256" source_reference="source-document07761.txt" source_language="en" source_offset="6218" source_length="272" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="276488" this_length="265" source_reference="source-document09814.txt" source_language="en" source_offset="68" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="277314" this_length="732" source_reference="source-document09814.txt" source_language="en" source_offset="3980" source_length="775" />
+</document>
+

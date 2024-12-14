@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09172.txt">
+  <feature name="about" authors="Roosevelt, Franklin Delano" title="The Fireside Chats of Franklin Delano Roosevelt" lang="en" />
+  <feature name="md5Hash" value="1875006cadc16f7066afa712cc6b7b44" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="12075" this_length="2997" source_reference="source-document05475.txt" source_language="de" source_offset="28961" source_length="3491" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31452" this_length="1647" source_reference="source-document05475.txt" source_language="de" source_offset="43620" source_length="1848" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="35211" this_length="225" source_reference="source-document05475.txt" source_language="de" source_offset="45732" source_length="254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="37714" this_length="219" source_reference="source-document05475.txt" source_language="de" source_offset="3384" source_length="262" />
+</document>
+

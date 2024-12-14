@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09314.txt">
+  <feature name="about" authors="Smith, Francis Hopkinson" title="The Man In The High-Water Boots" lang="en" />
+  <feature name="md5Hash" value="ee79d17eb5be948e2f486bc5426e6557" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1749" this_length="5460" source_reference="source-document06807.txt" source_language="en" source_offset="989982" source_length="18346" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10538" this_length="1651" source_reference="source-document05166.txt" source_language="en" source_offset="17230" source_length="1656" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12997" this_length="2621" source_reference="source-document06807.txt" source_language="en" source_offset="23630" source_length="2715" />
+</document>
+
