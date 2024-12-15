@@ -11,28 +11,25 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import time
-import argparse  # New: Import argparse for command-line argument parsing
+import argparse
 from concurrent.futures import ProcessPoolExecutor
 
-# Ensure necessary NLTK data is downloaded
 nltk.download('stopwords')
 
-# ---------------------------- Configuration Constants ---------------------------- #
+# ---------------------------- Configuration  ---------------------------- #
 
 MEASURE = 'cosine'  # Options: 'cosine', 'jaccard'
-DATASET = 'evaluation-corpus'  # Name of your corpus
+DATASET = 'evaluation-corpus'  # Name of corpus
 SOURCE_FOLDER = os.path.join(DATASET, 'source-document')
 SUSPICIOUS_FOLDER = os.path.join(DATASET, 'suspicious-document')
 OUTPUT_FILE_TEMPLATE = "similarity_results_ngrams_{ng}_thresh_{thresh}.txt"
 
 # Define ranges for n-grams and similarity thresholds
 NGRAM_MIN = 1
-NGRAM_MAX = 3  # Adjust as needed (Be cautious with high values due to computational constraints)
+NGRAM_MAX = 3 
 THRESH_MIN = 0.0000
 THRESH_MAX = 0.0100
 THRESH_STEP = 0.0002
-
-# ----------------------------------------------------------------------------------- #
 
 # ----------------------------- Helper Functions ------------------------------------ #
 
@@ -140,7 +137,7 @@ def compute_jaccard_similarities(suspicious_vectors, source_vectors):
         np.ndarray: Jaccard similarity matrix.
     """
     #print("Computing Jaccard similarities...")
-    # Binarize the TF-IDF matrices
+    # Binarize TF-IDF matrices
     suspicious_binary = (suspicious_vectors > 0).astype(int)
     source_binary = (source_vectors > 0).astype(int)
     
@@ -148,14 +145,14 @@ def compute_jaccard_similarities(suspicious_vectors, source_vectors):
     suspicious_binary = suspicious_binary.tocsr()
     source_binary = source_binary.tocsr()
     
-    # Compute the intersection (A AND B)
+    # Compute intersection (A AND B)
     intersection = suspicious_binary.dot(source_binary.T).toarray()
     
-    # Compute the number of non-zero elements in each document (A OR B = A + B - A AND B)
+    # Compute number of non-zero elements in each document (A OR B = A + B - A AND B)
     suspicious_counts = suspicious_binary.getnnz(axis=1).reshape(-1,1)
     source_counts = source_binary.getnnz(axis=1).reshape(1,-1)
     
-    # Compute the union
+    # Compute union
     union = suspicious_counts + source_counts - intersection
     
     # Avoid division by zero
